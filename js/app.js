@@ -52,7 +52,7 @@ function renderFooter() {
   el.innerHTML =
     '<div class="footer-brand">' + t('site_name') + '</div>' +
     '<div class="footer-text">' + t('footer_text') + ' · <a href="mailto:178577324@qq.com">' + t('footer_contact') + '</a></div>' +
-    '<div class="footer-links"><a href="privacy.html">' + t('footer_privacy') + '</a> · <a href="https://chinese-food-guide.surge.sh/" target="_blank">' + t('footer_food') + '</a></div>' +
+    '<div class="footer-links"><a href="privacy.html">' + t('footer_privacy') + '</a> · <a href="https://kfx2026.github.io/chinese-food-guide/" target="_blank">' + t('footer_food') + '</a></div>' +
     '<div class="footer-copyright">' + t('footer_copyright') + '</div>';
 }
 
