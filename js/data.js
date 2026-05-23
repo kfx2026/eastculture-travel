@@ -1,0 +1,224 @@
+/**
+ * 东方城市人文空间 · 文旅
+ * 全站数据：双语词典 + 5城完整数据
+ * 图片策略：Unsplash CDN + CSS渐变回退
+ */
+(function() {
+
+// ========== 全站双语词典 ==========
+var DICT = {
+  site_name:        { en: "Oriental Cities · Travel", zh: "东方城市人文空间 · 文旅" },
+  site_tagline:     { en: "Discover the soul of China through its cities", zh: "以城市为窗，见华夏之美" },
+  home:             { en: "Home", zh: "首页" },
+  cities:           { en: "Cities", zh: "城市" },
+  about:            { en: "About", zh: "关于" },
+  lang_switch:      { en: "中文", zh: "English" },
+  back_top:         { en: "Top", zh: "顶部" },
+  
+  hero_title:       { en: "China Beyond the Postcard", zh: "不止于明信片的中国" },
+  hero_sub:         { en: "Ancient capitals, misty mountains, fiery kitchens. Every city tells a story waiting to be lived.", zh: "古都烟云，山水意境，人间烟火。每座城市都有等待被亲历的故事。" },
+  hero_cta:         { en: "Explore Cities", zh: "探索城市" },
+  
+  sec_featured:     { en: "Seasonal Picks", zh: "时令推荐" },
+  sec_featured_sub: { en: "Handpicked destinations for this season", zh: "当季最值得去的城市精选" },
+  sec_latest:       { en: "Recently Added", zh: "最新上线" },
+  sec_latest_sub:   { en: "Fresh destinations ready for your next journey", zh: "全新目的地，等您启程" },
+  sec_brand:        { en: "Why Travel With Us", zh: "品牌意境" },
+  sec_brand_sub:    { en: "We don't just show you China. We help you feel it.", zh: "我们不只展示中国，我们帮您感受中国。" },
+  
+  brand_1_title:    { en: "Deep Local Insight", zh: "深耕本土视角" },
+  brand_1_desc:     { en: "Every city guide is written by locals who live and breathe the place.", zh: "每份城市指南都由生活于此的本地人撰写。" },
+  brand_2_title:    { en: "Practical & Honest", zh: "实用且诚实" },
+  brand_2_desc:     { en: "No inflated reviews. Real prices, real tips, real experiences.", zh: "不夸大评价。真实价格、真实建议、真实体验。" },
+  brand_3_title:    { en: "Culture First", zh: "文化先行" },
+  brand_3_desc:     { en: "Beyond the landmarks — food, crafts, festivals, and the rhythm of daily life.", zh: "超越地标——美食、手艺、节庆、日常生活的韵律。" },
+  
+  city_count_label: { en: "cities and growing", zh: "座城市，持续更新中" },
+  view_detail:      { en: "View Details", zh: "查看详情" },
+  back_cities:      { en: "All Cities", zh: "返回城市列表" },
+  
+  sec_landmarks:    { en: "Must-See Landmarks", zh: "核心景区" },
+  sec_cuisine:      { en: "Local Flavors", zh: "特色美食" },
+  sec_culture:      { en: "Culture & Heritage", zh: "民俗文化" },
+  sec_guide:        { en: "Traveler's Guide", zh: "境外出行攻略" },
+  
+  guide_climate:    { en: "Best Season", zh: "最佳季节" },
+  guide_days:       { en: "Recommended Stay", zh: "建议天数" },
+  guide_transit:    { en: "Getting Around", zh: "市内交通" },
+  guide_intercity:  { en: "Getting There", zh: "城际交通" },
+  guide_tips:       { en: "Essential Tips", zh: "实用贴士" },
+  
+  coming_soon:      { en: "More Cities Coming", zh: "更多城市即将上线" },
+  coming_soon_sub:  { en: "We're adding new destinations regularly. Stay tuned.", zh: "我们定期更新城市内容，敬请期待。" },
+  coming_tba:       { en: "To Be Announced", zh: "待定" },
+  
+  footer_text:      { en: "Oriental Urban Humanistic Space · Travel | Showcasing the beauty of China to the world", zh: "东方城市人文空间 · 文旅 | 向世界展示大美中国" },
+  footer_contact:   { en: "Contact: 178577324@qq.com", zh: "联系：178577324@qq.com" },
+  footer_copyright: { en: "© 2026 Oriental Cities. All content verified and updated regularly.", zh: "© 2026 东方城市人文空间。所有内容定期核对更新。" },
+  footer_privacy:   { en: "Privacy Policy", zh: "隐私政策" },
+  footer_food:      { en: "Chinese Food Guide", zh: "中华美食指南" },
+  
+  page:             { en: "Page", zh: "第" },
+  page_of:          { en: "of", zh: "/" },
+  prev:             { en: "Previous", zh: "上一页" },
+  next:             { en: "Next", zh: "下一页" },
+  
+  ad_label:         { en: "Advertisement", zh: "广告" }
+};
+
+// ========== 5城完整数据 ==========
+var CITIES = [
+  {
+    id: "beijing",
+    name:       { en: "Beijing", zh: "北京" },
+    province:   { en: "Beijing Municipality", zh: "北京市" },
+    intro:      { en: "The timeless capital where imperial grandeur meets cutting-edge modernity. Walk the Great Wall at sunrise, get lost in hutong alleyways, and taste Peking duck carved tableside.", zh: "千年帝都，气象万千。长城日出、胡同深处、桌前现片的烤鸭——北京在古老与先锋之间自如呼吸。" },
+    hero_img:   "img/beijing.jpg",
+    hero_fb:    "linear-gradient(135deg, #8B1E1E 0%, #C44536 40%, #E8A87C 100%)",
+    landmarks: [
+      { name: { en: "The Great Wall (Mutianyu)", zh: "慕田峪长城" }, img: "img/beijing.jpg", desc: { en: "The most breathtaking section near Beijing — fewer crowds, restored yet authentic, with a thrilling toboggan ride down.", zh: "北京近郊最壮美的一段——游客较少，修缮得当又不失古意，下山还能坐滑道。" }, highlight: { en: "Toboggan slide down the mountain", zh: "滑道下山超刺激" }, hours: { en: "7:30 AM – 5:30 PM", zh: "7:30 – 17:30" }, ticket: { en: "¥45 (Apr–Oct), ¥40 (Nov–Mar)", zh: "¥45（旺季）/ ¥40（淡季）" }, tips: { en: "Go early — arrive by 8 AM to have the wall almost to yourself.", zh: "早点去——8点前到，长城几乎是你的私人领地。" }, location: { en: "Huairou District, 70km from city center", zh: "怀柔区，距市中心70公里" }, rating: "4.8", tags: { en: "UNESCO · Iconic · Day Trip", zh: "世界遗产 · 地标 · 一日游" } },
+      { name: { en: "The Forbidden City", zh: "故宫博物院" }, img: "img/beijing.jpg", desc: { en: "The world's largest palace complex — 980 buildings, 600 years of history. Every courtyard whispers tales of emperors and dynasties.", zh: "世界最大宫殿群——980座建筑，600年风云。每一进院落都是帝王将相的无声史书。" }, highlight: { en: "Hall of Supreme Harmony rooftop beasts", zh: "太和殿脊兽" }, hours: { en: "8:30 AM – 5:00 PM (closed Mon)", zh: "8:30 – 17:00（周一闭馆）" }, ticket: { en: "¥60 (Apr–Oct), ¥40 (Nov–Mar)", zh: "¥60（旺季）/ ¥40（淡季）" }, tips: { en: "Book online 7 days ahead — tickets sell out fast.", zh: "提前7天网上预约——票抢得很快。" }, location: { en: "Dongcheng District, central Beijing", zh: "东城区，北京市中心" }, rating: "4.9", tags: { en: "UNESCO · Must-See · Half-Day", zh: "世界遗产 · 必去 · 半日游" } },
+      { name: { en: "Temple of Heaven", zh: "天坛公园" }, img: "img/beijing.jpg", desc: { en: "Where emperors prayed for harvest — the Hall of Prayer for Good Harvests is China's most perfect wooden structure. Come early morning for locals practicing tai chi.", zh: "帝王祭天之所——祈年殿是中国最完美的木构建筑。清晨来，看北京大爷大妈打太极。" }, highlight: { en: "Morning tai chi with locals", zh: "晨间太极，市井生活" }, hours: { en: "6:00 AM – 9:00 PM", zh: "6:00 – 21:00" }, ticket: { en: "¥15 (park), ¥35 (combo)", zh: "¥15（公园）/ ¥35（联票）" }, tips: { en: "The Echo Wall really works — stand at one end and whisper.", zh: "回音壁真的能回音——站一端轻声说话试试。" }, location: { en: "Dongcheng District, south of Forbidden City", zh: "东城区，故宫以南" }, rating: "4.7", tags: { en: "UNESCO · Morning · Architecture", zh: "世界遗产 · 清晨 · 建筑" } }
+    ],
+    cuisine: [
+      { name: { en: "Peking Duck", zh: "北京烤鸭" }, img: "img/beijing.jpg", desc: { en: "Crispy skin, tender meat, carved tableside. Wrap in paper-thin pancakes with hoisin, cucumber, and scallions.", zh: "皮脆肉嫩，桌边现片。薄饼一抹甜面酱，配上黄瓜条、葱丝，一卷入口。" }, where: { en: "Available at traditional roast duck restaurants citywide", zh: "各大传统烤鸭店均有供应" }, price: { en: "¥200–400 per person", zh: "人均¥200–400" }, must_try: { en: "Ask for the 'crispy skin dipped in sugar' — a Beijing secret.", zh: "记得要'皮蘸白糖'——北京人的隐藏吃法。" } },
+      { name: { en: "Zhajiang Noodles", zh: "老北京炸酱面" }, img: "img/beijing.jpg", desc: { en: "Hand-pulled noodles with fermented soybean paste, julienned cucumber, radish, and soybeans. Beijing's ultimate comfort food.", zh: "手擀面配黄酱肉丁，黄瓜丝、萝卜丝、黄豆码得齐齐整整。北京人的灵魂碳水。" }, where: { en: "Found in neighborhood noodle shops — look for the red lanterns", zh: "胡同面馆随处可见——认准红灯笼招牌" }, price: { en: "¥25–50 per bowl", zh: "¥25–50/碗" }, must_try: { en: "Mix thoroughly before eating — every strand should be coated.", zh: "上桌赶紧拌——每根面都要裹满酱。" } }
+    ],
+    culture: [
+      { name: { en: "Hutong Wandering", zh: "胡同漫游" }, img: "img/beijing.jpg", desc: { en: "The real Beijing lives in its alleyways. Nanluoguxiang for the buzz, Wudaoying for the calm. Rent a bicycle — it's the only way.", zh: "胡同里才是真正的北京。南锣鼓巷热闹，五道营清静。租辆自行车——这是唯一的正确打开方式。" }, significance: { en: "Living history — some hutongs date back to the Yuan Dynasty (13th century)", zh: "活着的历史——有些胡同可追溯至元朝（13世纪）" }, best_time: { en: "Late afternoon, golden hour light", zh: "傍晚时分，金色光线最美" }, experience: { en: "Bicycle rental + hutong breakfast tour", zh: "租车骑行+胡同早点巡游" } }
+    ],
+    guide: {
+      climate:   { en: "Spring (Apr–May) & Autumn (Sep–Oct) — mild, blue skies, perfect for walking.", zh: "春秋两季最佳（4-5月、9-10月）——温和舒适，蓝天白云，最适合步行探索。" },
+      days:      { en: "4–5 days", zh: "4–5天" },
+      transit:   { en: "Subway covers all major sites (¥3–9/ride). Didi (Chinese Uber) is cheap and reliable. Avoid taxis during rush hour.", zh: "地铁覆盖主要景区（¥3–9/次）。滴滴打车便宜可靠。高峰期避开出租车。" },
+      intercity: { en: "Beijing Capital (PEK) & Daxing (PKX) airports. High-speed rail: 4.5h to Shanghai, 2.5h to Xi'an.", zh: "首都机场(PEK)+大兴机场(PKX)。高铁：4.5小时到上海，2.5小时到西安。" },
+      tips:      { en: "Carry your passport at all times. Download Alipay before arrival. VPN is essential — Google and Instagram are blocked. Tap water is NOT drinkable.", zh: "随身带护照。提前下载支付宝。VPN必备——Google和Instagram被墙。自来水不可直饮。" }
+    }
+  },
+  {
+    id: "chengdu",
+    name:       { en: "Chengdu", zh: "成都" },
+    province:   { en: "Sichuan Province", zh: "四川省" },
+    intro:      { en: "The land of pandas, fiery hotpot, and a pace of life that redefines 'relaxed'. Sip tea in a bamboo grove while locals play mahjong — this is Chengdu.", zh: "熊猫之乡，火锅之城，一座重新定义'安逸'的城市。竹林里喝茶，听隔壁桌搓麻将——这就是成都。" },
+    hero_img:   "img/chengdu.jpg",
+    hero_fb:    "linear-gradient(135deg, #1B5E20 0%, #388E3C 40%, #81C784 100%)",
+    landmarks: [
+      { name: { en: "Giant Panda Breeding Base", zh: "大熊猫繁育研究基地" }, img: "img/chengdu.jpg", desc: { en: "See pandas at their most active — early morning feeding time is pure joy. Watch cubs tumble and adults munch bamboo with unmatched dedication.", zh: "看熊猫最活跃的时刻——清晨喂食时间萌到犯规。幼崽打滚，成年熊猫专注啃竹子。" }, highlight: { en: "Baby panda nursery (seasonal)", zh: "熊猫幼崽育婴室（季节性）" }, hours: { en: "7:30 AM – 6:00 PM", zh: "7:30 – 18:00" }, ticket: { en: "¥55", zh: "¥55" }, tips: { en: "Arrive at 7:30 AM sharp — pandas sleep by 10 AM. The moon gate entrance is less crowded.", zh: "7:30准时到——10点后熊猫就睡了。月亮门入口人少些。" }, location: { en: "Chenghua District, 18km north of city center", zh: "成华区，市中心以北18公里" }, rating: "4.8", tags: { en: "Wildlife · Family · Morning", zh: "野生动物 · 亲子 · 清晨" } },
+      { name: { en: "Jinli Ancient Street", zh: "锦里古街" }, img: "img/chengdu.jpg", desc: { en: "Red lanterns, wooden architecture, and the best street food within the Wuhou Shrine complex. Perfect at dusk when lanterns flicker on.", zh: "红灯笼、木建筑、武侯祠旁最棒的街头小吃街。黄昏时分灯笼亮起，氛围满分。" }, highlight: { en: "Sichuan opera face-changing show", zh: "川剧变脸表演" }, hours: { en: "Open all day, best after 5 PM", zh: "全天开放，建议17:00后前往" }, ticket: { en: "Free (street area)", zh: "免费（街区）" }, tips: { en: "Try 'san da pao' (three big cannons) — a traditional snack with a theatrical preparation.", zh: "尝尝'三大炮'——制作过程有表演效果的传统小吃。" }, location: { en: "Wuhou District, adjacent to Wuhou Shrine", zh: "武侯区，紧邻武侯祠" }, rating: "4.5", tags: { en: "Street Food · Evening · Culture", zh: "街头美食 · 夜景 · 文化" } },
+      { name: { en: "Mount Qingcheng", zh: "青城山" }, img: "img/chengdu.jpg", desc: { en: "Birthplace of Taoism — misty peaks, ancient temples hidden in dense forest. The front mountain is easier; the back mountain is wilder and far less crowded.", zh: "道教发源地——雾绕峰峦，密林藏古观。前山较平缓，后山更野，游客少得多。" }, highlight: { en: "Back mountain hiking trail", zh: "后山徒步步道" }, hours: { en: "8:00 AM – 5:30 PM", zh: "8:00 – 17:30" }, ticket: { en: "¥90 (front), ¥20 (back)", zh: "¥90（前山）/ ¥20（后山）" }, tips: { en: "Take the high-speed train to Qingchengshan station (30min from Chengdu).", zh: "成都坐高铁到青城山站仅30分钟。" }, location: { en: "Dujiangyan City, 68km from Chengdu", zh: "都江堰市，距成都68公里" }, rating: "4.7", tags: { en: "UNESCO · Nature · Day Trip", zh: "世界遗产 · 自然 · 一日游" } }
+    ],
+    cuisine: [
+      { name: { en: "Sichuan Hotpot", zh: "四川火锅" }, img: "img/chengdu.jpg", desc: { en: "A cauldron of bubbling chili oil, Sichuan peppercorns, and infinite ingredients. The numbing-spicy (mala) sensation is unlike anything else.", zh: "翻滚的红油锅底，花椒与干辣椒共舞，食材无限。麻辣鲜香四重奏，没有体验过的人生不完整。" }, where: { en: "Hotpot restaurants are everywhere — follow the aroma and the crowds", zh: "火锅店遍布全城——循着香气和人潮走就对了" }, price: { en: "¥80–150 per person", zh: "人均¥80–150" }, must_try: { en: "Order 'huanghou' (beef aorta) and lotus root slices — trust us.", zh: "黄喉和藕片必点——信我们。" } },
+      { name: { en: "Dan Dan Noodles", zh: "担担面" }, img: "img/chengdu.jpg", desc: { en: "A humble bowl of noodles with minced pork, preserved vegetables, and chili oil. Simple, perfect, and under ¥15.", zh: "肉末、芽菜、红油浇在手擀面上。简单、完美、不过15块钱。" }, where: { en: "Any local noodle shop — look for long queues", zh: "街边面馆——看到有人排队就对了" }, price: { en: "¥10–15 per bowl", zh: "¥10–15/碗" }, must_try: { en: "Add a spoon of the house chili paste on the side.", zh: "旁边辣椒酱舀一勺进去。" } }
+    ],
+    culture: [
+      { name: { en: "Tea House Culture", zh: "茶馆文化" }, img: "img/chengdu.jpg", desc: { en: "Tea houses are Chengdu's living room. Bamboo chairs, jasmine tea, ear cleaning services — spend an entire afternoon doing nothing. It's an art form.", zh: "茶馆是成都人的客厅。竹椅、盖碗茶、掏耳朵——花一整个下午无所事事。这是一种艺术。" }, significance: { en: "Chengdu has over 10,000 tea houses — more than any city on Earth.", zh: "成都茶馆超万家——全球之最。" }, best_time: { en: "Any afternoon, rain or shine", zh: "任何下午，风雨无阻" }, experience: { en: "Renmin Park Heming Tea House — the most authentic", zh: "人民公园鹤鸣茶社——最正宗的老茶馆" } }
+    ],
+    guide: {
+      climate:   { en: "Spring (Mar–May) & Autumn (Sep–Nov). Summer is hot and humid; winter is grey but mild.", zh: "春秋最佳（3-5月、9-11月）。夏季湿热，冬季阴冷但温和。" },
+      days:      { en: "3–4 days", zh: "3–4天" },
+      transit:   { en: "Metro is clean and easy (¥2–8). Bike sharing (Meituan/Hellobike) is the best way to explore.", zh: "地铁干净便利（¥2–8）。共享单车（美团/哈啰）是最佳探索方式。" },
+      intercity: { en: "Chengdu Shuangliu (CTU) & Tianfu (TFU) airports. High-speed rail: 1h to Chongqing, 3h to Xi'an.", zh: "双流(CTU)+天府(TFU)双机场。高铁：1小时到重庆，3小时到西安。" },
+      tips:      { en: "Sichuan food is SPICY — say 'bù là' (not spicy) if needed. Most restaurants can adjust. Bring tissues — many local spots don't provide napkins. Carry cash for street vendors.", zh: "川菜辣——需要的话说'不要辣'。多数餐馆可以调整。随身带纸巾——很多小店不提供。带现金以备路边摊。" }
+    }
+  },
+  {
+    id: "xian",
+    name:       { en: "Xi'an", zh: "西安" },
+    province:   { en: "Shaanxi Province", zh: "陕西省" },
+    intro:      { en: "The ancient starting point of the Silk Road, home to the Terracotta Warriors and a Muslim Quarter that has been sizzling for over 1,000 years.", zh: "丝绸之路的东方起点，兵马俑的故乡。回民街的烟火气已经飘了上千年。" },
+    hero_img:   "img/xian.jpg",
+    hero_fb:    "linear-gradient(135deg, #6D4C41 0%, #A1887F 40%, #D7CCC8 100%)",
+    landmarks: [
+      { name: { en: "Terracotta Warriors", zh: "秦始皇兵马俑" }, img: "img/xian.jpg", desc: { en: "8,000 life-sized soldiers, each with a unique face, guarding China's first emperor for 2,200 years. The scale is staggering.", zh: "8000尊真人大小陶俑，千人千面，守护秦始皇2200年。规模震撼到失语。" }, highlight: { en: "Pit 1 — the main excavation hall", zh: "一号坑——主展厅" }, hours: { en: "8:30 AM – 5:00 PM", zh: "8:30 – 17:00" }, ticket: { en: "¥120", zh: "¥120" }, tips: { en: "Go to Pit 3 first, then Pit 2, then Pit 1. The reverse order avoids the tour group crush.", zh: "先看三号坑→二号坑→一号坑，反向走避开旅行团。" }, location: { en: "Lintong District, 35km east of Xi'an", zh: "临潼区，西安以东35公里" }, rating: "4.9", tags: { en: "UNESCO · Iconic · Day Trip", zh: "世界遗产 · 地标 · 一日游" } },
+      { name: { en: "Ancient City Wall", zh: "西安古城墙" }, img: "img/xian.jpg", desc: { en: "China's best-preserved city wall — 14km of Ming Dynasty fortifications. Rent a bike and cycle the entire perimeter at sunset.", zh: "中国保存最完好的古城墙——明代14公里防御工事。租辆自行车，日落时分骑行一整圈。" }, highlight: { en: "Sunset bike ride along the wall", zh: "日落城墙骑行" }, hours: { en: "8:00 AM – 10:00 PM", zh: "8:00 – 22:00" }, ticket: { en: "¥54, bike rental ¥45", zh: "¥54，自行车租赁¥45" }, tips: { en: "South Gate (Yongning) has the best bike rental and the most dramatic entrance.", zh: "南门（永宁门）租车最佳，入口也最壮观。" }, location: { en: "City center, surrounding the old town", zh: "市中心，环绕老城" }, rating: "4.7", tags: { en: "Cycling · Sunset · Architecture", zh: "骑行 · 日落 · 建筑" } },
+      { name: { en: "Muslim Quarter", zh: "回民街" }, img: "img/xian.jpg", desc: { en: "A maze of food stalls, spice markets, and the Great Mosque — a serene oasis hidden in the chaos. Come hungry.", zh: "美食摊、香料铺、大清真寺组成的美食迷宫——混乱中藏着宁静。空腹来。" }, highlight: { en: "Yangrou Paomo (lamb soup with bread)", zh: "羊肉泡馍" }, hours: { en: "All day, best from 5 PM", zh: "全天，下午5点后最佳" }, ticket: { en: "Free (street), ¥25 (Great Mosque)", zh: "免费（街区），清真寺¥25" }, tips: { en: "The Great Mosque is one of China's oldest — built in 742 AD. Don't miss the inner courtyards.", zh: "大清真寺始建于742年——别错过内院。" }, location: { en: "Lianhu District, behind the Drum Tower", zh: "莲湖区，鼓楼背后" }, rating: "4.6", tags: { en: "Food · Market · Evening", zh: "美食 · 市场 · 夜晚" } }
+    ],
+    cuisine: [
+      { name: { en: "Yangrou Paomo", zh: "羊肉泡馍" }, img: "img/xian.jpg", desc: { en: "Tear flatbread into tiny pieces, then the chef ladles rich lamb broth over it. Hearty, warming, and deeply satisfying.", zh: "手工把饼掰成小块，厨师浇上滚烫羊肉汤。扎实、暖胃、满足感爆棚。" }, where: { en: "Muslim Quarter eateries and local lamb restaurants", zh: "回民街及本地羊肉馆均有" }, price: { en: "¥30–60 per person", zh: "人均¥30–60" }, must_try: { en: "The smaller you tear the bread, the better the texture.", zh: "饼掰得越小，口感越好。" } }
+    ],
+    culture: [
+      { name: { en: "Tang Dynasty Music & Dance", zh: "唐乐舞" }, img: "img/xian.jpg", desc: { en: "A spectacular dinner show recreating Tang Dynasty court music and dance — silk robes, ancient instruments, and a lavish dumpling banquet.", zh: "复原唐代宫廷乐舞的华丽晚宴秀——丝绸长袍、古乐器、配上饺子盛宴。" }, significance: { en: "Xi'an was the capital of 13 dynasties, including the Tang (618–907) — China's golden age.", zh: "西安是十三朝古都，盛唐（618-907）是中国历史上的黄金时代。" }, best_time: { en: "Evening shows, daily", zh: "每晚演出" }, experience: { en: "Tang Dynasty Palace or Shaanxi Grand Opera House", zh: "唐乐宫或陕西歌舞大剧院" } }
+    ],
+    guide: {
+      climate:   { en: "Spring (Apr–May) & Autumn (Sep–Oct). Summers are hot; winters are cold but less crowded.", zh: "春秋最佳（4-5月、9-10月）。夏季炎热，冬季寒冷但游客少。" },
+      days:      { en: "3–4 days", zh: "3–4天" },
+      transit:   { en: "Metro lines 1–4 cover main sites. Bus 306 (Tourist 5) goes directly to Terracotta Warriors from the train station.", zh: "地铁1-4号线覆盖主要景点。游5路（306路）从火车站直达兵马俑。" },
+      intercity: { en: "Xi'an Xianyang Airport (XIY). High-speed rail: 2.5h to Beijing, 3h to Chengdu.", zh: "西安咸阳机场(XIY)。高铁：2.5小时到北京，3小时到成都。" },
+      tips:      { en: "The Terracotta Warriors are 35km from the city — plan a half day. The Muslim Quarter is best explored on foot with an empty stomach. Try the persimmon cakes (shizi bing).", zh: "兵马俑距市区35公里——留半天时间。回民街最适合空腹步行探索。尝尝柿子饼。" }
+    }
+  },
+  {
+    id: "hangzhou",
+    name:       { en: "Hangzhou", zh: "杭州" },
+    province:   { en: "Zhejiang Province", zh: "浙江省" },
+    intro:      { en: "Marco Polo called it 'the city of heaven'. West Lake's misty waters, Dragon Well tea terraces, and ancient temples make Hangzhou China's most poetic city.", zh: "马可·波罗称之为'天城'。西湖烟波、龙井茶园、千年古刹——杭州是中国最富诗意的城市。" },
+    hero_img:   "img/hangzhou.jpg",
+    hero_fb:    "linear-gradient(135deg, #00695C 0%, #00897B 40%, #80CBC4 100%)",
+    landmarks: [
+      { name: { en: "West Lake", zh: "西湖" }, img: "img/hangzhou.jpg", desc: { en: "A UNESCO site that has inspired poets for millennia. Pagodas, arched bridges, willow-lined causeways — every view is a painting come alive.", zh: "世界遗产，千年诗意。雷峰塔、断桥、苏堤春晓——每一眼都是一幅活过来的水墨画。" }, highlight: { en: "Sunset from Leifeng Pagoda", zh: "雷峰塔日落" }, hours: { en: "Open 24 hours (scenic area)", zh: "24小时开放（景区）" }, ticket: { en: "Free (lake area), Leifeng Pagoda ¥40", zh: "免费（湖区），雷峰塔¥40" }, tips: { en: "Rent a bike and circle the entire lake (12km). Stop at random tea houses along the way.", zh: "租自行车环湖一周（12公里）。沿途随机停靠茶馆。" }, location: { en: "Xihu District, city center", zh: "西湖区，市中心" }, rating: "4.8", tags: { en: "UNESCO · Scenic · Cycling", zh: "世界遗产 · 风景 · 骑行" } },
+      { name: { en: "Lingyin Temple", zh: "灵隐寺" }, img: "img/hangzhou.jpg", desc: { en: "One of China's largest and wealthiest Buddhist temples, tucked into forested hills. The Feilai Feng grottoes with 470+ stone carvings are a hidden wonder.", zh: "中国规模最大的佛教寺院之一，隐于山林。飞来峰470余尊石刻造像是隐藏的奇迹。" }, highlight: { en: "Feilai Feng ancient stone carvings", zh: "飞来峰石刻造像" }, hours: { en: "7:00 AM – 5:15 PM", zh: "7:00 – 17:15" }, ticket: { en: "¥75 (combo incl. Feilai Feng)", zh: "¥75（含飞来峰联票）" }, tips: { en: "Go on a weekday morning. The temple incense is thickest then.", zh: "工作日早上去。那时香火最旺，氛围最浓。" }, location: { en: "Xihu District, northwest of West Lake", zh: "西湖区，西湖北面" }, rating: "4.7", tags: { en: "Temple · History · Morning", zh: "寺庙 · 历史 · 清晨" } },
+      { name: { en: "Longjing Tea Plantations", zh: "龙井茶园" }, img: "img/hangzhou.jpg", desc: { en: "Terraced tea fields stretching across rolling hills. Visit during spring harvest (late March–April) to see tea pickers at work and taste the freshest brew.", zh: "梯田茶园绵延起伏山丘。春季采摘季（3月底-4月）来看采茶人劳作，品尝最新鲜的龙井。" }, highlight: { en: "Spring tea harvest + tasting", zh: "春茶采摘+品鉴" }, hours: { en: "Daylight hours", zh: "白天时间" }, ticket: { en: "Free (fields), tasting ¥30–80", zh: "免费（茶园），品茶¥30–80" }, tips: { en: "Longjing Village is the most famous but Meijiawu offers a more authentic experience.", zh: "龙井村最有名，但梅家坞体验更地道。" }, location: { en: "Xihu District, southwest of West Lake", zh: "西湖区，西湖西南" }, rating: "4.6", tags: { en: "Nature · Tea · Spring", zh: "自然 · 茶 · 春季" } }
+    ],
+    cuisine: [
+      { name: { en: "Dongpo Pork", zh: "东坡肉" }, img: "img/hangzhou.jpg", desc: { en: "Named after the Song Dynasty poet Su Dongpo — pork belly braised for hours until it collapses under chopsticks. Sweet, savory, and impossibly tender.", zh: "以宋代诗人苏东坡命名——五花肉文火慢炖至筷子一碰就散。咸甜交织，入口即化。" }, where: { en: "Traditional Hangzhou restaurants, especially near West Lake", zh: "杭州传统菜馆均有，西湖周边尤多" }, price: { en: "¥68–128 per dish", zh: "¥68–128/份" }, must_try: { en: "Pair with a cup of warm Shaoxing rice wine.", zh: "配一杯温黄酒。" } }
+    ],
+    culture: [
+      { name: { en: "Silk Culture", zh: "丝绸文化" }, img: "img/hangzhou.jpg", desc: { en: "Hangzhou has been China's silk capital for over 1,000 years. Visit the National Silk Museum to see the entire journey from silkworm to fabric.", zh: "杭州作为中国丝绸之都已逾千年。去中国丝绸博物馆看从蚕茧到织锦的完整旅程。" }, significance: { en: "The Maritime Silk Road started here in the Song Dynasty.", zh: "宋代海上丝绸之路从这里出发。" }, best_time: { en: "Year-round", zh: "全年" }, experience: { en: "China National Silk Museum + silk shopping on Hefang Street", zh: "中国丝绸博物馆+河坊街丝绸购物" } }
+    ],
+    guide: {
+      climate:   { en: "Spring (Mar–May) for tea & blossoms, Autumn (Sep–Nov) for clear skies. Summers are hot; winter is chilly but uncrowded.", zh: "春季（3-5月）品茶赏花，秋季（9-11月）天高云淡。夏季炎热，冬季微寒但游客少。" },
+      days:      { en: "3 days", zh: "3天" },
+      transit:   { en: "Metro is modern and efficient. Buses are convenient but crowded. Bike sharing is ideal for West Lake area.", zh: "地铁现代高效。公交便利但拥挤。共享单车环西湖最佳。" },
+      intercity: { en: "Hangzhou Xiaoshan Airport (HGH). High-speed rail: 45min to Shanghai, 1.5h to Nanjing.", zh: "杭州萧山机场(HGH)。高铁：45分钟到上海，1.5小时到南京。" },
+      tips:      { en: "West Lake is huge — don't try to walk it all. Rent a bike (Meituan bike ¥1.5/30min). Weekends are extremely crowded — visit on weekdays if possible.", zh: "西湖很大——别试图走完。租共享单车（美团¥1.5/30分钟）。周末极其拥挤——尽量工作日去。" }
+    }
+  },
+  {
+    id: "guilin",
+    name:       { en: "Guilin", zh: "桂林" },
+    province:   { en: "Guangxi Zhuang Autonomous Region", zh: "广西壮族自治区" },
+    intro:      { en: "Karst peaks rise from misty rivers like dragon's teeth. Guilin's landscapes have inspired Chinese scroll paintings for a thousand years — and they're even more surreal in person.", zh: "喀斯特峰林从雾江中拔起，如龙齿般嶙峋。桂林山水入画千年——亲眼所见比画更超现实。" },
+    hero_img:   "img/guilin.jpg",
+    hero_fb:    "linear-gradient(135deg, #1A4A5A 0%, #2E7D6F 40%, #80CBC4 100%)",
+    landmarks: [
+      { name: { en: "Li River Cruise", zh: "漓江游船" }, img: "img/guilin.jpg", desc: { en: "The 83km cruise from Guilin to Yangshuo passes through the most surreal karst landscape on Earth. The view on the ¥20 note? You'll sail right past it.", zh: "从桂林到阳朔83公里水路，穿过地球上最超现实的喀斯特地貌。20元人民币上的风景？你会刚好经过。" }, highlight: { en: "The ¥20 note viewpoint", zh: "20元人民币取景地" }, hours: { en: "Boats depart 9:00–10:00 AM", zh: "游船9:00-10:00出发" }, ticket: { en: "¥215–360 depending on class", zh: "¥215–360（按舱位）" }, tips: { en: "Book the 4-star boat — fewer people, better food, and a rooftop viewing deck.", zh: "订四星级游船——人少、餐好、有顶层观景甲板。" }, location: { en: "Mopanshan Pier, Guilin", zh: "桂林磨盘山码头" }, rating: "4.8", tags: { en: "UNESCO · Cruise · Iconic", zh: "世界遗产 · 游船 · 地标" } },
+      { name: { en: "Yangshuo Countryside", zh: "阳朔乡野" }, img: "img/guilin.jpg", desc: { en: "Rent a bicycle or scooter and get lost among rice paddies, karst peaks, and tiny villages. The Yulong River bamboo raft is an essential experience.", zh: "租辆自行车或小电驴，在稻田、峰林、小村庄间迷路。遇龙河竹筏漂流是必修课。" }, highlight: { en: "Yulong River bamboo rafting", zh: "遇龙河竹筏漂流" }, hours: { en: "All day", zh: "全天" }, ticket: { en: "Bike rental ¥30–50, bamboo raft ¥160–255", zh: "自行车¥30–50，竹筏¥160–255" }, tips: { en: "Skip West Street's tourist traps — the real Yangshuo is in the countryside. Rent an e-scooter (¥50/day).", zh: "略过西街的游客陷阱——真正的阳朔在乡野。租小电驴（¥50/天）。" }, location: { en: "Yangshuo County, 65km south of Guilin", zh: "阳朔县，桂林以南65公里" }, rating: "4.7", tags: { en: "Nature · Cycling · Adventure", zh: "自然 · 骑行 · 探险" } },
+      { name: { en: "Longji Rice Terraces", zh: "龙脊梯田" }, img: "img/guilin.jpg", desc: { en: "Centuries-old rice terraces carved into mountainsides by Zhuang and Yao ethnic minorities. The 'Dragon's Backbone' rises through clouds — best at sunrise.", zh: "壮族和瑶族少数民族在群山中开凿的千年梯田。'龙脊'穿云而上——日出时分最为壮美。" }, highlight: { en: "Sunrise at Dazhai viewpoint", zh: "大寨观景台日出" }, hours: { en: "All day", zh: "全天" }, ticket: { en: "¥80", zh: "¥80" }, tips: { en: "Stay overnight in Ping'an or Dazhai village. The cable car at Dazhai saves a 2-hour climb.", zh: "在平安或大寨村住一晚。大寨缆车省去2小时爬山。" }, location: { en: "Longsheng County, 80km from Guilin", zh: "龙胜县，距桂林80公里" }, rating: "4.7", tags: { en: "Nature · Culture · Overnight", zh: "自然 · 文化 · 过夜" } }
+    ],
+    cuisine: [
+      { name: { en: "Guilin Rice Noodles", zh: "桂林米粉" }, img: "img/guilin.jpg", desc: { en: "The breakfast that fuels Guilin — smooth rice noodles in a rich bone broth with braised beef, pickled beans, and roasted peanuts. Under ¥10.", zh: "桂林人的灵魂早餐——滑嫩米粉配浓郁骨汤，加卤牛肉、酸豆角、炸花生。不到10块钱。" }, where: { en: "Any busy corner noodle shop — the longer the queue, the better", zh: "街边米粉店随处可见——排队越长越好吃" }, price: { en: "¥6–12 per bowl", zh: "¥6–12/碗" }, must_try: { en: "Eat it 'dry' (no broth) first, then add soup at the end.", zh: "先干捞吃，最后加汤——桂林人标准吃法。" } }
+    ],
+    culture: [
+      { name: { en: "Impression Liu Sanjie", zh: "印象·刘三姐" }, img: "img/guilin.jpg", desc: { en: "Zhang Yimou's epic outdoor water show — 600 performers on the Li River with the karst peaks as the backdrop. The world's largest natural stage.", zh: "张艺谋执导的史诗级户外水上实景演出——600名演员在漓江上以喀斯特峰林为幕。世界最大天然剧场。" }, significance: { en: "Tells the legend of Liu Sanjie, the folk song goddess of the Zhuang people.", zh: "讲述壮族歌仙刘三姐的传说。" }, best_time: { en: "Nightly at 7:30 PM & 9:30 PM (seasonal)", zh: "每晚19:30和21:30（季节调整）" }, experience: { en: "Book zone B1 for the best view. Bring mosquito repellent.", zh: "订B1区视野最佳。带驱蚊液。" } }
+    ],
+    guide: {
+      climate:   { en: "Autumn (Sep–Nov) — dry, clear skies, perfect for photography. Spring (Apr–May) is lush but rainy.", zh: "秋季（9-11月）——干燥、天高云淡、拍照最佳。春季（4-5月）青翠但多雨。" },
+      days:      { en: "3–4 days", zh: "3–4天" },
+      transit:   { en: "Buses connect Guilin and Yangshuo (1.5h). Within Yangshuo, rent an e-scooter. Taxis are scarce in rural areas.", zh: "公交连接桂林和阳朔（1.5小时）。阳朔县内租小电驴。乡村区域出租车稀少。" },
+      intercity: { en: "Guilin Liangjiang Airport (KWL). High-speed rail: 2.5h to Guangzhou, 3h to Hong Kong.", zh: "桂林两江机场(KWL)。高铁：2.5小时到广州，3小时到香港。" },
+      tips:      { en: "Mosquito repellent is ESSENTIAL — especially near rice paddies. Weather changes rapidly — carry rain gear. The real magic is in the countryside, not the towns.", zh: "驱蚊液必备——尤其稻田附近。天气变化快——随身带雨具。真正的魔力在乡野，不在镇子里。" }
+    }
+  }
+];
+
+window.DICT = DICT;
+window.CITIES = CITIES;
+
+// 翻译函数
+window._ = function(key, lang) {
+  lang = lang || window._currentLang || 'en';
+  var item = DICT[key];
+  if (!item) return key;
+  return item[lang] || item.en || key;
+};
+
+// 双语对象取值
+window._t = function(obj, lang) {
+  lang = lang || window._currentLang || 'en';
+  if (!obj) return '';
+  if (typeof obj === 'string') return obj;
+  return obj[lang] || obj.en || '';
+};
+
+})();
