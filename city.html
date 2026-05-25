@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Cities - Oriental City Cultural Space</title>
+    <meta name="description" content="Browse all Chinese cities - scenic spots, cuisine, folk culture, and travel tips.">
+    <meta name="keywords" content="China cities, travel destinations, cultural tourism, city guide">
+    <link rel="canonical" href="https://travel.eastculture.top/city.html">
+    <link rel="alternate" hreflang="en" href="https://travel.eastculture.top/city.html">
+    <link rel="alternate" hreflang="zh" href="https://travel.eastculture.top/city-zh.html">
+    <link rel="alternate" hreflang="x-default" href="https://travel.eastculture.top/city.html">
+    <meta property="og:title" content="All Cities - Oriental City Cultural Space">
+    <meta property="og:description" content="Browse all Chinese cities - scenic spots, cuisine, folk culture, and travel tips.">
+    <meta property="og:url" content="https://travel.eastculture.top/city.html">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Oriental City Cultural Space">
+    <meta property="og:image" content="https://travel.eastculture.top/images/chengdu-banner.jpg">
+    <meta property="og:image:alt" content="Oriental City Cultural Space - China Tourism">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="All Cities - Oriental City Cultural Space">
+    <meta name="twitter:description" content="Browse all Chinese cities - scenic spots, cuisine, folk culture, and travel tips.">
+    <meta name="twitter:image" content="https://travel.eastculture.top/images/chengdu-banner.jpg">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Oriental City Cultural Space</h1>
+                    <span class="subtitle">Cultural Tourism</span>
+                </div>
+                <nav class="nav">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="city.html" class="nav-link active">Cities</a>
+                    <button class="lang-switch" onclick="switchLang()">中文</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="index.html" onclick="closeMobileMenu()">Home</a>
+        <a href="city.html" onclick="closeMobileMenu()">Cities</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">中文</button>
+    </div>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h2>All Cities</h2>
+            <p>Discover the most captivating destinations across China</p>
+        </div>
+    </section>
+
+    <!-- Ad Slot 1: Between Content -->
+    <div class="ad-container">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- City Grid with Pagination -->
+    <section class="section">
+        <div class="container">
+            <!-- Search Bar -->
+            <div class="search-bar">
+                <input type="text" id="citySearch" placeholder="Search cities..." onkeyup="filterCities()">
+            </div>
+
+            <!-- City Grid -->
+            <div class="city-grid" id="cityGrid">
+                <!-- City Cards will be dynamically loaded -->
+            </div>
+
+            <!-- Pagination -->
+            <div class="pagination" id="pagination"></div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 2: Sidebar (Desktop) / Bottom (Mobile) -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Ad Slot 3: Footer -->
+    <div class="ad-footer">
+        <div class="container">
+            <div class="ad-placeholder">Advertisement</div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Oriental City Cultural Space</h4>
+                    <p>Showcasing the beauty of Chinese cities to the world</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p>Email: <a href="mailto:contact@orientalcities.com">contact@orientalcities.com</a></p>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <a href="privacy.html">Privacy Policy</a>
+                    <a href="terms.html">Terms of Service</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Oriental City Cultural Space. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Refresh Button -->
+    <button class="refresh-btn" onclick="refreshPage()">↻</button>
+
+    <script src="js/city.js"></script>
+</body>
+</html>

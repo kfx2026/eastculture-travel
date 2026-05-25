@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上海 - 东方城市人文空间</title>
+    <meta name="description" content="发现上海 - 中国最国际化的城市，拥有震撼天际线、历史悠久的外滩和世界级美食">
+    <meta name="keywords" content="上海, 外滩, 豫园, 上海美食, 中国旅游">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>东方城市人文空间</h1>
+                    <span class="subtitle">文化旅游</span>
+                </div>
+                <nav class="nav">
+                    <a href="../index-zh.html" class="nav-link">首页</a>
+                    <a href="../city-zh.html" class="nav-link">城市</a>
+                    <button class="lang-switch" onclick="switchLang()">EN</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="../index-zh.html" onclick="closeMobileMenu()">首页</a>
+        <a href="../city-zh.html" onclick="closeMobileMenu()">城市</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">EN</button>
+    </div>
+
+    <!-- City Hero -->
+    <section class="city-hero" style="background: linear-gradient(135deg, #C8102E 0%, #6BB6FF 100%); padding: 6rem 0; color: white; text-align: center;">
+        <div class="container">
+            <h2 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 300;">上海</h2>
+            <p style="font-size: 1.25rem; opacity: 0.9;">东方明珠</p>
+        </div>
+    </section>
+
+    <!-- Ad Slot 1 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Section 1: Core Scenic Spots -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">核心景区</h2>
+            
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>外滩</h3>
+                <img src="https://picsum.photos/seed/shanghai1/800/400" alt="上海外滩" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>地理位置：</strong> 黄浦区中山东一路</p>
+                <p><strong>历史背景：</strong> 外滩沿黄浦江西岸绵延1.5公里，始建于19世纪末，曾是上海的经济和商业中心。沿街52栋建筑展现了哥特式、巴洛克式、罗马式、装饰艺术等多种建筑风格，被誉为"万国建筑博览群"。</p>
+                <p><strong>核心看点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>历史欧洲建筑与浦东方现代天际线的震撼对比</li>
+                    <li>最佳夜景观赏地（灯光秀晚7点开始）</li>
+                    <li>沿黄浦江的可步行滨江大道</li>
+                    <li>邻近景点：南京路步行街（购物）、豫园（10分钟步行）</li>
+                </ul>
+                <p><strong>开放时间：</strong> 全天开放（最佳观赏时间晚7:00-10:00 PM灯光秀）</p>
+                <p><strong>门票：</strong> 免费</p>
+                <p><strong>交通：</strong> 地铁2号线或10号线至南京东路站（2-4号出口），步行10分钟向东至外滩</p>
+                <p><strong>最佳时长：</strong> 2-3小时（含夜景灯光观赏）</p>
+                <p><strong>最佳季节：</strong> 全年皆宜，春秋季天气最为舒适</p>
+                <p><strong>实用提示：</strong> 日落时分（5:30-6:30 PM）参观可同时欣赏日景和夜景；周末人流量极大；携带相机拍摄天际线</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>豫园</h3>
+                <img src="https://picsum.photos/seed/shanghai2/800/400" alt="上海豫园" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>地理位置：</strong> 黄浦区安仁街218号</p>
+                <p><strong>历史背景：</strong> 豫园建于明朝（1559-1577年），由潘允端为其父母建造的私人花园，占地2公顷，体现了经典的江南园林设计。曾在鸦片战争期间受损，20世纪修复。园林以假山、池塘、亭台、桥梁展现了传统中国园林艺术。</p>
+                <p><strong>核心看点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>精美的明代园林建筑</li>
+                    <li>豫园商场（豫园老街）- 传统小吃和工艺品</li>
+                    <li>城隍庙 - 毗邻的道教寺庙</li>
+                    <li>湖心亭茶楼 - 池塘中央的标志性三层茶楼</li>
+                </ul>
+                <p><strong>开放时间：</strong> 早8:30 - 晚5:30（最后入场5:00 PM）</p>
+                <p><strong>门票：</strong> ¥40（旺季4-10月），¥30（淡季11-3月）</p>
+                <p><strong>交通：</strong> 地铁10号线至豫园站（1号出口），步行5分钟</p>
+                <p><strong>最佳时长：</strong> 2-3小时（含商场）</p>
+                <p><strong>最佳季节：</strong> 春季（樱花）和秋季（凉爽天气）</p>
+                <p><strong>实用提示：</strong> 可与外滩一并游览（10分钟步行）；在附近的南翔馒头店尝试小笼包；避开中国法定节假日</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>上海中心大厦与陆家嘴天际线</h3>
+                <img src="https://picsum.photos/seed/shanghai3/800/400" alt="上海中心大厦" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>地理位置：</strong> 浦东新区银城中路501号</p>
+                <p><strong>历史背景：</strong> 上海中心大厦（2015年完工）高632米（2,073英尺），是中国最高的建筑，世界第二高。独特的扭转设计减少了24%的风荷载。118层的观景台（546米）是世界最高的观景台。陆家嘴地区在1990年还是农田，仅用30年就发展成为中国的金融中心。</p>
+                <p><strong>核心看点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>世界最高观景台（546米）</li>
+                    <li>上海360度全景视角</li>
+                    <li>毗邻东方明珠塔和上海环球金融中心</li>
+                    <li>高速电梯（18米/秒，55秒到达顶部）</li>
+                </ul>
+                <p><strong>开放时间：</strong> 早8:30 - 晚10:00（最后入场9:30 PM）</p>
+                <p><strong>门票：</strong> ¥220（成人），¥110（儿童1.0-1.4米），免费（儿童1.0米以下）</p>
+                <p><strong>交通：</strong> 地铁2号线至陆家嘴站（6号出口），步行10分钟</p>
+                <p><strong>最佳时长：</strong> 2-3小时</p>
+                <p><strong>最佳季节：</strong> 晴朗天气（避免雾/雨影响能见度）</p>
+                <p><strong>实用提示：</strong> 提前在线购票；日落前1小时参观可同时欣赏日景和夜景；携带身份证/护照取票</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 2 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+    <div class="ad-inline">
+        <div class="ad-placeholder">Advertisement (Mobile)</div>
+    </div>
+
+    <!-- Section 2: Featured Cuisine -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">特色美食</h2>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>小笼包</h3>
+                <img src="https://picsum.photos/seed/shanghaifood1/800/400" alt="小笼包" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>口感风味：</strong> 精致、鲜美、富含鲜味的猪肉汤包。内部的汤汁热而味浓，肉冻融化后带来微妙的甜味。</p>
+                <p><strong>历史文化故事：</strong> 起源于1875年上海嘉定区南翔镇。由黄明贤在南翔馒头店首创。技艺在于在猪肉馅中加入肉冻（明胶化肉汤），蒸制时融化成汤。2020年联合国教科文组织将小笼包认定为非物质文化遗产。上海风格的小笼包比其他地区的更小更精致。</p>
+                <p><strong>推荐吃法：</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>用筷子轻轻提起小笼包（握住顶部边缘）</li>
+                        <li>放在汤勺上</li>
+                        <li>在侧面咬一个小口释放蒸汽</li>
+                        <li>先吸出热汤</li>
+                        <li>蘸黑醋和姜丝</li>
+                        <li>整个吃掉</li>
+                    </ol>
+                </p>
+                <p><strong>价格范围：</strong> 每笼（8个）¥30-50（餐厅）；¥15-20（街边摊）</p>
+                <p><strong>推荐地点：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>鼎泰丰（起源于台北，上海多家分店）</li>
+                        <li>南翔馒头店（豫园店 - 创始店）</li>
+                        <li>佳家汤包（黄河路 - 当地人最爱）</li>
+                    </ul>
+                </p>
+            </div>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>生煎包</h3>
+                <img src="https://picsum.photos/seed/shanghaifood2/800/400" alt="生煎包" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>口感风味：</strong> 煎制的包子，底部酥脆，猪肉馅多汁，汤汁鲜美。顶部撒有芝麻和葱花。口感对比：酥脆底部 + 有嚼劲的面皮 + 多汁的内馅。</p>
+                <p><strong>历史文化故事：</strong> 生煎起源于20世纪20年代的上海，是一种早餐街头食品。与小笼包（蒸制）不同，生煎是煎制的，形成酥脆的底部。传统上从街头推车售卖，现在已提升到餐厅菜单。每个包子都释放热汤，需要小心食用技巧。是上海"街头小吃文化"和工人阶级烹饪遗产的象征。</p>
+                <p><strong>推荐吃法：</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>用筷子夹起（它们粘在一起）</li>
+                        <li>在顶部咬一口释放蒸汽（汤极热！）</li>
+                        <li>蘸黑醋</li>
+                        <li>分2-3口吃完</li>
+                    </ol>
+                </p>
+                <p><strong>价格范围：</strong> 4个¥8-15；8个¥20-30</p>
+                <p><strong>推荐地点：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>杨家煎包（杨家创立，多家分店）</li>
+                        <li>大壶春（始于1932年的历史品牌）</li>
+                        <li>老巷子（弄堂）中的当地早餐摊</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 3 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Section 3: Folk Culture -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">民俗文化</h2>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>沪剧</h3>
+                <img src="https://picsum.photos/seed/shanghaiculture1/800/400" alt="沪剧" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>起源与历史：</strong> 沪剧（上海歌剧）起源于清朝（18世纪）的上海民间歌曲和说书传统。在20世纪20-30年代全面发展，融入了京剧和越剧的元素。与京剧的宫廷主题不同，沪剧聚焦于上海人的日常生活，用上海方言表演。2008年被认定为国家级非物质文化遗产。</p>
+                <p><strong>表演形式：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>用上海方言演唱（非普通话）</li>
+                        <li>主题：现代生活、家庭剧、社会问题</li>
+                        <li>服装：当代服装（非精致的古装）</li>
+                        <li>音乐：二胡、琵琶、笛子、打击乐</li>
+                        <li>表演风格：现实主义表演，情感表达</li>
+                    </ul>
+                </p>
+                <p><strong>体验地点：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>上海大剧院（季节性演出）</li>
+                        <li>逸夫舞台（定期沪剧演出）</li>
+                        <li>上海歌剧院（现代制作）</li>
+                    </ul>
+                </p>
+                <p><strong>最佳体验时间：</strong> 晚间演出（7:30-9:30 PM）；查看剧院日程，因为演出不是每日都有</p>
+                <p><strong>文化意义：</strong> 沪剧是"上海人的声音"，在快速现代化中保留了城市的方言和本地身份。它是少数使用现代城市方言的中国戏曲形式之一，反映了上海作为传统与现代融合的独特文化地位。</p>
+            </div>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>石库门建筑与弄堂文化</h3>
+                <img src="https://picsum.photos/seed/shanghaiculture2/800/400" alt="石库门弄堂" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>起源与历史：</strong> 石库门（字面意思是"石头仓库门"）是一种独特的上海建筑风格，融合了中西元素，建于1860-1910年间。它由传统的江南庭院住宅演变而来，增加了西式石头门和砖结构。在20世纪30年代巅峰期，60%的上海人口居住在石库门弄堂中。这些弄堂培养了紧密的社区文化，邻居们共享厨房、照看孩子、闲聊八卦。20世纪90年代后，许多被拆除建高楼，但保留下来的例子（如新天地）成为文化遗产地。</p>
+                <p><strong>体验形式：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>参观保留的石库门社区（新天地、田子坊）</li>
+                        <li>看传统弄堂生活：共享庭院、晾晒衣物、麻将游戏</li>
+                        <li>博物馆：上海中医药博物馆（石库门建筑内）</li>
+                        <li>老上海弄堂生活摄影展</li>
+                    </ul>
+                </p>
+                <p><strong>体验地点：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>新天地（高档餐饮/购物在修复的石库门中）</li>
+                        <li>田子坊（前住宅弄堂中的工匠店）</li>
+                        <li>多伦路文化名人街（历史弄堂房屋）</li>
+                        <li>上海弄堂博物馆（静安区）</li>
+                    </ul>
+                </p>
+                <p><strong>最佳体验时间：</strong> 白天（早10:00 - 下午4:00）拍照和探索；晚间在新天地用餐</p>
+                <p><strong>文化意义：</strong> 石库门代表了上海"东西方相遇"的身份。它是传统中国庭院生活与西方城市规划的交汇点，创造了独特的社会结构。弄堂文化孕育了著名的上海作家（张爱玲）、电影制作人和企业家。今天，它象征着现代上海保护与发展之间的张力。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 4 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+    <div class="ad-inline">
+        <div class="ad-placeholder">Advertisement (Mobile)</div>
+    </div>
+
+    <!-- Section 4: Travel Tips -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">旅行建议</h2>
+
+            <div class="tips-content">
+                <h3>最佳旅行时间</h3>
+                <p><strong>旺季（最佳天气）：</strong> 春季（4-5月）和秋季（10-11月）。气温15-25°C（59-77°F），湿度低，晴空万里。樱花（3月底-4月初）和秋叶（11月）非常壮观。</p>
+                <p><strong>平季：</strong> 6月（初夏，偶有降雨），9月（夏末，宜人）。游客较少，酒店价格较低。</p>
+                <p><strong>避免：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>7-8月：炎热（35°C/95°F+），潮湿，台风季节</li>
+                        <li>中国国庆节假期（10月1-7日）：极端拥挤，酒店价格翻倍</li>
+                        <li>中国新年（1月/2月）：许多商店/餐厅关闭</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">建议游玩天数</h3>
+                <p><strong>最少：</strong> 2整天（外滩 + 豫园 + 一个博物馆 + 浦东天际线）</p>
+                <p><strong>理想：</strong> 3-4天（增加朱家角水乡一日游、博物馆、法租界步行游览）</p>
+                <p><strong>延长：</strong> 5-7天（增加苏州/杭州一日游、迪士尼乐园、探索静安、前法租界等社区）</p>
+
+                <h3 style="margin-top: 2rem;">市内交通</h3>
+                <p><strong>地铁（强烈推荐）：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>18条线路覆盖所有主要景点</li>
+                        <li>费用：每次¥3-10（按距离计费）</li>
+                        <li>购买：车站购买单程票，或获取上海公共交通卡（¥20押金 + 余额）</li>
+                        <li>应用：上海地铁App（英文），百度地图（英文可用）</li>
+                    </ul>
+                </p>
+                <p><strong>出租车/滴滴（网约车）：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>出租车：起步价¥14（前3公里），之后¥2.5/公里</li>
+                        <li>滴滴（中国版Uber）：App有英文版，无现金支付</li>
+                        <li>高峰时段动态定价（早7-9点，晚5-7点）</li>
+                    </ul>
+                </p>
+                <p><strong>步行：</strong> 最适合外滩、法租界、田子坊（平坦地形，步行友好）</p>
+                <p><strong>机场-市区交通：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>浦东机场（PVG）：磁悬浮列车（8分钟到龙阳路，¥50）+ 地铁；或地铁2号线（1小时，¥7）</li>
+                        <li>虹桥机场（SHA）：地铁2号线或10号线（45分钟，¥5）</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">城际交通</h3>
+                <p><strong>至邻近城市：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>苏州：高铁（25分钟，¥40-80），班次频繁</li>
+                        <li>杭州：高铁（1小时，¥80-150）</li>
+                        <li>南京：高铁（1.5小时，¥135-250）</li>
+                        <li>朱家角（水乡）：地铁17号线（1小时，¥8）</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">实用贴士</h3>
+                <p><strong>货币：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>支付宝/微信支付 everywhere 接受（关联国际信用卡）</li>
+                        <li>现金接受但罕见；携带¥200-300备用</li>
+                        <li>ATM广泛可用；国际卡在中国银行ATM可用</li>
+                    </ul>
+                </p>
+                <p><strong>语言：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>普通话广泛使用；英语在酒店/旅游区外有限</li>
+                        <li>下载翻译App：Google翻译（离线模式），Pleco（字典）</li>
+                        <li>地铁标志有英文 + 中文</li>
+                    </ul>
+                </p>
+                <p><strong>互联网：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>WhatsApp、Google、Facebook被屏蔽（使用VPN）</li>
+                        <li>微信（中国超级App）无需VPN即可工作</li>
+                        <li>在机场购买中国联通SIM卡（¥99可获7天无限流量）</li>
+                    </ul>
+                </p>
+                <p><strong>安全：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>非常安全的城市；暴力犯罪率低</li>
+                        <li>注意拥挤区域（外滩、地铁）的扒手</li>
+                        <li>诈骗：避免"茶馆诈骗"（陌生人邀请喝茶）、假出租车计价器</li>
+                    </ul>
+                </p>
+                <p><strong>礼仪：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>礼貌排队（尽管地铁中推挤常见）</li>
+                        <li>不要给小费（中国不期待）</li>
+                        <li>尊重长辈（在地铁上让座）</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 5 (Footer Ad) -->
+    <div class="ad-footer">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>东方城市人文空间</h3>
+                    <p>发现东方城市之美</p>
+                </div>
+                <div class="footer-section">
+                    <h3>快速链接</h3>
+                    <a href="../index-zh.html">首页</a>
+                    <a href="../city-zh.html">城市</a>
+                    <a href="../privacy-zh.html">隐私政策</a>
+                    <a href="../terms-zh.html">服务条款</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 东方城市人文空间。保留所有权利。</p>
+                <a href="#" onclick="scrollToTop(); return false;" style="float: right; color: white; text-decoration: none;">返回顶部 ↑</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Refresh Button -->
+    <button class="refresh-btn" onclick="refreshPage()" title="刷新">↻</button>
+
+    <script src="../js/city-zh.js"></script>
+    <script>
+        function switchLang() {
+            window.location.href = 'shanghai.html';
+        }
+        
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        function refreshPage() {
+            location.reload();
+        }
+        
+        // Back to top button visibility
+        window.onscroll = function() {
+            var btn = document.getElementById('backToTop');
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = 'block';
+            } else {
+                btn.style.display = 'none';
+            }
+        };
+        
+        function toggleMobileMenu() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('active');
+        }
+        
+        function closeMobileMenu() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.remove('active');
+        }
+    </script>
+</body>
+</html>

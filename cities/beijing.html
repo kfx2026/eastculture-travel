@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beijing - Oriental City Cultural Space</title>
+    <meta name="description" content="Discover Beijing - ancient capital with Great Wall, Forbidden City, and rich cultural heritage">
+    <meta name="keywords" content="Beijing, Great Wall, Forbidden City, China travel, Beijing cuisine">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Oriental City Cultural Space</h1>
+                    <span class="subtitle">Cultural Tourism</span>
+                </div>
+                <nav class="nav">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="../city.html" class="nav-link">Cities</a>
+                    <button class="lang-switch" onclick="switchLang()">中文</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="../index.html" onclick="closeMobileMenu()">Home</a>
+        <a href="../city.html" onclick="closeMobileMenu()">Cities</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">中文</button>
+    </div>
+
+    <!-- City Hero -->
+    <section class="city-hero" style="background: linear-gradient(135deg, #4A90E2 0%, #6BB6FF 100%); padding: 6rem 0; color: white; text-align: center;">
+        <div class="container">
+            <h2 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 300;">Beijing</h2>
+            <p style="font-size: 1.25rem; opacity: 0.9;">Ancient Capital of China</p>
+        </div>
+    </section>
+
+    <!-- Ad Slot 1 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Section 1: Core Scenic Spots -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Core Scenic Spots</h2>
+            
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>Great Wall of China</h3>
+                <p><strong>Location:</strong> Huairou District, Beijing (Mutianyu Section)</p>
+                <p><strong>Historical Background:</strong> Built over 2,000 years ago during the Warring States period, the Great Wall stretches over 13,000 miles. The Mutianyu section, constructed in the 6th century, is renowned for its strategic importance and stunning mountain views.</p>
+                <p><strong>Highlights:</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>Less crowded than Badaling, better preserved</li>
+                    <li>Cable car and toboggan available</li>
+                    <li>UNESCO World Heritage Site</li>
+                </ul>
+                <p><strong>Opening Hours:</strong> 7:30 AM - 6:00 PM (April - October); 8:00 AM - 5:00 PM (November - March)</p>
+                <p><strong>Tickets:</strong> ¥45 (April - October); ¥40 (November - March)</p>
+                <p><strong>Transportation:</strong> Subway Line 2 to Dongzhimen → Bus 916 Express to Huairou → Transfer to Bus 916 Branch or taxi (approx. 2 hours total)</p>
+                <p><strong>Best Duration:</strong> 3-4 hours</p>
+                <p><strong>Best Season:</strong> Spring (April-May) and Autumn (September-October)</p>
+                <p><strong>Tips:</strong> Wear comfortable shoes, bring water, arrive early to avoid crowds</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>Forbidden City (Palace Museum)</h3>
+                <p><strong>Location:</strong> 4 Jingshan Front Street, Dongcheng District</p>
+                <p><strong>Historical Background:</strong> Constructed from 1406 to 1420 during the Ming Dynasty, the Forbidden City served as the imperial palace for 24 emperors. It houses over 1.8 million cultural relics.</p>
+                <p><strong>Highlights:</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>Hall of Supreme Harmony - largest wooden structure in China</li>
+                    <li>Imperial Garden - traditional Chinese landscaping</li>
+                    <li>Treasure Gallery - rare imperial collections</li>
+                </ul>
+                <p><strong>Opening Hours:</strong> 8:30 AM - 5:00 PM (April - October); 8:30 AM - 4:30 PM (November - March). Closed on Mondays.</p>
+                <p><strong>Tickets:</strong> ¥60 (April - October); ¥40 (November - March). Advance online booking required.</p>
+                <p><strong>Transportation:</strong> Subway Line 1 to Tiananmen East or Tiananmen West Station → 10-minute walk</p>
+                <p><strong>Best Duration:</strong> 3-5 hours</p>
+                <p><strong>Best Season:</strong> All year, but avoid National Day holiday (October 1-7)</p>
+                <p><strong>Tips:</strong> Book tickets 7 days in advance, enter from Meridian Gate (south entrance)</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 2 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Section 2: Featured Cuisine -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Featured Cuisine</h2>
+            
+            <div class="food-item" style="margin-bottom: 3rem;">
+                <h3>Peking Duck</h3>
+                <p><strong>Flavor Profile:</strong> Crispy skin, tender meat, rich and aromatic with subtly sweet taste</p>
+                <p><strong>Cultural Story:</strong> Dating back to the Yuan Dynasty (1271-1368), Peking Duck became a imperial dish. The technique of hanging oven roasting was perfected in the Qing Dynasty.</p>
+                <p><strong>How to Eat:</strong> Slice duck skin and meat, wrap in thin pancake with scallion, cucumber, and sweet bean sauce</p>
+                <p><strong>Average Price:</strong> ¥268-398 per duck (serves 2-3 people)</p>
+            </div>
+
+            <div class="food-item" style="margin-bottom: 3rem;">
+                <h3>Zhajiangmian (Fried Sauce Noodles)</h3>
+                <p><strong>Flavor Profile:</strong> Savory, umami-rich sauce with wheat noodles, topped with fresh vegetables</p>
+                <p><strong>Cultural Story:</strong> A beloved Beijing staple for centuries, originating from the city's working-class neighborhoods. Each family has their own recipe.</p>
+                <p><strong>How to Eat:</strong> Mix noodles with soybean paste sauce, add cucumber strips, bean sprouts, and radish</p>
+                <p><strong>Average Price:</strong> ¥18-35 per bowl</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 3: Folk Culture -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Folk Culture</h2>
+            
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>Beijing Opera (Jingju)</h3>
+                <p><strong>Origin & History:</strong> Developed in the late 18th century, Beijing Opera combines music, vocal performance, mime, dance, and acrobatics. It was declared UNESCO Intangible Cultural Heritage in 2010.</p>
+                <p><strong>Performance Elements:</strong> Four main role types (Sheng, Dan, Jing, Chou), elaborate costumes, symbolic makeup, and stylized movements</p>
+                <p><strong>Where to Experience:</strong>Mei Lanfang Theatre, Huguang Guild Hall, Liyuan Theatre</p>
+                <p><strong>Best Time:</strong> Evening performances (7:30 PM - 9:30 PM), book tickets in advance</p>
+                <p><strong>Cultural Significance:</strong> Represents the essence of Chinese performing arts, storytelling through song and movement</p>
+            </div>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>Hutong Culture</h3>
+                <p><strong>Origin & History:</strong> Hutongs are narrow alleys formed by lines of traditional courtyard residences (Siheyuan). They date back to the Yuan Dynasty and represent old Beijing's social structure.</p>
+                <p><strong>Experience:</strong> Walking tours, rickshaw rides, visit local courtyards, try traditional snacks</p>
+                <p><strong>Where to Experience:</strong> Shichahai Area, Nanluoguxiang, Dongjiaomin Lane</p>
+                <p><strong>Best Time:</strong> Morning (9:00 AM - 11:00 AM) for authentic local life</p>
+                <p><strong>Cultural Significance:</strong> Preserves the memory of Beijing's civilian life, architecture, and community bonds</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 3 -->
+    <div class="ad-footer">
+        <div class="container">
+            <div class="ad-placeholder">Advertisement</div>
+        </div>
+    </div>
+
+    <!-- Section 4: Travel Tips -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Travel Tips</h2>
+            
+            <div style="margin-bottom: 2rem;">
+                <h3>4.1 Best Time to Visit</h3>
+                <p><strong>Spring (April - May):</strong> Pleasant weather, blooming flowers, ideal for outdoor attractions</p>
+                <p><strong>Autumn (September - October):</strong> Clear skies, comfortable temperature, best season overall</p>
+                <p><strong>Avoid:</strong> Summer (hot, humid, crowded), Winter (very cold), Chinese New Year & National Day holidays</p>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3>4.2 Recommended Duration</h3>
+                <p><strong>Minimum:</strong> 3 days (Great Wall, Forbidden City, Temple of Heaven)</p>
+                <p><strong>Ideal:</strong> 5-7 days (includes Summer Palace, Hutong tour, museums, day trips)</p>
+                <p><strong>Extensive:</strong> 10+ days (explore suburbs, Great Wall hiking, deep cultural immersion)</p>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3>4.3 Local Transportation</h3>
+                <p><strong>Subway:</strong> Extensive network (27 lines), most convenient way to travel. Purchase Yikatong card or use mobile payment (Alipay/WeChat Pay).</p>
+                <p><strong>Bus:</strong> Cheap but slower, useful for reaching areas not covered by subway. Pay with Yikatong or mobile payment.</p>
+                <p><strong>Taxi/DiDi:</strong> Metered taxis and ride-hailing app (DiDi). DiDi is more convenient for foreigners (has English interface).</p>
+                <p><strong>Bike Share:</strong> Mobike, HelloBike available throughout the city. Great for short distances in central areas.</p>
+                <p><strong>Between Attractions:</strong></p>
+                <ul style="margin-left: 2rem;">
+                    <li>Forbidden City → Tiananmen Square: 5-minute walk</li>
+                    <li>Forbidden City → Temple of Heaven: Subway Line 1 (Tiananmen East → Dongdan), transfer to Line 5 (Dongdan → Tiantandongmen), total 30 minutes</li>
+                    <li>City Center → Great Wall (Mutianyu): Bus 916 Express + taxi, or book day tour, total 1.5-2 hours</li>
+                </ul>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3>4.4 Intercity & Airport Connections</h3>
+                <p><strong>Airport (PEK & PKX):</strong></p>
+                <ul style="margin-left: 2rem;">
+                    <li>Airport Express Train: Every 15-20 minutes, 25 minutes to Dongzhimen (¥25)</li>
+                    <li>Airport Bus: Multiple routes to different districts (¥20-30)</li>
+                    <li>Taxi: ¥100-150 to city center (depending on traffic)</li>
+                </ul>
+                <p><strong>High-Speed Rail:</strong> Beijing has multiple stations (Beijing West, Beijing South, Beijing Station). Use 12306.cn app for booking.</p>
+                <p><strong>To Other Cities:</strong></p>
+                <ul style="margin-left: 2rem;">
+                    <li>Beijing → Shanghai: High-speed train (4.5 hours, ¥553-1,748)</li>
+                    <li>Beijing → Xi'an: High-speed train (4.5 hours, ¥515.5-1,648)</li>
+                    <li>Beijing → Chengde (for Mountain Resort): Regular train (4-6 hours, ¥41.5-86.5)</li>
+                </ul>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3>4.5 Practical Tips</h3>
+                <ul style="margin-left: 2rem;">
+                    <li><strong>Visa:</strong> Most foreigners need visa to enter China. Apply at Chinese embassy/consulate in advance.</li>
+                    <li><strong>Payments:</strong> Mobile payment (Alipay/WeChat Pay) dominates. International credit cards accepted at hotels, upscale restaurants, and some tourist attractions. Bring cash as backup.</li>
+                    <li><strong>Internet:</strong> Google, Facebook, WhatsApp blocked. Download VPN before arrival. Local apps: WeChat, Alipay, DiDi, 12306.</li>
+                    <li><strong>Language:</strong> English not widely spoken outside hotels and tourist areas. Translation apps (Google Translate, Pleco) essential.</li>
+                    <li><strong>Health:</strong> No vaccinations required. Tap water not drinkable, buy bottled water. Air quality varies, check AQI before outdoor activities.</li>
+                    <li><strong>Safety:</strong> Beijing is very safe. Watch for pickpockets in crowded areas. Avoid demonstrations and political gatherings.</li>
+                    <li><strong>Etiquette:</strong> No tipping culture. Remove shoes when entering someone's home. Don't stick chopsticks vertically in rice (resembles incense for the dead).</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Oriental City Cultural Space</h4>
+                    <p>Showcasing the beauty of Chinese cities to the world</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p>Email: <a href="mailto:contact@orientalcities.com">contact@orientalcities.com</a></p>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <a href="../privacy.html">Privacy Policy</a>
+                    <a href="../terms.html">Terms of Service</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Oriental City Cultural Space. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Refresh Button -->
+    <button class="refresh-btn" onclick="refreshPage()">↻</button>
+
+    <script>
+        function switchLang() {
+            window.location.href = 'beijing-zh.html';
+        }
+        
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('open');
+        }
+        
+        function closeMobileMenu() {
+            const menu = document.getElementById('mobileMenu');
+            menu.classList.remove('open');
+        }
+        
+        // Back to top button
+        window.onscroll = function() {
+            const btn = document.getElementById('backToTop');
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.classList.add('visible');
+            } else {
+                btn.classList.remove('visible');
+            }
+        };
+        
+        function scrollToTop() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+        
+        function refreshPage() {
+            window.location.reload();
+        }
+        
+        // Close mobile menu on outside click
+        document.addEventListener('click', function(event) {
+            const menu = document.getElementById('mobileMenu');
+            const btn = document.querySelector('.mobile-menu-btn');
+            if (!menu.contains(event.target) && !btn.contains(event.target)) {
+                menu.classList.remove('open');
+            }
+        });
+    </script>
+</body>
+</html>

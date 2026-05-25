@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Oriental City Cultural Space</title>
+    <meta name="description" content="Terms of Service for Oriental City Cultural Space website">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Oriental City Cultural Space</h1>
+                    <span class="subtitle">Cultural Tourism</span>
+                </div>
+                <nav class="nav">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="city.html" class="nav-link">Cities</a>
+                    <button class="lang-switch" onclick="switchLang()">中文</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="index.html" onclick="closeMobileMenu()">Home</a>
+        <a href="city.html" onclick="closeMobileMenu()">Cities</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">中文</button>
+    </div>
+
+    <!-- Page Content -->
+    <section class="section" style="padding-top: 4rem;">
+        <div class="container" style="max-width: 800px;">
+            <h1 style="margin-bottom: 2rem;">Terms of Service</h1>
+            
+            <p style="margin-bottom: 1.5rem;">Last updated: May 23, 2026</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">1. Acceptance of Terms</h2>
+            <p style="margin-bottom: 1.5rem;">By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">2. Use License</h2>
+            <p style="margin-bottom: 1.5rem;">Permission is granted to temporarily download one copy of the materials on Oriental City Cultural Space's website for personal, non-commercial transitory viewing only.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">3. Disclaimer</h2>
+            <p style="margin-bottom: 1.5rem;">The materials on Oriental City Cultural Space's website are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">4. Limitations</h2>
+            <p style="margin-bottom: 1.5rem;">In no event shall Oriental City Cultural Space or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on our website.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">5. Accuracy of Materials</h2>
+            <p style="margin-bottom: 1.5rem;">The materials appearing on our website could include technical, typographical, or photographic errors. We do not warrant that any of the materials on its website are accurate, complete or current.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">6. Links</h2>
+            <p style="margin-bottom: 1.5rem;">We have not reviewed all of the sites linked to our website and are not responsible for the contents of any such linked site.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">7. Modifications</h2>
+            <p style="margin-bottom: 1.5rem;">We may revise these terms of service for its website at any time without notice.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">8. Governing Law</h2>
+            <p style="margin-bottom: 1.5rem;">These terms and conditions are governed by and construed in accordance with the laws and you irrevocably submit to the exclusive jurisdiction of the courts in that location.</p>
+            
+            <h2 style="margin-top: 2rem; margin-bottom: 1rem;">9. Contact Information</h2>
+            <p style="margin-bottom: 3rem;">If you have any questions about these Terms of Service, please contact us at:<br>
+            Email: <a href="mailto:legal@orientalcities.com">legal@orientalcities.com</a></p>
+            
+            <p style="color: var(--text-muted); font-size: 0.875rem;">These terms of service are effective as of May 23, 2026.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Oriental City Cultural Space</h4>
+                    <p>Showcasing the beauty of Chinese cities to the world</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p>Email: <a href="mailto:contact@orientalcities.com">contact@orientalcities.com</a></p>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <a href="privacy.html">Privacy Policy</a>
+                    <a href="terms.html">Terms of Service</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Oriental City Cultural Space. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function switchLang() {
+            window.location.href = 'terms-zh.html';
+        }
+        
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('open');
+        }
+        
+        function closeMobileMenu() {
+            const menu = document.getElementById('mobileMenu');
+            menu.classList.remove('open');
+        }
+    </script>
+</body>
+</html>

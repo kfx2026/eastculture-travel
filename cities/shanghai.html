@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shanghai - Oriental City Cultural Space</title>
+    <meta name="description" content="Discover Shanghai - China's most cosmopolitan city with stunning skyline, historic Bund, and world-class cuisine">
+    <meta name="keywords" content="Shanghai, Bund, Yu Garden, Shanghai cuisine, China travel">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Oriental City Cultural Space</h1>
+                    <span class="subtitle">Cultural Tourism</span>
+                </div>
+                <nav class="nav">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="../city.html" class="nav-link">Cities</a>
+                    <button class="lang-switch" onclick="switchLang()">中文</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="../index.html" onclick="closeMobileMenu()">Home</a>
+        <a href="../city.html" onclick="closeMobileMenu()">Cities</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">中文</button>
+    </div>
+
+    <!-- City Hero -->
+    <section class="city-hero" style="background: linear-gradient(135deg, #C8102E 0%, #6BB6FF 100%); padding: 6rem 0; color: white; text-align: center;">
+        <div class="container">
+            <h2 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 300;">Shanghai</h2>
+            <p style="font-size: 1.25rem; opacity: 0.9;">Pearl of the Orient</p>
+        </div>
+    </section>
+
+    <!-- Ad Slot 1 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Section 1: Core Scenic Spots -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Core Scenic Spots</h2>
+            
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>The Bund (Waitan)</h3>
+                <img src="https://picsum.photos/seed/shanghai1/800/400" alt="The Bund Shanghai" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Location:</strong> Zhongshan East 1st Road, Huangpu District</p>
+                <p><strong>Historical Background:</strong> The Bund, stretching 1.5 km along the west bank of Huangpu River, developed in the late 19th century as Shanghai's financial and commercial hub. The 52 buildings along the street showcase diverse architectural styles including Gothic, Baroque, Romanesque, and Art Deco, earning it the nickname "Museum of International Architecture."</p>
+                <p><strong>Highlights:</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>Stunning contrast between historic European architecture and futuristic Pudong skyline</li>
+                    <li>Best night view in Shanghai (lights on at 7:00 PM)</li>
+                    <li>Walkable promenade along Huangpu River</li>
+                    <li>Nearby attractions: Nanjing Road East (shopping), Yu Garden (10 min walk)</li>
+                </ul>
+                <p><strong>Opening Hours:</strong> Open 24/7 (best visited at night 7:00-10:00 PM for light show)</p>
+                <p><strong>Tickets:</strong> Free</p>
+                <p><strong>Transportation:</strong> Metro Line 2 or 10 to East Nanjing Road Station (Exit 2-4), 10-minute walk east to the Bund</p>
+                <p><strong>Best Duration:</strong> 2-3 hours (including evening light viewing)</p>
+                <p><strong>Best Season:</strong> All year; spring and autumn have most pleasant weather</p>
+                <p><strong>Tips:</strong> Visit at sunset (5:30-6:30 PM) to see both daytime and nighttime views; weekends are extremely crowded; bring camera for skyline photos</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>Yu Garden (Yuyuan)</h3>
+                <img src="https://picsum.photos/seed/shanghai2/800/400" alt="Yu Garden Shanghai" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Location:</strong> 218 Anren Street, Huangpu District</p>
+                <p><strong>Historical Background:</strong> Built during the Ming Dynasty (1559-1577) by Pan Yunduan as a private garden for his parents, Yu Garden covers 2 hectares and represents classical Jiangnan garden design. It suffered damage during the Opium Wars but was restored in the 20th century. The garden exemplifies traditional Chinese landscaping with rockeries, ponds, pavilions, and bridges.</p>
+                <p><strong>Highlights:</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>Exquisite Ming Dynasty garden architecture</li>
+                    <li>Yu Garden Bazaar (Yuyuan Old Street) - traditional snacks and crafts</li>
+                    <li>City God Temple (Chenghuang Miao) - adjacent Taoist temple</li>
+                    <li>Huxinting Teahouse - iconic three-story teahouse in the middle of pond</li>
+                </ul>
+                <p><strong>Opening Hours:</strong> 8:30 AM - 5:30 PM (last entry 5:00 PM)</p>
+                <p><strong>Tickets:</strong> ¥40 (peak season April-October), ¥30 (off-season November-March)</p>
+                <p><strong>Transportation:</strong> Metro Line 10 to Yuyuan Garden Station (Exit 1), 5-minute walk</p>
+                <p><strong>Best Duration:</strong> 2-3 hours (including bazaar)</p>
+                <p><strong>Best Season:</strong> Spring (cherry blossoms) and autumn (cool weather)</p>
+                <p><strong>Tips:</strong> Combine with Bund visit (10 min walk); try xiaolongbao at nearby Nanxiang Steamed Bun Restaurant; avoid Chinese holidays</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>Shanghai Tower & Lujiazui Skyline</h3>
+                <img src="https://picsum.photos/seed/shanghai3/800/400" alt="Shanghai Tower" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Location:</strong> 501 Yincheng Middle Road, Pudong District</p>
+                <p><strong>Historical Background:</strong> Shanghai Tower (completed 2015) is China's tallest building at 632 meters (2,073 ft), the second-tallest in the world. It features a unique twisting design that reduces wind loads by 24%. The observation deck on the 118th floor (546 meters) is the world's highest observation deck. Lujiazui area transformed from farmland in 1990 to China's financial hub in just 30 years.</p>
+                <p><strong>Highlights:</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>World's highest observation deck (546m)</li>
+                    <li>360-degree panoramic view of Shanghai</li>
+                    <li>Adjacent to Oriental Pearl Tower and Shanghai World Financial Center</li>
+                    <li>High-speed elevators (18 m/s, 55 seconds to top)</li>
+                </ul>
+                <p><strong>Opening Hours:</strong> 8:30 AM - 10:00 PM (last entry 9:30 PM)</p>
+                <p><strong>Tickets:</strong> ¥220 (adult), ¥110 (child 1.0-1.4m), free (child under 1.0m)</p>
+                <p><strong>Transportation:</strong> Metro Line 2 to Lujiazui Station (Exit 6), 10-minute walk</p>
+                <p><strong>Best Duration:</strong> 2-3 hours</p>
+                <p><strong>Best Season:</strong> Clear days (avoid fog/rain for visibility)</p>
+                <p><strong>Tips:</strong> Buy tickets online in advance; visit 1 hour before sunset for day+night views; bring ID/passport for ticket pickup</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 2 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+    <div class="ad-inline">
+        <div class="ad-placeholder">Advertisement (Mobile)</div>
+    </div>
+
+    <!-- Section 2: Featured Cuisine -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Featured Cuisine</h2>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>Xiaolongbao (Soup Dumplings / 小笼包)</h3>
+                <img src="https://picsum.photos/seed/shanghaifood1/800/400" alt="Xiaolongbao" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Flavor Profile:</strong> Delicate, savory, umami-rich pork broth encased in thin wheat wrapper. The soup inside is hot and flavorful, with subtle sweetness from gelatinized broth.</p>
+                <p><strong>Historical & Cultural Story:</strong> Originated in Nanxiang Town, Jiading District, Shanghai in 1875. Created by Huang Mingxian at the original Nanxiang Steamed Bun Shop. The technique involves adding aspic (gelatinized broth) to the pork filling, which melts into soup during steaming. UNESCO recognized xiaolongbao as an intangible cultural heritage in 2020. Shanghai-style xiaolongbao is smaller and more delicate than versions from other regions.</p>
+                <p><strong>How to Eat:</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Gently lift the dumpling with chopsticks (hold top edge)</li>
+                        <li>Place on soup spoon</li>
+                        <li>Nibble a small hole on the side to release steam</li>
+                        <li>Sip the hot soup first</li>
+                        <li>Dip in black vinegar with ginger strips</li>
+                        <li>Eat the whole dumpling</li>
+                    </ol>
+                </p>
+                <p><strong>Price Range:</strong> ¥30-50 per basket (8 pieces) at restaurants; ¥15-20 at street vendors</p>
+                <p><strong>Where to Try:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Din Tai Fung (Taipei-born, multiple Shanghai locations)</li>
+                        <li>Nanxiang Steamed Bun Restaurant (Yuyuan Garden location - the original)</li>
+                        <li>Jia Jia Tang Bao (Huanghe Road - local favorite)</li>
+                    </ul>
+                </p>
+            </div>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>Shenge (Shengjian Bao / 生煎包)</h3>
+                <img src="https://picsum.photos/seed/shanghaifood2/800/400" alt="Shengjian Bao" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Flavor Profile:</strong> Pan-fried dumplings with crispy bottom, juicy pork filling, and savory soup. Topped with sesame seeds and scallions. Texture contrast: crispy bottom + chewy wrapper + juicy interior.</p>
+                <p><strong>Historical & Cultural Story:</strong> Shengjian originated in Shanghai in the 1920s as a breakfast street food. Unlike xiaolongbao (steamed), shengjian is pan-fried, creating a crispy bottom. Traditionally sold from street carts, now elevated to restaurant menus. Each bite releases hot soup, requiring careful eating technique. A symbol of Shanghai's "street food culture" and working-class culinary heritage.</p>
+                <p><strong>How to Eat:</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Pick up with chopsticks (they're stuck together)</li>
+                        <li>Bite the top to release steam (soup is extremely hot!)</li>
+                        <li>Dip in black vinegar</li>
+                        <li>Eat in 2-3 bites</li>
+                    </ol>
+                </p>
+                <p><strong>Price Range:</strong> ¥8-15 for 4 pieces; ¥20-30 for 8 pieces</p>
+                <p><strong>Where to Try:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Yang's Fry-Dumpling (Yangji Establish, multiple locations)</li>
+                        <li>Da Hu Chun (historic brand since 1932)</li>
+                        <li>Local breakfast stalls in old alleys (hutongs)</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 3 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Section 3: Folk Culture -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Folk Culture</h2>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>Shanghai Opera (Huju / 沪剧)</h3>
+                <img src="https://picsum.photos/seed/shanghaiculture1/800/400" alt="Shanghai Opera" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Origin & History:</strong> Huju (Shanghai Opera) originated in the Qing Dynasty (18th century) from Shanghai's local folk songs and storytelling traditions. It fully developed in the 1920s-30s, incorporating elements from Peking Opera and Yue Opera. Unlike Peking Opera's courtly themes, Huju focuses on everyday life of Shanghai people, performed in Shanghainese dialect. It was recognized as a National Intangible Cultural Heritage in 2008.</p>
+                <p><strong>Performance/Experience Form:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Singing in Shanghainese dialect (not Mandarin)</li>
+                        <li>Themes: modern life, family dramas, social issues</li>
+                        <li>Costumes: contemporary clothing (not elaborate ancient costumes)</li>
+                        <li>Music: erhu, pipa, flute, percussion</li>
+                        <li>Performance style: realistic acting, emotional expression</li>
+                    </ul>
+                </p>
+                <p><strong>Where to Experience:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Shanghai Grand Theatre (seasonal performances)</li>
+                        <li>Yifu Theatre (regular Huju shows)</li>
+                        <li>Shanghai Opera House (modern productions)</li>
+                    </ul>
+                </p>
+                <p><strong>Best Time to Experience:</strong> Evening performances (7:30-9:30 PM); check theatre schedules as shows are not daily</p>
+                <p><strong>Cultural Significance:</strong> Huju is the "voice of Shanghai people," preserving the city's dialect and local identity amid rapid modernization. It's one of the few Chinese opera forms using a modern urban dialect, reflecting Shanghai's unique cultural position as a blend of tradition and modernity.</p>
+            </div>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>Shikumen Architecture & Lane Culture (石库门 / 弄堂文化)</h3>
+                <img src="https://picsum.photos/seed/shanghaiculture2/800/400" alt="Shikumen Lane" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>Origin & History:</strong> Shikumen (literally "stone warehouse gate") is a unique Shanghai architectural style blending Chinese and Western elements, built between 1860-1910. It evolved from traditional Jiangnan courtyard houses, adding Western-style stone gates and brick construction. At its peak in the 1930s, 60% of Shanghai's population lived in shikumen lanes (longtang). These lanes fostered a close-knit community culture where neighbors shared kitchens, childcare, and gossip. Post-1990s, many were demolished for high-rises, but preserved examples (like Xintiandi) became cultural heritage sites.</p>
+                <p><strong>Performance/Experience Form:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Visit preserved shikumen neighborhoods (Xintiandi, Tianzifang)</li>
+                        <li>See traditional lane life: shared courtyards, laundry hanging, mahjong games</li>
+                        <li>Museums: Shanghai Museum of Traditional Chinese Medicine (in shikumen building)</li>
+                        <li>Photo exhibitions of old Shanghai lane life</li>
+                    </ul>
+                </p>
+                <p><strong>Where to Experience:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Xintiandi (upscale dining/shopping in restored shikumen)</li>
+                        <li>Tianzifang (artisan shops in former residential lanes)</li>
+                        <li>Duolun Road Cultural Celebrities Street (historic lane houses)</li>
+                        <li>Shanghai Lane Museum (Jing'an District)</li>
+                    </ul>
+                </p>
+                <p><strong>Best Time to Experience:</strong> Daytime (10:00 AM - 4:00 PM) for photos and exploring; evenings for dining in Xintiandi</p>
+                <p><strong>Cultural Significance:</strong> Shikumen represents Shanghai's "East-meets-West" identity. It's where traditional Chinese courtyard living met Western urban planning, creating a unique social fabric. The lane culture produced famous Shanghai writers (Eileen Chang), filmmakers, and entrepreneurs. Today, it symbolizes the tension between preservation and development in modern Shanghai.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 4 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+    <div class="ad-inline">
+        <div class="ad-placeholder">Advertisement (Mobile)</div>
+    </div>
+
+    <!-- Section 4: Travel Tips -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Travel Tips</h2>
+
+            <div class="tips-content">
+                <h3>Best Time to Visit</h3>
+                <p><strong>Peak Season (Best Weather):</strong> Spring (April-May) and Autumn (October-November). Temperatures 15-25°C (59-77°F), low humidity, clear skies. Cherry blossoms (late March-early April) and autumn foliage (November) are spectacular.</p>
+                <p><strong>Shoulder Season:</strong> June (early summer, occasional rain), September (post-summer, pleasant). Fewer tourists, lower hotel prices.</p>
+                <p><strong>Avoid:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>July-August: Hot (35°C/95°F+), humid, typhoon season</li>
+                        <li>Chinese National Day Holiday (Oct 1-7): Extreme crowds, doubled hotel prices</li>
+                        <li>Chinese New Year (Jan/Feb): Many shops/restaurants closed</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">Recommended Duration</h3>
+                <p><strong>Minimum:</strong> 2 full days (Bund + Yu Garden + one museum + Pudong skyline)</p>
+                <p><strong>Ideal:</strong> 3-4 days (add Zhujiajiao Water Town day trip, museum, French Concession walking tour)</p>
+                <p><strong>Extended:</strong> 5-7 days (add day trips to Suzhou/Hangzhou, Disneyland, explore neighborhoods like Jing'an, Former French Concession)</p>
+
+                <h3 style="margin-top: 2rem;">Getting Around the City</h3>
+                <p><strong>Metro (Highly Recommended):</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>18 lines covering all major attractions</li>
+                        <li>Cost: ¥3-10 per ride (distance-based)</li>
+                        <li>Buy: Single-ride ticket at station, or get Shanghai Public Transportation Card (¥20 deposit + balance)</li>
+                        <li>Apps: Shanghai Metro App (English), Baidu Maps (works in English)</li>
+                    </ul>
+                </p>
+                <p><strong>Taxi/DiDi (Ride-hailing):</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Taxis: Start at ¥14 (first 3 km), ¥2.5/km after</li>
+                        <li>DiDi (Chinese Uber): App in English, cashless payment</li>
+                        <li>Surge pricing during rush hours (7-9 AM, 5-7 PM)</li>
+                    </ul>
+                </p>
+                <p><strong>Walking:</strong> Best for Bund, French Concession, Tianzifang (flat terrain, pedestrian-friendly)</p>
+                <p><strong>Airport-City Transport:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Pudong Airport (PVG): Maglev train (8 min to Longyang Road, ¥50) + Metro; or Metro Line 2 (1 hour, ¥7)</li>
+                        <li>Hongqiao Airport (SHA): Metro Line 2 or 10 (45 min, ¥5)</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">Intercity Transport</h3>
+                <p><strong>To Nearby Cities:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Suzhou: High-speed train (25 min, ¥40-80), frequent departures</li>
+                        <li>Hangzhou: High-speed train (1 hour, ¥80-150)</li>
+                        <li>Nanjing: High-speed train (1.5 hours, ¥135-250)</li>
+                        <li>Zhujiajiao (Water Town): Metro Line 17 (1 hour, ¥8)</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">Practical Tips</h3>
+                <p><strong>Money:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Alipay/WeChat Pay accepted everywhere (link int'l credit card)</li>
+                        <li>Cash accepted but rare; carry ¥200-300 backup</li>
+                        <li>ATMs widely available; int'l cards work at Bank of China ATMs</li>
+                    </ul>
+                </p>
+                <p><strong>Language:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Mandarin widely spoken; English limited outside hotels/tourist areas</li>
+                        <li>Download translation app: Google Translate (offline mode), Pleco (dictionary)</li>
+                        <li>Metro signs in English + Chinese</li>
+                    </ul>
+                </p>
+                <p><strong>Internet:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>WhatsApp, Google, Facebook blocked (use VPN)</li>
+                        <li>WeChat (Chinese super-app) works without VPN</li>
+                        <li>Buy China Unicom SIM at airport (¥99 for 7 days unlimited data)</li>
+                    </ul>
+                </p>
+                <p><strong>Safety:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Very safe city; low violent crime</li>
+                        <li>Watch for pickpockets in crowded areas (Bund, metro)</li>
+                        <li>Scams: Avoid "teahouse scam" (strangers inviting to tea), fake taxi meters</li>
+                    </ul>
+                </p>
+                <p><strong>Etiquette:</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Queue politely (though pushing is common in metro)</li>
+                        <li>Don't tip (not expected in China)</li>
+                        <li>Respect elderly (give up metro seats)</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 5 (Footer Ad) -->
+    <div class="ad-footer">
+        <div class="ad-placeholder">Advertisement</div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Oriental City Cultural Space</h3>
+                    <p>Discover the beauty of oriental cities</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <a href="../index.html">Home</a>
+                    <a href="../city.html">Cities</a>
+                    <a href="../privacy.html">Privacy Policy</a>
+                    <a href="../terms.html">Terms of Service</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Oriental City Cultural Space. All rights reserved.</p>
+                <a href="#" onclick="scrollToTop(); return false;" style="float: right; color: white; text-decoration: none;">Back to Top ↑</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Refresh Button -->
+    <button class="refresh-btn" onclick="refreshPage()" title="Refresh">↻</button>
+
+    <script src="../js/city.js"></script>
+    <script>
+        function switchLang() {
+            window.location.href = 'shanghai-zh.html';
+        }
+        
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        function refreshPage() {
+            location.reload();
+        }
+        
+        // Back to top button visibility
+        window.onscroll = function() {
+            var btn = document.getElementById('backToTop');
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = 'block';
+            } else {
+                btn.style.display = 'none';
+            }
+        };
+        
+        function toggleMobileMenu() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('active');
+        }
+        
+        function closeMobileMenu() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.remove('active');
+        }
+    </script>
+</body>
+</html>

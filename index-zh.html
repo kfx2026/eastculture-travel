@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>东方城市人文空间 - 文旅</title>
+    <meta name="description" content="发现中国城市魅力 - 景区、美食、民俗文化、旅行攻略">
+    <meta name="keywords" content="中国旅游, 城市文化, 文旅, 旅行指南, 东方文化">
+    <link rel="canonical" href="https://travel.eastculture.top/index-zh.html">
+    <link rel="alternate" hreflang="en" href="https://travel.eastculture.top/">
+    <link rel="alternate" hreflang="zh" href="https://travel.eastculture.top/index-zh.html">
+    <link rel="alternate" hreflang="x-default" href="https://travel.eastculture.top/">
+    <meta property="og:title" content="东方城市人文空间 - 文旅">
+    <meta property="og:description" content="发现中国城市魅力 - 景区、美食、民俗文化、旅行攻略">
+    <meta property="og:url" content="https://travel.eastculture.top/index-zh.html">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh_CN">
+    <meta property="og:site_name" content="东方城市人文空间">
+    <meta property="og:image" content="https://travel.eastculture.top/images/chengdu-banner.jpg">
+    <meta property="og:image:alt" content="东方城市人文空间 - 中国旅游">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="东方城市人文空间 - 文旅">
+    <meta name="twitter:description" content="发现中国城市魅力 - 景区、美食、民俗文化、旅行攻略">
+    <meta name="twitter:image" content="https://travel.eastculture.top/images/chengdu-banner.jpg">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>东方城市人文空间</h1>
+                    <span class="subtitle">文旅</span>
+                </div>
+                <nav class="nav">
+                    <a href="index-zh.html" class="nav-link active">首页</a>
+                    <a href="city-zh.html" class="nav-link">城市</a>
+                    <button class="lang-switch" onclick="switchLang()">EN</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="index-zh.html" onclick="closeMobileMenu()">首页</a>
+        <a href="city-zh.html" onclick="closeMobileMenu()">城市</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">EN</button>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h2>发现东方城市之美</h2>
+                <p>探索中国最具魅力的目的地，从古老奇迹到现代瑰宝</p>
+                <a href="city-zh.html" class="btn-primary">探索城市</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 1 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">广告位</div>
+    </div>
+
+    <!-- Seasonal Hot Cities -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">时令热门城市</h2>
+            <div class="city-grid">
+                <div class="city-card">
+                    <div class="card-image" style="background-image: url('images/beijing.jpg')"></div>
+                    <div class="card-content">
+                        <h3>北京</h3>
+                        <p>千年古都，长城故宫雄伟壮观</p>
+                        <a href="city-zh.html?city=beijing" class="card-link">探索 →</a>
+                    </div>
+                </div>
+                <div class="city-card">
+                    <div class="card-image" style="background-image: url('images/shanghai.jpg')"></div>
+                    <div class="card-content">
+                        <h3>上海</h3>
+                        <p>现代都市，东西方文化交融</p>
+                        <a href="city-zh.html?city=shanghai" class="card-link">探索 →</a>
+                    </div>
+                </div>
+                <div class="city-card">
+                    <div class="card-image" style="background-image: url('images/guilin.jpg')"></div>
+                    <div class="card-content">
+                        <h3>桂林</h3>
+                        <p>喀斯特地貌壮丽，漓江风光如画</p>
+                        <a href="city-zh.html?city=guilin" class="card-link">探索 →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 2 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">广告位</div>
+    </div>
+
+    <!-- Recently Launched Cities -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">近期上线</h2>
+            <div class="city-grid">
+                <div class="city-card">
+                    <div class="card-image" style="background-image: url('images/chengdu.jpg')"></div>
+                    <div class="card-content">
+                        <h3>成都</h3>
+                        <p>大熊猫故乡，川菜美食之都</p>
+                        <a href="city-zh.html?city=chengdu" class="card-link">探索 →</a>
+                    </div>
+                </div>
+                <div class="city-card">
+                    <div class="card-image" style="background-image: url('images/hangzhou.jpg')"></div>
+                    <div class="card-content">
+                        <h3>杭州</h3>
+                        <p>人间天堂，西湖美景传世</p>
+                        <a href="city-zh.html?city=hangzhou" class="card-link">探索 →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 3 -->
+    <div class="ad-footer">
+        <div class="container">
+            <div class="ad-placeholder">广告位</div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>东方城市人文空间</h4>
+                    <p>向世界展示中国城市之美</p>
+                </div>
+                <div class="footer-section">
+                    <h4>联系方式</h4>
+                    <p>邮箱: <a href="mailto:contact@orientalcities.com">contact@orientalcities.com</a></p>
+                </div>
+                <div class="footer-section">
+                    <h4>法律信息</h4>
+                    <a href="privacy-zh.html">隐私政策</a>
+                    <a href="terms-zh.html">服务条款</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 东方城市人文空间. 保留所有权利。</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Refresh Button -->
+    <button class="refresh-btn" onclick="refreshPage()">↻</button>
+
+    <script src="js/main-zh.js"></script>
+</body>
+</html>
