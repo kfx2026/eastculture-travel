@@ -1,55 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <!-- Homepage -->
   <url>
-    <loc>https://kfx2026.github.io/china-travel-site/</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://travel.eastculture.top/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- Cities page -->
   <url>
-    <loc>https://kfx2026.github.io/china-travel-site/cities.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://travel.eastculture.top/cities.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <!-- City detail pages (5 cities) -->
-  <url>
-    <loc>https://kfx2026.github.io/china-travel-site/cities.html?city=beijing</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kfx2026.github.io/china-travel-site/cities.html?city=chengdu</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kfx2026.github.io/china-travel-site/cities.html?city=xian</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kfx2026.github.io/china-travel-site/cities.html?city=hangzhou</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kfx2026.github.io/china-travel-site/cities.html?city=guilin</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <!-- Privacy -->
-  <url>
-    <loc>https://kfx2026.github.io/china-travel-site/privacy.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://travel.eastculture.top/privacy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
