@@ -330,6 +330,17 @@ function renderCityDetail(cityId, app) {
       '<div class="guide-item" style="grid-column:1/-1;"><h4>' + t('guide_tips') + '</h4><div>' + tl(g.tips) + '</div></div>' +
     '</div>';
 
+  // === New: differentiated sections ===
+  var practicalHtml = city.practicalGuide ? '<div class="diff-section">' +
+    '<h3>' + t('sec_practical') + '</h3>' +
+    '<div class="diff-content">' + tl(city.practicalGuide) + '</div></div>' : '';
+  var honestHtml = city.honestTips ? '<div class="diff-section">' +
+    '<h3>' + t('sec_honest') + '</h3>' +
+    '<div class="diff-content">' + tl(city.honestTips) + '</div></div>' : '';
+  var secretHtml = city.localSecrets ? '<div class="diff-section">' +
+    '<h3>' + t('sec_secret') + '</h3>' +
+    '<div class="diff-content">' + tl(city.localSecrets) + '</div></div>' : '';
+
   app.innerHTML =
     '<div class="city-detail">' +
       '<a href="cities.html" class="btn-back">' + t('back_cities') + '</a>' +
@@ -362,6 +373,8 @@ function renderCityDetail(cityId, app) {
         '<h3>' + t('sec_guide') + '</h3>' +
         guideHtml +
       '</div>' +
+
+      practicalHtml + honestHtml + secretHtml +
     '</div>';
 }
 
