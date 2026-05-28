@@ -1,0 +1,121 @@
+[
+  {
+    "id": "beijing",
+    "name": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "province": {
+      "en": "Beijing Municipality",
+      "zh": "北京市"
+    },
+    "intro": {
+      "en": "The timeless capital where imperial grandeur meets cutting-edge modernity. Walk the Great Wall at sunrise, get lost in hutong alleyways, and taste Peking duck carved tableside.",
+      "zh": "千年帝都，气象万千。长城日出、胡同深处、桌前现片的烤鸭——北京在古老与先锋之间自如呼吸。"
+    },
+    "hero_img": "img/beijing.jpg",
+    "hero_fb": "linear-gradient(135deg, #8B1E1E 0%, #C44536 40%, #E8A87C 100%)"
+  },
+  {
+    "id": "chengdu",
+    "name": {
+      "en": "Chengdu",
+      "zh": "成都"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "The land of pandas, fiery hotpot, and a pace of life that redefines 'relaxed'. Sip tea in a bamboo grove while locals play mahjong — this is Chengdu.",
+      "zh": "熊猫之乡，火锅之城，一座重新定义'安逸'的城市。竹林里喝茶，听隔壁桌搓麻将——这就是成都。"
+    },
+    "hero_img": "img/chengdu.jpg",
+    "hero_fb": "linear-gradient(135deg, #1B5E20 0%, #388E3C 40%, #81C784 100%)"
+  },
+  {
+    "id": "xian",
+    "name": {
+      "en": "Xi'an",
+      "zh": "西安"
+    },
+    "province": {
+      "en": "Shaanxi Province",
+      "zh": "陕西省"
+    },
+    "intro": {
+      "en": "The ancient starting point of the Silk Road, home to the Terracotta Warriors and a Muslim Quarter that has been sizzling for over 1,000 years.",
+      "zh": "丝绸之路的东方起点，兵马俑的故乡。回民街的烟火气已经飘了上千年。"
+    },
+    "hero_img": "img/xian.jpg",
+    "hero_fb": "linear-gradient(135deg, #6D4C41 0%, #A1887F 40%, #D7CCC8 100%)"
+  },
+  {
+    "id": "hangzhou",
+    "name": {
+      "en": "Hangzhou",
+      "zh": "杭州"
+    },
+    "province": {
+      "en": "Zhejiang Province",
+      "zh": "浙江省"
+    },
+    "intro": {
+      "en": "Marco Polo called it 'the city of heaven'. West Lake's misty waters, Dragon Well tea terraces, and ancient temples make Hangzhou China's most poetic city.",
+      "zh": "马可·波罗称之为'天城'。西湖烟波、龙井茶园、千年古刹——杭州是中国最富诗意的城市。"
+    },
+    "hero_img": "img/hangzhou.jpg",
+    "hero_fb": "linear-gradient(135deg, #00695C 0%, #00897B 40%, #80CBC4 100%)"
+  },
+  {
+    "id": "guilin",
+    "name": {
+      "en": "Guilin",
+      "zh": "桂林"
+    },
+    "province": {
+      "en": "Guangxi Zhuang Autonomous Region",
+      "zh": "广西壮族自治区"
+    },
+    "intro": {
+      "en": "Karst peaks rise from misty rivers like dragon's teeth. Guilin's landscapes have inspired Chinese scroll paintings for a thousand years — and they're even more surreal in person.",
+      "zh": "喀斯特峰林从雾江中拔起，如龙齿般嶙峋。桂林山水入画千年——亲眼所见比画更超现实。"
+    },
+    "hero_img": "img/guilin.jpg",
+    "hero_fb": "linear-gradient(135deg, #1A4A5A 0%, #2E7D6F 40%, #80CBC4 100%)"
+  },
+  {
+    "id": "leshan",
+    "name": {
+      "en": "Leshan",
+      "zh": "乐山"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "Where three rivers converge beneath the world's largest stone Buddha. Leshan (ancient Jiazhou) blends misty mountains, thousand-year temples, and a food scene that rivals Chengdu itself. Slow down — this city lives at its own pace.",
+      "zh": "三江汇流处，端坐着世界最大石刻佛像。乐山（古称嘉州）将山水仙境、千年古刹和不输成都的美食融为一体。慢下来——这座城有自己的节奏。"
+    },
+    "hero_img": "img/leshan-1.jpg",
+    "hero_fb": "linear-gradient(135deg, #2E7D32 0%, #558B2F 40%, #8BC34A 100%)"
+  },
+  {
+    "id": "yaan",
+    "name": {
+      "en": "Ya'an",
+      "zh": "雅安"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "Known as the 'Throat of Western Sichuan' and 'Rain City,' Ya'an is where the Sichuan Basin meets the Tibetan Plateau — a mist-shrouded land of giant pandas, ancient tea culture, and breathtaking mountain scenery.",
+      "zh": "川西咽喉，雨城雅韵。雅安是盆地与高原的交汇处，大熊猫的故乡、世界茶文化的发源地。一座被山水浸润的千年古城。"
+    },
+    "hero_img": "img/yaan-city.jpg",
+    "hero_fb": "linear-gradient(135deg, #2E7D32 0%, #66BB6A 40%, #A5D6A7 100%)"
+  }
+]

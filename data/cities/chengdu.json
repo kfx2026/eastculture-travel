@@ -1,0 +1,234 @@
+{
+  "id": "chengdu",
+  "name": {
+    "en": "Chengdu",
+    "zh": "成都"
+  },
+  "province": {
+    "en": "Sichuan Province",
+    "zh": "四川省"
+  },
+  "intro": {
+    "en": "The land of pandas, fiery hotpot, and a pace of life that redefines 'relaxed'. Sip tea in a bamboo grove while locals play mahjong — this is Chengdu.",
+    "zh": "熊猫之乡，火锅之城，一座重新定义'安逸'的城市。竹林里喝茶，听隔壁桌搓麻将——这就是成都。"
+  },
+  "hero_img": "img/chengdu.jpg",
+  "hero_fb": "linear-gradient(135deg, #1B5E20 0%, #388E3C 40%, #81C784 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Giant Panda Breeding Base",
+        "zh": "大熊猫繁育研究基地"
+      },
+      "img": "img/chengdu.jpg",
+      "desc": {
+        "en": "See pandas at their most active — early morning feeding time is pure joy. Watch cubs tumble and adults munch bamboo with unmatched dedication.",
+        "zh": "看熊猫最活跃的时刻——清晨喂食时间萌到犯规。幼崽打滚，成年熊猫专注啃竹子。"
+      },
+      "highlight": {
+        "en": "Baby panda nursery (seasonal)",
+        "zh": "熊猫幼崽育婴室（季节性）"
+      },
+      "hours": {
+        "en": "7:30 AM – 6:00 PM",
+        "zh": "7:30 – 18:00"
+      },
+      "ticket": {
+        "en": "¥55",
+        "zh": "¥55"
+      },
+      "tips": {
+        "en": "Arrive at 7:30 AM sharp — pandas sleep by 10 AM. The moon gate entrance is less crowded.",
+        "zh": "7:30准时到——10点后熊猫就睡了。月亮门入口人少些。"
+      },
+      "location": {
+        "en": "Chenghua District, 18km north of city center",
+        "zh": "成华区，市中心以北18公里"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "Wildlife · Family · Morning",
+        "zh": "野生动物 · 亲子 · 清晨"
+      }
+    },
+    {
+      "name": {
+        "en": "Jinli Ancient Street",
+        "zh": "锦里古街"
+      },
+      "img": "img/chengdu.jpg",
+      "desc": {
+        "en": "Red lanterns, wooden architecture, and the best street food within the Wuhou Shrine complex. Perfect at dusk when lanterns flicker on.",
+        "zh": "红灯笼、木建筑、武侯祠旁最棒的街头小吃街。黄昏时分灯笼亮起，氛围满分。"
+      },
+      "highlight": {
+        "en": "Sichuan opera face-changing show",
+        "zh": "川剧变脸表演"
+      },
+      "hours": {
+        "en": "Open all day, best after 5 PM",
+        "zh": "全天开放，建议17:00后前往"
+      },
+      "ticket": {
+        "en": "Free (street area)",
+        "zh": "免费（街区）"
+      },
+      "tips": {
+        "en": "Try 'san da pao' (three big cannons) — a traditional snack with a theatrical preparation.",
+        "zh": "尝尝'三大炮'——制作过程有表演效果的传统小吃。"
+      },
+      "location": {
+        "en": "Wuhou District, adjacent to Wuhou Shrine",
+        "zh": "武侯区，紧邻武侯祠"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Street Food · Evening · Culture",
+        "zh": "街头美食 · 夜景 · 文化"
+      }
+    },
+    {
+      "name": {
+        "en": "Mount Qingcheng",
+        "zh": "青城山"
+      },
+      "img": "img/chengdu.jpg",
+      "desc": {
+        "en": "Birthplace of Taoism — misty peaks, ancient temples hidden in dense forest. The front mountain is easier; the back mountain is wilder and far less crowded.",
+        "zh": "道教发源地——雾绕峰峦，密林藏古观。前山较平缓，后山更野，游客少得多。"
+      },
+      "highlight": {
+        "en": "Back mountain hiking trail",
+        "zh": "后山徒步步道"
+      },
+      "hours": {
+        "en": "8:00 AM – 5:30 PM",
+        "zh": "8:00 – 17:30"
+      },
+      "ticket": {
+        "en": "¥90 (front), ¥20 (back)",
+        "zh": "¥90（前山）/ ¥20（后山）"
+      },
+      "tips": {
+        "en": "Take the high-speed train to Qingchengshan station (30min from Chengdu).",
+        "zh": "成都坐高铁到青城山站仅30分钟。"
+      },
+      "location": {
+        "en": "Dujiangyan City, 68km from Chengdu",
+        "zh": "都江堰市，距成都68公里"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "UNESCO · Nature · Day Trip",
+        "zh": "世界遗产 · 自然 · 一日游"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Sichuan Hotpot",
+        "zh": "四川火锅"
+      },
+      "img": "img/chengdu.jpg",
+      "desc": {
+        "en": "A cauldron of bubbling chili oil, Sichuan peppercorns, and infinite ingredients. The numbing-spicy (mala) sensation is unlike anything else.",
+        "zh": "翻滚的红油锅底，花椒与干辣椒共舞，食材无限。麻辣鲜香四重奏，没有体验过的人生不完整。"
+      },
+      "where": {
+        "en": "Hotpot restaurants are everywhere — follow the aroma and the crowds",
+        "zh": "火锅店遍布全城——循着香气和人潮走就对了"
+      },
+      "price": {
+        "en": "¥80–150 per person",
+        "zh": "人均¥80–150"
+      },
+      "must_try": {
+        "en": "Order 'huanghou' (beef aorta) and lotus root slices — trust us.",
+        "zh": "黄喉和藕片必点——信我们。"
+      }
+    },
+    {
+      "name": {
+        "en": "Dan Dan Noodles",
+        "zh": "担担面"
+      },
+      "img": "img/chengdu.jpg",
+      "desc": {
+        "en": "A humble bowl of noodles with minced pork, preserved vegetables, and chili oil. Simple, perfect, and under ¥15.",
+        "zh": "肉末、芽菜、红油浇在手擀面上。简单、完美、不过15块钱。"
+      },
+      "where": {
+        "en": "Any local noodle shop — look for long queues",
+        "zh": "街边面馆——看到有人排队就对了"
+      },
+      "price": {
+        "en": "¥10–15 per bowl",
+        "zh": "¥10–15/碗"
+      },
+      "must_try": {
+        "en": "Add a spoon of the house chili paste on the side.",
+        "zh": "旁边辣椒酱舀一勺进去。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Tea House Culture",
+        "zh": "茶馆文化"
+      },
+      "img": "img/chengdu.jpg",
+      "desc": {
+        "en": "Tea houses are Chengdu's living room. Bamboo chairs, jasmine tea, ear cleaning services — spend an entire afternoon doing nothing. It's an art form.",
+        "zh": "茶馆是成都人的客厅。竹椅、盖碗茶、掏耳朵——花一整个下午无所事事。这是一种艺术。"
+      },
+      "significance": {
+        "en": "Chengdu has over 10,000 tea houses — more than any city on Earth.",
+        "zh": "成都茶馆超万家——全球之最。"
+      },
+      "best_time": {
+        "en": "Any afternoon, rain or shine",
+        "zh": "任何下午，风雨无阻"
+      },
+      "experience": {
+        "en": "Renmin Park Heming Tea House — the most authentic",
+        "zh": "人民公园鹤鸣茶社——最正宗的老茶馆"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Mar–May) & Autumn (Sep–Nov). Summer is hot and humid; winter is grey but mild.",
+      "zh": "春秋最佳（3-5月、9-11月）。夏季湿热，冬季阴冷但温和。"
+    },
+    "days": {
+      "en": "3–4 days",
+      "zh": "3–4天"
+    },
+    "transit": {
+      "en": "Metro is clean and easy (¥2–8). Bike sharing (Meituan/Hellobike) is the best way to explore.",
+      "zh": "地铁干净便利（¥2–8）。共享单车（美团/哈啰）是最佳探索方式。"
+    },
+    "intercity": {
+      "en": "Chengdu Shuangliu (CTU) & Tianfu (TFU) airports. High-speed rail: 1h to Chongqing, 3h to Xi'an.",
+      "zh": "双流(CTU)+天府(TFU)双机场。高铁：1小时到重庆，3小时到西安。"
+    },
+    "tips": {
+      "en": "Sichuan food is SPICY — say 'bù là' (not spicy) if needed. Most restaurants can adjust. Bring tissues — many local spots don't provide napkins. Carry cash for street vendors.",
+      "zh": "川菜辣——需要的话说'不要辣'。多数餐馆可以调整。随身带纸巾——很多小店不提供。带现金以备路边摊。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting around:</strong> Chengdu metro is excellent and cheap (¥2–8). Buy a 天府通 (Tianfu Tong) card at any station. Bike-sharing (Meituan/Hellobike) is everywhere — the best way to explore the city's flat terrain. Didi (Chinese Uber) costs ¥15–30 for most city rides.</p><p><strong>Panda Base logistics:</strong> The research base opens at 7:30 AM. Take metro Line 3 to Panda Avenue station, then a free shuttle bus. Arrive at 7:30 sharp — pandas are most active in the morning and sleep by 10 AM. The moon-gate entrance is less crowded. Buy tickets online in advance (¥55).</p><p><strong>Heat management:</strong> Chengdu summers are brutally humid (30°C+). Carry a portable fan and water. Most restaurants are not air-conditioned. Learn \"微辣\" (wēi là, mild spicy) — even \"mild\" in Sichuan is hot.</p><p><strong>Language:</strong> English is not widely spoken outside the tourist areas. Download Pleco (offline Chinese dictionary). Learn \"多少钱\" (how much) and \"买单\" (check, please).</p>",
+    "zh": "<p><strong>出行：</strong>成都地铁方便便宜（¥2–8）。任何地铁站都可以买天府通卡。共享单车（美团/哈啰）满街都是——平坦的成都骑自行车最舒服。滴滴市内大部分¥15–30。</p><p><strong>看熊猫攻略：</strong>繁育基地7:30开门。地铁3号线到熊猫大道站，转免费摆渡车。7:30准时到——熊猫早上最活跃，10点就睡了。月亮门入口人少。提前网上买票（¥55）。</p><p><strong>防热：</strong>成都夏天湿热得厉害（30°C+）。随身带小风扇和水。大部分餐馆没空调。学会说\"微辣\"——在四川，微辣已经很辣了。</p><p><strong>语言：</strong>景区以外英语不普及。下载Pleco（离线中文字典）。记住\"多少钱\"和\"买单\"这两句就够了。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Hotpot is hotter than you think.</strong> Even the \"mild\" broth in Chengdu will make you sweat. If you're not a spice veteran, request \"鸳鸯锅\" (yuanyang guo, half spicy half clear broth). The oil-based broth is not soup — don't drink it. The sesame oil dip isn't for flavor; it coats your stomach against the spice. Your clothes will smell for 2 days after.</p><p><strong>Jinli vs Kuanzhai Xiangzi.</strong> Both are tourist streets with inflated prices. Jinli is more atmospheric at night. Kuanzhai is cleaner and more Instagram-friendly. Neither is where locals hang out — they're for tourists. Go once, take photos, don't spend much.</p><p><strong>Panda Base crowds.</strong> Despite arriving at 7:30, expect queues for the panda nursery. On weekends, wait times can exceed 1 hour. Weekdays are significantly better. Skip the panda volunteer program — it's expensive (¥3,000+) and you barely touch a panda.</p>",
+    "zh": "<p><strong>火锅比你想象的辣得多。</strong>在成都，连\"微辣\"都能让你出汗。吃不了辣就点\"鸳鸯锅\"——一半红油一半清汤。那层红油不是汤——别喝。香油蘸碟不是调味的，是给胃上保护膜的。吃完衣服带味两天。</p><p><strong>锦里vs宽窄巷子。</strong>两条都是游客街，价格虚高。锦里晚上更有氛围。宽窄更干净更适合拍照。但本地人都不去——去一次拍拍照就行了，别花大钱。</p><p><strong>熊猫基地排队。</strong>就算7:30到，看熊猫幼崽还是要排队。周末等一小时以上。工作日好得多。别参加熊猫志愿者项目——¥3000+，其实基本碰不到熊猫。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>People's Park (Renmin Gongyuan).</strong> This is where Chengdu's soul lives. Find the Heming Tea House (鹤鸣茶社) — established 1923. Grab a bamboo chair, order jasmine tea (¥15–30), and watch locals play mahjong, get their ears cleaned, and argue about politics. Spend at least 2 hours doing nothing. It's called \"安逸\" (ānyì) — the art of comfortable idleness.</p><p><strong>Late-night hotpot in Yulin.</strong> The Yulin neighborhood (where Zhao Lei's song \"Chengdu\" is set) comes alive after 10 PM with hotpot restaurants that stay open until 4 AM. Go with friends, order beer, and watch Chengdu's nightlife unfold.</p><p><strong>Qingcheng Mountain back trail.</strong> Skip the front mountain (¥90, tourist trail with cable cars). Take the back mountain entrance (¥20, wild trail with waterfalls). It's more physically demanding but you'll have ancient Taoist temples almost to yourself. Take the high-speed train from Chengdu Xi'pu station (30 min, ¥16).</p>",
+    "zh": "<p><strong>人民公园。</strong>成都的灵魂在这里。找到鹤鸣茶社（1923年开张），搬把竹椅，点杯盖碗茶（¥15–30），看本地人打麻将、掏耳朵、谈天说地。至少花两小时啥也不干。这叫\"安逸\"。</p><p><strong>玉林夜火锅。</strong>赵雷唱\"成都\"的玉林路，晚上10点后火锅店开始热闹，营业到凌晨4点。叫上朋友，点几瓶啤酒，看成都的夜生活怎么过。</p><p><strong>青城山后山。</strong>别去前山（¥90，游客路线有缆车）。走后山入口（¥20，野路有瀑布）。更费体力但你能独享古老的道观。成都犀浦站坐高铁30分钟到青城山站（¥16）。</p>"
+  }
+}

@@ -242,14 +242,17 @@ function renderCitiesPage() {
 
 // ===== RENDER CITY DETAIL =====
 function renderCityDetail(cityId, app) {
-  var city = null;
-  for (var i = 0; i < window.CITIES.length; i++) {
-    if (window.CITIES[i].id === cityId) { city = window.CITIES[i]; break; }
-  }
-  if (!city) {
-    app.innerHTML = '<div class="section"><p style="text-align:center;padding:5rem;">' + t('coming_tba') + '</p></div>';
-    return;
-  }
+  // Async load full city data from JSON
+  window.loadCity(cityId).then(function(city) {
+    if (!city) {
+      app.innerHTML = '<div class="section"><p style="text-align:center;padding:5rem;">' + t('coming_tba') + '</p></div>';
+      return;
+    }
+    _renderCityDetail(city, app);
+  });
+}
+
+function _renderCityDetail(city, app) {
 
   document.title = tl(city.name) + ' - ' + t('site_name');
 
@@ -404,11 +407,19 @@ function renderPage() {
   setupBackToTop();
 }
 
-// ===== INIT =====
+// ===== INIT (wait for data) =====
+function boot() {
+  if (window._dataReady) {
+    window._dataReady.then(renderPage);
+  } else {
+    renderPage();
+  }
+}
+
 if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', renderPage);
+  document.addEventListener('DOMContentLoaded', boot);
 } else {
-  renderPage();
+  boot();
 }
 
 })();

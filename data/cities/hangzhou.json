@@ -1,0 +1,211 @@
+{
+  "id": "hangzhou",
+  "name": {
+    "en": "Hangzhou",
+    "zh": "杭州"
+  },
+  "province": {
+    "en": "Zhejiang Province",
+    "zh": "浙江省"
+  },
+  "intro": {
+    "en": "Marco Polo called it 'the city of heaven'. West Lake's misty waters, Dragon Well tea terraces, and ancient temples make Hangzhou China's most poetic city.",
+    "zh": "马可·波罗称之为'天城'。西湖烟波、龙井茶园、千年古刹——杭州是中国最富诗意的城市。"
+  },
+  "hero_img": "img/hangzhou.jpg",
+  "hero_fb": "linear-gradient(135deg, #00695C 0%, #00897B 40%, #80CBC4 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "West Lake",
+        "zh": "西湖"
+      },
+      "img": "img/hangzhou.jpg",
+      "desc": {
+        "en": "A UNESCO site that has inspired poets for millennia. Pagodas, arched bridges, willow-lined causeways — every view is a painting come alive.",
+        "zh": "世界遗产，千年诗意。雷峰塔、断桥、苏堤春晓——每一眼都是一幅活过来的水墨画。"
+      },
+      "highlight": {
+        "en": "Sunset from Leifeng Pagoda",
+        "zh": "雷峰塔日落"
+      },
+      "hours": {
+        "en": "Open 24 hours (scenic area)",
+        "zh": "24小时开放（景区）"
+      },
+      "ticket": {
+        "en": "Free (lake area), Leifeng Pagoda ¥40",
+        "zh": "免费（湖区），雷峰塔¥40"
+      },
+      "tips": {
+        "en": "Rent a bike and circle the entire lake (12km). Stop at random tea houses along the way.",
+        "zh": "租自行车环湖一周（12公里）。沿途随机停靠茶馆。"
+      },
+      "location": {
+        "en": "Xihu District, city center",
+        "zh": "西湖区，市中心"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "UNESCO · Scenic · Cycling",
+        "zh": "世界遗产 · 风景 · 骑行"
+      }
+    },
+    {
+      "name": {
+        "en": "Lingyin Temple",
+        "zh": "灵隐寺"
+      },
+      "img": "img/hangzhou.jpg",
+      "desc": {
+        "en": "One of China's largest and wealthiest Buddhist temples, tucked into forested hills. The Feilai Feng grottoes with 470+ stone carvings are a hidden wonder.",
+        "zh": "中国规模最大的佛教寺院之一，隐于山林。飞来峰470余尊石刻造像是隐藏的奇迹。"
+      },
+      "highlight": {
+        "en": "Feilai Feng ancient stone carvings",
+        "zh": "飞来峰石刻造像"
+      },
+      "hours": {
+        "en": "7:00 AM – 5:15 PM",
+        "zh": "7:00 – 17:15"
+      },
+      "ticket": {
+        "en": "¥75 (combo incl. Feilai Feng)",
+        "zh": "¥75（含飞来峰联票）"
+      },
+      "tips": {
+        "en": "Go on a weekday morning. The temple incense is thickest then.",
+        "zh": "工作日早上去。那时香火最旺，氛围最浓。"
+      },
+      "location": {
+        "en": "Xihu District, northwest of West Lake",
+        "zh": "西湖区，西湖北面"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Temple · History · Morning",
+        "zh": "寺庙 · 历史 · 清晨"
+      }
+    },
+    {
+      "name": {
+        "en": "Longjing Tea Plantations",
+        "zh": "龙井茶园"
+      },
+      "img": "img/hangzhou.jpg",
+      "desc": {
+        "en": "Terraced tea fields stretching across rolling hills. Visit during spring harvest (late March–April) to see tea pickers at work and taste the freshest brew.",
+        "zh": "梯田茶园绵延起伏山丘。春季采摘季（3月底-4月）来看采茶人劳作，品尝最新鲜的龙井。"
+      },
+      "highlight": {
+        "en": "Spring tea harvest + tasting",
+        "zh": "春茶采摘+品鉴"
+      },
+      "hours": {
+        "en": "Daylight hours",
+        "zh": "白天时间"
+      },
+      "ticket": {
+        "en": "Free (fields), tasting ¥30–80",
+        "zh": "免费（茶园），品茶¥30–80"
+      },
+      "tips": {
+        "en": "Longjing Village is the most famous but Meijiawu offers a more authentic experience.",
+        "zh": "龙井村最有名，但梅家坞体验更地道。"
+      },
+      "location": {
+        "en": "Xihu District, southwest of West Lake",
+        "zh": "西湖区，西湖西南"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "Nature · Tea · Spring",
+        "zh": "自然 · 茶 · 春季"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Dongpo Pork",
+        "zh": "东坡肉"
+      },
+      "img": "img/hangzhou.jpg",
+      "desc": {
+        "en": "Named after the Song Dynasty poet Su Dongpo — pork belly braised for hours until it collapses under chopsticks. Sweet, savory, and impossibly tender.",
+        "zh": "以宋代诗人苏东坡命名——五花肉文火慢炖至筷子一碰就散。咸甜交织，入口即化。"
+      },
+      "where": {
+        "en": "Traditional Hangzhou restaurants, especially near West Lake",
+        "zh": "杭州传统菜馆均有，西湖周边尤多"
+      },
+      "price": {
+        "en": "¥68–128 per dish",
+        "zh": "¥68–128/份"
+      },
+      "must_try": {
+        "en": "Pair with a cup of warm Shaoxing rice wine.",
+        "zh": "配一杯温黄酒。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Silk Culture",
+        "zh": "丝绸文化"
+      },
+      "img": "img/hangzhou.jpg",
+      "desc": {
+        "en": "Hangzhou has been China's silk capital for over 1,000 years. Visit the National Silk Museum to see the entire journey from silkworm to fabric.",
+        "zh": "杭州作为中国丝绸之都已逾千年。去中国丝绸博物馆看从蚕茧到织锦的完整旅程。"
+      },
+      "significance": {
+        "en": "The Maritime Silk Road started here in the Song Dynasty.",
+        "zh": "宋代海上丝绸之路从这里出发。"
+      },
+      "best_time": {
+        "en": "Year-round",
+        "zh": "全年"
+      },
+      "experience": {
+        "en": "China National Silk Museum + silk shopping on Hefang Street",
+        "zh": "中国丝绸博物馆+河坊街丝绸购物"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Mar–May) for tea & blossoms, Autumn (Sep–Nov) for clear skies. Summers are hot; winter is chilly but uncrowded.",
+      "zh": "春季（3-5月）品茶赏花，秋季（9-11月）天高云淡。夏季炎热，冬季微寒但游客少。"
+    },
+    "days": {
+      "en": "3 days",
+      "zh": "3天"
+    },
+    "transit": {
+      "en": "Metro is modern and efficient. Buses are convenient but crowded. Bike sharing is ideal for West Lake area.",
+      "zh": "地铁现代高效。公交便利但拥挤。共享单车环西湖最佳。"
+    },
+    "intercity": {
+      "en": "Hangzhou Xiaoshan Airport (HGH). High-speed rail: 45min to Shanghai, 1.5h to Nanjing.",
+      "zh": "杭州萧山机场(HGH)。高铁：45分钟到上海，1.5小时到南京。"
+    },
+    "tips": {
+      "en": "West Lake is huge — don't try to walk it all. Rent a bike (Meituan bike ¥1.5/30min). Weekends are extremely crowded — visit on weekdays if possible.",
+      "zh": "西湖很大——别试图走完。租共享单车（美团¥1.5/30分钟）。周末极其拥挤——尽量工作日去。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>West Lake navigation:</strong> The lake is 15km in circumference. Rent a bike at the nearest Hellobike/Meituan stand (¥1.5/30min). The best route: start at Broken Bridge (断桥), ride along the north shore to the Su Causeway, cross via the causeway to the south shore, and end at Leifeng Pagoda. Don't try to do the whole loop on foot.</p><p><strong>Tea village visit:</strong> Longjing (Dragon Well) Tea Village is 30 minutes from the lake. Take bus 27 or a taxi (¥40). The \"real\" Longjing tea sold in tourist shops is rarely authentic. Go to a farmer's house in the village — they'll show you their tea fields and brew you a cup. A good 2025 Longjing costs ¥1,500–3,000 per jin (500g). If you're paying less, it's not real Longjing.</p><p><strong>Getting around:</strong> Hangzhou metro covers most areas (¥2–10). Didi is cheap. The city is bike-friendly — flat terrain and dedicated bike lanes. Alipay is accepted everywhere.</p><p><strong>Language:</strong> Hangzhou is moderately tourist-friendly. Hotel staff speak basic English. Taxi drivers don't. Have your destination written in Chinese.</p>",
+    "zh": "<p><strong>西湖怎么逛：</strong>西湖周长15公里。在最近的美团/哈啰单车点租车（¥1.5/30分钟）。最佳路线：断桥出发→沿北岸到苏堤→过苏堤到南岸→雷峰塔结束。别试图走完整圈。</p><p><strong>龙井茶村：</strong>龙井村距西湖30分钟。坐27路公交或打车（¥40）。旅游店卖的\"正宗龙井\"很少是真的。去村里茶农家——他们会给你看茶田、泡一杯茶。好的2025年龙井¥1500–3000/斤。低于这个价格就不是真龙井。</p><p><strong>出行：</strong>杭州地铁覆盖主要区域（¥2–10）。滴滴便宜。杭州很适合骑车——平坦且有专用自行车道。支付宝全覆盖。</p><p><strong>语言：</strong>杭州旅游友好度中等。酒店员工有基础英语。出租车司机不会。把目的地写成中文给他们看。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>West Lake is best at sunrise.</strong> Between 9 AM and 5 PM, the lake's shores are a sea of selfie sticks and tour group flags. Come at 5:30 AM when the mist still hangs over the water, and you'll understand why Chinese poets have been writing about this place for a thousand years. Bring a coffee and find a bench on the Su Causeway.</p><p><strong>Leifeng Pagoda is a modern rebuild.</strong> The original collapsed in 1924. What stands today is a 2002 reconstruction with an elevator. Great view from the top, but don't expect ancient atmosphere.</p><p><strong>Rainy ≠ bad.</strong> Actually, West Lake is arguably most beautiful in light rain — mist rises from the water, the mountains turn a hazy blue-green, and the crowds vanish. Pack a light rain jacket and go anyway.</p>",
+    "zh": "<p><strong>西湖最美是日出时分。</strong>早上9点到下午5点，湖边全是自拍杆和旅行团旗帜。早上5:30来，雾还没散的时候，你就明白为什么中国诗人写了西湖一千年。带杯咖啡，在苏堤上找条长椅坐下。</p><p><strong>雷峰塔是重建的。</strong>原塔1924年倒塌，现在是2002年重建的，还有电梯。登顶景色很好，但别指望有历史氛围。</p><p><strong>下雨天≠不好。</strong>其实西湖小雨时最美——水上升起薄雾，远山变蓝变朦胧，人还少。带件薄雨衣，下雨也去。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Longjing Village tea at dawn.</strong> The tea farmers start picking at 5 AM during spring harvest (late March to April). If you arrive at 6 AM, you can watch the whole process — picking, pan-firing, hand-rolling. The smell of roasting tea leaves in the morning air is unforgettable. Most tourists arrive at 10 AM and miss it completely.</p><p><strong>The lesser-known pagoda.</strong> Liufeng Pagoda (六和塔) on the Qiantang River is older, quieter, and offers a completely different view — the river, the bridge, and the city skyline. Built in 970 AD. Entrance is ¥20. Climb to the top for the best view of the Qiantang River tide.</p><p><strong>Hefang Street night market.</strong> Skip Hefang Street during the day (it's a tourist mall). Come after 9 PM when the day-trippers leave and the night vendors set up — grilled oysters, stinky tofu, and the local specialty: West Lake vinegar fish.</p>",
+    "zh": "<p><strong>龙井村清晨。</strong>春茶季（3月底到4月）茶农早上5点就开始采茶。如果你6点到，可以看全程——采摘、杀青、手揉。清晨空气中飘着炒茶香，让人忘不了。多数游客10点才到，完美错过。</p><p><strong>六和塔。</strong>钱塘江边的六和塔更老、更安静、视角完全不同——江、桥、城市天际线。建于970年。门票¥20。爬到顶看钱塘江潮水最佳。</p><p><strong>河坊街夜市。</strong>白天别去河坊街（就是个旅游商业街）。晚上9点后来，一日游游客走了，夜摊出来——烤生蚝、臭豆腐、还有本地特色西湖醋鱼。</p>"
+  }
+}

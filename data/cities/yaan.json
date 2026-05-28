@@ -1,0 +1,398 @@
+{
+  "id": "yaan",
+  "name": {
+    "en": "Ya'an",
+    "zh": "雅安"
+  },
+  "province": {
+    "en": "Sichuan Province",
+    "zh": "四川省"
+  },
+  "intro": {
+    "en": "Known as the 'Throat of Western Sichuan' and 'Rain City,' Ya'an is where the Sichuan Basin meets the Tibetan Plateau — a mist-shrouded land of giant pandas, ancient tea culture, and breathtaking mountain scenery.",
+    "zh": "川西咽喉，雨城雅韵。雅安是盆地与高原的交汇处，大熊猫的故乡、世界茶文化的发源地。一座被山水浸润的千年古城。"
+  },
+  "hero_img": "img/yaan-city.jpg",
+  "hero_fb": "linear-gradient(135deg, #2E7D32 0%, #66BB6A 40%, #A5D6A7 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Bifengxia (Green Peak Gorge)",
+        "zh": "碧峰峡"
+      },
+      "img": "img/yaan-fish.jpg",
+      "desc": {
+        "en": "A lush canyon with cascading waterfalls, including the 104m White Dragon Pool Waterfall. China's largest ecological zoo and a Giant Panda Breeding Base are located here. National AAAA scenic area.",
+        "zh": "林木葱茏、四季青碧。峡谷内瀑布成群，高104米的白龙潭瀑布尤为壮观。全国最大的生态动物园和大熊猫基地坐落于此。国家AAAA级景区。"
+      },
+      "highlight": {
+        "en": "Panda base + 104m waterfall in one trip",
+        "zh": "熊猫基地+104米瀑布一站搞定"
+      },
+      "hours": {
+        "en": "8:00 AM – 5:30 PM",
+        "zh": "8:00 – 17:30"
+      },
+      "ticket": {
+        "en": "¥100 (includes zoo), Panda base ¥58 extra",
+        "zh": "¥100（含动物园），熊猫基地另加¥58"
+      },
+      "tips": {
+        "en": "The zoo is mostly downhill — walk down, take the elevator up. Bring snacks — the restaurant inside is overpriced.",
+        "zh": "动物园大部分是下坡路——走下去，坐电梯上来。自带干粮——景区内餐厅价高质低。"
+      },
+      "location": {
+        "en": "30 min north of Ya'an city center",
+        "zh": "雅安市区以北30分钟"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Panda · Waterfall · AAAA",
+        "zh": "熊猫 · 瀑布 · AAAA"
+      }
+    },
+    {
+      "name": {
+        "en": "Mount Mengding (Mengding Shan)",
+        "zh": "蒙顶山"
+      },
+      "img": "img/yaan-mengding.jpg",
+      "desc": {
+        "en": "The birthplace of world tea culture, home to the seven 'Immortal Tea' bushes — the world's earliest cultivated tea plants. The mountaintop Tiangai Temple dates back over 1,000 years. National AAAA area.",
+        "zh": "世界茶文化发源地，被誉为'仙茶故乡'。山顶有世界上最早的人工种植茶树——七株'仙茶'，以及千年古刹天盖寺。国家AAAA级景区。"
+      },
+      "highlight": {
+        "en": "Tea-tasting at Tiangai Temple included in ticket",
+        "zh": "天盖寺品茶体验含在门票里"
+      },
+      "hours": {
+        "en": "8:00 AM – 6:00 PM",
+        "zh": "8:00 – 18:00"
+      },
+      "ticket": {
+        "en": "¥60, Cable car ¥30 each way",
+        "zh": "¥60，缆车¥30/单程"
+      },
+      "tips": {
+        "en": "Check weather before going — fog/rain blocks the panoramic view. Allow 3-4 hours total.",
+        "zh": "出发前查天气——雾天/雨天看不到全景。全程约3-4小时。"
+      },
+      "location": {
+        "en": "40 min southwest of Ya'an city",
+        "zh": "雅安市区西南40分钟"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "Tea · Temple · AAAA",
+        "zh": "茶文化 · 古刹 · AAAA"
+      }
+    },
+    {
+      "name": {
+        "en": "Jiajin Mountain (Jiajin Shan)",
+        "zh": "夹金山"
+      },
+      "img": "img/yaan-jiajin.jpg",
+      "desc": {
+        "en": "The first major snow mountain crossed by the Red Army during the Long March. A national forest park with 'four seasons on one mountain, different weather every 10 li.' Stunning alpine scenery.",
+        "zh": "中国工农红军长征翻越的第一座大雪山。国家级森林公园，以'一山有四季，十里不同天'闻名。壮丽的高山风光。"
+      },
+      "highlight": {
+        "en": "Red Army Long March historical site + alpine views",
+        "zh": "红军长征遗址+高山风光"
+      },
+      "hours": {
+        "en": "Open all day (drive through)",
+        "zh": "全天开放（自驾穿越）"
+      },
+      "ticket": {
+        "en": "Free (road toll only)",
+        "zh": "免费（仅收过路费）"
+      },
+      "tips": {
+        "en": "Mountain roads are steep and narrow — experienced drivers only. 10-15°C cooler than the city. Bring warm clothing.",
+        "zh": "山路陡窄——仅限老司机。比市区低10-15°C，带外套。"
+      },
+      "location": {
+        "en": "2 hours northwest of Ya'an",
+        "zh": "雅安西北2小时"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "History · Alpine · Forest",
+        "zh": "红色 · 高山 · 森林"
+      }
+    },
+    {
+      "name": {
+        "en": "Shangli Ancient Town",
+        "zh": "上里古镇"
+      },
+      "img": "img/yaan-shangli.jpg",
+      "desc": {
+        "en": "A well-preserved Qing Dynasty riverside town on the Southern Silk Road and Tea Horse Road. Wooden houses, stone streets, 18 hill ridges. Historic courtyard homes like the Han Family Compound.",
+        "zh": "南方丝绸之路和茶马古道的重要驿站。木屋石街，依山傍水，'十八罗汉朝观音'的18座山丘环绕。韩家大院等明清古建筑保存完好。国家AAAA级景区。"
+      },
+      "highlight": {
+        "en": "Han Family Compound — Qing Dynasty courtyard",
+        "zh": "韩家大院——清代院落"
+      },
+      "hours": {
+        "en": "Open all day",
+        "zh": "全天开放"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Best in early morning or late afternoon — the stone streets glow in golden light. Try the local bean curd stalls.",
+        "zh": "清晨或傍晚最佳——石街在金色光线下最美。尝尝当地豆腐摊。"
+      },
+      "location": {
+        "en": "30 min north of Ya'an",
+        "zh": "雅安以北30分钟"
+      },
+      "rating": "4.4",
+      "tags": {
+        "en": "Ancient Town · Tea Road · Free",
+        "zh": "古镇 · 茶马古道 · 免费"
+      }
+    },
+    {
+      "name": {
+        "en": "Jinfeng Temple",
+        "zh": "金凤寺"
+      },
+      "img": "img/yaan-jinfeng.jpg",
+      "desc": {
+        "en": "Built in the early Tang Dynasty on Golden Phoenix Mountain overlooking Ya'an. Houses rare calligraphy works by masters including Mi Fu (Song Dynasty). Rebuilt in the Ming after destruction during the Yuan.",
+        "zh": "始建于唐初，坐落于金凤山上，雅安著名古刹。寺内珍藏米芾'第一山'碑、何桂清'大雄宝殿'匾等历代名家书画。"
+      },
+      "highlight": {
+        "en": "Song Dynasty calligraphy by Mi Fu",
+        "zh": "宋代米芾书法真迹"
+      },
+      "hours": {
+        "en": "8:00 AM – 5:00 PM",
+        "zh": "8:00 – 17:00"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "A peaceful escape from the city — fewer tourists than major temples. The mountain trail offers a good workout.",
+        "zh": "远离城市喧嚣的清静之地——游客比大庙少。登山步道是很好的锻炼。"
+      },
+      "location": {
+        "en": "On Golden Phoenix Mountain, Ya'an",
+        "zh": "雅安金凤山"
+      },
+      "rating": "4.3",
+      "tags": {
+        "en": "Temple · Calligraphy · Free",
+        "zh": "古寺 · 书法 · 免费"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Ya'an Fish (Ya Yu)",
+        "zh": "雅鱼"
+      },
+      "img": "img/yaan-fish.jpg",
+      "desc": {
+        "en": "A cold-water fish native to Ya'an's mountain streams, prized for its tender, flaky white meat and delicate flavor. Legend says the fish is an incarnation of the goddess Nüwa. Steamed is the purest preparation.",
+        "zh": "雅安特产冷水鱼，肉质细嫩鲜美。相传是女娲补天的化身，在当地被视为神鱼。清蒸最能体现原汁原味。"
+      },
+      "where": {
+        "en": "Family-run restaurants west of old town with live fish tank queues",
+        "zh": "老城区西边居民区的小馆子，有活鱼缸有排队"
+      },
+      "price": {
+        "en": "¥80–120 for whole fish (for two)",
+        "zh": "整条鱼¥80–120（两人份）"
+      },
+      "must_try": {
+        "en": "Ask for steamed preparation — the purist way to enjoy Ya'an Fish.",
+        "zh": "点清蒸做法——吃雅鱼最纯粹的方式。"
+      }
+    },
+    {
+      "name": {
+        "en": "Bang Bang Chicken (Bai Kan Ji)",
+        "zh": "棒棒鸡（白砍鸡）"
+      },
+      "img": "img/yaan-city.jpg",
+      "desc": {
+        "en": "Poached chicken tenderized by beating with a wooden stick (hence 'bang bang'), then sliced and dressed with chili oil, Sichuan pepper, and sesame. A classic Sichuan cold appetizer.",
+        "zh": "鸡肉煮熟后用木棒敲打使纤维断裂，再切块拌料。口感麻辣鲜香、肉质细嫩，是开胃下酒的名菜。"
+      },
+      "where": {
+        "en": "Night market on Zhongxin Street (中心街) after 8 PM",
+        "zh": "中心街夜市，晚上8点后"
+      },
+      "price": {
+        "en": "¥25–35 per portion",
+        "zh": "¥25–35/份"
+      },
+      "must_try": {
+        "en": "Find the stall with a queue of locals — that's the good one.",
+        "zh": "找本地人在排队的那家——一定好吃。"
+      }
+    },
+    {
+      "name": {
+        "en": "Clay Pot Ya'an Fish",
+        "zh": "砂锅雅鱼"
+      },
+      "img": "img/yaan-city.jpg",
+      "desc": {
+        "en": "Ya'an fish slow-simmered in a clay pot with tofu, mushrooms, and winter bamboo shoots. The broth is rich and deeply flavorful — perfect for cold rainy days in the 'Rain City.'",
+        "zh": "雅鱼入砂锅，加豆腐、香菇、冬笋慢炖而成。汤汁浓郁、味道鲜美，非常适合雨城湿冷的秋冬食用。"
+      },
+      "where": {
+        "en": "Traditional restaurants in old town area",
+        "zh": "老城区的传统餐馆"
+      },
+      "price": {
+        "en": "¥60-90 per person",
+        "zh": "人均¥60-90"
+      },
+      "must_try": {
+        "en": "Winter is the best time — the hot clay pot is the ultimate comfort on a rainy day.",
+        "zh": "冬天吃最对味——滚烫的砂锅是雨天的终极慰藉。"
+      }
+    },
+    {
+      "name": {
+        "en": "Ta Ta Noodles (挞挞面)",
+        "zh": "挞挞面"
+      },
+      "img": "img/yaan-city.jpg",
+      "desc": {
+        "en": "Hand-pulled noodles made by repeatedly slapping and stretching the dough ('ta ta' means the slapping sound). Chewy, smooth, served with a savory sauce and minced meat topping.",
+        "zh": "雅安传统面食，制作过程中反复挞打面团使其劲道爽滑。配上秘制调料和臊子，味道鲜美。"
+      },
+      "where": {
+        "en": "Corner stall at Zhongxin Street night market (15+ years running)",
+        "zh": "中心街夜市的街角摊（开了15年以上）"
+      },
+      "price": {
+        "en": "¥12–20 per bowl",
+        "zh": "¥12–20/碗"
+      },
+      "must_try": {
+        "en": "Order the 'dry mixed' (干拌) version.",
+        "zh": "点'干拌'的。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Tea Horse Trade Hub",
+        "zh": "茶马互市枢纽"
+      },
+      "img": "img/yaan-city.jpg",
+      "desc": {
+        "en": "Ya'an was the most important trading post on the ancient Tea Horse Road (Chama Gudao), where Sichuan tea was exchanged for Tibetan horses. As the main producer of 'border tea' (bian cha) during Ming/Qing dynasties, the city's economy and identity are inseparable from tea.",
+        "zh": "雅安是茶马古道上最重要的交易站，川茶换藏马的核心节点。明清时期是著名的'边茶'产地，茶叶贸易空前发达。雅安的城市身份与茶密不可分。"
+      },
+      "significance": {
+        "en": "Key hub on the ancient Tea Horse Road — Sichuan tea exchanged for Tibetan horses",
+        "zh": "茶马古道核心枢纽——川茶换藏马"
+      },
+      "best_time": {
+        "en": "Visit the Ya'an Museum for exhibits on the Tea Horse Road",
+        "zh": "雅安博物馆看茶马古道专题展"
+      },
+      "experience": {
+        "en": "Walk the historic trading streets in old town",
+        "zh": "漫步老城区的古商贸街"
+      }
+    },
+    {
+      "name": {
+        "en": "Panda Homeland",
+        "zh": "熊猫故乡"
+      },
+      "img": "img/yaan-city.jpg",
+      "desc": {
+        "en": "Ya'an is one of the most important giant panda habitats in the world. The Bifengxia Panda Base is one of China's largest breeding and research centers. The city's bamboo forests and temperate climate create the perfect environment for these beloved bears.",
+        "zh": "雅安是世界上最重要的大熊猫栖息地之一。碧峰峡大熊猫基地是中国最大的繁育研究中心之一。竹海和温润的气候为大熊猫提供了完美的生存环境。"
+      },
+      "significance": {
+        "en": "One of the world's most important giant panda habitats",
+        "zh": "世界最重要的大熊猫栖息地之一"
+      },
+      "best_time": {
+        "en": "Morning feeding (7:30-9 AM) — pandas are most active",
+        "zh": "清晨喂食时间（7:30-9点）——熊猫最活跃"
+      },
+      "experience": {
+        "en": "Bifengxia Panda Base half-day tour",
+        "zh": "碧峰峡熊猫基地半日游"
+      }
+    },
+    {
+      "name": {
+        "en": "'Rain City' — The Three Ya",
+        "zh": "雨城'三雅'文化"
+      },
+      "img": "img/yaan-city.jpg",
+      "desc": {
+        "en": "With over 1,800mm of annual rainfall, Ya'an is one of China's wettest cities. This unique climate — called 'Three Ya' (ya meaning elegance): Ya Rain, Ya Fish, Ya Girl — has shaped everything from the local cuisine to the city's misty, poetic atmosphere.",
+        "zh": "雅安年均降雨1800毫米以上，是全国降水量最多的城市之一。温润气候孕育了独特的'三雅'文化：雅雨、雅鱼、雅女。雨雾蒙蒙的氛围塑造了这座城市温润如玉的气质。"
+      },
+      "significance": {
+        "en": "218 rainy days per year — one of China's wettest cities",
+        "zh": "年均218个雨天——全国降水量最多的城市之一"
+      },
+      "best_time": {
+        "en": "Spring and autumn for milder weather",
+        "zh": "春秋两季气候最宜人"
+      },
+      "experience": {
+        "en": "Sip tea at an old-town tea house while it drizzles outside",
+        "zh": "在老茶馆里喝茶听雨"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Mar–May) & Autumn (Sep–Nov) are best. Summer is rainy (July avg. rainfall 350mm). Winter is grey and misty but mild (5–10°C).",
+      "zh": "春秋最佳（3-5月、9-11月）。夏季多雨（7月平均降雨350mm）。冬季阴雨但温和（5-10°C）。"
+    },
+    "days": {
+      "en": "2–3 days (plus day trips to Bifengxia & Mengding)",
+      "zh": "2-3天（含碧峰峡+蒙顶山一日游）"
+    },
+    "transit": {
+      "en": "City buses cover major spots (¥1-2). Taxis start at ¥5. Ride-hailing is available via Didi.",
+      "zh": "公交覆盖主要景点（¥1-2）。出租车起步价¥5。可用滴滴打车。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Chengdu Xi'nanmen station: 1.5h, ¥52. Buses from Chengdu Chadianzi station: 2h, ¥55.",
+      "zh": "成都西站高铁到雅安站：1.5小时，¥52。成都茶店子客运站大巴：2小时，¥55。"
+    },
+    "tips": {
+      "en": "Bring an umbrella — it rains unpredictably even in dry season. Ya'an is at 500-1,000m elevation; sun protection is recommended. Mountain areas (Jiajin, Mengding) are 10-15°C cooler than the city.",
+      "zh": "随身带伞——雨城说下就下。雅安海拔500-1000米，注意防晒。山区（夹金山、蒙顶山）比市区低10-15°C，带外套。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting there from Chengdu:</strong> High-speed rail from Chengdu West station (成都西站) to Ya'an station — about 1.5 hours, ¥52-60. Trains run roughly hourly. Buses from Chadianzi station take 2 hours (¥55). Driving takes about 2 hours via the Chengdu-Ya'an Expressway (成雅高速).</p><p><strong>Getting around Ya'an:</strong> City buses serve most attractions (¥1-2). Taxis are affordable (start at ¥5). For Bifengxia and Mengding Shan, take a taxi or Didi — about 30-40 minutes from the city center, ¥40-60. For more remote spots like Jiajin Mountain, consider hiring a private car for the day (¥300-500).</p><p><strong>Bifengxia logistics:</strong> 30 min from city. Ticket ¥100 (including zoo). Panda base ¥58 extra. Allow a full day. The zoo is mostly downhill — walk down, take the elevator up. Bring snacks — the restaurant inside is overpriced.</p><p><strong>Mount Mengding logistics:</strong> 40 min from city. Ticket ¥60. Cable car ¥30 each way (recommended unless you're a serious hiker). The top is a 20-min walk from the cable car station. Allow 3-4 hours total. The tea-tasting experience at Tiangai Temple is included in the ticket — don't skip it.</p>",
+    "zh": "<p><strong>成都到雅安：</strong>成都西站坐高铁到雅安站——约1.5小时，¥52-60。每小时约有一班。茶店子客运站坐大巴2小时（¥55）。自驾走成雅高速约2小时。</p><p><strong>雅安市内交通：</strong>公交覆盖主要景点（¥1-2）。出租车起步价¥5，便宜。去碧峰峡和蒙顶山可以打车或叫滴滴——从市区30-40分钟，¥40-60。去夹金山等偏远景点建议包车一天（¥300-500）。</p><p><strong>碧峰峡游玩攻略：</strong>距市区30分钟。门票¥100（含动物园）。熊猫基地另收¥58。建议留一整天。动物园大部分是下坡路——走下去，坐电梯上来。自带干粮——景区内的餐厅价高质低。</p><p><strong>蒙顶山游玩攻略：</strong>距市区40分钟。门票¥60。缆车¥30/单程（除非你是徒步爱好者，建议坐）。山顶距缆车站步行20分钟。全程约3-4小时。天盖寺的品茶体验已含在门票里——别错过。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Ya'an is wet. Like, really wet.</strong> The city averages 218 rainy days per year. If you visit in July or August, expect rain almost every day — not all-day downpours, but intermittent drizzle that soaks everything gradually. Waterproof shoes are essential, not optional. A portable umbrella is your best friend.</p><p><strong>Mengding Shan in the rain = disappointment.</strong> The entire point of Mount Mengding is the panoramic view of the tea terraces and the valley. If it's foggy or raining heavily (which is common), you'll see nothing but grey. Check the weather forecast and choose your day carefully. The tea-tasting indoors is still worthwhile even if the view is obscured.</p><p><strong>Bifengxia's zoo is controversial.</strong> The Bifengxia Wildlife Park is huge, but animal welfare standards are not what Western tourists expect. Some enclosures are small, and the big cat show involves training methods that may be upsetting. If animal welfare is important to you, skip the zoo portion and focus on the canyon hiking and panda base instead.</p><p><strong>Mandarin only — almost no English.</strong> Outside of Bifengxia, you will find essentially zero English signage or English-speaking staff. Bring a translation app. Restaurant menus are picture-based, which helps, but don't expect any English assistance in shops, transport, or hotels. This is a domestic tourism city, not an international one.</p>",
+    "zh": "<p><strong>雅安真的很湿。</strong>年均218个雨天。七八月来的话几乎天天下雨——不是整天暴雨，而是那种慢慢浸透一切的细雨。防水鞋必备，不是可选。随身伞是你的最佳伴侣。</p><p><strong>蒙顶山下大雨=白来。</strong>蒙顶山的核心体验是俯瞰茶田和山谷的全景。如果大雾或下大雨——这很常见——你只能看到一片灰。出发前查天气预报，选好日子。不过室内的品茶体验就算看不到风景也值得。</p><p><strong>碧峰峡动物园争议较大。</strong>碧峰峡野生动物园很大，但动物福利标准和西方游客的期待有差距。有些笼舍偏小，猛兽表演的训练方式可能会让你不舒服。如果动物福利对你很重要，跳过动物园，专注峡谷徒步和熊猫基地。</p><p><strong>基本没有英文。</strong>碧峰峡以外的地方，几乎没有英文标识和英语服务人员。带翻译软件。餐馆菜单有图片，但商店、交通、酒店都不要指望英语。这是一个国内旅游城市，不是国际旅游城市。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Morning tea at an old school tea house.</strong> Ya'an's old town (老城区) has traditional tea houses where locals start their day with a pot of Mengding tea and mahjong. Look for the ones with bamboo chairs spilling onto the sidewalk — usually ¥15-20 for a whole pot, unlimited hot water refills. No menu, no English, just point and sit.</p><p><strong>Night market on Zhongxin Street (中心街).</strong> After 8 PM, the streets around the Ya'an Hotel turn into a food market that locals actually visit. The bang bang chicken here costs ¥25-35 a portion (half of what tourist spots charge). The tata noodles stall at the corner has been operating for 15+ years — order the \"dry mixed\" version (干拌).</p><p><strong>Ya'an Fish at a family-run restaurant.</strong> The best Ya'an fish isn't at the fancy restaurants near the government buildings — it's in the residential neighborhoods west of the old town. Look for small restaurants with live fish tanks and a queue of locals. A whole steamed fish, a vegetable dish, and rice will cost about ¥80-120 for two people. Cash only at most of these places.</p><p><strong>Rainy day backup: Ya'an Museum.</strong> Free admission with ID, covers the history of the Tea Horse Road and Ya'an's role in it. The exhibits are in Chinese only, but the artifacts — ancient tea bricks, horse bells, trade documents — are fascinating to look at even without reading the labels. Allow 1-2 hours. A perfect plan B for a rainy afternoon.</p>",
+    "zh": "<p><strong>老茶馆喝早茶。</strong>雅安老城区有传统茶馆，本地人以一壶蒙顶茶和麻将开启一天。找竹椅摆到人行道上的那种——通常¥15-20一壶，无限续热水。没有菜单，没有英文，指一下坐下就行。</p><p><strong>中心街夜市。</strong>晚上8点后，雅安宾馆周边的街道变成真正的本地夜市。这里的棒棒鸡¥25-35一份（景区价格的一半）。街角的挞挞面摊开了15年以上——点\"干拌\"的。</p><p><strong>家庭餐馆的雅鱼。</strong>最好吃的雅鱼不在政府大楼附近的高档餐厅——在老城区西边的居民区。找有活鱼缸、本地人在排队的小馆子。一条清蒸鱼+一道素菜+米饭，两个人约¥80-120。大多数只收现金。</p><p><strong>雨天备选：雅安博物馆。</strong>凭身份证免费入场。展厅只有中文，但茶马古道的文物——古茶砖、马铃、贸易文书——光看实物就有意思。留1-2小时。雨天的完美B计划。</p>"
+  }
+}
