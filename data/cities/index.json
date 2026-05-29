@@ -117,5 +117,22 @@
     },
     "hero_img": "img/yaan-city.jpg",
     "hero_fb": "linear-gradient(135deg, #2E7D32 0%, #66BB6A 40%, #A5D6A7 100%)"
+  },
+  {
+    "id": "yibin",
+    "name": {
+      "en": "Yibin",
+      "zh": "宜宾"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "Where two rivers embrace to birth the Yangtze — China's 'First City on the Yangtze.' A 2,200-year-old treasure of bamboo seas, thousand-year baijiu, and legendary street food hiding in plain sight.",
+      "zh": "两江相拥，长江始于此——'万里长江第一城'。2200年宝藏城市，藏万亩竹海、千年酒香和最地道的川南美食。"
+    },
+    "hero_img": "img/yibin-1.jpg",
+    "hero_fb": "linear-gradient(135deg, #33691E 0%, #558B2F 40%, #AED581 100%)"
   }
 ]
