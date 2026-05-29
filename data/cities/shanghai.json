@@ -1,0 +1,329 @@
+{
+  "id": "shanghai",
+  "name": {
+    "en": "Shanghai",
+    "zh": "上海"
+  },
+  "province": {
+    "en": "Shanghai Municipality",
+    "zh": "上海市"
+  },
+  "intro": {
+    "en": "Where the Yangtze meets the sea — China's most cosmopolitan metropolis. Shanghai is a city of stunning contrasts: century-old Bund colonnades face Pudong's sci-fi skyline across the Huangpu River, while French Concession plane trees shade hidden lane houses where old aunties still cook on coal stoves. It's the most romantic, most photogenic, and most accessible Chinese city for international travelers.",
+    "zh": "长江入海口，中国最具国际化的大都市。外滩百年欧式建筑沉淀近代历史，陆家嘴摩天楼宇彰显现代繁华，梧桐树下的老洋房与霓虹灯火交融出独一无二的海派风情——这里是无数外国游客心中最浪漫、最好打卡的东方都市。"
+  },
+  "hero_img": "img/shanghai-1.jpg",
+  "hero_fb": "linear-gradient(135deg, #B71C1C 0%, #E53935 40%, #FF8A80 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "The Bund (Waitan)",
+        "zh": "外滩"
+      },
+      "img": "img/shanghai-2.jpg",
+      "desc": {
+        "en": "Shanghai's postcard-perfect waterfront — a mile-long stretch of colonial-era buildings known as the 'World Architecture Expo.' By day, the neoclassical, art deco, and baroque facades gleam with old-world elegance. By night, the entire promenade transforms as Pudong's skyline ignites across the river — the Oriental Pearl Tower, Shanghai Tower, and World Financial Center creating one of the world's most iconic night views. Walk the riverfront at dusk when both sides of the Huangpu are at their most photogenic.",
+        "zh": "上海的城市名片——沿江一字排开的万国建筑群被誉为'世界建筑博览群'。白天新古典、装饰艺术、巴洛克风格的外墙散发着旧世界的优雅；入夜后对岸陆家嘴的天际线璀璨点亮——东方明珠、上海中心、环球金融中心构成全世界最具标志性的夜景之一。黄昏时分漫步江畔，浦江两岸同时出镜，是最佳拍摄时刻。"
+      },
+      "highlight": {
+        "en": "Sunset walk — both Bund architecture AND Pudong skyline in one frame",
+        "zh": "黄昏漫步——万国建筑+陆家嘴天际线同框"
+      },
+      "hours": {
+        "en": "Open all day (best at dusk, 5 PM – 8 PM)",
+        "zh": "全天开放（最佳时段：黄昏17:00–20:00）"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Arrive 30 minutes before sunset — the 'blue hour' twilight is pure magic. The Bund Sightseeing Tunnel is a tourist trap (¥50 for a dated light show) — just walk or take metro Line 2 across the river.",
+        "zh": "日落前30分钟到——蓝调时刻拍出来绝美。外滩观光隧道是坑（¥50看个过时的灯光秀）——直接步行或坐地铁2号线过江。"
+      },
+      "location": {
+        "en": "Zhongshan East 1st Road, Huangpu District",
+        "zh": "黄浦区中山东一路"
+      },
+      "rating": "4.9",
+      "tags": {
+        "en": "Iconic · Night View · Free",
+        "zh": "地标 · 夜景 · 免费"
+      }
+    },
+    {
+      "name": {
+        "en": "Lujiazui & Pudong Skyline",
+        "zh": "陆家嘴金融城"
+      },
+      "img": "img/shanghai-3.jpg",
+      "desc": {
+        "en": "China's answer to Manhattan — a forest of supertall skyscrapers rising from what was farmland just 30 years ago. The Shanghai Tower (632m, China's tallest), Shanghai World Financial Center (the 'bottle opener'), and the Jin Mao Tower form the iconic trio. Ride to the 118th-floor observation deck of Shanghai Tower for a dizzying 360° view that stretches to the Yangtze on clear days. At ground level, the Lujiazui环形天桥 (ring skywalk) is the best free photo spot.",
+        "zh": "中国的曼哈顿——30年前还是一片农田，如今摩天楼林立。上海中心（632米中国第一高）、环球金融中心（'开瓶器'）、金茂大厦构成经典天际线。登上上海中心118层观光厅，360°俯瞰全城，晴天能一直望到长江口。地面的陆家嘴环形天桥是最佳免费拍照机位。"
+      },
+      "highlight": {
+        "en": "Shanghai Tower 118F observation deck — China's highest view",
+        "zh": "上海中心118层——中国最高观景台"
+      },
+      "hours": {
+        "en": "Shanghai Tower: 8:30 AM – 9:30 PM (last entry 9:00 PM)",
+        "zh": "上海中心：8:30–21:30（21:00停止入场）"
+      },
+      "ticket": {
+        "en": "Shanghai Tower ¥180; free to walk around at ground level",
+        "zh": "上海中心¥180；地面天桥免费"
+      },
+      "tips": {
+        "en": "Go up 30 minutes before sunset — you'll see Shanghai in daylight, twilight, and full night glow. Skip the tower if it's cloudy or hazy (you'll see nothing but white). The free ring skywalk gives nearly as good photos at ground level.",
+        "zh": "日落前30分钟上去——白天、黄昏、夜景一次看全。阴天雾霾就别上去了（白茫茫一片不值票价）。地面环形天桥拍照效果也接近，还免费。"
+      },
+      "location": {
+        "en": "Pudong New Area, across the river from the Bund",
+        "zh": "浦东新区，外滩对岸"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Skyline · Observation · Modern",
+        "zh": "天际线 · 观景台 · 现代"
+      }
+    },
+    {
+      "name": {
+        "en": "Wukang Road & French Concession",
+        "zh": "武康路·法租界"
+      },
+      "img": "img/shanghai-4.jpg",
+      "desc": {
+        "en": "Shanghai's most romantic street — a canopy of London plane trees arches over art deco mansions, hidden courtyards, and the iconic Wukang Mansion (武康大楼), a wedge-shaped 1924 masterpiece that looks like a ship sailing down the street. The former French Concession is a living museum of 1920s-30s architecture, now filled with indie cafes, boutique shops, and galleries. Every corner is Instagram-perfect — especially in autumn when the plane leaves turn golden.",
+        "zh": "上海最浪漫的街道——梧桐成荫，复古洋房错落，标志性的武康大楼如船头般矗立街角。这片前法租界是1920-30年代建筑的活态博物馆，如今遍布独立咖啡馆、买手店和画廊。每个转角都是氛围感大片——尤其秋天梧桐叶变金黄时。"
+      },
+      "highlight": {
+        "en": "Wukang Mansion — the most photographed building in Shanghai",
+        "zh": "武康大楼——上海出片率最高的建筑"
+      },
+      "hours": {
+        "en": "Open area — best explored 9 AM – 6 PM",
+        "zh": "开放街区——最佳游览9:00–18:00"
+      },
+      "ticket": {
+        "en": "Free (walking area)",
+        "zh": "免费（步行街区）"
+      },
+      "tips": {
+        "en": "Start at Wukang Mansion, walk south along Wukang Road, then explore the side lanes. Best time: weekday mornings for empty streets, or golden hour for the warmest light on the plaster walls. Autumn (Oct-Nov) is peak season when the plane tree leaves carpet the streets.",
+        "zh": "从武康大楼出发，沿武康路向南，再钻进旁边的小巷。最佳时段：工作日早晨人少，或黄昏金色光线打在洋房墙上最美。秋天（10-11月）梧桐叶落满地，是颜值巅峰。"
+      },
+      "location": {
+        "en": "Xuhui District (start at Huaihai Middle Road × Wukang Road)",
+        "zh": "徐汇区（淮海中路×武康路交叉口出发）"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "Architecture · Photography · Romantic",
+        "zh": "建筑 · 摄影 · 浪漫"
+      }
+    },
+    {
+      "name": {
+        "en": "Yu Garden & City God Temple",
+        "zh": "豫园·城隍庙"
+      },
+      "img": "img/shanghai-4.jpg",
+      "desc": {
+        "en": "A pocket of Ming Dynasty China in the heart of modern Shanghai — Yu Garden is a 400-year-old private garden of rockeries, pavilions, carp ponds, and zigzag bridges, built by a Ming official for his parents. Every element follows classical Chinese garden philosophy: borrowed views, framed vistas, and the illusion of infinite space within walls. The surrounding City God Temple bazaar is a sensory overload of traditional snacks, crafts, and lantern-lit lanes — pure old Shanghai magic, especially during Lantern Festival.",
+        "zh": "现代上海心脏地带的一片明代秘境——豫园是400年前的私家园林，假山亭台、锦鲤池塘、九曲桥尽显中式美学。每一处都遵循古典园林的借景、框景哲学，方寸之间见天地。周边的城隍庙老街是传统小吃、手工艺和灯笼小巷的感官盛宴——尤其元宵灯会时，是纯正的上海老城厢魔法。"
+      },
+      "highlight": {
+        "en": "Nine-Turn Bridge & Huxinting Teahouse — Shanghai's oldest teahouse (1855)",
+        "zh": "九曲桥+湖心亭茶楼——上海最老茶馆（1855年）"
+      },
+      "hours": {
+        "en": "Yu Garden: 8:30 AM – 5:00 PM; Bazaar: 10 AM – 9 PM",
+        "zh": "豫园：8:30–17:00；城隍庙商圈：10:00–21:00"
+      },
+      "ticket": {
+        "en": "Yu Garden ¥40; Bazaar free",
+        "zh": "豫园¥40；城隍庙商圈免费"
+      },
+      "tips": {
+        "en": "Go early (right at opening) to see the garden in peace — by 10 AM it's packed with tour groups. The bazaar is touristy but worth it for the atmosphere, especially at night with all the lanterns lit. Don't buy the overpriced tea at Huxinting — just admire it from the Nine-Turn Bridge.",
+        "zh": "一开门就进园——10点后全是旅游团。城隍庙商圈游客多但氛围值得，尤其是晚上灯笼全亮的时侯。别在湖心亭买宰客茶——站九曲桥上看看就好。"
+      },
+      "location": {
+        "en": "Anren Street, Huangpu District",
+        "zh": "黄浦区安仁街"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "Classical Garden · Tradition · Night",
+        "zh": "古典园林 · 传统 · 夜景"
+      }
+    },
+    {
+      "name": {
+        "en": "Tianzifang & Shikumen Lanes",
+        "zh": "田子坊·石库门弄堂"
+      },
+      "img": "img/shanghai-4.jpg",
+      "desc": {
+        "en": "A warren of 1930s Shikumen (石库门) lane houses transformed into Shanghai's most atmospheric arts and crafts district. Narrow alleys twist between old stone-gate residences where residents still live upstairs while indie designers, tea shops, and galleries fill the ground floors below. It's chaotic, cramped, and utterly authentic — a living snapshot of old Shanghai life intertwined with modern creativity. The Shikumen architecture itself is uniquely Shanghainese: a hybrid of Chinese courtyard houses wrapped in Western brick and stone facades.",
+        "zh": "1930年代石库门弄堂改造的艺术街区——窄巷纵横，老石门住宅里楼上住着原住民，楼下开着独立设计师店、茶馆和画廊。拥挤、嘈杂、绝对真实——老上海市井生活与现代创意的活态交织。石库门建筑本身就是上海独有的：中式庭院包裹在西式砖石立面里的混血建筑。"
+      },
+      "highlight": {
+        "en": "Authentic Shikumen lanes — people still live here, above the shops",
+        "zh": "原汁原味石库门——楼上还住着人，楼下开店"
+      },
+      "hours": {
+        "en": "Shops: 10 AM – 9 PM; lanes accessible all day",
+        "zh": "店铺：10:00–21:00；弄堂全天可穿行"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Weekday afternoons are best — weekends are shoulder-to-shoulder crowded. Don't expect a quiet museum experience; people are living their lives here. Look UP — the architectural details (stone carvings, wooden shutters, drying laundry) tell the real story. Tianzifang is more tourist-oriented now; for a more authentic Shikumen experience, walk the residential lanes near Xintiandi.",
+        "zh": "工作日午后最佳——周末人挤人。别当博物馆逛——这里的人真在过日子。抬头看——石雕、木窗、晾晒的衣物，这些细节才是真故事。田子坊现在偏游客了；想见更原生态的石库门，去新天地附近的居民弄堂走走。"
+      },
+      "location": {
+        "en": "Taikang Road, Huangpu District",
+        "zh": "黄浦区泰康路"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Lanes · Arts · Authentic",
+        "zh": "弄堂 · 文创 · 原生态"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Red Braised Pork (Hong Shao Rou)",
+        "zh": "红烧肉"
+      },
+      "img": "img/shanghai-5.jpg",
+      "desc": {
+        "en": "The undisputed king of Shanghainese home cooking — glossy cubes of pork belly slow-braised in dark soy sauce, rock sugar, and Shaoxing wine until each piece is dark amber, tremblingly tender, and glazed like lacquer. The sauce is the soul: sweet-savory, deeply caramelized, so rich it clings to rice like velvet. This is the dish that defines Benbang cuisine (本帮菜) — Shanghai's indigenous cooking style known for its 'red-braising' technique that turns simple ingredients into luxury.",
+        "zh": "上海本帮菜之王——五花肉块在老抽、冰糖、绍兴黄酒中小火慢炖至琥珀色，颤巍巍地裹着糖色。酱汁是灵魂：甜咸交织、深度焦糖化，像天鹅绒一样裹住每粒米饭。这道菜定义了本帮菜的精髓——'浓油赤酱'把普通食材变成奢侈。"
+      },
+      "where": {
+        "en": "Old Jesse (老吉士), Fu 1088, or any proper family-style Benbang restaurant",
+        "zh": "老吉士、福1088，或任何正宗本帮菜馆"
+      },
+      "price": {
+        "en": "¥60–120 per portion",
+        "zh": "¥60–120/份"
+      },
+      "must_try": {
+        "en": "The fat-to-lean ratio is crucial — look for pieces with distinct layers (五花三层). The best version has fat that dissolves on the tongue, not chewy chunks. Order it with a bowl of steamed rice — the sauce is the real star.",
+        "zh": "肥瘦层次是关键——要选五花三层分明的。最好吃的版本肥肉入口即化，不是嚼不动的肥膘。一定要配米饭——酱汁才是真主角。"
+      }
+    },
+    {
+      "name": {
+        "en": "Nanxiang Soup Dumplings (Xiaolongbao)",
+        "zh": "南翔小笼包"
+      },
+      "img": "img/shanghai-6.jpg",
+      "desc": {
+        "en": "Shanghai's most famous export — tissue-thin wheat wrappers pleated into tiny purses, each cradling a pork-and-gelatin filling that magically transforms into a spoonful of scalding, savory broth when steamed. Invented in Nanxiang town in 1875, the technique requires 18+ pleats per dumpling. Eating one is a ritual: nibble, sip, dip in black vinegar with ginger slivers, then devour. Nanxiang Steamed Bun Restaurant in Yu Garden has been making them since 1900.",
+        "zh": "上海最著名的美食名片——薄如纸的面皮捏出18道褶，包着猪肉皮冻馅，蒸熟后化为一口滚烫鲜汤。1875年创于南翔镇。吃法有仪式感：咬一小口、吸汤汁、蘸黑醋姜丝、一口吞。豫园的南翔馒头店从1900年做到现在。"
+      },
+      "where": {
+        "en": "Nanxiang Steamed Bun Restaurant (豫园南翔馒头店), Jia Jia Tang Bao (佳家汤包), Din Tai Fung",
+        "zh": "豫园南翔馒头店、佳家汤包、鼎泰丰"
+      },
+      "price": {
+        "en": "¥25–60 per steamer (6-8 pieces)",
+        "zh": "¥25–60/笼（6-8个）"
+      },
+      "must_try": {
+        "en": "NEVER bite straight in — the broth will scald your mouth. Nibble a tiny hole in the skin, blow gently, sip the soup, THEN eat. The crab roe version (蟹粉小笼) is the premium upgrade — available in autumn when hairy crabs are in season.",
+        "zh": "千万别一口咬——汤汁会烫破嘴。先咬个小口、吹吹凉、吸汤、再吃。蟹粉小笼是升级版——秋天大闸蟹季才有。"
+      }
+    },
+    {
+      "name": {
+        "en": "Spring Bamboo Shoot Soup (Yan Du Xian) & Eight-Treasure Duck",
+        "zh": "腌笃鲜·八宝鸭"
+      },
+      "img": "img/shanghai-7.jpg",
+      "desc": {
+        "en": "Two Shanghai classics that embody the city's seasonal cooking philosophy. Yan Du Xian (腌笃鲜) — literally 'simmered with salted pork and fresh bamboo shoots' — is spring in a bowl: the umami of salt-cured pork and fresh pork belly is absorbed by tender spring bamboo shoots in a milky-white broth that needs only time, not seasoning. The Eight-Treasure Duck (八宝鸭) is Shanghai's festive showstopper — a whole duck deboned, stuffed with glutinous rice, diced ham, chestnuts, mushrooms, lotus seeds, and more, then steamed until the duck melts and the rice absorbs every drop of duck fat.",
+        "zh": "两道上海经典，体现城市的时令饮食哲学。腌笃鲜——'腌'指咸肉、'笃'是慢炖、'鲜'是春笋——春天一碗鲜：咸肉和鲜肉在春笋里释放鲜味，汤色奶白，不需要调味只靠时间。八宝鸭是上海的宴席压轴——整鸭脱骨填入糯米、火腿丁、栗子、香菇、莲子等八宝，蒸到鸭肉酥烂、糯米吸饱鸭油。"
+      },
+      "where": {
+        "en": "Lao Zhengxing (老正兴), Shanghai Classical Hotel (上海老饭店), or seasonal spring menus",
+        "zh": "老正兴、上海老饭店，或春季时令菜单"
+      },
+      "price": {
+        "en": "Yan Du Xian ¥80–150; Eight-Treasure Duck ¥150–300 (order 1 day ahead)",
+        "zh": "腌笃鲜¥80–150；八宝鸭¥150–300（需提前一天预订）"
+      },
+      "must_try": {
+        "en": "Yan Du Xian is ONLY available in spring (Mar-May) when fresh bamboo shoots are in season — don't bother ordering it in autumn, it won't have the same magic. Eight-Treasure Duck is a banquet dish — bring friends, it's meant for sharing. The sticky rice inside is arguably better than the duck itself.",
+        "zh": "腌笃鲜只有春天（3-5月）有——春笋当季才有那股鲜灵劲儿，秋天点没那个味道。八宝鸭是宴席菜——带朋友一起吃，一人搞不定。里面的糯米比鸭肉本身还好吃。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Haipai Culture — Where East Truly Meets West",
+        "zh": "海派文化——真正的东西交融"
+      },
+      "img": "img/shanghai-4.jpg",
+      "desc": {
+        "en": "Shanghai's defining cultural identity is 'Haipai' (海派) — literally 'Shanghai style' — a uniquely inclusive, innovative spirit born from the city's history as an open port where Chinese, British, French, Russian, Jewish, and Japanese communities all left their mark. Unlike Beijing's imperial grandeur, Shanghai's charm is in its hybridity: Art Deco buildings with Chinese motifs, jazz music played on Chinese instruments, Western suits tailored in narrow lane-house workshops. From the 1920s jazz age to today's art galleries in converted factories, Shanghai has always been China's most culturally porous city — and that's exactly why foreign visitors feel so at home here.",
+        "zh": "上海最核心的文化基因是'海派'——一种诞生于开埠历史中的包容创新精神。不同于北京的厚重古都气质，上海的魅力在于混血：装饰艺术建筑嵌入中式纹样、爵士乐用民乐器演奏、弄堂作坊里定制西服。从1920年代的爵士时代到今天旧厂房改造的艺术画廊，上海一直是中国最具文化渗透力的城市——这也正是外国游客感到亲切的原因。"
+      },
+      "significance": {
+        "en": "100+ years of East-West cultural fusion — China's most internationally-minded city",
+        "zh": "百余年东西文化融合——中国最具国际视野的城市"
+      },
+      "best_time": {
+        "en": "Spring (Mar-May) & Autumn (Oct-Nov) — best walking weather; Shanghai International Film Festival in June",
+        "zh": "春秋最佳（3-5月、10-11月）——最适合步行；6月上海国际电影节"
+      },
+      "experience": {
+        "en": "Walk the French Concession at golden hour, visit a converted-factory art gallery (M50 or West Bund), catch jazz at the Peace Hotel's Old Jazz Bar, sip tea at Huxinting, and end the night with a Bund river view",
+        "zh": "在金色阳光下逛法租界、去改造厂房画廊（M50或西岸）、到和平饭店老年爵士酒吧听爵士、湖心亭喝茶、外滩夜景收官"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Mar–May) — mild, blooming, perfect for walking. Autumn (Oct–Nov) — crisp, golden plane trees, the most photogenic season. Summer is hot and humid (35°C+); winter is damp and cold without northern-style heating. Best visit window: April, May, October, November.",
+      "zh": "春季（3-5月）温暖花开，最适合步行；秋季（10-11月）凉爽，梧桐金黄，最出片。夏季湿热（35°C+）；冬季湿冷没有北方式暖气。最佳访问窗口：4月、5月、10月、11月。"
+    },
+    "days": {
+      "en": "3–4 days (add 1 day for a day trip to nearby water towns like Zhujiajiao)",
+      "zh": "3–4天（加1天去周边水乡如朱家角）"
+    },
+    "transit": {
+      "en": "Shanghai has the world's largest metro system (19 lines, 500+ stations) — it's clean, English-signed, and reaches everywhere. Get a Shanghai Public Transportation Card at any metro station. Didi (Chinese Uber) is cheap and reliable. Avoid taxis during rush hour (7-9 AM, 5-7 PM) — metro is faster.",
+      "zh": "上海拥有全球最大地铁系统（19条线、500+站）——干净、有英文标识、覆盖全城。任何地铁站买张交通卡。滴滴打车便宜好用。高峰期（7-9AM、5-7PM）避免打车——地铁更快。"
+    },
+    "intercity": {
+      "en": "Pudong (PVG) and Hongqiao (SHA) airports connect to 200+ global cities. High-speed rail from Beijing (4.5h), Hangzhou (1h), Suzhou (30min), Nanjing (1.5h). The Maglev train from Pudong Airport to downtown hits 430 km/h — the world's fastest commercial train.",
+      "zh": "浦东和虹桥两机场连接全球200+城市。北京高铁4.5小时、杭州1小时、苏州30分钟、南京1.5小时。浦东机场磁悬浮到市区时速430公里——全球最快商业列车。"
+    },
+    "tips": {
+      "en": "Download Alipay or WeChat Pay before arriving — cash is nearly obsolete. The Bund is best at blue hour (30 min after sunset). Yu Garden is magical during Lantern Festival (Feb). For a local breakfast, find a street-side 四大金刚 stall: soy milk, fried dough, rice rolls, and sesame pancakes.",
+      "zh": "提前下载支付宝或微信支付——现金几乎淘汰了。外滩蓝调时刻最美（日落后30分钟）。豫园元宵灯会（2月）最有氛围。本地人早餐去找街边四大金刚摊：豆浆、油条、粢饭团、大饼。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Arrival:</strong> Both Pudong (PVG) and Hongqiao (SHA) airports connect to the metro. The Maglev from PVG to Longyang Road takes 8 minutes (¥50, or ¥40 with same-day air ticket) and hits 431 km/h — worth doing at least once. Metro Line 2 connects both airports through the city center.</p><p><strong>3-day itinerary:</strong> Day 1 — Morning at Yu Garden & City God Temple bazaar, afternoon walk Nanjing Road to the Bund, evening Bund night view + dinner at a Bund-side restaurant. Day 2 — Morning French Concession (Wukang Road → Anfu Road → Fuxing Road), afternoon Tianzifang or Xintiandi, evening cocktails at a rooftop bar in the Bund area. Day 3 — Morning Pudong (Shanghai Tower observation deck), afternoon M50 art district or Shanghai Museum, evening Huangpu River cruise or jazz at the Peace Hotel.</p><p><strong>Getting around:</strong> Shanghai Metro app (上海地铁) has English mode. Didi app works in English. The public transport card works on metro, bus, ferry, and even some taxis. The Huangpu River ferry (¥2) is the cheapest way to cross between Bund and Pudong — locals do it, tourists should too.</p><p><strong>Day trips:</strong> Zhujiajiao Water Town (1h by metro Line 17), Suzhou classical gardens (30min by high-speed rail), Hangzhou West Lake (1h by high-speed rail).</p>",
+    "zh": "<p><strong>抵达：</strong>浦东和虹桥两机场都通地铁。浦东机场磁悬浮到龙阳路8分钟（¥50，持当日机票¥40），时速431公里——至少体验一次。地铁2号线连接两机场贯穿市区。</p><p><strong>3天行程：</strong>Day1——上午豫园+城隍庙商圈，下午南京路走到底到外滩，晚上外滩夜景+江边餐厅晚餐。Day2——上午法租界（武康路→安福路→复兴路），下午田子坊或新天地，晚上外滩附近屋顶酒吧。Day3——上午浦东（上海中心观景台），下午M50艺术区或上海博物馆，晚上黄浦江游船或和平饭店爵士。</p><p><strong>出行：</strong>上海地铁App有英文模式。滴滴英文版好用。交通卡地铁、公交、轮渡、部分出租车通用。黄浦江轮渡只要¥2——本地人坐，游客也该体验。</p><p><strong>一日游：</strong>朱家角水乡（地铁17号线1小时）、苏州园林（高铁30分钟）、杭州西湖（高铁1小时）。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>The Yu Garden bazaar is a tourist trap — and that's OK.</strong> Everything is overpriced, the xiaolongbao queue at Nanxiang can be 2+ hours, and the 'antiques' are factory-made. But the atmosphere — especially at night with all the lanterns — is genuinely magical. Go for the vibe, not the shopping. Eat at restaurants a few blocks away for authentic food at half the price.</p><p><strong>Nanjing Road East is mostly for first-timers.</strong> It's crowded, commercial, and full of chain stores you can find anywhere. Walk it once on your way from People's Square to the Bund (it's a straight line), but don't plan your shopping there. For actual shopping, go to Huaihai Road, Xintiandi, or the small boutiques in the French Concession.</p><p><strong>Shanghai summers are brutal.</strong> July-August is 35°C+ with 90% humidity — the kind of heat that soaks through your shirt in 5 minutes. If you must come in summer, do outdoor activities before 10 AM, spend midday in air-conditioned museums or malls, and carry a portable fan. Spring (April) and autumn (October) are infinitely better.</p><p><strong>The Maglev is a novelty, not a practical transport.</strong> It's fun if you've never been on a 430 km/h train, but it only goes from PVG to Longyang Road (not downtown). From there you still need to transfer to Metro Line 2 for another 20 minutes. If you're landing at Hongqiao Airport, you can't take it at all. It's a ¥50 thrill ride, not a time-saver.</p>",
+    "zh": "<p><strong>城隍庙商圈就是游客区——没关系。</strong>东西都贵，南翔小笼排队可能2小时以上，'古董'全是工厂货。但氛围——尤其是晚上灯笼全亮——是真的有魔力。去感受气氛，别去购物。吃饭走几条街出去，正宗又便宜一半。</p><p><strong>南京东路是给第一次来的人走的。</strong>拥挤、商业、全是哪里都有的连锁店。从人民广场走向外滩时走一趟（一条直线），但别计划在这里购物。真要买东西去淮海路、新天地、或法租界的小店。</p><p><strong>上海的夏天是地狱模式。</strong>7-8月35°C+、90%湿度——5分钟就汗透衬衫。非来不可的话，户外活动10点前搞定，中午泡空调博物馆或商场，随身带电风扇。4月和10月好一万倍。</p><p><strong>磁悬浮是好玩不是实用。</strong>第一次坐430km/h很爽，但它只从浦东机场到龙阳路（不到市区），还得转2号线再坐20分钟。如果你在虹桥机场落地，根本坐不了。花¥50图个乐，不是省时间。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Breakfast like a local: 四大金刚 (Four Heavenly Kings).</strong> Before Starbucks, Shanghainese started their day with these four: hot soy milk (豆浆, sweet or savory), youtiao (油条, fried dough sticks), cifen (粢饭团, glutinous rice roll stuffed with youtiao and pickles), and dabing (大饼, sesame flatbread). Find them at any neighborhood breakfast stall before 9 AM. Total cost: ¥10-15. This is the real Shanghai breakfast, not avocado toast.</p><p><strong>Huangpu River ferry, not the cruise.</strong> The official river cruise boats charge ¥120+ for a 45-minute ride with recorded commentary. The public ferry (东金线 from the Bund to Dongchang Road) costs ¥2 and takes 10 minutes. Same river, same view, 1/60th the price. The locals are on it — join them.</p><p><strong>Old Jazz Band at the Peace Hotel.</strong> Six musicians in their 70s-80s playing 1920s jazz in the art deco bar of the historic Peace Hotel — exactly as they have since the 1980s. No cover charge, just order a drink (¥80-120). The band plays 7-10 PM nightly. This is one of the most atmospheric experiences in Shanghai and most tourists miss it.</p><p><strong>Secret garden: Fuxing Park at dawn.</strong> Before 7 AM, the park fills with elderly Shanghainese doing tai chi, ballroom dancing, calligraphy with water on the pavement, and playing Chinese chess. It's the most authentic slice of old Shanghai life — free, beautiful, and completely untouristed. Bring a thermos of tea and just watch. This is what Shanghai was before the skyscrapers.</p>",
+    "zh": "<p><strong>本地人早餐：四大金刚。</strong>星巴克之前，上海人早上靠这四个：热豆浆（甜或咸）、油条、粢饭团（糯米饭包油条和咸菜）、大饼（芝麻烧饼）。早上9点前在任何小区门口的早餐摊都能找到。总共¥10-15。这才是真正的上海早餐，不是牛油果吐司。</p><p><strong>黄浦江轮渡，不是游船。</strong>官方游船 ¥120+ 坐45分钟听录音解说。公共轮渡（东金线外滩到东昌路）只要¥2，10分钟过江。同一条江，同样的风景，六十分之一的价钱。本地人都在上面——加入他们。</p><p><strong>和平饭店老年爵士乐队。</strong>六位七八十岁的老乐手在和平饭店装饰艺术风格酒吧里演奏1920年代爵士——从1980年代至今每晚如此。无入场费，点杯酒就行（¥80-120）。每晚7-10点演出。这是上海最有氛围的体验之一，大部分游客不知道。</p><p><strong>秘密花园：复兴公园的清晨。</strong>早上7点前，公园里全是老上海人——打太极、跳交谊舞、在地上用毛笔蘸水写字、下象棋。这是最原汁原味的老上海市井生活——免费、优美、完全没有游客。带壶茶坐下来看。这就是高楼大厦之前的上海。"
+  }
+}

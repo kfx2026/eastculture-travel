@@ -17,6 +17,23 @@
     "hero_fb": "linear-gradient(135deg, #8B1E1E 0%, #C44536 40%, #E8A87C 100%)"
   },
   {
+    "id": "shanghai",
+    "name": {
+      "en": "Shanghai",
+      "zh": "上海"
+    },
+    "province": {
+      "en": "Shanghai Municipality",
+      "zh": "上海市"
+    },
+    "intro": {
+      "en": "Where East truly meets West. The Bund's colonial grandeur faces Pudong's sci-fi skyline across the Huangpu River — Shanghai is China's most cosmopolitan, photogenic, and accessible city for international travelers.",
+      "zh": "真正的东方遇见西方。外滩万国建筑与陆家嘴摩天楼隔江对望——上海是中国最国际化、最出片、最适合外国游客自由行的都市。"
+    },
+    "hero_img": "img/shanghai-1.jpg",
+    "hero_fb": "linear-gradient(135deg, #B71C1C 0%, #E53935 40%, #FF8A80 100%)"
+  },
+  {
     "id": "chengdu",
     "name": {
       "en": "Chengdu",
