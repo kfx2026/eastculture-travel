@@ -20,7 +20,7 @@
         "en": "West Lake",
         "zh": "西湖"
       },
-      "img": "img/hangzhou.jpg",
+      "img": "img/hangzhou-xihu.jpg",
       "desc": {
         "en": "A UNESCO site that has inspired poets for millennia. Pagodas, arched bridges, willow-lined causeways — every view is a painting come alive.",
         "zh": "世界遗产，千年诗意。雷峰塔、断桥、苏堤春晓——每一眼都是一幅活过来的水墨画。"
@@ -56,7 +56,7 @@
         "en": "Lingyin Temple",
         "zh": "灵隐寺"
       },
-      "img": "img/hangzhou.jpg",
+      "img": "img/hangzhou-lingyin.jpg",
       "desc": {
         "en": "One of China's largest and wealthiest Buddhist temples, tucked into forested hills. The Feilai Feng grottoes with 470+ stone carvings are a hidden wonder.",
         "zh": "中国规模最大的佛教寺院之一，隐于山林。飞来峰470余尊石刻造像是隐藏的奇迹。"
@@ -92,7 +92,7 @@
         "en": "Longjing Tea Plantations",
         "zh": "龙井茶园"
       },
-      "img": "img/hangzhou.jpg",
+      "img": "img/hangzhou-longjing.jpg",
       "desc": {
         "en": "Terraced tea fields stretching across rolling hills. Visit during spring harvest (late March–April) to see tea pickers at work and taste the freshest brew.",
         "zh": "梯田茶园绵延起伏山丘。春季采摘季（3月底-4月）来看采茶人劳作，品尝最新鲜的龙井。"
@@ -130,7 +130,7 @@
         "en": "Dongpo Pork",
         "zh": "东坡肉"
       },
-      "img": "img/hangzhou.jpg",
+      "img": "img/hangzhou-dongpo.jpg",
       "desc": {
         "en": "Named after the Song Dynasty poet Su Dongpo — pork belly braised for hours until it collapses under chopsticks. Sweet, savory, and impossibly tender.",
         "zh": "以宋代诗人苏东坡命名——五花肉文火慢炖至筷子一碰就散。咸甜交织，入口即化。"
@@ -155,7 +155,7 @@
         "en": "Silk Culture",
         "zh": "丝绸文化"
       },
-      "img": "img/hangzhou.jpg",
+      "img": "img/hangzhou-silk.jpg",
       "desc": {
         "en": "Hangzhou has been China's silk capital for over 1,000 years. Visit the National Silk Museum to see the entire journey from silkworm to fabric.",
         "zh": "杭州作为中国丝绸之都已逾千年。去中国丝绸博物馆看从蚕茧到织锦的完整旅程。"
