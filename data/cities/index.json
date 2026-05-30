@@ -151,5 +151,22 @@
     },
     "hero_img": "img/yibin-1.jpg",
     "hero_fb": "linear-gradient(135deg, #33691E 0%, #558B2F 40%, #AED581 100%)"
+  },
+  {
+    "id": "chongqing",
+    "name": {
+      "en": "Chongqing",
+      "zh": "重庆"
+    },
+    "province": {
+      "en": "Chongqing Municipality",
+      "zh": "重庆市"
+    },
+    "intro": {
+      "en": "An 8D mountain megacity where trains pass through buildings and 3,000 bridges span two rivers. Fiery hot pot, cyberpunk nightscapes, and 3,000 years of Ba-Yu culture make Chongqing China's most mind-bending destination.",
+      "zh": "8D魔幻山城，轻轨穿楼、三千桥梁横跨两江。热辣火锅、赛博夜景、三千年巴渝文化，重庆是中国最颠覆想象的旅行目的地。"
+    },
+    "hero_img": "img/chongqing-hero.jpg",
+    "hero_fb": "linear-gradient(135deg, #1A1A2E 0%, #E94560 50%, #FF6B6B 100%)"
   }
 ]
