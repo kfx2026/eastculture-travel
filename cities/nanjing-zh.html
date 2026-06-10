@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>南京 - 东方城市人文空间</title>
+    <meta name="description" content="漫游金陵，赴一场南京千年温柔旧梦。中山陵、秦淮河、明孝陵、盐水鸭——六朝古都的人文之旅">
+    <meta name="keywords" content="南京,金陵,中山陵,秦淮河,明孝陵,夫子庙,南京旅游,六朝古都">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>东方城市人文空间</h1>
+                    <span class="subtitle">文旅</span>
+                </div>
+                <nav class="nav">
+                    <a href="../index-zh.html" class="nav-link">首页</a>
+                    <a href="../city-zh.html" class="nav-link">城市</a>
+                    <button class="lang-switch" onclick="switchLang()">English</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="../index-zh.html" onclick="closeMobileMenu()">首页</a>
+        <a href="../city-zh.html" onclick="closeMobileMenu()">城市</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">English</button>
+    </div>
+
+    <!-- City Hero -->
+    <section class="city-hero" style="background: linear-gradient(135deg, #8B1A2B 0%, #6B3A5B 40%, #D4A574 100%); padding: 6rem 0; color: white; text-align: center;">
+        <div class="container">
+            <h2 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 300;">南京</h2>
+            <p style="font-size: 1.25rem; opacity: 0.9;">漫游金陵，赴一场千年温柔旧梦</p>
+        </div>
+    </section>
+
+    <!-- Ad Slot 1 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">广告</div>
+    </div>
+
+    <!-- Section 1: 核心景区 -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">核心景区</h2>
+            
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>中山陵</h3>
+                <img src="https://picsum.photos/seed/nanjing1/800/400" alt="中山陵" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>位置：</strong>南京市玄武区紫金山南麓</p>
+                <p><strong>历史背景：</strong>中山陵是近代中国民主革命先行者孙中山先生的陵寝，建于1926-1929年。三百九十二级石阶自下而上，掩映在苍松翠柏之间，气势恢弘。建筑融合了中国传统宫殿美学与现代纪念建筑理念，庄严肃穆，是镌刻近代风骨的精神地标。</p>
+                <p><strong>亮点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>攀392级石阶而上，每登一层，视野更开阔，陵寝愈发巍峨</li>
+                    <li>祭堂内肃穆的孙中山大理石坐像</li>
+                    <li>顶部平台俯瞰整个南京城天际线</li>
+                    <li>毗邻灵谷寺、明孝陵，合称"紫金山三大景区"</li>
+                    <li>周边梅园每年2-3月梅花盛开</li>
+                </ul>
+                <p><strong>开放时间：</strong>8:30–17:00（周一闭馆维护祭堂）</p>
+                <p><strong>门票：</strong>免费（需微信小程序提前预约）</p>
+                <p><strong>交通：</strong>地铁2号线苜蓿园站1号口出，步行15分钟或乘景区接驳车（¥10）</p>
+                <p><strong>建议游玩：</strong>2–3小时</p>
+                <p><strong>最佳季节：</strong>春季（3-4月梅花盛开）、秋季（10-11月层林尽染）</p>
+                <p><strong>贴士：</strong>穿舒适的鞋——这是真爬山。上午9点前到可避开人潮。日出时分登顶的景色令人屏息。</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>明孝陵</h3>
+                <img src="https://picsum.photos/seed/nanjing2/800/400" alt="明孝陵" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>位置：</strong>南京市玄武区紫金山南麓</p>
+                <p><strong>历史背景：</strong>明孝陵是明朝开国皇帝朱元璋与马皇后的合葬陵墓，中国规模最大的帝王陵寝之一，世界文化遗产。神道蜿蜒八百余米，两侧石象生（骆驼、大象、麒麟等）静静伫立六百年，守护着这位布衣天子的安息之所。红墙石道、古木参天，静谧中透着皇家气象。其建筑布局深刻影响了北京明十三陵及东亚地区皇家陵寝的设计。</p>
+                <p><strong>亮点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>漫步神道——石象、石骆驼、石麒麟栩栩如生，堪称明代石刻艺术巅峰</li>
+                    <li>红墙、石牌坊、古樟树营造出悠然古朴的氛围</li>
+                    <li>秋季是绝佳时节：银杏"黄金大道"美不胜收</li>
+                    <li>四方城内的巨型龟趺石碑——"大明孝陵神功圣德碑"</li>
+                    <li>2003年列入世界文化遗产（明清皇家陵寝组成部分）</li>
+                </ul>
+                <p><strong>开放时间：</strong>7:00–18:00（3-10月）；7:00–17:30（11-2月）</p>
+                <p><strong>门票：</strong>¥70（旺季），¥60（淡季）</p>
+                <p><strong>交通：</strong>地铁2号线苜蓿园站3号口出，穿梅花山即到</p>
+                <p><strong>建议游玩：</strong>2–3小时</p>
+                <p><strong>最佳季节：</strong>深秋（10月下旬-11月）赏银杏；早春赏梅花</p>
+                <p><strong>贴士：</strong>与中山陵联游（两个景区相邻）。神道在晨光中最上镜。</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>夫子庙-秦淮河风光带</h3>
+                <img src="https://picsum.photos/seed/nanjing3/800/400" alt="秦淮河" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>位置：</strong>南京市秦淮区贡院街</p>
+                <p><strong>历史背景：</strong>秦淮河自六朝以来就是南京的文化心脏。这里曾是士子云集、诗人唱和、商贾辐辏之地。乌衣巷青砖斑驳，朱雀桥晚风习习，唐代诗人刘禹锡笔下的"旧时王谢堂前燕，飞入寻常百姓家"至今仍是金陵最动人的注脚。夫子庙始建于宋景祐元年（1034年），是中国古代最大的科举考场江南贡院所在地。</p>
+                <p><strong>亮点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>夜泊秦淮——桨声灯影里的六朝繁华，彩灯倒映水面，恍若隔世</li>
+                    <li>乌衣巷——踏过唐代诗人走过的青石板路</li>
+                    <li>江南贡院——中国古代规模最大的科举考场</li>
+                    <li>朱雀桥——晚风吹拂，仿佛穿越千年</li>
+                    <li>秦淮灯会（春节期间）——万千花灯映照河面，延续千年民俗盛景</li>
+                </ul>
+                <p><strong>开放时间：</strong>夫子庙9:00–22:00；秦淮河游船18:00–21:30</p>
+                <p><strong>门票：</strong>夫子庙¥30；游船夜票¥80、日票¥60；乌衣巷免费</p>
+                <p><strong>交通：</strong>地铁3号线夫子庙站2号口出，步行5分钟</p>
+                <p><strong>建议游玩：</strong>2–4小时（建议下午去，待到晚上）</p>
+                <p><strong>最佳季节：</strong>春节期间赏灯；春秋夜晚最有意境</p>
+                <p><strong>贴士：</strong>这一带到晚上才真正活起来——白天是旅行团，夜晚才是金陵。沿河小吃摊值得一家家试。</p>
+            </div>
+
+            <div class="attraction-item" style="margin-bottom: 3rem;">
+                <h3>老门东</h3>
+                <img src="https://picsum.photos/seed/nanjing4/800/400" alt="老门东" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>位置：</strong>南京市秦淮区中华门以东</p>
+                <p><strong>历史背景：</strong>老门东是南京保存最完好的明清历史街区，位于中华门（中国规模最大的瓮城城门）以东。青石板路纵横交错，老宅院错落有致，曾世代生活着老南京人家。近年来精心修缮后，这里成为古韵与新生碰撞的文化创意街区：百年老宅里开出了独立书店、手作工坊、茶馆小院，新潮与传统在此完美交融。</p>
+                <p><strong>亮点：</strong></p>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>穿行迷宫般的青石板小巷——每个拐角都可能遇见一方天井、一口古井</li>
+                    <li>非遗手作坊：金陵剪纸、绒花制作、木板水印体验</li>
+                    <li>露台咖啡馆，可望见古城墙与中华门</li>
+                    <li>夜间氛围：灯笼亮起，老砖墙在暖光下格外温柔</li>
+                    <li>南京印象餐厅——庭院深处的地道金陵菜</li>
+                </ul>
+                <p><strong>开放时间：</strong>全天开放（店铺一般10:00–21:00）</p>
+                <p><strong>门票：</strong>免费（各店铺/工坊消费自理）</p>
+                <p><strong>交通：</strong>地铁3号线武定门站4号口出，步行10分钟</p>
+                <p><strong>建议游玩：</strong>2–3小时</p>
+                <p><strong>最佳季节：</strong>全年皆宜；夜晚最有韵味</p>
+                <p><strong>贴士：</strong>下午来，待到日落——从白昼到掌灯时分的过渡最美。找家茶馆，点一碗桂花糖芋苗。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 2 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">广告</div>
+    </div>
+    <div class="ad-inline">
+        <div class="ad-placeholder">广告（移动端）</div>
+    </div>
+
+    <!-- Section 2: 特色美食 -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">特色美食</h2>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>盐水鸭</h3>
+                <img src="https://picsum.photos/seed/nanjingfood1/800/400" alt="盐水鸭" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>风味特点：</strong>皮白肉嫩、肥而不腻、清淡回甘。肉质细嫩如玉，带着花椒和八角的淡淡清香。与烤鸭不同，盐水鸭冷食最佳——油脂晶莹剔透，每片都带着纯粹清淡的鲜美，"金陵第一味"名不虚传。</p>
+                <p><strong>历史文化故事：</strong>传说盐水鸭始于六朝，历经千年打磨至臻。明代已是进贡宫廷的珍馐。如今它是南京的城市名片——本地人从家庭聚餐到节庆宴席，每周必吃。做法看似简单：鸭子用盐和香料腌制，晾干，文火浸熟——功夫全在火候与调味分寸之间。</p>
+                <p><strong>怎么吃：</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>冷食，带皮切薄片</li>
+                        <li>先空口品尝，感受鸭肉本真之味</li>
+                        <li>也可蘸少许黑醋姜丝</li>
+                        <li>配热米饭，或冷盘佐啤酒，皆宜</li>
+                    </ol>
+                </p>
+                <p><strong>价格：</strong>¥40–80/整只；¥25–40/半只（餐厅）；¥15–20/外卖盒装</p>
+                <p><strong>去哪吃：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>韩复兴——创于1866年，金字招牌</li>
+                        <li>金陵饭店——精致版本，品质稳定</li>
+                        <li>本地菜市场熟食档——出人意料的好，价格只要一半</li>
+                    </ul>
+                </p>
+            </div>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>鸭血粉丝汤</h3>
+                <img src="https://picsum.photos/seed/nanjingfood2/800/400" alt="鸭血粉丝汤" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>风味特点：</strong>鸭骨熬制的醇厚白汤是灵魂，浓郁鲜香。滑嫩鸭血（口感似豆腐）、嚼劲十足的鸭胗、软糯鸭肝，搭配爽滑红薯粉丝，在金色汤底中交融。撒一把香菜，点几滴辣油，每一勺都是金陵的烟火气息。</p>
+                <p><strong>历史文化故事：</strong>这是南京人的终极治愈美食——大多数本地人的一天从一碗鸭血粉丝汤开始。它源于南京千年养鸭传统：物尽其用，平凡的下水被做成令人痴迷的佳肴。鸭血尤其珍贵，口感丝滑，在中医看来有补血养气之效。如今它是南京人不用言说的早餐默契——从建筑工人到公司白领，清晨排队就为这一碗。</p>
+                <p><strong>怎么吃：</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>先喝汤——这是整碗的灵魂</li>
+                        <li>加辣油和陈醋调味</li>
+                        <li>粉丝、鸭血、鸭杂交替品尝，感受不同口感</li>
+                        <li>一滴不剩喝完——碗底那口汤最浓</li>
+                    </ol>
+                </p>
+                <p><strong>价格：</strong>¥15–25/碗；路边摊¥10–15</p>
+                <p><strong>去哪吃：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>尹氏汤包——连锁名店，品质稳定</li>
+                        <li>回味——遍布全市的本地连锁，清晨即开</li>
+                        <li>居民区附近随便一家早餐铺——往往最地道</li>
+                    </ul>
+                </p>
+            </div>
+
+            <div class="cuisine-item" style="margin-bottom: 3rem;">
+                <h3>蟹黄汤包</h3>
+                <img src="https://picsum.photos/seed/nanjingfood3/800/400" alt="蟹黄汤包" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>风味特点：</strong>薄如纸的面皮包裹着一汪金黄蟹汤。蟹黄、蟹肉与猪肉交融，鲜甜丰腴，浓郁奢华。筷子一戳，蟹香蒸腾，满室飘散着长江的味道。</p>
+                <p><strong>历史文化故事：</strong>南京地处江南蟹乡交汇处。每年秋季，高邮湖大闸蟹膏满黄肥之时，全城厨房都把它化为这精巧的汤包。与上海小笼包不同，南京蟹黄汤包个头更大——常一笼一只，配吸管直接喝汤。</p>
+                <p><strong>怎么吃：</strong> 
+                    <ol style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>用筷子轻提汤包顶端</li>
+                        <li>放入汤匙，在侧面戳一小孔</li>
+                        <li>从小孔吸尽滚烫蟹汤（或用吸管）</li>
+                        <li>加几滴黑醋姜丝</li>
+                        <li>一两口吃掉皮和馅</li>
+                    </ol>
+                </p>
+                <p><strong>价格：</strong>¥25–45/笼（6-8只）；精品单只¥15–30</p>
+                <p><strong>去哪吃：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>刘长兴——夫子庙附近的百年老店</li>
+                        <li>狮子楼——以巨型单只蟹黄汤包著称</li>
+                        <li>秋季（9-11月）秦淮河沿线任意一家餐厅</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 3 -->
+    <div class="ad-container">
+        <div class="ad-placeholder">广告</div>
+    </div>
+
+    <!-- Section 3: 民俗文化 -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">民俗文化</h2>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>秦淮灯会</h3>
+                <img src="https://picsum.photos/seed/nanjingculture1/800/400" alt="秦淮灯会" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>起源与历史：</strong>秦淮灯会始于南朝（公元420-589年），鼎盛于明代南京作为帝都之时。一千五百余年来，每逢新春元宵，夫子庙灯火璀璨，万千手扎花灯沿秦淮河、挂满街巷、漂于水面，将整座城市变成灯光的海洋。秦淮灯会已被列为国家级非物质文化遗产。</p>
+                <p><strong>体验形式：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>大型灯组展示：生肖、神兽、宫殿场景</li>
+                        <li>秦淮河夜游赏灯</li>
+                        <li>猜灯谜（传统互动游戏）</li>
+                        <li>民俗表演：南京白局、舞龙、传统音乐</li>
+                        <li>沿街小吃摊绵延不绝</li>
+                    </ul>
+                </p>
+                <p><strong>去哪体验：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>夫子庙主会场</li>
+                        <li>老门东分会场</li>
+                        <li>中华门大型装置展</li>
+                    </ul>
+                </p>
+                <p><strong>最佳时间：</strong>春节至元宵节期间（1月下旬-2月）；亮灯时间18:00–22:00</p>
+                <p><strong>文化意义：</strong>秦淮灯会是南京人最珍视的民俗传统——一家人春节看灯，如同欧洲人的圣诞集市。它是六朝古都皇家灯会遗风在民间的活态传承。</p>
+            </div>
+
+            <div class="culture-item" style="margin-bottom: 3rem;">
+                <h3>南京云锦与非遗手作</h3>
+                <img src="https://picsum.photos/seed/nanjingculture2/800/400" alt="南京云锦" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+                <p><strong>起源与历史：</strong>南京是世界文学之都，非物质文化遗产宝库。最负盛名的南京云锦已有1600余年历史——丝线交织金线、孔雀羽，专供皇家龙袍。与之相伴的金陵剪纸（纤巧红纸艺术）、绒花制作（南京新娘传统头饰）、金陵刻经（木版水印佛经），共同织就了代代相传的非遗图景。</p>
+                <p><strong>体验形式：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>观看云锦织工在传统木织机上操作——两人一机，一天仅织5-6厘米</li>
+                        <li>尝试金陵剪纸——大师几分钟就能剪出精美图案</li>
+                        <li>绒花工坊：学习制作南京新娘佩戴的迷你蚕丝花</li>
+                        <li>南京白局——用南京方言演唱的地方曲艺，软糯悠扬</li>
+                    </ul>
+                </p>
+                <p><strong>去哪体验：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>南京云锦博物馆——现场织造演示</li>
+                        <li>老门东南京非遗馆</li>
+                        <li>甘熙故居（九十九间半）——古宅中的手作工坊</li>
+                    </ul>
+                </p>
+                <p><strong>最佳时间：</strong>全年；博物馆每日开放；手作工坊周末最热闹</p>
+                <p><strong>文化意义：</strong>这些手艺不是封存的文物，而是南京作为文化之都2600年不绝的文脉。云锦的一针一线、剪纸的一刀一划，承载着世世代代在匠心之中寻找美的人们的审美精神。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 4 -->
+    <div class="ad-sidebar">
+        <div class="ad-placeholder">广告</div>
+    </div>
+    <div class="ad-inline">
+        <div class="ad-placeholder">广告（移动端）</div>
+    </div>
+
+    <!-- Section 4: 出行攻略 -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">境外出行攻略</h2>
+
+            <div class="tips-content">
+                <h3>最佳出行时间</h3>
+                <p><strong>黄金季节（最宜出行）：</strong>春季（3-5月）和秋季（9-11月）。春季梅花山万梅齐放（2-3月），气温舒适（15-25°C）。秋季紫金山层林尽染，银杏金黄、枫叶火红——10月至11月被公认为南京最美的季节。</p>
+                <p><strong>次佳季节：</strong>6月和9月初。偏热但可接受，游客少，住宿价格回落。</p>
+                <p><strong>尽量避开：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>7-8月：酷暑湿热（35-38°C），南京是"四大火炉"之一</li>
+                        <li>国庆黄金周（10月1-7日）：景区爆满，酒店价格翻2-3倍</li>
+                        <li>1月下旬：湿冷刺骨（但秦淮灯会值得为此破例）</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">建议天数</h3>
+                <p><strong>最少：</strong>2天（紫金山景区+秦淮河一带）</p>
+                <p><strong>理想：</strong>3天——加上侵华日军南京大屠杀遇难同胞纪念馆（沉重而肃穆）、总统府、玄武湖</p>
+                <p><strong>深度：</strong>4-5天——南京博物院（中国最好的博物馆之一）、鸡鸣寺、栖霞山（秋色）、一天往返镇江或扬州</p>
+
+                <h3 style="margin-top: 2rem;">市内交通</h3>
+                <p><strong>地铁（强烈推荐）：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>11条线路覆盖主要景区</li>
+                        <li>票价：¥2–8</li>
+                        <li>站内自助售票机购票（支持英文）</li>
+                        <li>支付宝乘车码通用地铁和公交</li>
+                    </ul>
+                </p>
+                <p><strong>出租车/滴滴：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>起步价¥11（3公里），之后¥2.9/公里</li>
+                        <li>滴滴App支持英文；市内出行价格合理</li>
+                    </ul>
+                </p>
+                <p><strong>步行/骑行：</strong>市中心相对紧凑。夫子庙到老门东、中华门之间徒步最佳。共享单车（哈啰/美团）随处可扫——¥1.5/30分钟。</p>
+
+                <h3 style="margin-top: 2rem;">城际交通</h3>
+                <p><strong>南京禄口国际机场（NKG）：</strong>地铁S1线直达市区（50分钟，¥8）。出租车到市中心约¥120–150（40分钟）。</p>
+                <p><strong>高铁：</strong>南京是华东重要铁路枢纽。 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>南京南站：主要高铁站点</li>
+                        <li>至上海：1–1.5小时（¥140–230）</li>
+                        <li>至杭州：1.5小时（¥120–200）</li>
+                        <li>至北京：3.5小时（¥440–750）</li>
+                        <li>至苏州：50分钟（¥100–160）</li>
+                    </ul>
+                </p>
+
+                <h3 style="margin-top: 2rem;">实用贴士</h3>
+                <p><strong>支付：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>支付宝/微信支付全城通用——出发前绑定国际信用卡</li>
+                        <li>中国银行ATM支持国际卡取现；备¥300现金应急</li>
+                    </ul>
+                </p>
+                <p><strong>语言：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>普通话通用；景区年轻人基础英语尚可</li>
+                        <li>提前下载Pleco词典或Google翻译离线包</li>
+                        <li>把酒店名称和地址写成中文存在手机上</li>
+                    </ul>
+                </p>
+                <p><strong>网络：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>Google、WhatsApp、Facebook均被屏蔽——出发前安装VPN</li>
+                        <li>多数酒店和咖啡馆有免费WiFi（需护照登记）</li>
+                        <li>机场联通旅游SIM卡：¥100/7天不限流量</li>
+                    </ul>
+                </p>
+                <p><strong>安全：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>南京非常安全——暴力犯罪率低，夜间街道热闹</li>
+                        <li>夫子庙等拥挤景点注意扒手，早晚高峰地铁也需留意</li>
+                        <li>警惕"茶托"骗局：陌生人邀请喝茶，结账时天价账单</li>
+                    </ul>
+                </p>
+                <p><strong>礼仪：</strong> 
+                    <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                        <li>南京人出了名的热情直爽——这座城市自带从容淡然的气质</li>
+                        <li>不设小费文化，无需额外付小费</li>
+                        <li>有序排队；相比超大城市，南京人排队更规矩</li>
+                        <li>侵华日军南京大屠杀遇难同胞纪念馆是庄严肃穆之地——衣着得体，低声交谈，不拍照</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ad Slot 5 (Footer Ad) -->
+    <div class="ad-footer">
+        <div class="ad-placeholder">广告</div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>东方城市人文空间</h3>
+                    <p>发现东方城市之美</p>
+                </div>
+                <div class="footer-section">
+                    <h3>快速链接</h3>
+                    <a href="../index-zh.html">首页</a>
+                    <a href="../city-zh.html">城市</a>
+                    <a href="../privacy-zh.html">隐私政策</a>
+                    <a href="../terms-zh.html">服务条款</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 东方城市人文空间。保留所有权利。</p>
+                <a href="#" onclick="scrollToTop(); return false;" style="float: right; color: white; text-decoration: none;">返回顶部 ↑</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Refresh Button -->
+    <button class="refresh-btn" onclick="refreshPage()" title="刷新">↻</button>
+
+    <script src="../js/city.js"></script>
+    <script>
+        function switchLang() {
+            window.location.href = 'nanjing.html';
+        }
+        
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        function refreshPage() {
+            location.reload();
+        }
+        
+        // Back to top button visibility
+        window.onscroll = function() {
+            var btn = document.getElementById('backToTop');
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = 'block';
+            } else {
+                btn.style.display = 'none';
+            }
+        };
+        
+        function toggleMobileMenu() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('active');
+        }
+        
+        function closeMobileMenu() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.remove('active');
+        }
+    </script>
+</body>
+</html>

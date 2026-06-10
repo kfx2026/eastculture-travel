@@ -10,7 +10,8 @@ const cities = [
     { id: 'xian', name: 'Xi\'an', nameZh: '西安', desc: '千年古都，兵马俑震撼世界', img: 'images/xian.jpg', tags: ['历史', '兵马俑', '文化'] },
     { id: 'lijiang', name: 'Lijiang', nameZh: '丽江', desc: '古城纳西文化，玉龙雪山壮丽', img: 'images/lijiang.jpg', tags: ['古城', '文化', '雪山'] },
     { id: 'suzhou', name: 'Suzhou', nameZh: '苏州', desc: '园林之城，古典园林精美绝伦', img: 'images/suzhou.jpg', tags: ['园林', '水乡', '建筑'] },
-    { id: 'guangzhou', name: 'Guangzhou', nameZh: '广州', desc: '美食天堂，南方大都市', img: 'images/guangzhou.jpg', tags: ['美食', '现代', '粤菜'] }
+    { id: 'guangzhou', name: 'Guangzhou', nameZh: '广州', desc: '美食天堂，南方大都市', img: 'images/guangzhou.jpg', tags: ['美食', '现代', '粤菜'] },
+    { id: 'nanjing', name: 'Nanjing', nameZh: '南京', desc: '六朝古都，中山陵巍峨、秦淮河婉约、盐水鸭飘香', img: 'images/nanjing.jpg', tags: ['历史', '文化', '美食', '古都'] }
 ];
 
 const itemsPerPage = 6;
