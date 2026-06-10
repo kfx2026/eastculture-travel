@@ -1,0 +1,199 @@
+{
+  "id": "nanjing",
+  "name": {
+    "en": "Nanjing",
+    "zh": "南京"
+  },
+  "province": {
+    "en": "Jiangsu Province",
+    "zh": "江苏省"
+  },
+  "intro": {
+    "en": "Nanjing — Jinling, the ancient capital of six dynasties. Here the solemn grandeur of Sun Yat-sen Mausoleum meets the poetic lantern-lit shores of the Qinhuai River. Walk where Tang Dynasty poets once roamed, taste the legendary salted duck, and let this gentle old capital weave its thousand-year spell.",
+    "zh": "金陵古都，六朝如梦。中山陵肃穆巍峨，秦淮河桨声灯影。乌衣巷的青石板还留着唐诗的余韵，盐水鸭的清香飘过千年。漫游金陵，赴一场千年温柔旧梦。"
+  },
+  "hero_img": "img/nanjing.jpg",
+  "hero_fb": "linear-gradient(135deg, #8B1A2B 0%, #6B3A5B 40%, #D4A574 100%)",
+  "landmarks": [
+    {
+      "name": { "en": "Sun Yat-sen Mausoleum (Zhongshan Ling)", "zh": "中山陵" },
+      "img": "img/nanjing-zhongshanling.jpg",
+      "desc": {
+        "en": "Built between 1926 and 1929, Sun Yat-sen Mausoleum is the final resting place of Dr. Sun Yat-sen, the founding father of modern China. The mausoleum ascends through 392 stone steps, flanked by ancient pines and cypresses, creating an atmosphere of solemn grandeur. The architecture blends traditional Chinese palace design with modern memorial aesthetics.",
+        "zh": "近代中国民主革命先行者孙中山先生的陵寝，建于1926-1929年。三百九十二级石阶自下而上，掩映在苍松翠柏之间，气势恢弘。建筑融合了中国传统宫殿美学与现代纪念建筑理念，庄严肃穆。"
+      },
+      "highlight": { "en": "Climb 392 steps to a panoramic Nanjing skyline view", "zh": "攀392级石阶俯瞰南京城天际线" },
+      "hours": { "en": "8:30 AM – 5:00 PM (closed Mon for memorial hall)", "zh": "8:30–17:00（周一闭馆维护祭堂）" },
+      "ticket": { "en": "Free (WeChat mini-program reservation required)", "zh": "免费（需微信小程序提前预约）" },
+      "tips": {
+        "en": "Wear comfortable shoes — it's a real climb. Arrive before 9 AM to avoid crowds. Sunrise from the top is breathtaking.",
+        "zh": "穿舒适的鞋——这是真爬山。上午9点前到可避开人潮。日出时分登顶的景色令人屏息。"
+      },
+      "location": { "en": "Purple Mountain, Xuanwu District", "zh": "南京市玄武区紫金山南麓" },
+      "rating": "4.8",
+      "tags": { "en": "History · Memorial · Free", "zh": "历史 · 纪念 · 免费" }
+    },
+    {
+      "name": { "en": "Ming Xiaoling Mausoleum", "zh": "明孝陵" },
+      "img": "img/nanjing-mingxiaoling.jpg",
+      "desc": {
+        "en": "The tomb of Zhu Yuanzhang, the founding Ming emperor, and the largest imperial mausoleum in China. The 800-meter Sacred Way is lined with 12 pairs of stone animals and officials — a silent stone army guarding the emperor for 600 years. A UNESCO World Heritage Site that influenced royal tomb design across East Asia.",
+        "zh": "明朝开国皇帝朱元璋与马皇后的合葬陵墓，中国规模最大的帝王陵寝。神道蜿蜒八百余米，两侧石象生静静伫立六百年。世界文化遗产，其布局深刻影响了北京明十三陵及东亚皇家陵寝。"
+      },
+      "highlight": { "en": "Sacred Way stone animals & autumn 'Golden Avenue' of ginkgo", "zh": "神道石象生+深秋银杏'黄金大道'" },
+      "hours": { "en": "7:00 AM – 6:00 PM (Mar–Oct); 7:00 AM – 5:30 PM (Nov–Feb)", "zh": "7:00–18:00（3-10月）；7:00–17:30（11-2月）" },
+      "ticket": { "en": "¥70 peak, ¥60 off-season", "zh": "¥70（旺季），¥60（淡季）" },
+      "tips": {
+        "en": "Combine with Sun Yat-sen Mausoleum (adjacent). The Sacred Way is most photogenic in early morning light. Autumn ginkgo is the peak season highlight.",
+        "zh": "与中山陵联游（两个景区相邻）。神道在晨光中最上镜。深秋银杏不容错过。"
+      },
+      "location": { "en": "Purple Mountain, Xuanwu District", "zh": "南京市玄武区紫金山南麓" },
+      "rating": "4.7",
+      "tags": { "en": "UNESCO · Imperial · History", "zh": "世界遗产 · 皇家 · 历史" }
+    },
+    {
+      "name": { "en": "Confucius Temple & Qinhuai River Scenic Area", "zh": "夫子庙-秦淮河风光带" },
+      "img": "img/nanjing-qinhuai.jpg",
+      "desc": {
+        "en": "The Qinhuai River has been Nanjing's cultural heart since the Six Dynasties period. This is where scholars gathered for imperial exams, poets wrote verses by moonlight, and merchants traded silk and tea. Wuyi Lane, immortalized in Tang Dynasty poetry, still retains its ancient flagstones. The Confucius Temple, built in 1034, was the most important examination center in imperial China.",
+        "zh": "秦淮河自六朝以来就是南京的文化心脏。这里曾是士子云集、诗人唱和、商贾辐辏之地。乌衣巷青砖斑驳，唐代诗人刘禹锡笔下的诗句至今仍是金陵最动人的注脚。夫子庙始建于1034年，是中国古代最大的科举考场所在地。"
+      },
+      "highlight": { "en": "Night cruise: 'oar sounds and lantern shadows' of ancient Nanjing", "zh": "夜泊秦淮——桨声灯影里的六朝繁华" },
+      "hours": { "en": "Temple 9 AM – 10 PM; boat rides 6 PM – 9:30 PM", "zh": "夫子庙9:00–22:00；秦淮河游船18:00–21:30" },
+      "ticket": { "en": "Temple ¥30; boat ¥80 night / ¥60 day; Wuyi Lane free", "zh": "夫子庙¥30；游船夜票¥80、日票¥60；乌衣巷免费" },
+      "tips": {
+        "en": "Come late afternoon and stay through evening — daytime is for tour groups, nighttime is when Nanjing's magic unfolds. Try every street food stall along the river.",
+        "zh": "下午来，待到晚上——白天是旅行团，夜晚才是金陵。沿河小吃摊值得一家家试。"
+      },
+      "location": { "en": "Gongyuan Street, Qinhuai District", "zh": "南京市秦淮区贡院街" },
+      "rating": "4.7",
+      "tags": { "en": "River · History · Nightlife", "zh": "河流 · 历史 · 夜游" }
+    },
+    {
+      "name": { "en": "Laomendong (Old Gate East)", "zh": "老门东" },
+      "img": "img/nanjing-laomendong.jpg",
+      "desc": {
+        "en": "Nanjing's best-preserved Ming-Qing historic residential district, east of Zhonghua Gate (China's largest castle-style city gate). Narrow flagstone alleys, traditional courtyard houses, and centuries-old wells have been carefully restored. Today it's a cultural quarter where heritage architecture meets artisan workshops, boutique tea houses, and independent bookstores.",
+        "zh": "南京保存最完好的明清历史街区，位于中华门（中国规模最大的瓮城城门）以东。青石板路纵横交错，老宅院错落有致。近年精心修缮后，成为古韵与新生碰撞的文化创意街区：百年老宅里开出了独立书店、手作工坊、茶馆小院。"
+      },
+      "highlight": { "en": "Maze of flagstone lanes, artisan workshops, rooftop cafes with city wall views", "zh": "穿行青石板小巷，非遗手作体验，露台咖啡馆望古城墙" },
+      "hours": { "en": "All day (shops 10 AM – 9 PM)", "zh": "全天开放（店铺一般10:00–21:00）" },
+      "ticket": { "en": "Free", "zh": "免费（各店铺/工坊消费自理）" },
+      "tips": {
+        "en": "Come in late afternoon, stay through sunset — the transition from daylight to lantern-lit evening is magical. Try osmanthus sugar taro (桂花糖芋苗) at a local tea house.",
+        "zh": "下午来，待到日落——从白昼到掌灯时分的过渡最美。找家茶馆，点一碗桂花糖芋苗。"
+      },
+      "location": { "en": "East of Zhonghua Gate, Qinhuai District", "zh": "南京市秦淮区中华门以东" },
+      "rating": "4.6",
+      "tags": { "en": "Heritage · Artisan · Free", "zh": "历史街区 · 手作 · 免费" }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": { "en": "Nanjing Salted Duck (盐水鸭)", "zh": "盐水鸭" },
+      "img": "img/nanjing-yanshuiya.jpg",
+      "desc": {
+        "en": "Tender, succulent, delicately salted with a clean aftertaste — the 'First Flavor of Jinling.' Served cold, the ivory-white meat carries a subtle fragrance of Sichuan peppercorn and star anise. Unlike roast duck, the fat is translucent and each slice delivers a gentle, savory purity. A dish so deeply woven into local identity that Nanjing locals eat it weekly.",
+        "zh": "皮白肉嫩、肥而不腻、清淡回甘。肉质细嫩如玉，带着花椒和八角的淡淡清香。冷食最佳——油脂晶莹剔透，每片都带着纯粹清淡的鲜美，'金陵第一味'名不虚传。本地人每周必吃。"
+      },
+      "where": { "en": "Han Fuxing (established 1866) for the classic; Jinling Hotel for upscale; local wet markets for authentic budget version", "zh": "韩复兴（创于1866年）金字招牌；金陵饭店精致版本；本地菜市场熟食档出人意料的好" },
+      "price": { "en": "¥40–80 whole duck; ¥15–20 takeaway box", "zh": "¥40–80/整只；¥15–20/外卖盒装" },
+      "must_try": {
+        "en": "Eat cold, skin on, sliced thin. Pair with warm rice or as a cold appetizer with beer.",
+        "zh": "冷食，带皮切薄片。配热米饭或冷盘佐啤酒。"
+      }
+    },
+    {
+      "name": { "en": "Duck Blood Vermicelli Soup (鸭血粉丝汤)", "zh": "鸭血粉丝汤" },
+      "img": "img/nanjing-yaxuefensi.jpg",
+      "desc": {
+        "en": "Nanjing's ultimate comfort food. Rich, milky duck bone broth with a deeply savory umami punch. Silky duck blood, chewy gizzard, soft liver, and slippery sweet potato vermicelli swim in the golden broth. A sprinkle of cilantro and a dash of chili oil — every spoonful is Nanjing's soul in a bowl.",
+        "zh": "南京人的终极治愈美食。鸭骨熬制的醇厚白汤是灵魂，浓郁鲜香。滑嫩鸭血、嚼劲十足的鸭胗、软糯鸭肝，搭配爽滑红薯粉丝，撒一把香菜，点几滴辣油，每一勺都是金陵的烟火气息。"
+      },
+      "where": { "en": "Yin's Soup Dumplings (尹氏汤包) — famous chain; Hui Bao Ji (回味) — ubiquitous local chain; any street-side breakfast stall near residential neighborhoods", "zh": "尹氏汤包连锁名店；回味遍布全市的本地连锁；居民区附近随便一家早餐铺往往最地道" },
+      "price": { "en": "¥15–25 per bowl; ¥10–15 at street stalls", "zh": "¥15–25/碗；路边摊¥10–15" },
+      "must_try": {
+        "en": "Slurp the broth first — it's the soul. Mix in chili oil and vinegar. Alternate between vermicelli, duck blood, and offal for texture.",
+        "zh": "先喝汤——这是整碗的灵魂。加辣油和陈醋调味。粉丝、鸭血、鸭杂交替品尝。"
+      }
+    },
+    {
+      "name": { "en": "Crab Roe Soup Dumplings (蟹黄汤包)", "zh": "蟹黄汤包" },
+      "img": "img/nanjing-xiehuangtangbao.jpg",
+      "desc": {
+        "en": "Paper-thin wrappers encase a golden lake of crab-infused broth. Plump with fresh crab roe, crab meat, and pork — sweet, briny, and decadently rich. A poke of the chopstick releases aromatic steam that smells of the Yangtze River. Often served individually with a straw for sipping the broth directly.",
+        "zh": "薄如纸的面皮包裹着一汪金黄蟹汤。蟹黄、蟹肉与猪肉交融，鲜甜丰腴，浓郁奢华。筷子一戳，蟹香蒸腾，满室飘散着长江的味道。常一笼一只，配吸管直接喝汤。"
+      },
+      "where": { "en": "Liu Changxing (刘长兴) — century-old brand near Confucius Temple; Shi Wang Fu (狮子楼) — giant single-serving dumplings; any Qinhuai River restaurant in autumn (Sept–Nov)", "zh": "刘长兴夫子庙百年老店；狮子楼巨型单只蟹黄汤包；秋季秦淮河沿线任意一家餐厅" },
+      "price": { "en": "¥25–45 per steamer (6–8 pieces); ¥15–30 for premium single", "zh": "¥25–45/笼（6-8只）；精品单只¥15–30" },
+      "must_try": {
+        "en": "Lift by top knot, place on spoon, poke a hole in the side, sip the broth. Add black vinegar with ginger shreds. Then eat wrapper and filling.",
+        "zh": "用筷子轻提顶端，放汤匙，侧面戳小孔吸尽蟹汤。加黑醋姜丝。一两口吃掉皮和馅。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": { "en": "Qinhuai Lantern Festival (秦淮灯会)", "zh": "秦淮灯会" },
+      "img": "img/nanjing-dengju.jpg",
+      "desc": {
+        "en": "The Qinhuai Lantern Festival dates back to the Southern Dynasties (420–589 AD), reaching its golden age during the Ming Dynasty when Nanjing was the imperial capital. For over 1,500 years, the Qinhuai River transforms into a river of light during Chinese New Year. Thousands of handcrafted lanterns in every shape and color are strung along the water, on boats, and throughout the Confucius Temple area. Recognized as a National Intangible Cultural Heritage.",
+        "zh": "秦淮灯会始于南朝（420-589年），鼎盛于明代南京作为帝都之时。一千五百余年来，每逢新春元宵，夫子庙灯火璀璨，万千手扎花灯沿秦淮河、挂满街巷、漂于水面。秦淮灯会已被列为国家级非物质文化遗产。"
+      },
+      "significance": { "en": "Over 1,500 years of tradition — Nanjing's most cherished folk celebration, like Christmas markets to Europeans", "zh": "一千五百余年传承——南京人最珍视的民俗传统，如同欧洲人的圣诞集市" },
+      "best_time": { "en": "Chinese New Year to Lantern Festival (late Jan–Feb); lanterns lit 6 PM – 10 PM", "zh": "春节至元宵节期间（1月下旬-2月）；亮灯时间18:00–22:00" },
+      "experience": {
+        "en": "Night cruise past illuminated waterways, guess lantern riddles, watch Nanjing Baiju opera and dragon dances, feast at endless street food stalls",
+        "zh": "秦淮河夜游赏灯，猜灯谜，看南京白局和舞龙表演，沿街小吃摊尝遍金陵味"
+      }
+    },
+    {
+      "name": { "en": "Nanjing Yunjin Brocade & Intangible Heritage Crafts", "zh": "南京云锦与非遗手作" },
+      "img": "img/nanjing-yunjin.jpg",
+      "desc": {
+        "en": "Nanjing is a UNESCO City of Literature and a treasure trove of intangible cultural heritage. Yunjin (cloud brocade), the most famous, has been woven for over 1,600 years — silk threads interwoven with gold and peacock feathers, exclusively for imperial robes. Alongside it: Jinling paper cutting, velvet flower making, and Buddhist scripture woodblock printing form a rich tapestry of living traditions.",
+        "zh": "南京是世界文学之都，非物质文化遗产宝库。最负盛名的南京云锦已有1600余年历史——丝线交织金线、孔雀羽，专供皇家龙袍。金陵剪纸、绒花制作、金陵刻经共同织就了代代相传的非遗图景。"
+      },
+      "significance": { "en": "1,600+ years of cloud brocade — living proof of Nanjing's 2,600-year cultural capital role", "zh": "1600余年云锦织造——南京作为文化之都2600年不绝的文脉" },
+      "best_time": { "en": "Year-round; museums open daily; workshops best on weekends", "zh": "全年；博物馆每日开放；手作工坊周末最热闹" },
+      "experience": {
+        "en": "Watch Yunjin weavers at traditional wooden looms (5–6 cm per day), try paper cutting, make velvet flowers at Laomendong, listen to Nanjing Baiju dialect singing",
+        "zh": "观看云锦织工在传统木织机上操作（一天仅织5-6厘米），尝试金陵剪纸，老门东绒花工坊体验，听南京白局"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Mar–May) & Autumn (Sep–Nov) are ideal: 15-25°C, comfortable. Plum blossoms Feb–Mar. Autumn foliage Oct–Nov is Nanjing's most beautiful season.",
+      "zh": "春秋最佳（3-5月、9-11月）：15-25°C，舒适宜人。梅花2-3月盛开，深秋10-11月层林尽染，公认最美季节。"
+    },
+    "days": {
+      "en": "2 days minimum (Purple Mountain + Qinhuai River); 3 days ideal (add Memorial Hall, Presidential Palace, Xuanwu Lake); 4-5 days for deep exploration",
+      "zh": "最少2天（紫金山+秦淮河）；理想3天（加大屠杀纪念馆、总统府、玄武湖）；深度4-5天（南京博物院、鸡鸣寺、栖霞山）"
+    },
+    "transit": {
+      "en": "Metro is best — 11 lines covering major attractions (¥2-8). Taxis start at ¥11. Shared bikes (Hellobike/Meituan) everywhere: ¥1.5/30min. Alipay transport QR code works for metro and bus.",
+      "zh": "地铁最方便——11条线路覆盖主要景区（¥2-8）。出租车起步¥11。共享单车随处可扫（¥1.5/30分钟）。支付宝乘车码通用。"
+    },
+    "intercity": {
+      "en": "Nanjing Lukou Airport (NKG): Metro S1 to city center (50min, ¥8). High-speed rail: Shanghai 1–1.5h (¥140-230), Hangzhou 1.5h (¥120-200), Beijing 3.5h (¥440-750), Suzhou 50min.",
+      "zh": "禄口国际机场：地铁S1线直达市区（50分钟，¥8）。高铁：上海1-1.5h（¥140-230），杭州1.5h（¥120-200），北京3.5h（¥440-750），苏州50分钟。"
+    },
+    "tips": {
+      "en": "Alipay/WeChat Pay everywhere — link international card before arriving. Download Pleco or Google Translate offline. Have hotel name in Chinese on your phone. Nanjing is very safe with a relaxed, unhurried vibe.",
+      "zh": "支付宝/微信支付全城通用——出发前绑定国际信用卡。下载翻译APP离线包。酒店名称和地址存中文在手机上。南京非常安全，城市自带从容淡然的气质。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting to Nanjing:</strong> Nanjing Lukou International Airport (NKG) connects to major Asian and select European cities. Metro Line S1 reaches the city center in 50 minutes (¥8). High-speed rail is often more convenient: Shanghai (1-1.5h), Hangzhou (1.5h), Beijing (3.5h), Suzhou (50min).</p><p><strong>Getting around:</strong> The 11-line metro system is clean and efficient (¥2-8). Lines 2 and 3 cover most attractions. Taxis start at ¥11. The city center is relatively compact — walking from Confucius Temple to Laomendong to Zhonghua Gate is pleasant. Shared bikes (Hellobike/Meituan) are everywhere at ¥1.5 per 30 minutes.</p><p><strong>Where to stay:</strong> Qinhuai District near Confucius Temple for night atmosphere and street food. Xuanwu District near Purple Mountain for natural scenery and quiet mornings. Xinjiekou area for shopping and metro hub convenience.</p><p><strong>Food strategy:</strong> Nanjing locals eat duck blood vermicelli soup for breakfast. Salted duck is a cold dish — order at lunch or dinner as an appetizer. Soup dumplings peak in autumn during crab season. The line is always longest ≠ the best — ask a local where they go.</p>",
+    "zh": "<p><strong>到达南京：</strong>南京禄口国际机场（NKG），地铁S1线直达市区（50分钟，¥8）。高铁往往更方便：上海1-1.5小时（¥140-230），杭州1.5小时（¥120-200），北京3.5小时（¥440-750），苏州50分钟。</p><p><strong>市内交通：</strong>11条地铁线路干净高效（¥2-8）。2号和3号线覆盖大部分景区。出租车起步¥11。市中心相对紧凑——夫子庙到老门东到中华门之间徒步最佳。共享单车（哈啰/美团）随处可见，¥1.5/30分钟。</p><p><strong>住宿推荐：</strong>秦淮区夫子庙附近——夜生活氛围+小吃便利。玄武区紫金山附近——安静自然风光。新街口区域——购物+地铁枢纽。</p><p><strong>美食攻略：</strong>南京人的早餐是鸭血粉丝汤。盐水鸭冷食——午晚餐做凉菜最佳。汤包秋季蟹季最肥美。排队最长的≠最好吃的——问问本地人去哪家。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Nanjing in summer is a furnace.</strong> Nanjing is one of China's 'Four Furnaces' (四大火炉). July–August sees 35-38°C with stifling humidity. Plan outdoor activities before 11 AM or after 4 PM. The metro is air-conditioned — use it strategically. Carry water constantly.</p><p><strong>National holiday crowds are apocalyptic.</strong> During Golden Week (Oct 1-7), the Sun Yat-sen Mausoleum becomes a river of humanity. Hotels 2-3x normal price. If you can only visit during holidays, go to the mausoleum at 8 AM sharp on a weekday within the holiday window.</p><p><strong>The Memorial Hall is not a tourist attraction.</strong> The Nanjing Massacre Memorial Hall (侵华日军南京大屠杀遇难同胞纪念馆) is a profoundly sobering experience. Dress respectfully, speak quietly, no selfies. Expect to be emotionally affected — this is not light sightseeing. Allow time afterward to decompress.</p><p><strong>Watch for the 'teahouse scam.'</strong> In tourist areas like Fuzimiao, strangers may invite you to a 'traditional tea ceremony.' You'll be presented with an inflated bill afterward. Politely decline unsolicited invitations from strangers.</p>",
+    "zh": "<p><strong>南京夏天是火炉。</strong>南京是'四大火炉'之一。7-8月气温35-38°C，湿热难耐。户外活动安排在上午11点前或下午4点后。地铁有空调——策略性利用。随身带水。</p><p><strong>节假日人潮恐怖。</strong>国庆黄金周（10月1-7日）中山陵人流如织。酒店价格翻2-3倍。只能在节假日来的话，假期中的工作日早上8点整到中山陵。</p><p><strong>大屠杀纪念馆不是旅游景点。</strong>侵华日军南京大屠杀遇难同胞纪念馆是庄严肃穆之地。衣着得体，低声交谈，不拍照。做好情绪被触动的准备——这不是轻松的观光。留出时间平复心情。</p><p><strong>警惕'茶托'骗局。</strong>夫子庙等景区有人邀你去'传统茶道体验'，结账时天价账单。礼貌拒绝陌生人的主动邀请。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Purple Mountain at dawn.</strong> Skip the crowded afternoon — arrive at the Sun Yat-sen Mausoleum steps at 6:30 AM. The mist hangs over the purple mountain, the ancient pines are silhouetted against the sunrise, and you'll have the 392 steps almost to yourself. The view from the top as the city wakes up is worth the alarm clock.</p><p><strong>Wuyi Lane at midnight.</strong> After the Qinhuai boats stop running (9:30 PM) and the crowds disperse, Wuyi Lane becomes empty. Walk the same flagstones Tang Dynasty poets walked — the quiet alley, the faint lantern light, the occasional sound of water lapping against stone. This is the Jinling that hasn't changed in a thousand years.</p><p><strong>Hidden breakfast at local wet markets.</strong> Skip the touristy Fuzimiao breakfast joints. The real duck blood vermicelli soup is at the food stalls inside local residential neighborhood wet markets (菜市场). ¥10 a bowl, served by elderly aunties who've been making it for 30 years. The broth is richer, the duck blood fresher, and you'll be surrounded by locals doing their morning shopping — the real Nanjing.</p><p><strong>The secret ginkgo tunnel.</strong> Everyone goes to Ming Xiaoling for autumn ginkgo, but the real secret is the avenue of ginkgo trees along the northern section of Xuanwu Lake (玄武湖环湖路北段). Fewer people, the lake reflection doubles the gold, and the City Wall frames the scene perfectly. Go on a weekday afternoon in early November.</p>",
+    "zh": "<p><strong>紫金山晨曦。</strong>跳過擁擠的下午——清晨6:30到達中山陵石階前。薄霧籠罩紫金山，古松在日出中剪影，392級台階幾乎只有你一個人。登頂看城市甦醒，值得設鬧鐘。</p><p><strong>午夜烏衣巷。</strong>秦淮河遊船停運後（21:30），人潮散去，烏衣巷空蕩下來。走在唐代詩人走過的石板上——幽靜的巷弄、微弱的燈光、偶爾水拍石岸的聲音。這是千年未變的金陵。</p><p><strong>隱藏在菜市場裡的早餐。</strong>跳過夫子廟的遊客早餐店。真正好吃的鴨血粉絲湯在居民區菜市場裡的小吃攤。¥10一碗，做這碗湯三十年的阿姨掌勺。湯頭更濃、鴨血更新鮮，周圍全是買菜的老南京——這才是真正的南京。</p><p><strong>秘密銀杏隧道。</strong>大家都去明孝陵看秋色銀杏，但真正的秘密在玄武湖環湖路北段的銀杏大道。人少，湖面倒影讓金色加倍，城牆完美框景。11月初的工作日下午去。</p>"
+  }
+}

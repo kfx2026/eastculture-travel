@@ -168,5 +168,22 @@
     },
     "hero_img": "img/chongqing-hero.jpg",
     "hero_fb": "linear-gradient(135deg, #1A1A2E 0%, #E94560 50%, #FF6B6B 100%)"
+  },
+  {
+    "id": "nanjing",
+    "name": {
+      "en": "Nanjing",
+      "zh": "南京"
+    },
+    "province": {
+      "en": "Jiangsu Province",
+      "zh": "江苏省"
+    },
+    "intro": {
+      "en": "The ancient capital of six dynasties — where solemn mausoleums meet lantern-lit rivers, and Tang Dynasty poetry still echoes in old alleyways. Walk the Sacred Way, cruise the Qinhuai at night, taste the legendary salted duck.",
+      "zh": "六朝古都，金陵如梦。中山陵肃穆，秦淮河婉约，乌衣巷的唐诗余韵犹在。漫步千年神道，夜泊桨声灯影，品金陵第一味盐水鸭。"
+    },
+    "hero_img": "img/nanjing.jpg",
+    "hero_fb": "linear-gradient(135deg, #8B1A2B 0%, #6B3A5B 40%, #D4A574 100%)"
   }
 ]
