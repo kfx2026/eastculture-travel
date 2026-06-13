@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://travel.eastculture.top/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://travel.eastculture.top/top10/</loc><lastmod>2026-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://travel.eastculture.top/top10/index.html</loc><lastmod>2026-06-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://travel.eastculture.top/top10/top-cities-to-visit.html</loc><lastmod>2026-06-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://travel.eastculture.top/top10/best-cultural-cities.html</loc><lastmod>2026-06-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://travel.eastculture.top/top10/best-food-cities.html</loc><lastmod>2026-06-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://travel.eastculture.top/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://travel.eastculture.top/top10/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://travel.eastculture.top/top10/top-cities-to-visit.html</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://travel.eastculture.top/top10/best-cultural-cities.html</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://travel.eastculture.top/top10/best-food-cities.html</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://travel.eastculture.top/city.html</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://travel.eastculture.top/city-zh.html</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://travel.eastculture.top/cities.html</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://travel.eastculture.top/faq.html</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://travel.eastculture.top/privacy.html</loc><lastmod>2026-06-13</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
