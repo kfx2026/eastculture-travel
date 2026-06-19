@@ -1,0 +1,81 @@
+{
+  "id": "changsha",
+  "name": {
+    "en": "Changsha",
+    "zh": "长沙"
+  },
+  "province": {
+    "en": "Hunan Province",
+    "zh": "湖南省"
+  },
+  "intro": {
+    "en": "The Star City: three millennia of Hunan culture along the Xiang River. From the thousand-year-old Yuelu Academy to fiery street food nights, Changsha blends ancient scholarly grace with the most vibrant nightlife in central China.",
+    "zh": "星城长沙｜三千年湘韵，烟火满湘江。若要选一座兼具古韵底蕴与鲜活烟火的城市，长沙必定榜上有名。"
+  },
+  "hero_img": "img/changsha-hero.png",
+  "hero_fb": "linear-gradient(135deg, #C0392B 0%, #E74C3C 40%, #F39C12 100%)",
+  "meta_title": "Changsha Travel Guide — 3000 Years of History, Hunan Cuisine & Nightlife",
+  "meta_description": "Discover Changsha: ancient Yuelu Academy, iconic Orange Isle, fiery Hunan cuisine from stinky tofu to spicy crayfish. Complete travel guide to the Star City.",
+  "landmarks": [
+    {
+      "name": { "en": "Yuelu Mountain (岳麓山)", "zh": "岳麓山" },
+      "description": { "en": "A natural urban oxygen bar with ancient trees and peaceful forest trails. Free admission. Home to the famous Aiwan Pavilion, one of China's Four Great Pavilions, whose autumn maple leaves create a breathtaking crimson spectacle.", "zh": "城市天然氧吧，山林清幽、古木参天。爱晚亭位列中国四大名亭，秋日红枫似火。" },
+      "image": "img/changsha-hero.png"
+    },
+    {
+      "name": { "en": "Yuelu Academy (岳麓书院)", "zh": "岳麓书院" },
+      "description": { "en": "A thousand-year-old academy perched atop Yuelu Mountain, one of the four great academies of ancient China. Its flying eaves and black-tiled roofs embody the essence of Chinese scholarly tradition.", "zh": "千年学府，书香绵延千年，飞檐黛瓦间尽是中式文脉底蕴。" },
+      "image": "img/changsha-1.png"
+    },
+    {
+      "name": { "en": "Orange Isle (橘子洲)", "zh": "橘子洲" },
+      "description": { "en": "Changsha's iconic riverside island park, home to the 32-meter-tall sculpture of young Mao Zedong. Walk along the Xiang River with panoramic city views and experience the grandeur that inspired his poetry.", "zh": "长沙城市名片，32米高的青年毛泽东艺术雕塑巍然矗立，江风拂面，远眺湘江浩荡。" },
+      "image": "img/changsha-2.png"
+    },
+    {
+      "name": { "en": "Taiping Old Street (太平老街)", "zh": "太平老街" },
+      "description": { "en": "A century-old street preserving the authentic texture of old Changsha — flagstone paths, ancient lanes, and traditional courtyard homes. A living museum of the city's most genuine moments.", "zh": "百年古街，保留着老长沙的烟火底色，青石板路、老巷古宅。" },
+      "image": ""
+    },
+    {
+      "name": { "en": "Hunan Provincial Museum (湖南省博物院)", "zh": "湖南省博物院" },
+      "description": { "en": "Home to the world-renowned Mawangdui Han Dynasty tomb artifacts, including the remarkably preserved 2,100-year-old Lady Dai and her exquisite silk paintings. A must-visit to understand Chu civilization.", "zh": "马王堆汉墓文物静静陈列，诉说着千年楚韵文明。" },
+      "image": ""
+    }
+  ],
+  "cuisine": {
+    "intro": {
+      "en": "Changsha's food scene is legendary — fiery, bold, and deeply satisfying. From street-side stinky tofu to late-night spicy crayfish feasts, every bite carries the unmistakable heat and soul of Hunan.",
+      "zh": "最不能错过的就是热辣地道的长沙美食，每一口都是专属星城的烟火滋味。"
+    },
+    "dishes": [
+      {
+        "name": { "en": "Changsha Stinky Tofu (臭豆腐)", "zh": "臭豆腐" },
+        "description": { "en": "The city's culinary icon: golden crispy exterior, soft and juicy inside. Poked open and filled with garlic-chili sauce — smells strong, tastes incredible, bursts with flavor.", "zh": "外皮金黄酥脆，内里软嫩多汁，戳开灌入蒜蓉剁椒酱汁，闻臭吃香、一口爆汁。" }
+      },
+      {
+        "name": { "en": "Sugar Oil BaBa (糖油粑粑)", "zh": "糖油粑粑" },
+        "description": { "en": "A beloved local childhood snack — golden, glossy, and perfectly sweet. Best eaten steaming hot for that soft, comforting chewiness that soothes any fatigue.", "zh": "本地人从小吃到大的小吃，金黄油亮、甜而不腻，趁热吃软糯香甜。" }
+      },
+      {
+        "name": { "en": "Chili Fried Pork (辣椒炒肉)", "zh": "辣椒炒肉" },
+        "description": { "en": "The soul of Hunan home cooking: tender pork belly strips wok-fried with fresh green chilies. Simple yet explosive with smoky wok-hei flavor — the ultimate rice-killer dish.", "zh": "费大厨辣椒炒肉鲜香下饭，烟火气十足，硬核湘菜代表。" }
+      },
+      {
+        "name": { "en": "Spicy Crayfish (口味虾)", "zh": "口味虾" },
+        "description": { "en": "The essential Changsha summer night: bright red crayfish, intensely spicy and aromatic, with firm, bouncy meat. Best paired with refreshing perilla peach ginger to balance the heat.", "zh": "夏夜标配，红彤彤、香辣过瘾，肉质Q弹紧实，搭配紫苏桃子姜解锁地道逛吃体验。" }
+      }
+    ]
+  },
+  "culture": {
+    "en": "Changsha is the cradle of Huxiang (Hunan) culture, a proud tradition of scholarship and patriotism. The city embodies the spirit of 'worry for the world before anyone else' — a legacy carried from Qu Yuan and Jia Yi through to modern revolutionary heroes. By day, the city breathes history in its ancient academies; by night, it pulses with one of China's most dynamic food and entertainment scenes.",
+    "zh": "长沙是楚文化、湖湘文化的核心腹地。自古便是中南地区的文化与商贸重镇，素有'屈贾之乡'的美誉。一座千年学府、一条湘江、一座橘子洲，承载着'心忧天下、敢为人先'的湖湘精神。"
+  },
+  "guide": {
+    "en": "<h3>Best Time to Visit</h3><p>Spring (March-May) and autumn (September-November) offer the most pleasant weather. Autumn is especially stunning with Yuelu Mountain's maple foliage. Summer is hot but rewards you with the city's legendary night market and crayfish season.</p><h3>Getting Around</h3><p>Changsha Metro connects all major attractions. Didi and taxis are affordable. The city center is walkable — Taiping Street, Pozi Street, and Wuyi Square are all within strolling distance.</p><h3>Local Tips</h3><p>Don't miss the nightly light show at Orange Isle (free). For the best stinky tofu, head to Pozi Street (坡子街). Yuelu Mountain offers free admission — go early morning to avoid crowds.</p>",
+    "zh": "<h3>最佳旅行时间</h3><p>春秋两季（3-5月、9-11月）气候宜人。秋季岳麓山枫叶层林尽染，是绝佳打卡时节。夏季虽热，但夜宵文化和口味虾季节不容错过。</p><h3>交通出行</h3><p>长沙地铁覆盖主要景点。太平街、坡子街、五一广场步行可达。滴滴和的士价格亲民。</p><h3>本地贴士</h3><p>橘子洲灯光秀免费，每晚不容错过。最好吃的臭豆腐去坡子街。岳麓山免门票，建议清晨前往避开人流。</p>"
+  },
+  "practicalGuide": "<ul><li><strong>Getting There:</strong> Changsha Huanghua International Airport (CSX), high-speed rail hub connecting to Beijing, Shanghai, Guangzhou, Shenzhen</li><li><strong>Accommodation:</strong> Stay near Wuyi Square (五一广场) for central access to food and attractions</li><li><strong>Language:</strong> Mandarin widely spoken; local Changsha dialect is a distinct Hunanese variant</li><li><strong>Payment:</strong> Alipay and WeChat Pay accepted everywhere; carry some cash for street vendors</li></ul>",
+  "honestTips": "<h3>Honest Local Advice</h3><p><strong>The spice is real.</strong> Changsha food is genuinely hot — not the watered-down version you find elsewhere. If you can't handle heat, say 'bú yào là' (不要辣) clearly, but be prepared for a puzzled look. <strong>Stinky tofu smells stronger on the street than it tastes.</strong> First-timers should try the classic black version (黑色经典) — it's crispier and more approachable. <strong>Night markets start late.</strong> The real action begins after 9 PM. Don't show up at 6 PM expecting the full buzz.</p>",
+  "localSecrets": "<h3>Locals Know</h3><p>Skip the touristy river cruise — walk along the Xiang River promenade at sunset for free, with the same views and better photo angles of Orange Isle. For breakfast, join the morning crowd at a random noodle shop (粉店) for Changsha rice noodles (米粉) — the greasier the shop looks, the better the noodles. The best view of the Mao sculpture is from the west bank of the river, not from Orange Isle itself.</p>"
+}
