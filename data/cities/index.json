@@ -185,5 +185,22 @@
     },
     "hero_img": "img/nanjing.jpg",
     "hero_fb": "linear-gradient(135deg, #8B1A2B 0%, #6B3A5B 40%, #D4A574 100%)"
+  },
+  {
+    "id": "changsha",
+    "name": {
+      "en": "Changsha",
+      "zh": "长沙"
+    },
+    "province": {
+      "en": "Hunan Province",
+      "zh": "湖南省"
+    },
+    "intro": {
+      "en": "The Star City with 3,000 years of Hunan culture along the Xiang River. From Yuelu Academy to fiery street food nights — half ancient scholarly grace, half vibrant nightlife.",
+      "zh": "星城长沙｜三千年湘韵，烟火满湘江。岳麓书院文脉千年，橘子洲头江风浩荡。一半千年文脉，一半市井烟火。"
+    },
+    "hero_img": "img/changsha-hero.png",
+    "hero_fb": "linear-gradient(135deg, #C0392B 0%, #E74C3C 40%, #F39C12 100%)"
   }
 ]
