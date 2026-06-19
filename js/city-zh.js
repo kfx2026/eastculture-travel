@@ -6,6 +6,7 @@ const cities = [
     { id: 'shanghai', name: 'Shanghai', nameZh: '上海', desc: '现代都市，东西方文化交融', img: 'images/shanghai.jpg', tags: ['现代', '购物', '天际线'] },
     { id: 'guilin', name: 'Guilin', nameZh: '桂林', desc: '喀斯特地貌壮丽，漓江风光如画', img: 'images/guilin.jpg', tags: ['自然', '风景', '河流'] },
     { id: 'chengdu', name: 'Chengdu', nameZh: '成都', desc: '大熊猫故乡，川菜美食之都', img: 'images/chengdu.jpg', tags: ['熊猫', '美食', '休闲'] },
+    { id: 'changsha', name: 'Changsha', nameZh: '长沙', desc: '星城·三千年湘韵，热辣美食与千年文脉交织', img: 'images/changsha.jpg', tags: ['历史', '美食', '文化', '夜生活'] },
     { id: 'hangzhou', name: 'Hangzhou', nameZh: '杭州', desc: '人间天堂，西湖美景传世', img: 'images/hangzhou.jpg', tags: ['湖泊', '自然', '茶文化'] },
     { id: 'xian', name: 'Xi\'an', nameZh: '西安', desc: '千年古都，兵马俑震撼世界', img: 'images/xian.jpg', tags: ['历史', '兵马俑', '文化'] },
     { id: 'lijiang', name: 'Lijiang', nameZh: '丽江', desc: '古城纳西文化，玉龙雪山壮丽', img: 'images/lijiang.jpg', tags: ['古城', '文化', '雪山'] },

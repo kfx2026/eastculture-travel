@@ -13,6 +13,7 @@ const cities = [
     { id: 'guangzhou', name: 'Guangzhou', nameZh: '广州', desc: 'Food paradise and southern metropolis', img: 'images/guangzhou.jpg', tags: ['food', 'modern', 'cantonese'] },
     { id: 'shenzhen', name: 'Shenzhen', nameZh: '深圳', desc: 'High-tech hub and modern city', img: 'images/shenzhen.jpg', tags: ['tech', 'modern', 'shopping'] },
     { id: 'chongqing', name: 'Chongqing', nameZh: '重庆', desc: 'Mountain city famous for hot pot and night views', img: 'images/chongqing.jpg', tags: ['food', 'mountains', 'night view'] },
+    { id: 'changsha', name: 'Changsha', nameZh: '长沙', desc: 'Star City — 3000 years of Hunan culture, fiery cuisine and vibrant nightlife', img: 'images/changsha.jpg', tags: ['history', 'food', 'culture', 'nightlife'] },
     { id: 'qingdao', name: 'Qingdao', nameZh: '青岛', desc: 'Coastal city with German architecture and Tsingtao beer', img: 'images/qingdao.jpg', tags: ['coast', 'beer', 'architecture'] },
     { id: 'nanjing', name: 'Nanjing', nameZh: '南京', desc: 'Ancient capital of six dynasties — mausoleums, Qinhuai River, and legendary salted duck', img: 'images/nanjing.jpg', tags: ['history', 'culture', 'food', 'capital'] }
 ];
