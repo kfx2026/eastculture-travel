@@ -171,12 +171,6 @@ h3 { font-size: clamp(1.2rem, 1.5vw, 1.4rem); line-height: 1.4; }
 .ad-unit {
   margin: 3rem auto; max-width: 1200px; padding: 0 2rem;
 }
-.ad-placeholder {
-  background: #F0F4F8; border: 1px dashed #CBD5E0;
-  border-radius: 8px; padding: 2rem; text-align: center;
-  color: #A0AEC0; font-size: 0.85rem;
-  min-height: 90px; display: flex; align-items: center; justify-content: center;
-}
 /* ---- CITIES PAGE HEADER ---- */
 .page-header {
   padding: 7rem 2rem 3rem;
