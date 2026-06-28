@@ -1,5 +1,14 @@
 User-agent: *
 Allow: /
-Disallow:
+Disallow: /assets/
+Disallow: /*.py
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
 
 Sitemap: https://travel.eastculture.top/sitemap.xml
