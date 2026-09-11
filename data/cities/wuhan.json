@@ -1,0 +1,129 @@
+{
+  "id": "wuhan",
+  "name": {
+    "en": "Wuhan",
+    "zh": "武汉"
+  },
+  "province": {
+    "en": "Hubei Province",
+    "zh": "湖北省"
+  },
+  "intro": {
+    "en": "Thoroughfare of Nine Provinces — Yellow Crane Tower, East Lake & Hot Dry Noodles. Heart of Central China where three rivers meet.",
+    "zh": "九省通衢 — 黄鹤楼、东湖与热干面。三镇交汇的华中核心。"
+  },
+  "hero_fb": "linear-gradient(135deg, #4a148c 0%, #7b1fa2 40%, #ce93d8 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "wuhan-lm-0",
+      "name": {
+        "en": "Yellow Crane Tower",
+        "zh": "黄鹤楼"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Wuhan.",
+        "zh": "武汉最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "wuhan-lm-1",
+      "name": {
+        "en": "East Lake",
+        "zh": "东湖"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Wuhan.",
+        "zh": "武汉最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "wuhan-lm-2",
+      "name": {
+        "en": "Yangtze River Bridge",
+        "zh": "武汉长江大桥"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Wuhan.",
+        "zh": "武汉最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Hot Dry Noodles",
+        "zh": "热干面"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Wuhan.",
+        "zh": "武汉必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Duck Neck",
+        "zh": "鸭脖"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Wuhan.",
+        "zh": "武汉必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "Thoroughfare of Nine Provinces — Yellow Crane Tower, East Lake & Hot Dry Noodles. Heart of Central China where three rivers meet.",
+    "zh": "九省通衢 — 黄鹤楼、东湖与热干面。三镇交汇的华中核心。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Humid subtropical (5-33°C). Best Mar-Apr for cherry blossoms, Oct-Nov.",
+      "zh": "亚热带湿润（5-33°C）。3-4月樱花、10-11月最佳。"
+    },
+    "days": {
+      "en": "2-3 days",
+      "zh": "2-3 天"
+    },
+    "transit": {
+      "en": "Extensive metro (10+ lines); Tianhe Airport 30km.",
+      "zh": "地铁发达（10+线）；天河机场30公里。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Beijing (~4h), Changsha (~1.5h), Shanghai.",
+      "zh": "北京高铁约4小时、长沙约1.5小时、上海可达。"
+    },
+    "tips": {
+      "en": "East Lake and Cherry Blossom Ave in spring; try hot dry noodles at breakfast.",
+      "zh": "春季东湖、樱花大道；早餐尝热干面。"
+    }
+  }
+}

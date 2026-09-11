@@ -1,0 +1,129 @@
+{
+  "id": "xiamen",
+  "name": {
+    "en": "Xiamen",
+    "zh": "厦门"
+  },
+  "province": {
+    "en": "Fujian Province",
+    "zh": "福建省"
+  },
+  "intro": {
+    "en": "Garden on the Sea — Gulangyu Island, Nanputuo Temple & Southern Fujian Culture. Overseas Chinese heritage, coastal charm and Amoy cuisine.",
+    "zh": "海上花园 — 鼓浪屿、南普陀寺与闽南文化。侨乡风情、海岛韵味与厦门美食。"
+  },
+  "hero_fb": "linear-gradient(135deg, #004d40 0%, #00897b 40%, #80cbc4 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "xiamen-lm-0",
+      "name": {
+        "en": "Gulangyu Island",
+        "zh": "鼓浪屿"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Xiamen.",
+        "zh": "厦门最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "xiamen-lm-1",
+      "name": {
+        "en": "Nanputuo Temple",
+        "zh": "南普陀寺"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Xiamen.",
+        "zh": "厦门最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "xiamen-lm-2",
+      "name": {
+        "en": "Zengcuo'an",
+        "zh": "曾厝垵"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Xiamen.",
+        "zh": "厦门最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Seafood Noodles",
+        "zh": "沙茶面"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Xiamen.",
+        "zh": "厦门必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Oyster Omelette",
+        "zh": "蚵仔煎"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Xiamen.",
+        "zh": "厦门必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "Garden on the Sea — Gulangyu Island, Nanputuo Temple & Southern Fujian Culture. Overseas Chinese heritage, coastal charm and Amoy cuisine.",
+    "zh": "海上花园 — 鼓浪屿、南普陀寺与闽南文化。侨乡风情、海岛韵味与厦门美食。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Maritime subtropical (15-30°C). Best Oct-Apr; avoid typhoon season Jul-Sep.",
+      "zh": "海洋性亚热带（15-30°C）。10-4月最佳；避开7-9月台风季。"
+    },
+    "days": {
+      "en": "2-3 days",
+      "zh": "2-3 天"
+    },
+    "transit": {
+      "en": "BRT + metro + ferries; Gaoqi Airport 12km.",
+      "zh": "BRT+地铁+轮渡；高崎机场12公里。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Fuzhou (~1h), Shenzhen (~4h).",
+      "zh": "福州高铁约1小时、深圳约4小时。"
+    },
+    "tips": {
+      "en": "Ferry to Gulangyu early; Xiamen University needs advance booking.",
+      "zh": "早班船去鼓浪屿；厦大需提前预约。"
+    }
+  }
+}

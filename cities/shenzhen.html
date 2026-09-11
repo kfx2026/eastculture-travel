@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shenzhen - Oriental City Cultural Space</title>
+    <meta name="description" content="Discover Shenzhen - 深圳: A theme park featuring 130 reproductions of world-famous landmarks at scale, fro">
+    <meta name="keywords" content="Shenzhen, 深圳, Guangdong, China travel, Oriental City, cultural tourism">
+    <link rel="canonical" href="https://travel.eastculture.top/cities/shenzhen.html">
+    <link rel="stylesheet" href="../css/style.css">
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TouristDestination",
+      "name": "Shenzhen Travel Guide",
+      "description": "China's Silicon Valley — Innovation, Design, and Coastal Beauty",
+      "containedInPlace": {
+        "@type": "AdministrativeArea",
+        "name": "Guangdong"
+      },
+      "touristType": ["Cultural Tourism", "Nature Tourism", "Food Tourism"]
+    }
+    </script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Oriental City Cultural Space</h1>
+                    <span class="subtitle">Cultural Tourism</span>
+                </div>
+                <nav class="nav">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="../city.html" class="nav-link">Cities</a>
+                    <button class="lang-switch" onclick="switchLang()">中文</button>
+                </nav>
+                <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="../index.html" onclick="closeMobileMenu()">Home</a>
+        <a href="../city.html" onclick="closeMobileMenu()">Cities</a>
+        <button class="lang-switch" onclick="switchLang(); closeMobileMenu()">中文</button>
+    </div>
+
+    <main>
+    <section class="city-hero" style="background: linear-gradient(135deg, #4169E1,#00CED1 100%); padding: 6rem 0; color: white; text-align: center;">
+        <div class="container">
+            <h2 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 300;">Shenzhen</h2>
+            <p style="font-size: 1.25rem; opacity: 0.9;">China's Silicon Valley — Innovation, Design, and Coastal Beauty</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Core Scenic Spots</h2>
+            
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">Window of the World</h3>
+                <p style="line-height: 1.8; color: #444;">A theme park featuring 130 reproductions of world-famous landmarks at scale, from the Eiffel Tower to the Taj Mahal. Shenzhen's most iconic attraction.</p>
+            </div>
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">Dameisha Beach</h3>
+                <p style="line-height: 1.8; color: #444;">A popular public beach with golden sand and clear waters along Shenzhen's eastern coast. Free admission with excellent facilities.</p>
+            </div>
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">Lianhua Mountain Park</h3>
+                <p style="line-height: 1.8; color: #444;">A central urban park atop a hill with panoramic views of Shenzhen's skyline and a statue of Deng Xiaoping. A symbol of the city's transformation.</p>
+            </div>
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">OCT-LOFT Creative Culture Park</h3>
+                <p style="line-height: 1.8; color: #444;">A repurposed factory complex turned into a vibrant art district with galleries, design studios, cafes, and weekend markets. Shenzhen's creative heart.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: #fafafa;">
+        <div class="container">
+            <h2 class="section-title">Local Cuisine</h2>
+            
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">Seafood</h3>
+                <p style="line-height: 1.8; color: #444;">As a coastal city, Shenzhen excels in fresh seafood. Yantian Seafood Street offers hundreds of restaurants with live tanks — choose your fish, choose your cooking style.</p>
+            </div>
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">Hakka Cuisine</h3>
+                <p style="line-height: 1.8; color: #444;">Shenzhen's original settlers were Hakka people. Try stuffed tofu (yong tau foo) and salt-baked chicken for authentic local flavors.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Culture & Heritage</h2>
+            
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #4169E1; margin-bottom: 0.5rem;">Maker Culture</h3>
+                <p style="line-height: 1.8; color: #444;">Shenzhen is the world's hardware capital — where startups prototype in hours at Huaqiangbei electronics market. The city's identity is built on innovation.</p>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 Oriental City Cultural Space. All rights reserved.</p>
+            <p style="margin-top: 0.5rem;"><a href="../index.html" style="color: inherit;">Home</a> | <a href="../city.html" style="color: inherit;">Cities</a></p>
+        </div>
+    </footer>
+
+    <script>
+        function switchLang() {
+            window.location.href = 'shenzhen-zh.html';
+        }
+        function toggleMobileMenu() { document.getElementById('mobileMenu').classList.toggle('show'); }
+        function closeMobileMenu() { document.getElementById('mobileMenu').classList.remove('show'); }
+    </script>
+</body>
+</html>

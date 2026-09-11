@@ -1,0 +1,129 @@
+{
+  "id": "qingdao",
+  "name": {
+    "en": "Qingdao",
+    "zh": "青岛"
+  },
+  "province": {
+    "en": "Shandong Province",
+    "zh": "山东省"
+  },
+  "intro": {
+    "en": "Beer, Bays & German Heritage — Tsingtao Brewery, Zhanqiao Pier & Badaguan. Coastal elegance meets European colonial history.",
+    "zh": "啤酒、海湾与德式遗风 — 青岛啤酒、栈桥与八大关。中西合璧的海滨名城。"
+  },
+  "hero_fb": "linear-gradient(135deg, #006064 0%, #00838f 40%, #4dd0e1 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "qingdao-lm-0",
+      "name": {
+        "en": "Zhanqiao Pier",
+        "zh": "栈桥"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Qingdao.",
+        "zh": "青岛最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "qingdao-lm-1",
+      "name": {
+        "en": "Badaguan",
+        "zh": "八大关"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Qingdao.",
+        "zh": "青岛最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "qingdao-lm-2",
+      "name": {
+        "en": "Tsingtao Brewery Museum",
+        "zh": "青岛啤酒博物馆"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Qingdao.",
+        "zh": "青岛最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Tsingtao Beer",
+        "zh": "青岛啤酒"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Qingdao.",
+        "zh": "青岛必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Spicy Cumin Lamb",
+        "zh": "香辣孜然羊肉"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Qingdao.",
+        "zh": "青岛必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "Beer, Bays & German Heritage — Tsingtao Brewery, Zhanqiao Pier & Badaguan. Coastal elegance meets European colonial history.",
+    "zh": "啤酒、海湾与德式遗风 — 青岛啤酒、栈桥与八大关。中西合璧的海滨名城。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Temperate marine climate. Summer 25-28°C (peak season), spring/autumn mild.",
+      "zh": "温带海洋性气候。夏季25-28°C（旺季），春秋温和。"
+    },
+    "days": {
+      "en": "2-3 days",
+      "zh": "2-3 天"
+    },
+    "transit": {
+      "en": "Metro lines 2-3 plus buses; Jiaodong Airport 30km.",
+      "zh": "地铁2-3号线加公交；胶东机场30公里。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Jinan (~1.5h), Beijing (~3h), Shanghai.",
+      "zh": "济南高铁约1.5小时、北京约3小时、上海可达。"
+    },
+    "tips": {
+      "en": "Visit in Aug for beer festival; coastal bike path is scenic.",
+      "zh": "8月啤酒节最热闹；滨海骑行道风景佳。"
+    }
+  }
+}

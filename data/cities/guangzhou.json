@@ -1,0 +1,316 @@
+{
+  "id": "guangzhou",
+  "name": {
+    "en": "Guangzhou",
+    "zh": "广州"
+  },
+  "province": {
+    "en": "Guangdong Province",
+    "zh": "广东省"
+  },
+  "intro": {
+    "en": "China's southern gateway and the 2,200-year-old heart of Cantonese culture — a city of dim sum mornings, riverside arcades, and the soaring Canton Tower.",
+    "zh": "中国的南大门，2200年历史的广府文化之心。早茶、骑楼老街，还有直插云霄的广州塔。"
+  },
+  "hero_img": "",
+  "hero_fb": "linear-gradient(135deg, #C62828 0%, #E53935 40%, #FF8A65 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Canton Tower",
+        "zh": "广州塔"
+      },
+      "img": "",
+      "desc": {
+        "en": "At 600 meters, China's tallest TV tower and Guangzhou's most recognizable silhouette — a twisting 'slim waist' of lattice steel rising over the Pearl River. Ride to the top for a 360° view, or brave the transparent glass-floor observation deck.",
+        "zh": "600米高的中国第一高塔，广州最具辨识度的轮廓——珠江边一道扭曲的'小蛮腰'钢架。登顶俯瞰360°全景，或挑战悬空的玻璃观景台。"
+      },
+      "highlight": {
+        "en": "Sunset from the top observation deck",
+        "zh": "顶层观景台看日落"
+      },
+      "hours": {
+        "en": "9:30 AM – 10:30 PM",
+        "zh": "9:30 – 22:30"
+      },
+      "ticket": {
+        "en": "¥150–¥298 depending on deck",
+        "zh": "¥150–¥298（视楼层而定）"
+      },
+      "tips": {
+        "en": "Book the 'cloud walk' (摩天轮) early — sunset slots sell out. The light show is best viewed from Haixinsha Island, free of charge.",
+        "zh": "提前订'摩天轮'票——日落时段最抢手。灯光秀从海心沙看最壮观，免费。"
+      },
+      "location": {
+        "en": "Haizhu District, on the Pearl River's south bank",
+        "zh": "海珠区，珠江南岸"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "Landmark · Views · Night",
+        "zh": "地标 · 夜景 · 高空"
+      }
+    },
+    {
+      "name": {
+        "en": "Chen Clan Ancestral Hall",
+        "zh": "陈家祠"
+      },
+      "img": "",
+      "desc": {
+        "en": "A masterpiece of Lingnan architecture built in 1894, every ridge, beam, and wall covered in intricate carvings, ceramic figurines, and colorful murals. Now the Guangdong Folk Art Museum, it's the finest surviving example of traditional Cantonese craftsmanship.",
+        "zh": "1894年建成的岭南建筑杰作，每一处屋脊、梁柱、墙壁都布满精美的雕刻、陶塑和彩绘。现为广东民间工艺博物馆，是广府传统手工艺最杰出的存世代表。"
+      },
+      "highlight": {
+        "en": "The ceramic ridge decorations (陶塑脊饰)",
+        "zh": "陶塑脊饰"
+      },
+      "hours": {
+        "en": "9:00 AM – 5:30 PM",
+        "zh": "9:00 – 17:30"
+      },
+      "ticket": {
+        "en": "¥10",
+        "zh": "¥10"
+      },
+      "tips": {
+        "en": "Bring a zoom lens or binoculars — the best carvings are on the roof ridges. Free audio guide available with ID deposit.",
+        "zh": "带长焦镜头或望远镜——最精美的雕刻在屋脊上。押证件可免费借用语音导览。"
+      },
+      "location": {
+        "en": "Liwan District, central Guangzhou",
+        "zh": "荔湾区，广州中心"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Architecture · Museum · Heritage",
+        "zh": "建筑 · 博物馆 · 遗产"
+      }
+    },
+    {
+      "name": {
+        "en": "Shamian Island",
+        "zh": "沙面岛"
+      },
+      "img": "",
+      "desc": {
+        "en": "A leafy former colonial concession on the Pearl River, frozen in the 19th century. Shaded by ancient banyan trees, its streets are lined with over 150 European-style buildings in Gothic, Baroque, and Neoclassical styles — now a serene pedestrian oasis.",
+        "zh": "珠江上一片绿树成荫的前租界，仿佛凝固在19世纪。古榕掩映下，150多栋哥特、巴洛克、新古典主义风格的欧式建筑沿街而立——如今是宁静的步行绿洲。"
+      },
+      "highlight": {
+        "en": "Morning stroll under the banyan trees",
+        "zh": "清晨榕树下漫步"
+      },
+      "hours": {
+        "en": "All day (best before 10 AM)",
+        "zh": "全天（上午10点前最佳）"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Go early to beat the wedding photographers — the island is a popular photo shoot spot. Cross the bridge to the seafood restaurants of nearby Huangsha for lunch.",
+        "zh": "早点去避开婚纱摄影——这里是热门拍照地。过桥到黄沙的海鲜市场吃午饭。"
+      },
+      "location": {
+        "en": "Liwan District, Pearl River north bank",
+        "zh": "荔湾区，珠江北岸"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "Stroll · Architecture · Photography",
+        "zh": "漫步 · 建筑 · 摄影"
+      }
+    },
+    {
+      "name": {
+        "en": "Baiyun Mountain",
+        "zh": "白云山"
+      },
+      "img": "",
+      "desc": {
+        "en": "The 'lungs of Guangzhou' — a 28 km² green mountain park rising behind the city. Hike or cable-car to the 382-meter Moxing Peak for sweeping views over the urban sprawl, especially dramatic at sunset when the city lights begin to glow.",
+        "zh": "广州的'市肺'——市区背后28平方公里的山林公园。徒步或乘缆车登上382米的摩星岭，俯瞰城市全景，日落时分城市灯火渐起尤为壮观。"
+      },
+      "highlight": {
+        "en": "Moxing Peak (摩星岭) at sunset",
+        "zh": "日落时分的摩星岭"
+      },
+      "hours": {
+        "en": "6:00 AM – 9:00 PM",
+        "zh": "6:00 – 21:00"
+      },
+      "ticket": {
+        "en": "¥5 park, ¥40 cable car round-trip",
+        "zh": "门票¥5，缆车往返¥40"
+      },
+      "tips": {
+        "en": "Locals climb before breakfast for exercise — join them for the freshest air. Avoid weekends and holidays when it gets crowded.",
+        "zh": "本地人早餐前登山锻炼——跟着他们能呼吸到最新鲜的空气。避开周末节假日人流高峰。"
+      },
+      "location": {
+        "en": "Baiyun District, north of downtown",
+        "zh": "白云区，市区北部"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Hiking · Nature · Sunset",
+        "zh": "徒步 · 自然 · 日落"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Dim Sum & Morning Tea",
+        "zh": "早茶点心"
+      },
+      "img": "",
+      "desc": {
+        "en": "The defining Guangzhou ritual — an unhurried morning of steamer baskets: shrimp dumplings, siu mai, rice noodle rolls, and char siu buns, washed down with endless cups of tea. It's as much social as it is culinary.",
+        "zh": "广州的标志性仪式——悠闲的早茶时光：虾饺、烧卖、肠粉、叉烧包，配上续不完的茶。既是味觉盛宴，更是社交文化。"
+      },
+      "where": {
+        "en": "Tao Tao Ju, Panxi, and Guangzhou Restaurant are the classic houses",
+        "zh": "陶陶居、泮溪、广州酒家是经典老字号"
+      },
+      "price": {
+        "en": "¥60–120 per person",
+        "zh": "人均¥60–120"
+      },
+      "must_try": {
+        "en": "Go before 10 AM to catch the fresh, full dim sum menu.",
+        "zh": "上午10点前到，能吃到最新鲜的完整点心。"
+      }
+    },
+    {
+      "name": {
+        "en": "Roast Meat (Siu Mei)",
+        "zh": "烧腊"
+      },
+      "img": "",
+      "desc": {
+        "en": "Cantonese roast goose, char siu (barbecue pork), and crispy roast pork, glazed and hung in every siu mei stall window. Served over rice, it's Guangzhou's beloved everyday comfort food.",
+        "zh": "烧鹅、叉烧、脆皮烧肉，每一家烧腊档的橱窗里都挂着油亮亮的烧味。配米饭，是广州人最爱的日常美味。"
+      },
+      "where": {
+        "en": "Old Xiguan siu mei stalls and Chaozhou restaurants",
+        "zh": "西关老城区烧腊档及潮州餐馆"
+      },
+      "price": {
+        "en": "¥25–50 per person",
+        "zh": "人均¥25–50"
+      },
+      "must_try": {
+        "en": "Order the lower quarter (下庄) of roast goose for the richest flavor.",
+        "zh": "烧鹅点'下庄'，油脂最丰腴。"
+      }
+    },
+    {
+      "name": {
+        "en": "Cantonese Slow-cooked Soup",
+        "zh": "老火靓汤"
+      },
+      "img": "",
+      "desc": {
+        "en": "The soul of Cantonese home cooking — pork bones and dried ingredients simmered for hours into a clear, nourishing broth. Every Guangzhou meal begins with a bowl.",
+        "zh": "粤式家常的灵魂——猪骨配干货慢炖数小时成清亮滋补的汤。广州人每一餐都从一碗汤开始。"
+      },
+      "where": {
+        "en": "Home-style restaurants (住家菜) and soup specialist shops",
+        "zh": "住家菜餐馆及炖汤专门店"
+      },
+      "price": {
+        "en": "¥15–40 per bowl",
+        "zh": "每盅¥15–40"
+      },
+      "must_try": {
+        "en": "Sip the broth first — that's where all the flavor lives.",
+        "zh": "先喝汤——精华都在汤里。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Cantonese Opera",
+        "zh": "粤剧"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of China's oldest opera forms, sung in Cantonese with elaborate face paint and embroidered costumes. Recognized by UNESCO as Intangible Cultural Heritage.",
+        "zh": "中国最古老的戏曲形式之一，以粤语演唱，脸谱华丽、戏服精美，被联合国教科文组织列入非物质文化遗产。"
+      },
+      "significance": {
+        "en": "Guangzhou is the cradle of Cantonese culture, and Cantonese opera is its most enduring art form.",
+        "zh": "广州是广府文化的摇篮，粤剧是其最经久不衰的艺术形式。"
+      },
+      "best_time": {
+        "en": "Evening performances, check local teahouse schedules",
+        "zh": "晚间演出，可查询本地茶楼排期"
+      },
+      "experience": {
+        "en": "Guangdong Cantonese Opera Grand Theatre or a traditional teahouse",
+        "zh": "广东粤剧艺术中心或传统茶楼"
+      }
+    },
+    {
+      "name": {
+        "en": "Lingnan Arcade Architecture",
+        "zh": "岭南骑楼建筑"
+      },
+      "img": "",
+      "desc": {
+        "en": "Guangzhou's signature covered walkways (骑楼) line the old commercial streets of Xiguan — a fusion of Chinese and Western styles built for the city's hot, rainy climate.",
+        "zh": "广州标志性的骑楼沿西关老商业街延展——中西合璧的建筑风格，专为岭南炎热多雨的气候而建。"
+      },
+      "significance": {
+        "en": "The arcades are a living museum of Guangzhou's 20th-century trading heyday.",
+        "zh": "骑楼是广州20世纪商贸鼎盛时期的活态博物馆。"
+      },
+      "best_time": {
+        "en": "Walk Shangxiajiu Pedestrian Street in the late afternoon",
+        "zh": "下午晚些时候漫步上下九步行街"
+      },
+      "experience": {
+        "en": "Shangxiajiu and Enning Road in Liwan District",
+        "zh": "荔湾区上下九、恩宁路"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Subtropical — hot and humid summers (Apr–Oct), mild winters. Best in autumn (Oct–Nov) and early spring (Feb–Mar).",
+      "zh": "亚热带气候——夏季（4-10月）炎热潮湿，冬季温和。秋季（10-11月）和早春（2-3月）最佳。"
+    },
+    "days": {
+      "en": "3–4 days",
+      "zh": "3–4天"
+    },
+    "transit": {
+      "en": "An extensive metro system (14+ lines) covers all major sights. The APM line links Canton Tower to Zhujiang New Town.",
+      "zh": "四通八达的地铁（14+条线路）覆盖主要景点。APM线连接广州塔与珠江新城。"
+    },
+    "intercity": {
+      "en": "Guangzhou Baiyun International Airport (CAN). High-speed rail: 1h to Shenzhen, 2.5h to Guilin, 8h to Beijing.",
+      "zh": "广州白云国际机场(CAN)。高铁：1小时到深圳，2.5小时到桂林，8小时到北京。"
+    },
+    "tips": {
+      "en": "Morning tea (早茶) is a must — go before 10 AM. Explore Xiguan's old arcades on foot. The Pearl River night cruise is touristy but genuinely pretty.",
+      "zh": "早茶必体验——10点前到。步行探索西关老骑楼。珠江夜游虽游客化，但确实很美。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting around:</strong> The metro is cheap (¥2–7) and covers everything. Download the Guangzhou Metro app or just use Alipay's transport QR code. Taxis are affordable but traffic is heavy — the metro is almost always faster.</p><p><strong>Morning tea (早茶):</strong> The dim sum carts roll out from 7 AM. Arrive before 10 AM for the full fresh menu and the lively atmosphere. Classic houses like Tao Tao Ju (陶陶居) and Guangzhou Restaurant (广州酒家) are famous but busy — be prepared to queue. Order a pot of tea (the fee is per person) and 4–6 baskets for two people.</p><p><strong>Language:</strong> Cantonese dominates, but Mandarin is universally understood. Most restaurant staff speak some Mandarin. Pointing at the menu (or the dim sum cart) works everywhere. English is limited outside major hotels.</p><p><strong>Weather:</strong> It rains often in spring and summer — carry an umbrella. Summer heat and humidity are intense; plan indoor activities for midday. Autumn and early spring are the sweet spots.</p>",
+    "zh": "<p><strong>交通：</strong>地铁便宜（¥2–7）且覆盖全面。下载广州地铁App，或直接用支付宝乘车码。出租车价格合理但堵车严重——地铁几乎总是更快。</p><p><strong>早茶：</strong>点心车早上7点开推。10点前到才能吃到最新鲜的完整菜单和热闹氛围。陶陶居、广州酒家等老字号出名但人多——做好排队的准备。点一壶茶（按人头收茶位费），两个人点4–6笼点心。</p><p><strong>语言：</strong>粤语为主，但普通话通用。多数餐厅服务员会说一些普通话。指菜单（或点心车）在哪里都管用。主要酒店之外英语不普及。</p><p><strong>天气：</strong>春夏多雨——带伞。夏季闷热潮湿，正午安排室内活动。秋季和早春最舒适。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Canton Tower is expensive for what it is.</strong> Tickets run ¥150–298 depending on how high you go. The view is great, but the free riverside view of the tower from Haixinsha Island at night is arguably better — you see the tower lit up, not the view from inside it. If you do go up, book a sunset slot.</p><p><strong>Shangxiajiu is a tourist street.</strong> The arcades are beautiful, but the shops are mostly generic souvenirs and chains. For a more authentic old-Guangzhou feel, walk Enning Road and the back streets of Xiguan instead — same architecture, fewer crowds.</p><p><strong>Dim sum chains are mediocre.</strong> The famous brand chains (点都德, 陶陶居) are reliable but crowded and pricey. Locals favor their neighborhood teahouse where the food is just as good at half the price. Ask a local where they do their own morning tea.</p>",
+    "zh": "<p><strong>广州塔性价比一般。</strong>门票¥150–298，看你上多高。景色不错，但晚上从海心沙免费看塔的灯光，反而更划算——你能看到塔亮起来，而不是从塔里看外面。如果真要上去，订日落时段。</p><p><strong>上下九是游客街。</strong>骑楼很美，但店铺大多是千篇一律的纪念品和连锁店。想感受更地道的旧广州，改走恩宁路和西关的后街——同样的建筑，人少得多。</p><p><strong>连锁早茶店一般般。</strong>点都德、陶陶居等连锁品牌稳定但人多价高。本地人更爱自家楼下的茶楼，味道一样好，价格一半。问问本地人他们自己上哪喝早茶。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Night food in Baohua Road.</strong> Skip the malls and head to Baohua Road and the surrounding Xiguan alleys after dark. This is where Guangzhou's real late-night eats live — claypot rice, roasted pigeon, and sampan congee at stalls that have been open for decades. The crowds are local, the prices are honest.</p><p><strong>The free Canton Tower light show.</strong> Every night the tower puts on a spectacular light show. The best free viewing spot is Haixinsha Island, directly across the river. Go around 7:30–8 PM, sit on the lawn, and watch the tower dance in color over the Pearl River — better than any paid observation deck.</p><p><strong>Lychee Bay (荔枝湾) in the early morning.</strong> This restored canal area in Xiguan is quiet and atmospheric at dawn, before the tour groups arrive. Watch locals practice tai chi along the water, then eat rice noodle rolls at a neighborhood stall. It's the old Guangzhou that most tourists never see.</p>",
+    "zh": "<p><strong>宝华路夜宵。</strong>别逛商场，天黑后去宝华路和西关周边的小巷。这里才是广州真正的深夜食堂——煲仔饭、烤乳鸽、艇仔粥，都是开了几十年的老摊。食客都是本地人，价格实在。</p><p><strong>免费看广州塔灯光秀。</strong>每晚广州塔都有壮观的灯光秀。最佳免费观赏点是河对岸的海心沙。晚上7:30–8点去，坐在草坪上，看塔在珠江上舞动色彩——比任何收费观景台都值。</p><p><strong>清晨的荔枝湾。</strong>西关这个修复的水道片区，在旅游团到来之前的清晨最宁静、最有味道。看本地人沿水边打太极，然后在街边小店吃一份肠粉。这才是多数游客看不到的老广州。</p>"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "lhasa",
+  "name": {
+    "en": "Lhasa",
+    "zh": "拉萨"
+  },
+  "province": {
+    "en": "Tibet Autonomous Region",
+    "zh": "西藏自治区"
+  },
+  "intro": {
+    "en": "The Roof of the World — Potala Palace, Jokhang Temple & Tibetan Buddhism. Sacred spiritual heart of Tibetan culture for 1,300 years.",
+    "zh": "世界屋脊 — 布达拉宫、大昭寺与藏传佛教。1300 年藏族精神圣地。"
+  },
+  "hero_fb": "linear-gradient(135deg, #6d1b1b 0%, #c62828 40%, #ef9a9a 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "lhasa-lm-0",
+      "name": {
+        "en": "Potala Palace",
+        "zh": "布达拉宫"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Lhasa.",
+        "zh": "拉萨最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "lhasa-lm-1",
+      "name": {
+        "en": "Jokhang Temple",
+        "zh": "大昭寺"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Lhasa.",
+        "zh": "拉萨最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "lhasa-lm-2",
+      "name": {
+        "en": "Barkhor Street",
+        "zh": "八廓街"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Lhasa.",
+        "zh": "拉萨最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Butter Tea",
+        "zh": "酥油茶"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Lhasa.",
+        "zh": "拉萨必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Tsampa",
+        "zh": "糌粑"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Lhasa.",
+        "zh": "拉萨必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "The Roof of the World — Potala Palace, Jokhang Temple & Tibetan Buddhism. Sacred spiritual heart of Tibetan culture for 1,300 years.",
+    "zh": "世界屋脊 — 布达拉宫、大昭寺与藏传佛教。1300 年藏族精神圣地。"
+  },
+  "guide": {
+    "climate": {
+      "en": "High-altitude semi-arid climate. Days 15-20°C, nights near 5°C even in summer. Strong UV.",
+      "zh": "高海拔半干旱气候。白天15-20°C，夜间近5°C，夏季也凉；紫外线强。"
+    },
+    "days": {
+      "en": "3-4 days (allow time to acclimate)",
+      "zh": "3-4 天（预留适应高原时间）"
+    },
+    "transit": {
+      "en": "Taxis and buses; Lhasa Airport 60km away. Avoid rushing on arrival.",
+      "zh": "出租车与公交；拉萨机场60公里。抵达勿剧烈活动。"
+    },
+    "intercity": {
+      "en": "Train from Xining (highest railway, scenic) or flight from Chengdu/Kunming.",
+      "zh": "西宁火车（世界最高铁路，风景绝美）或成都/昆明航班。"
+    },
+    "tips": {
+      "en": "Acclimatize 1-2 days, hydrate, avoid alcohol; permits needed for some border areas.",
+      "zh": "先适应1-2天、多喝水、勿饮酒；部分边境需边防证。"
+    }
+  }
+}

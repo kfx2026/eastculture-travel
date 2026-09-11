@@ -1,0 +1,363 @@
+{
+  "id": "chongqing",
+  "name": {
+    "en": "Chongqing",
+    "zh": "重庆"
+  },
+  "province": {
+    "en": "Chongqing Municipality",
+    "zh": "重庆市"
+  },
+  "intro": {
+    "en": "A 3,000-year-old mountain city cradled by the Yangtze and Jialing rivers, Chongqing defies every definition of a city. With its 8D vertical landscape, cyberpunk nightscape, and fiery Sichuan cuisine, this 'Mountain City' and 'Fog Capital' will blow your mind at every turn.",
+    "zh": "长江与嘉陵江环抱的3000年古城，8D魔幻地貌、赛博朋克夜景、热辣江湖美食，颠覆你对城市的所有想象。一座依山而建、临江而筑的立体都市。"
+  },
+  "hero_img": "img/chongqing-hero.jpg",
+  "hero_fb": "linear-gradient(135deg, #1A1A2E 0%, #E94560 50%, #FF6B6B 100%)",
+  "landmarks": [
+    {
+      "name": { "en": "Hongya Cave", "zh": "洪崖洞" },
+      "img": "img/chongqing-hongyadong.jpg",
+      "desc": {
+        "en": "The world's #1 Instagram sensation! This 11-story stilted building complex clings to the mountainside. After 7:30 PM, the golden lights reflect off the Jialing River, recreating the dreamlike bathhouse from Spirited Away. Best photos from Qiansimen Bridge or the opposite riverbank.",
+        "zh": "全球网红NO.1！11层巴渝吊脚楼依山而建，夜晚19:30亮灯后，灯火璀璨倒映嘉陵江，完美复刻《千与千寻》里的汤屋。最佳拍摄点在千厮门大桥或江对岸。"
+      },
+      "highlight": { "en": "Real-life Spirited Away at night", "zh": "现实版千与千寻夜景" },
+      "hours": { "en": "All day, lights on at 7:30 PM", "zh": "全天，19:30亮灯" },
+      "ticket": { "en": "Free", "zh": "免费" },
+      "tips": {
+        "en": "Skip the crowded interior — the best photos are from Qiansimen Bridge. Go before sunset to secure a spot.",
+        "zh": "别挤在景区里面——千厮门大桥上拍的角度最好。日落前去占位置。"
+      },
+      "location": { "en": "Yuzhong District, Jialing River bank", "zh": "渝中区嘉陵江畔" },
+      "rating": "4.8",
+      "tags": { "en": "Night View · Iconic · Free", "zh": "夜景 · 网红 · 免费" }
+    },
+    {
+      "name": { "en": "Yangtze River Cableway", "zh": "长江索道" },
+      "img": "img/chongqing-suodao.jpg",
+      "desc": {
+        "en": "The 'sky bus' crossing the Yangtze — a daily commute for locals and a bucket-list experience for visitors. The 4-minute ride offers a stunning bird's-eye view of the river, buildings, and the city's layered landscape. Worth the 40-minute queue.",
+        "zh": "跨江而过的'空中列车'，是重庆人的日常通勤工具，也是海内外游客最爱的体验项目。4分钟俯瞰长江、楼宇和山城立体美景，排队40分钟也值得。"
+      },
+      "highlight": { "en": "4-min sky bus over the Yangtze", "zh": "4分钟空中巴士穿越长江" },
+      "hours": { "en": "7:30 AM – 10:00 PM", "zh": "7:30 – 22:00" },
+      "ticket": { "en": "¥20 one-way, ¥30 round trip", "zh": "单程¥20，往返¥30" },
+      "tips": {
+        "en": "Take the north-to-south direction (from Yuzhong) for the best views. Avoid weekends — the queue can exceed 1 hour.",
+        "zh": "从渝中往南岸方向坐，视野最好。避开周末——排队可能超1小时。"
+      },
+      "location": { "en": "Xinhua Road, Yuzhong District", "zh": "渝中区新华路" },
+      "rating": "4.7",
+      "tags": { "en": "Cable Car · Yangtze · Iconic", "zh": "索道 · 长江 · 必打卡" }
+    },
+    {
+      "name": { "en": "Jiefangbei (Liberation Monument)", "zh": "解放碑" },
+      "img": "img/chongqing-jiefangbei.jpg",
+      "desc": {
+        "en": "The only victory monument dedicated to the Anti-Japanese War in China, now surrounded by Chongqing's busiest commercial district. High-end shopping by day, street food heaven on Bayi Road by night — history meets modern energy here.",
+        "zh": "中国唯一纪念抗战胜利的纪念碑，如今是重庆最热闹的商业中心。白天逛高端商场，夜晚去八一好吃街尝遍小吃，历史与现代在此完美交融。"
+      },
+      "highlight": { "en": "Historic monument in a modern shopping hub", "zh": "抗战纪念碑+现代商业中心" },
+      "hours": { "en": "All day (shops 10 AM – 10 PM)", "zh": "全天（商场10:00–22:00）" },
+      "ticket": { "en": "Free", "zh": "免费" },
+      "tips": {
+        "en": "The Bayi Road food street (八一好吃街) is right next door — come hungry. Try the sour and spicy noodles (酸辣粉).",
+        "zh": "八一好吃街就在旁边——空着肚子来。试试酸辣粉。"
+      },
+      "location": { "en": "Minzu Road, Yuzhong District", "zh": "渝中区民族路" },
+      "rating": "4.5",
+      "tags": { "en": "History · Shopping · Food", "zh": "历史 · 购物 · 美食" }
+    },
+    {
+      "name": { "en": "Ciqikou Ancient Town", "zh": "磁器口古镇" },
+      "img": "img/chongqing-ciqikou.jpg",
+      "desc": {
+        "en": "A thousand-year-old riverside town on the Jialing River, with cobblestone alleys, Ming-Qing architecture, and the irresistible aroma of Chen Mahua (陈麻花). Watch traditional Sichuan face-changing opera, try maoxuewang, and soak in old Chongqing's everyday charm.",
+        "zh": "嘉陵江畔的千年古镇，青石板路蜿蜒，明清建筑林立，陈麻花的香气弥漫街巷。看传统川剧变脸、尝毛血旺、买手工文创，感受老重庆最纯粹的市井生活。"
+      },
+      "highlight": { "en": "Chen Mahua — the town's famous twisted dough snack", "zh": "陈麻花——古镇招牌小吃" },
+      "hours": { "en": "All day (shops 9 AM – 9 PM)", "zh": "全天（店铺9:00–21:00）" },
+      "ticket": { "en": "Free", "zh": "免费" },
+      "tips": {
+        "en": "Visit on weekday mornings to avoid crushing crowds. The riverside tea houses offer a peaceful escape from the main street chaos.",
+        "zh": "工作日早上去，避开人潮。江边茶馆比主街清静。"
+      },
+      "location": { "en": "Shapingba District, 30 min from city center", "zh": "沙坪坝区，市中心30分钟" },
+      "rating": "4.4",
+      "tags": { "en": "Ancient Town · Snack · Free", "zh": "古镇 · 小吃 · 免费" }
+    },
+    {
+      "name": { "en": "Wulong Karst (World Heritage)", "zh": "武隆喀斯特" },
+      "img": "img/chongqing-wulong.jpg",
+      "desc": {
+        "en": "A UNESCO World Heritage site featured in Curse of the Golden Flower and Transformers 4. Three Natural Bridges, Fairy Mountain (Xiannü Shan), and Furong Cave create a surreal landscape. Walk into the massive sinkholes and feel like you've entered another world.",
+        "zh": "世界自然遗产，《满城尽带黄金甲》《变形金刚4》取景地。天生三桥、仙女山、芙蓉洞三大奇观，走进天坑感受大自然的鬼斧神工，仿佛置身异世界。"
+      },
+      "highlight": { "en": "Hollywood movie filming location", "zh": "好莱坞电影取景地" },
+      "hours": { "en": "8:30 AM – 5:00 PM", "zh": "8:30 – 17:00" },
+      "ticket": { "en": "¥135 (Three Bridges + shuttle)", "zh": "¥135（天生三桥+观光车）" },
+      "tips": {
+        "en": "Allow a full day round-trip from Chongqing (3h drive each way). The scenic area involves a lot of walking — wear comfortable shoes.",
+        "zh": "从重庆市区往返需要一整天（单程3小时）。景区内步行较多——穿舒适的鞋。"
+      },
+      "location": { "en": "Wulong District, 3h from Chongqing", "zh": "武隆区，距重庆3小时" },
+      "rating": "4.9",
+      "tags": { "en": "UNESCO · Nature · Movie Set", "zh": "世界遗产 · 自然 · 电影取景" }
+    },
+    {
+      "name": { "en": "Dazu Rock Carvings", "zh": "大足石刻" },
+      "img": "img/chongqing-dazu.jpg",
+      "desc": {
+        "en": "A UNESCO World Heritage site with over 100,000 cliffside Buddhist, Taoist, and Confucian statues spanning 1,000 years. The thousand-hand Guanyin at Baoding Mountain and the exquisite carvings at Beishan represent the last great chapter of Chinese grotto art.",
+        "zh": "世界文化遗产，10万余尊摩崖造像历经千年依旧栩栩如生，是中国石窟艺术的最后辉煌。北山观音、宝顶山千手观音，每一尊都细节精美，震撼心灵。"
+      },
+      "highlight": { "en": "1,000-hand Guanyin at Baoding Mountain", "zh": "宝顶山千手观音" },
+      "hours": { "en": "8:30 AM – 5:30 PM", "zh": "8:30 – 17:30" },
+      "ticket": { "en": "¥135 (Baoding + Beishan combo)", "zh": "¥135（宝顶山+北山联票）" },
+      "tips": {
+        "en": "Hire an audio guide (¥20) — the carvings tell detailed Buddhist stories. Baoding alone takes 2-3 hours.",
+        "zh": "租个讲解器（¥20）——石刻里的佛教故事很精彩。宝顶山就需2-3小时。"
+      },
+      "location": { "en": "Dazu District, 2h from Chongqing", "zh": "大足区，距重庆2小时" },
+      "rating": "4.8",
+      "tags": { "en": "UNESCO · Art · History", "zh": "世界遗产 · 艺术 · 历史" }
+    },
+    {
+      "name": { "en": "Eling No.2 Factory (TESTBED2)", "zh": "鹅岭二厂文创园" },
+      "img": "img/chongqing-eling.jpg",
+      "desc": {
+        "en": "A former printing factory turned hip creative park, with red-brick buildings, vintage machinery, and artsy boutiques — a photographer's paradise. The rooftop observation deck offers a breathtaking panoramic view of the entire Yuzhong Peninsula, especially stunning at sunset.",
+        "zh": "旧印刷厂改造的文创园，红砖厂房、复古机器、文艺店铺，拍照打卡圣地。登上观景台俯瞰渝中半岛全景，日落的城市天际线绝美。"
+      },
+      "highlight": { "en": "Rooftop sunset view of Yuzhong skyline", "zh": "屋顶日落俯瞰渝中天际线" },
+      "hours": { "en": "10:00 AM – 10:00 PM", "zh": "10:00 – 22:00" },
+      "ticket": { "en": "Free (rooftop ¥19)", "zh": "免费（天台¥19）" },
+      "tips": {
+        "en": "Go 30 min before sunset for the rooftop deck — the golden hour light on the Yangtze is magic. The cafes here are overpriced; save your appetite for Bayi Road.",
+        "zh": "日落前30分钟去天台——金色光线洒在长江上太绝了。这里的咖啡馆偏贵，留着胃口去八一好吃街。"
+      },
+      "location": { "en": "Eling Park, Yuzhong District", "zh": "渝中区鹅岭公园" },
+      "rating": "4.5",
+      "tags": { "en": "Photo · Sunset · Artsy", "zh": "拍照 · 日落 · 文艺" }
+    },
+    {
+      "name": { "en": "Nanshan Yikeshu (One Tree) Viewing Platform", "zh": "南山一棵树" },
+      "img": "img/chongqing-nanshan.jpg",
+      "desc": {
+        "en": "Chongqing's premier night view spot. After dark, the two rivers and four banks light up in a dazzling display — the Yuzhong Peninsula, Nan'an, and Jiangbei districts unfold before you in a 360° panorama. A must for photographers.",
+        "zh": "重庆夜景最佳观赏地。夜幕降临，两江四岸灯火辉煌，渝中半岛、南岸区、江北区尽收眼底，360°全景无敌。摄影爱好者必去。"
+      },
+      "highlight": { "en": "360° panoramic night view of Chongqing", "zh": "360°俯瞰重庆夜景全景" },
+      "hours": { "en": "9:00 AM – 10:30 PM", "zh": "9:00 – 22:30" },
+      "ticket": { "en": "¥30", "zh": "¥30" },
+      "tips": {
+        "en": "Arrive at least 45 min before sunset to get a front-row spot. Bring a tripod — the night cityscape demands long exposures.",
+        "zh": "日落前至少45分钟到，抢前排位置。带三脚架——夜景需要长曝光。"
+      },
+      "location": { "en": "Nanshan, Nan'an District", "zh": "南岸区南山" },
+      "rating": "4.7",
+      "tags": { "en": "Night View · Photo · Panorama", "zh": "夜景 · 摄影 · 全景" }
+    },
+    {
+      "name": { "en": "Liziba Monorail Through Building", "zh": "李子坝轻轨穿楼" },
+      "img": "img/chongqing-liziba.jpg",
+      "desc": {
+        "en": "A city spectacle found nowhere else on Earth — the monorail train literally passes through a residential building! Residents live upstairs while trains whoosh through the middle floors. The dedicated viewing platform below captures this mind-bending moment perfectly.",
+        "zh": "全球独有的城市奇观——列车穿楼而过！居民楼上住人、楼下通轨，这种共生场景全世界仅此一处。楼下观景台是拍摄列车穿楼的最佳位置。"
+      },
+      "highlight": { "en": "Train passes through a residential building", "zh": "列车穿楼而过的魔幻瞬间" },
+      "hours": { "en": "All day (trains every 3-5 min)", "zh": "全天（列车每3-5分钟一班）" },
+      "ticket": { "en": "Free (just the metro fare)", "zh": "免费（正常坐地铁即可）" },
+      "tips": {
+        "en": "The viewing platform at street level is the best photo spot. Ride the train yourself — get on at Liziba station and sit by the window.",
+        "zh": "街面观景台拍照角度最好。自己也坐一趟——李子坝站上车，坐靠窗位置。"
+      },
+      "location": { "en": "Liziba, Yuzhong District (Metro Line 2)", "zh": "渝中区李子坝（轻轨2号线）" },
+      "rating": "4.6",
+      "tags": { "en": "Unique · Photo · Free", "zh": "奇观 · 拍照 · 免费" }
+    },
+    {
+      "name": { "en": "Shancheng Lane (Mountain City Alley)", "zh": "山城巷" },
+      "img": "img/chongqing-shancheng.jpg",
+      "desc": {
+        "en": "A living museum of old Chongqing — ancient stone steps winding up the hillside, traditional houses perched at impossible angles, old tea houses and artisan workshops hidden in corners. Walk these stairs to experience the authentic 'climbing slopes and descending steps' lifestyle that defines this vertical city.",
+        "zh": "老重庆的立体画卷。依山而建的老巷，石阶蜿蜒，老房子错落有致，巷子里的老茶馆、手艺人，让你穿越回旧时光，体验最地道的'爬坡上坎'山城生活。"
+      },
+      "highlight": { "en": "Authentic old Chongqing lane experience", "zh": "地道老重庆巷弄体验" },
+      "hours": { "en": "All day", "zh": "全天" },
+      "ticket": { "en": "Free", "zh": "免费" },
+      "tips": {
+        "en": "Start from the bottom (near the river) and walk up. Wear comfortable shoes — there are many stairs. The old tea house halfway up is a perfect rest stop.",
+        "zh": "从江边低处往高处走。穿舒适的鞋——台阶很多。半山腰的老茶馆是完美的歇脚点。"
+      },
+      "location": { "en": "Yuzhong District, near Jiefangbei", "zh": "渝中区，近解放碑" },
+      "rating": "4.4",
+      "tags": { "en": "Heritage · Walking · Free", "zh": "老街 · 徒步 · 免费" }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": { "en": "Chongqing Hot Pot", "zh": "火锅" },
+      "img": "img/chongqing-huoguo.jpg",
+      "desc": {
+        "en": "The soul of Chongqing cuisine. A bubbling pot of rich beef tallow broth loaded with Sichuan peppercorns and dried chilies. Dip everything from tripe to beef aorta into the fiery red pool. It's not just a meal — it's a social ritual.",
+        "zh": "重庆美食的灵魂。醇厚牛油锅底，花椒辣椒翻滚，毛肚、鸭肠、黄喉在红汤里涮煮。不仅是一顿饭——是重庆人的社交仪式。"
+      },
+      "where": { "en": "Nanshan hot pot street or old-town hole-in-the-wall shops", "zh": "南山火锅一条街或老城区苍蝇馆子" },
+      "price": { "en": "¥60-100 per person", "zh": "人均¥60-100" },
+      "must_try": {
+        "en": "Order 'nine-grid' (九宫格) — the traditional way. Dip tripe (毛肚) for exactly 15 seconds.",
+        "zh": "点'九宫格'传统锅底。毛肚涮15秒正好。"
+      }
+    },
+    {
+      "name": { "en": "Chongqing Noodles (Xiao Mian)", "zh": "小面" },
+      "img": "img/chongqing-xiaomian.jpg",
+      "desc": {
+        "en": "The breakfast of champions in Chongqing. A simple bowl of wheat noodles swimming in a complex sauce of chili oil, Sichuan pepper, sesame paste, soy sauce, and a dozen other seasonings. Every street corner has a stall — and every stall has a cult following.",
+        "zh": "重庆人的灵魂早餐。一碗素面，佐以辣椒油、花椒、芝麻酱、酱油等十几种调料，麻辣鲜香。每个街角都有一个小面摊，每个摊都有忠实粉丝。"
+      },
+      "where": { "en": "Any street corner stall with a morning queue", "zh": "早上有排队的街角小摊" },
+      "price": { "en": "¥7-12 per bowl", "zh": "¥7-12/碗" },
+      "must_try": {
+        "en": "Order 'dry mixed' (干馏) style. Add a fried egg (煎蛋) on top.",
+        "zh": "点'干馏'的。加个煎蛋在上面。"
+      }
+    },
+    {
+      "name": { "en": "Geleshan Spicy Chicken (La Zi Ji)", "zh": "歌乐山辣子鸡" },
+      "img": "img/chongqing-laziji.jpg",
+      "desc": {
+        "en": "A mountain of dried red chilies with golden chicken morsels hidden inside — the joy is in the hunt. Each bite is crispy on the outside, tender inside, and delivers an addictive Sichuan peppercorn tingle.",
+        "zh": "辣椒堆里找鸡丁——乐趣就在翻找的过程中。外酥里嫩，麻辣过瘾，花椒的麻感让人停不下筷子。"
+      },
+      "where": { "en": "Geleshan area (the birthplace) or Ciqikou restaurants", "zh": "歌乐山（发源地）或磁器口餐馆" },
+      "price": { "en": "¥48-68 per portion", "zh": "¥48-68/份" },
+      "must_try": {
+        "en": "The best ones use free-range chicken — the meat is noticeably firmer. Ask for 'extra spicy' if you dare.",
+        "zh": "最好吃的用土鸡——肉质明显更紧实。敢的话点'加辣'。"
+      }
+    },
+    {
+      "name": { "en": "Mao Xue Wang (Chongqing Blood Curd Hot Pot)", "zh": "山城毛血旺" },
+      "img": "img/chongqing-maoxuewang.jpg",
+      "desc": {
+        "en": "A bold, bubbling pot of duck blood curd, tripe, pork aorta, luncheon meat, and bean sprouts in a fiery mala broth. The flavors build layer by layer — first the chili heat, then the Sichuan pepper tingle, then the deep savory richness.",
+        "zh": "鸭血、毛肚、黄喉、午餐肉、豆芽在麻辣汤底中一锅烩。麻辣鲜香层层叠加，先辣后麻再到醇厚，一碗下去浑身暖和。"
+      },
+      "where": { "en": "Ciqikou old town restaurants", "zh": "磁器口老镇餐馆" },
+      "price": { "en": "¥38-58 per portion", "zh": "¥38-58/份" },
+      "must_try": {
+        "en": "The duck blood should be silky smooth with tiny air holes — that's how you know it's fresh.",
+        "zh": "鸭血要有细小气孔、口感滑嫩——这是新鲜的标志。"
+      }
+    },
+    {
+      "name": { "en": "Wanzhou Grilled Fish", "zh": "万州烤鱼" },
+      "img": "img/chongqing-kaoyu.jpg",
+      "desc": {
+        "en": "A whole fish grilled over charcoal until the skin is crispy, then simmered in a sizzling tray of secret sauce with vegetables. The charred aroma mixed with the spicy broth is pure Chongqing comfort food.",
+        "zh": "整条鱼炭火烤至外皮焦香，再放入铁盘中与秘制酱料、蔬菜一同炖煮。焦香鱼肉搭配麻辣酱汁，越吃越香，是重庆人的深夜食堂首选。"
+      },
+      "where": { "en": "Wanzhou-style restaurants near Jiefangbei", "zh": "解放碑附近的万州烤鱼店" },
+      "price": { "en": "¥68-98 for a whole fish (serves 2-3)", "zh": "整条¥68-98（2-3人份）" },
+      "must_try": {
+        "en": "Order the 'pickled pepper' (泡椒) flavor if you want a milder, tangier version.",
+        "zh": "想要辣度温和、带酸香的点'泡椒味'。"
+      }
+    },
+    {
+      "name": { "en": "Grilled Sweet Potato Skin (Kao Shao Pi)", "zh": "烤苕皮" },
+      "img": "img/chongqing-kaoshaopi.jpg",
+      "desc": {
+        "en": "A night market superstar. Chewy sweet potato starch sheets grilled over charcoal, stuffed with pickled radish and scallions, then folded and grilled again until crispy on the outside and delightfully chewy inside. One bite and you're hooked.",
+        "zh": "夜市明星小吃。糯叽叽的红薯粉皮炭火烤制，裹上酸萝卜和葱花，外焦里糯，一口下去软糯酸甜全都有，超级满足。"
+      },
+      "where": { "en": "Bayi Road night market (八一好吃街)", "zh": "八一好吃街夜市" },
+      "price": { "en": "¥5-8 per skewer", "zh": "¥5-8/串" },
+      "must_try": {
+        "en": "Ask for extra pickled radish (酸萝卜) inside — the sour crunch balances the chewy skin perfectly.",
+        "zh": "让老板多加酸萝卜——酸甜脆爽完美中和苕皮的糯。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": { "en": "Ba-Yu Heritage: 3,000 Years of History", "zh": "巴渝风骨：三千年印记" },
+      "img": "img/chongqing-city.jpg",
+      "desc": {
+        "en": "Chongqing, anciently called 'Yuzhou,' is the birthplace of Ba-Yu culture. The Ba people established their capital here 3,000 years ago. It became a vital trade hub during the Tang and Song dynasties, and served as China's wartime capital during WWII — leaving layer upon layer of history in its streets.",
+        "zh": "重庆古称'渝州'，是巴渝文化的发源地。3000年前巴人在此建都，唐宋时成为商贸枢纽，抗战时期是中国的'战时首都'，留下无数红色记忆。每一层都刻在城市肌理里。"
+      },
+      "significance": { "en": "Birthplace of Ba-Yu civilization, 3,000 years of continuous history", "zh": "巴渝文明发源地，三千年建城史" },
+      "best_time": { "en": "Visit the Three Gorges Museum for Ba bronze artifacts", "zh": "三峡博物馆看巴人青铜器" },
+      "experience": {
+        "en": "Walk the ancient streets of Ciqikou and imagine the Tea Horse Road traders who passed through centuries ago",
+        "zh": "漫步磁器口古街，想象茶马古道商队穿行而过"
+      }
+    },
+    {
+      "name": { "en": "8D Cyberpunk: A City That Defies Gravity", "zh": "8D魔幻：赛博朋克之城" },
+      "img": "img/chongqing-hero.jpg",
+      "desc": {
+        "en": "Forget flat cities — Chongqing is built vertically on mountains and rivers. Over 3,000 bridges span the two rivers, mist constantly shrouds the skyline, and navigation apps fail hilariously. Here, the 1st floor and 10th floor can both be street level. Getting lost here isn't a bug — it's a feature.",
+        "zh": "世界上没有第二个这样的城市。3000多座桥梁横跨两江，云雾常年萦绕，一楼是马路、十楼也是马路。导航经常'罢工'，却也让每次迷路变成惊喜探索。"
+      },
+      "significance": { "en": "One of the world's most uniquely designed cities — a vertical metropolis", "zh": "全球最独特的立体城市——垂直生长的魔幻之都" },
+      "best_time": { "en": "After dark — the cyberpunk cityscape comes alive", "zh": "入夜后——赛博朋克式城景彻底绽放" },
+      "experience": {
+        "en": "Ride Metro Line 2 through Liziba — a train literally passes through a building",
+        "zh": "坐轻轨2号线经李子坝——亲眼见证列车穿楼"
+      }
+    },
+    {
+      "name": { "en": "Fog City: Mist, Tea Houses & Riverside Life", "zh": "雾都·桥都·江城" },
+      "img": "img/chongqing-city.jpg",
+      "desc": {
+        "en": "Chongqing wears three crowns: 'Mountain City' for its dramatic terrain, 'Fog Capital' for its year-round misty romance, and 'Bridge Capital' for its 3,000+ bridges. Life here unfolds along the rivers — morning tea in old hilltop houses, afternoon mahjong by the water, evening hot pot with river views.",
+        "zh": "山城、雾都、桥都——重庆的三顶桂冠。生活沿江展开：山上老茶馆喝早茶、江边打麻将、岸上看夜景配火锅，是这座城市独有的浪漫。"
+      },
+      "significance": { "en": "3,000+ bridges — one of the world's most bridged cities", "zh": "3000+座桥梁——全球桥梁最多的城市之一" },
+      "best_time": { "en": "Spring (Mar-May) and autumn (Sep-Nov) — best weather", "zh": "春秋两季（3-5月、9-11月）——气候最宜" },
+      "experience": {
+        "en": "Find an old tea house on a hilltop, order a pot of local tea, and watch the fog roll in over the Yangtze",
+        "zh": "找家山顶老茶馆，泡壶本地茶，看江上云雾翻涌"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Mar–May) & Autumn (Sep–Nov) are ideal: 15-25°C, mild and pleasant. Summer is HOT — 35-40°C with humidity (June–Aug). Winter is grey and damp, 5-10°C but no snow.",
+      "zh": "春秋最佳（3-5月、9-11月）：15-25°C，舒适宜人。夏季酷热——35-40°C（6-8月）。冬季阴冷潮湿，5-10°C但不下雪。"
+    },
+    "days": {
+      "en": "3-4 days for city highlights; 5+ days to include Wulong and Dazu day trips",
+      "zh": "市区3-4天；含武隆+大足一日游共5天以上"
+    },
+    "transit": {
+      "en": "Metro is the best way (Lines 1/2/3 cover major spots, ¥2-7). Taxis start at ¥10. Didi is widely available. The monorail (Line 2/3) is an attraction itself.",
+      "zh": "地铁最方便（1/2/3号线覆盖主要景点，¥2-7）。出租车起步价¥10。滴滴打车很方便。轻轨（2/3号线）本身就是景点。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Chengdu: 1.5h, ¥150. Flights from major Chinese cities. Yangtze River cruise from Yichang (3-4 days scenic route).",
+      "zh": "成都高铁：1.5小时，¥150。各大城市直飞。宜昌三峡游轮（3-4天水上线路）。"
+    },
+    "tips": {
+      "en": "Bring comfortable walking shoes — you WILL climb stairs. Summer visitors: bring an umbrella for sudden rain and shade. Winter: dress in layers, the damp cold penetrates. The metro is air-conditioned — a lifesaver in summer.",
+      "zh": "穿舒适的鞋——你一定会爬很多楼梯。夏天带伞防突然下雨和暴晒。冬天多穿几层，湿冷入骨。地铁有空调——夏天救命。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting to Chongqing:</strong> Chongqing Jiangbei International Airport (CKG) serves direct flights from major Asian and European cities. High-speed rail from Chengdu (1.5h, ¥150), Xi'an (5h), and Guiyang (2h). The Yangtze River cruise from Yichang to Chongqing (3-4 days) is a scenic alternative.</p><p><strong>Getting around:</strong> The metro system is extensive, clean, and cheap (¥2-7). Lines 1, 2, and 3 cover all major attractions. The monorail (Lines 2 & 3) is both transport and a tourist experience. Taxis start at ¥10. Walking is unavoidable — Chongqing is a vertical city, so be prepared for stairs everywhere.</p><p><strong>Where to stay:</strong> Jiefangbei area for first-timers — central, walkable to Hongya Cave, cableway, and Bayi Road. Nanbin Road along the south bank for river views and a quieter atmosphere.</p><p><strong>Food strategy:</strong> Eat hot pot for dinner (not lunch — you'll need a nap after). Xiao mian for breakfast. Night market for everything else. Don't be shy about spice — most restaurants can adjust the heat level if you ask. The best food is often in the grubbiest-looking hole-in-the-wall spots.</p>",
+    "zh": "<p><strong>到达重庆：</strong>重庆江北国际机场（CKG）有亚洲和欧洲主要城市直飞航班。成都高铁1.5小时（¥150），西安5小时，贵阳2小时。宜昌到重庆的长江游轮（3-4天）是别样的选择。</p><p><strong>市内交通：</strong>地铁系统覆盖广、干净、便宜（¥2-7）。1/2/3号线覆盖全部主要景点。轻轨（2/3号线）既是交通工具也是旅行体验。出租车起步¥10。步行不可避免——重庆是立体城市，到处都是台阶。</p><p><strong>住宿推荐：</strong>首次来渝住解放碑区域——中心位置，步行可达洪崖洞、长江索道、八一好吃街。南滨路沿江住宿安静，夜景江景都一流。</p><p><strong>美食攻略：</strong>火锅当晚饭吃（别中午吃——吃完想睡觉）。小面当早餐。夜市包揽其他一切。别怕辣——大部分餐馆可以调辣度。最好吃的东西往往藏在最不起眼的苍蝇馆子里。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Chongqing in summer is an oven.</strong> From June to August, temperatures hit 35-40°C with suffocating humidity. The city is built in a river basin — heat gets trapped. If you must visit in summer, plan outdoor activities before 11 AM or after 5 PM. The metro is air-conditioned — use it as your mobile cooling station.</p><p><strong>Your navigation app WILL fail you.</strong> Google Maps, Apple Maps, Baidu Maps — all struggle with Chongqing's vertical roads. A '200-meter walk' can mean climbing 15 flights of stairs. When in doubt, ask a local. Or just embrace getting lost — it's part of the Chongqing experience.</p><p><strong>Hot pot is an endurance sport.</strong> The spice level builds gradually. First 10 minutes: delicious. Next 20: your lips go numb from Sichuan pepper. After 30: sweat is pouring down your face. This is normal. The locals will respect you for powering through.</p><p><strong>Weekend crowds are no joke.</strong> Hongya Cave on a Saturday night is an actual human river. The Yangtze Cableway queue can exceed 90 minutes on weekends. If you can, visit major attractions on weekdays. The difference between Tuesday and Saturday at Hongya Cave is night and day.</p>",
+    "zh": "<p><strong>重庆夏天是蒸笼。</strong>6到8月气温35-40°C，湿度高到窒息。山城在河谷盆地——热气散不出去。非要夏天来的话，户外活动安排在上午11点前或下午5点后。地铁有空调——把它当移动避暑站用。</p><p><strong>导航APP会失效。</strong>谷歌地图、苹果地图、百度地图——在重庆的立交路面前通通懵。'200米步行'可能意味着爬15层楼的台阶。不确定就问本地人。或者坦然接受迷路——这是重庆体验的一部分。</p><p><strong>火锅是耐力运动。</strong>辣度是渐进的。前10分钟：好吃。接下来20分钟：花椒让嘴唇麻木。30分钟后：汗如雨下。这很正常。本地人会因为你坚持到底而敬你一杯。</p><p><strong>周末人潮不是开玩笑。</strong>洪崖洞周六晚上就是一条人河。长江索道周末排队能超过90分钟。能工作日去就工作日去。洪崖洞的周二和周六，感受天差地别。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Nanshan hot pot at sunset.</strong> Skip the tourist traps downtown — take a taxi up to Nanshan (南山) around 5 PM. The hot pot restaurants here have open-air terraces overlooking the entire city. As you eat, watch the city lights gradually switch on. The combo of spicy broth + sunset + city lights is unbeatable. Expect ¥80-120 per person — worth every yuan.</p><p><strong>The hidden tea house above Shancheng Lane.</strong> Halfway up Shancheng Lane, there's an unmarked wooden door with a handwritten '茶' sign. Inside, an 80-year-old lady serves Mengding tea (¥15/pot) on a tiny terrace with a view of the Yangtze. No menu, no English, just tea and the sound of the river. The perfect escape from Chongqing's intensity.</p><p><strong>Midnight xiao mian crawl.</strong> After 11 PM, the streets around Jiefangbei transform. Follow the delivery drivers on electric scooters — they know where the best late-night noodle stalls are. Look for the one with the most locals hunched over plastic stools. ¥8 for the best bowl of noodles you'll ever eat at midnight.</p><p><strong>Ciqikou before 9 AM.</strong> Ciqikou becomes a tourist zoo by 10 AM. Go at 8 AM instead — the cobblestone streets are empty, shopkeepers are just opening up, and you'll have the riverside tea houses to yourself. The morning light on the old buildings is pure magic. You can experience the real ancient town before the tour buses arrive.</p>",
+    "zh": "<p><strong>南山日落火锅。</strong>跳過市區的遊客店——下午5點左右打車上南山。這裡的火鍋店有露天露台，俯瞰整座城市。邊吃邊看城市燈光漸次亮起。麻辣湯底+日落+城市燈火的組合無可匹敵。人均¥80-120——每一分錢都超值。</p><p><strong>山城巷上的隱藏茶館。</strong>山城巷半山腰，有一扇沒標誌的木門，上面手寫著'茶'字。裡面，一位80歲的老奶奶在一個可以眺望長江的小露台上供應蒙頂茶（¥15/壺）。沒有菜單、沒有英文，只有茶和江水的聲音。逃離重慶喧囂的完美避難所。</p><p><strong>深夜小面之旅。</strong>晚上11點後，解放碑周邊的街道變了樣。跟著外賣小哥的電動車——他們知道深夜最好吃的麵攤在哪。找本地人最多、彎腰坐在塑膠凳上那家。¥8一碗，可能是你午夜吃過最好吃的麵。</p><p><strong>磁器口早上8點去。</strong>上午10點後的磁器口就是遊客動物園。改成早上8點去——石板街空無一人，店家剛開門，江邊茶館隨便你挑。清晨的陽光打在老建築上，純粹的魔法。在旅遊大巴到達之前，感受真正古鎮的寧靜。</p>"
+  }
+}

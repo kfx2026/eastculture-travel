@@ -1,0 +1,316 @@
+{
+  "id": "shenzhen",
+  "name": {
+    "en": "Shenzhen",
+    "zh": "深圳"
+  },
+  "province": {
+    "en": "Guangdong Province",
+    "zh": "广东省"
+  },
+  "intro": {
+    "en": "China's youngest megacity — a fishing village that became the world's tech capital in four decades. But beneath the glass towers lies Hakka heritage, oyster farms, and a coastline that locals guard jealously.",
+    "zh": "中国最年轻的超大城市——四十年从渔村跃升为全球科技之都。但玻璃幕墙之下，藏着客家文化、千年蚝田和本地人私藏的海岸线。"
+  },
+  "hero_img": "",
+  "hero_fb": "linear-gradient(135deg, #0d47a1 0%, #1976d2 40%, #64b5f6 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Lianhua Mountain Park",
+        "zh": "莲花山公园"
+      },
+      "img": "",
+      "desc": {
+        "en": "A gentle hill in the heart of the city crowned by a bronze statue of Deng Xiaoping, the man who launched Shenzhen's rise. From the summit you get the definitive panorama of the Futian CBD skyline — the same view that symbolizes China's reform era.",
+        "zh": "市中心的一座小山，山顶矗立着邓小平铜像——正是他开启了深圳的腾飞。登顶可俯瞰福田CBD天际线，这是象征中国改革开放时代的经典视角。"
+      },
+      "highlight": {
+        "en": "The skyline view from Deng Xiaoping's statue",
+        "zh": "邓小平铜像旁的天际线全景"
+      },
+      "hours": {
+        "en": "6:00 AM – 11:00 PM",
+        "zh": "6:00 – 23:00"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Go at dusk to watch the CBD light up. Locals fly kites on the lawn every weekend.",
+        "zh": "黄昏时分去，看CBD灯光渐次亮起。每个周末本地人都在草坪上放风筝。"
+      },
+      "location": {
+        "en": "Futian District, city center",
+        "zh": "福田区，市中心"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Skyline · Park · Symbolic",
+        "zh": "天际线 · 公园 · 地标"
+      }
+    },
+    {
+      "name": {
+        "en": "Shenzhen Bay Park",
+        "zh": "深圳湾公园"
+      },
+      "img": "",
+      "desc": {
+        "en": "A 15-kilometer coastal promenade along the bay, with Hong Kong's hills visible across the water. Cyclists, joggers, and families share the path at sunset, when the skyline and the sea turn gold.",
+        "zh": "沿深圳湾绵延15公里的滨海步道，对岸就是香港的山峦。日落时分，骑行、慢跑和散步的人共享这片海岸，天际线与海面染成金色。"
+      },
+      "highlight": {
+        "en": "Sunset stroll along the waterfront boardwalk",
+        "zh": "日落时分漫步滨海栈道"
+      },
+      "hours": {
+        "en": "All day, best at sunset",
+        "zh": "全天，日落最佳"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Rent a shared bike and ride the whole promenade. The mangrove section near the west end is a birdwatcher's secret.",
+        "zh": "租辆共享单车骑完整条步道。西段红树林是观鸟爱好者的秘境。"
+      },
+      "location": {
+        "en": "Nanshan District, along the bay",
+        "zh": "南山区，沿深圳湾"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "Coastline · Sunset · Cycling",
+        "zh": "海岸线 · 日落 · 骑行"
+      }
+    },
+    {
+      "name": {
+        "en": "Dameisha Beach",
+        "zh": "大梅沙海滨公园"
+      },
+      "img": "",
+      "desc": {
+        "en": "Shenzhen's most popular free public beach, with golden sand and clear water along the eastern coast. It's the city's default escape hatch on hot weekends — crowded, but genuinely pleasant at the water's edge.",
+        "zh": "深圳最受欢迎的免费公共海滩，金色沙滩、清澈海水，位于东海岸。是城市人炎热周末的默认出逃地——人多，但海边确实惬意。"
+      },
+      "highlight": {
+        "en": "Swimming and beach volleyball at the waterline",
+        "zh": "海边游泳与沙滩排球"
+      },
+      "hours": {
+        "en": "6:00 AM – 9:00 PM",
+        "zh": "6:00 – 21:00"
+      },
+      "ticket": {
+        "en": "Free (peak season may require reservation)",
+        "zh": "免费（旺季需预约）"
+      },
+      "tips": {
+        "en": "Arrive before 9 AM on weekends or face crowds. The nearby OCT East theme park is skippable.",
+        "zh": "周末9点前到，否则人挤人。旁边东部华侨城主题公园可以跳过。"
+      },
+      "location": {
+        "en": "Yantian District, eastern Shenzhen",
+        "zh": "盐田区，深圳东部"
+      },
+      "rating": "4.4",
+      "tags": {
+        "en": "Beach · Swimming · Weekend",
+        "zh": "海滩 · 游泳 · 周末"
+      }
+    },
+    {
+      "name": {
+        "en": "OCT-LOFT Creative Culture Park",
+        "zh": "华侨城创意文化园"
+      },
+      "img": "",
+      "desc": {
+        "en": "A repurposed factory complex turned into Shenzhen's creative heart — galleries, design studios, indie bookshops, and coffee roasters tucked into old industrial warehouses. The weekly T-Street market draws the city's artists and designers.",
+        "zh": "旧厂房改造而成的深圳创意心脏——画廊、设计工作室、独立书店和咖啡烘焙坊藏身于旧工业仓库之间。每周的T街市集聚集了全城的艺术家和设计师。"
+      },
+      "highlight": {
+        "en": "Weekend creative market and indie galleries",
+        "zh": "周末创意市集与独立画廊"
+      },
+      "hours": {
+        "en": "10:00 AM – 8:00 PM (varies by shop)",
+        "zh": "10:00 – 20:00（各店不同）"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Come on a weekend for the market. It's the antidote to Shenzhen's mall-and-skyscraper reputation.",
+        "zh": "周末来逛市集。这里是深圳'商场+摩天楼'形象的一剂解药。"
+      },
+      "location": {
+        "en": "Nanshan District, near Window of the World",
+        "zh": "南山区，邻近世界之窗"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Art · Design · Café",
+        "zh": "艺术 · 设计 · 咖啡"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Guangming Roast Pigeon",
+        "zh": "光明乳鸽"
+      },
+      "img": "",
+      "desc": {
+        "en": "Shenzhen's signature dish — young pigeons roasted until the skin shatters like glass and the meat stays juicy. Born at Guangming Farm, it's now the city's defining flavor.",
+        "zh": "深圳招牌菜——乳鸽烤到皮脆如玻璃、肉嫩多汁。诞生于光明农场，如今是深圳的标志性味道。"
+      },
+      "where": {
+        "en": "Guangming district roast-pigeon restaurants",
+        "zh": "光明区乳鸽餐厅"
+      },
+      "price": {
+        "en": "¥40–60 per pigeon",
+        "zh": "每只¥40–60"
+      },
+      "must_try": {
+        "en": "Eat it with your hands, skin first, and order the pigeon blood rice on the side.",
+        "zh": "用手撕、先吃皮，配一碗鸽血饭。"
+      }
+    },
+    {
+      "name": {
+        "en": "Shajing Fresh Oysters",
+        "zh": "沙井鲜蚝"
+      },
+      "img": "",
+      "desc": {
+        "en": "Oysters farmed in Shajing for over a thousand years — plump and briny, best steamed with garlic and vermicelli.",
+        "zh": "沙井千年蚝田出产的肥美鲜蚝——肉质饱满带海水咸鲜，蒜蓉粉丝蒸最经典。"
+      },
+      "where": {
+        "en": "Bao'an District and Shajing town seafood restaurants",
+        "zh": "宝安区及沙井镇海鲜餐厅"
+      },
+      "price": {
+        "en": "¥15–30 per portion",
+        "zh": "每份¥15–30"
+      },
+      "must_try": {
+        "en": "The garlic-vermicelli steamed oyster, eaten in one bite.",
+        "zh": "蒜蓉粉丝蒸蚝，一口吞下。"
+      }
+    },
+    {
+      "name": {
+        "en": "Pork Tripe Chicken Hotpot",
+        "zh": "猪肚鸡"
+      },
+      "img": "",
+      "desc": {
+        "en": "A whole chicken stuffed inside a pork tripe, simmered with white pepper into a milky broth. Believed to have originated right here in Shenzhen.",
+        "zh": "整只鸡塞进猪肚，加白胡椒熬成奶白色汤底。据传就发源于深圳本地。"
+      },
+      "where": {
+        "en": "Dedicated pork tripe chicken hotpot restaurants citywide",
+        "zh": "全城猪肚鸡火锅专门店"
+      },
+      "price": {
+        "en": "¥60–100 per person",
+        "zh": "人均¥60–100"
+      },
+      "must_try": {
+        "en": "Drink a bowl of the peppery broth before touching the meat.",
+        "zh": "动筷子前先喝一碗胡椒汤。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Maker & Hardware Culture",
+        "zh": "创客与硬件文化"
+      },
+      "img": "",
+      "desc": {
+        "en": "Shenzhen is the world's hardware capital — Huaqiangbei electronics market can source any component within hours, and startups prototype at lightning speed. This maker ecosystem is the city's true identity.",
+        "zh": "深圳是世界硬件之都——华强北电子市场几小时内就能配齐任何元器件，创业团队以惊人速度做出原型。这个创客生态才是深圳真正的身份。"
+      },
+      "significance": {
+        "en": "Shenzhen's identity is built on innovation — 'Shenzhen speed' is a national byword for rapid prototyping and manufacturing.",
+        "zh": "深圳的身份建立在创新之上——'深圳速度'是全国公认的快速打样与制造的代名词。"
+      },
+      "best_time": {
+        "en": "Weekday afternoons at Huaqiangbei's component markets",
+        "zh": "工作日午后逛华强北元器件市场"
+      },
+      "experience": {
+        "en": "Huaqiangbei Electronics Market or a maker space like Chaihuo",
+        "zh": "华强北电子市场，或柴火创客空间"
+      }
+    },
+    {
+      "name": {
+        "en": "Hakka Heritage & Dapeng Fortress",
+        "zh": "客家文化与所城"
+      },
+      "img": "",
+      "desc": {
+        "en": "Before Shenzhen was a city, it was Hakka country. The Dapeng Peninsula's 600-year-old fortress town (Dapeng Suocheng) and its ancestral halls preserve the region's pre-tech roots.",
+        "zh": "深圳建市之前，这里是客家之地。大鹏半岛600年历史的所城和宗祠，保留着这片土地在科技时代之前的根。"
+      },
+      "significance": {
+        "en": "The Hakka people were Shenzhen's original settlers, and their food and traditions anchor the city's deeper history.",
+        "zh": "客家是深圳最早的定居者，他们的饮食与传统撑起了这座城市更深厚的历史。"
+      },
+      "best_time": {
+        "en": "A full-day trip combining Dapeng Fortress and the coast",
+        "zh": "一日游：大鹏所城加海岸线"
+      },
+      "experience": {
+        "en": "Dapeng Fortress (大鹏所城) and its surrounding Hakka villages",
+        "zh": "大鹏所城及周边客家村落"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Subtropical — hot, humid summers (May–Oct) with typhoons, mild winters. Best in autumn (Oct–Dec) and spring (Mar–Apr).",
+      "zh": "亚热带气候——夏季（5-10月）炎热潮湿、多台风，冬季温和。秋季（10-12月）和春季（3-4月）最佳。"
+    },
+    "days": {
+      "en": "2–3 days",
+      "zh": "2–3天"
+    },
+    "transit": {
+      "en": "A clean, cheap metro (15+ lines) covers everything. Alipay/WeChat transit QR codes work everywhere.",
+      "zh": "干净便宜的地铁（15+条线路）覆盖全城。支付宝/微信乘车码全城通用。"
+    },
+    "intercity": {
+      "en": "Shenzhen Bao'an Airport (SZX). High-speed rail: 15 min to Hong Kong (West Kowloon), 30 min to Guangzhou.",
+      "zh": "深圳宝安机场(SZX)。高铁：15分钟到香港西九龙，30分钟到广州。"
+    },
+    "tips": {
+      "en": "Shenzhen pairs naturally with Hong Kong and Guangzhou. Skip the dated theme parks; focus on the coast, the parks, and the food.",
+      "zh": "深圳适合与香港、广州联游。跳过老旧的游乐园，重点放在海岸线、公园和美食上。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting around:</strong> The metro is excellent and cheap (¥2–10). Use Alipay or WeChat's transport QR code — no card needed. Ride-hailing (Didi) is affordable and ubiquitous. English signage is better than most Chinese cities, and many younger locals speak some English.</p><p><strong>Hong Kong day trip:</strong> The high-speed rail from Futian or Shenzhen North station reaches West Kowloon in about 15 minutes. Keep your passport and any visa handy — you'll clear immigration at both ends. It's an easy, popular day trip.</p><p><strong>Weather:</strong> Summer is hot, humid, and prone to typhoons and sudden downpours — carry an umbrella and plan indoor activities for midday. Autumn (Oct–Dec) is the sweet spot: dry, mild, and perfect for the parks and coast.</p><p><strong>Payment:</strong> Shenzhen is almost cashless. Alipay and WeChat Pay dominate; set them up with a foreign card before you arrive. Some smaller vendors only take mobile payment.</p>",
+    "zh": "<p><strong>交通：</strong>地铁很棒又便宜（¥2–10）。用支付宝或微信乘车码，无需办卡。网约车（滴滴）便宜且随处可叫。英文标识优于多数中国城市，不少年轻人会说英语。</p><p><strong>香港一日游：</strong>从福田站或深圳北站坐高铁，约15分钟到香港西九龙。随身带好护照和签证——两端都要过境。这是一条轻松热门的行程。</p><p><strong>天气：</strong>夏季炎热潮湿，多台风和骤雨——带伞，正午安排室内活动。秋季（10-12月）最舒适：干燥、温和，适合逛公园和海边。</p><p><strong>支付：</strong>深圳几乎无现金。支付宝和微信支付是主流，出发前用境外卡绑好。一些小摊只收手机支付。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Window of the World is dated.</strong> The miniature-landmark theme park was a sensation in the 1990s but feels tired now. If you've seen the real Eiffel Tower, skip it. Spend the time on Shenzhen Bay Park or OCT-LOFT instead.</p><p><strong>The beaches get crowded.</strong> Dameisha is free and pleasant, but on summer weekends it's packed. Arrive before 9 AM or go on a weekday. For quieter sand, head further east to Xichong or Yangmeikeng.</p><p><strong>Shenzhen is not a 'sights' city.</strong> It has few famous monuments. The joy of Shenzhen is in its parks, coastline, food, and energy — not check-the-box attractions. Adjust your expectations and you'll enjoy it far more.</p>",
+    "zh": "<p><strong>世界之窗已经过时。</strong>这个微缩地标乐园在90年代很轰动，现在显得陈旧。看过真的埃菲尔铁塔就跳过它，把时间花在深圳湾公园或华侨城创意园。</p><p><strong>海滩人很多。</strong>大梅沙免费又舒适，但夏季周末人满为患。9点前到，或工作日去。想要更清净的沙滩，再往东去西涌或杨梅坑。</p><p><strong>深圳不是'景点'城市。</strong>它没有多少著名古迹。深圳的乐趣在公园、海岸线、美食和活力——而不是打卡式景点。调整预期，你会玩得开心得多。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>The Guangming pigeon pilgrimage.</strong> Shenzhen's best meal is a drive west to the Guangming district for roast pigeon. The farms and restaurants there have been perfecting it since the 1980s. Order one pigeon per person, eat with your hands, and get the pigeon blood rice on the side — locals consider the drive part of the experience.</p><p><strong>Shenzhen Bay at golden hour.</strong> Rent a shared bike and ride the Shenzhen Bay promenade as the sun drops behind the city. The skyline turns gold, the sea turns glass, and Hong Kong's hills silhouette across the water. It's the single most beautiful free thing in the city.</p><p><strong>Huaqiangbei as a tourist attraction.</strong> Even if you're not buying components, wandering the electronics market is a uniquely Shenzhen experience — floor after floor of gadgets, components, and maker culture. It's chaotic, fascinating, and the truest expression of the city's identity.</p>",
+    "zh": "<p><strong>光明乳鸽朝圣。</strong>深圳最好的一顿饭，是驱车西去光明区吃乳鸽。那里的农场和餐厅从80年代就在打磨这道菜。每人点一只，用手撕着吃，再配碗鸽血饭——本地人把这段车程也当作体验的一部分。</p><p><strong>深圳湾黄金时刻。</strong>租辆共享单车，趁夕阳坠入城市背后时骑行深圳湾步道。天际线染成金色，海面如镜，香港的山峦在对岸勾勒出剪影。这是全城最美的免费体验。</p><p><strong>把华强北当景点逛。</strong>即便不买元器件，逛电子市场也是独一无二的深圳体验——一层又一层的数码、元件和创客文化。混乱、迷人，是这座城市身份最真实的表达。</p>"
+  }
+}
