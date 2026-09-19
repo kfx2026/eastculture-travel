@@ -1,0 +1,128 @@
+{
+  "id": "taiyuan",
+  "name": {
+    "en": "Taiyuan",
+    "zh": "太原"
+  },
+  "province": {
+    "en": "Shanxi Province",
+    "zh": "山西省"
+  },
+  "intro": {
+    "en": "A thousand years of history, one majestic city. Shanxi's capital where Jin culture, coal heritage and ancient fortresses converge.",
+    "zh": "千年晋阳，表里山河的龙城。山西首府，晋文化、煤炭遗存与古城堡在此交汇。"
+  },
+  "hero_fb": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
+  "landmarks": [
+    {
+      "id": "taiyuan-museum",
+      "name": {
+        "en": "Shanxi Museum",
+        "zh": "山西博物院"
+      },
+      "img": "images/taiyuan-museum.jpg",
+      "desc": {
+        "en": "One of China's largest provincial museums with 500,000+ artifacts covering 5,000 years of Shanxi history.",
+        "zh": "中国最大省级博物馆之一，50 万件藏品涵盖五千年山西历史。"
+      }
+    },
+    {
+      "id": "taiyuan-zhengxi",
+      "name": {
+        "en": "Zhengxi Ancient Street",
+        "zh": "太原古县城"
+      },
+      "img": "images/taiyuan-zhengxi.jpg",
+      "desc": {
+        "en": "Restored Ming-Qing era old town with traditional courtyard architecture and local snacks.",
+        "zh": "修旧如旧的明清古城，传统院落与本地小吃。"
+      }
+    },
+    {
+      "id": "jiugong",
+      "name": {
+        "en": "Jiugong Gate",
+        "zh": "九宫格"
+      },
+      "img": "images/jiugong.jpg",
+      "desc": {
+        "en": "Ancient city gate complex dating to the Ming dynasty, now a symbol of Taiyuan.",
+        "zh": "明代古城门群，太原的标志性符号。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "刀削面 Daoxiao Noodles",
+        "zh": "刀削面"
+      },
+      "img": "images/daoxiao.jpg",
+      "desc": {
+        "en": "Hand-cut noodles, a Shanxi staple — thick, chewy, served in clear or tomato broth.",
+        "zh": "山西面食招牌，手工削制，厚实劲道，清汤或番茄底。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "头脑 Tou Nao",
+        "zh": "头脑"
+      },
+      "img": "images/tounao.jpg",
+      "desc": {
+        "en": "Traditional Shanxi medicinal soup — lamb broth with Chinese yam, lotus root, onion and medicinal herbs.",
+        "zh": "山西传统药膳汤，羊肉汤底配山药、莲藕、葱白与药材。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "Taiyuan is the heart of Jin (Shanxi) culture, once China's financial capital during the Qing era. Known for coal mining heritage and the ancient Pingyao fortress nearby.",
+    "zh": "太原是晋文化中心，清代曾为中国金融重镇。以煤炭遗存与附近的平遥古城闻名。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Continental semi-arid (5-28°C). Best May-Oct; cold dry winters.",
+      "zh": "温带半干旱（5-28°C）。5-10月最佳；冬季干冷。"
+    },
+    "days": {
+      "en": "1-2 days",
+      "zh": "1-2 天"
+    },
+    "transit": {
+      "en": "Metro line 2 plus buses; Wusu Airport 15km.",
+      "zh": "地铁2号线加公交；武宿机场15公里。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Beijing (~3h), Xi'an (~3h), Zhengzhou.",
+      "zh": "北京高铁约3小时、西安约3小时、郑州可达。"
+    },
+    "tips": {
+      "en": "Gateway to Shanxi culture; visit Pingyao ancient town nearby.",
+      "zh": "晋文化门户；可顺游附近平遥古城。"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "site_name": {
+    "en": "Oriental Cities · Travel",
+    "zh": "东方城市人文空间 · 文旅"
+  },
+  "site_tagline": {
+    "en": "Discover the soul of China through its cities",
+    "zh": "以城市为窗，见华夏之美"
+  },
+  "home": {
+    "en": "Home",
+    "zh": "首页"
+  },
+  "cities": {
+    "en": "Cities",
+    "zh": "城市"
+  },
+  "about": {
+    "en": "About",
+    "zh": "关于"
+  },
+  "lang_switch": {
+    "en": "中文",
+    "zh": "English"
+  },
+  "back_top": {
+    "en": "Top",
+    "zh": "顶部"
+  },
+  "hero_title": {
+    "en": "China Beyond the Postcard",
+    "zh": "不止于明信片的中国"
+  },
+  "hero_sub": {
+    "en": "Ancient capitals, misty mountains, fiery kitchens. Every city tells a story waiting to be lived.",
+    "zh": "古都烟云，山水意境，人间烟火。每座城市都有等待被亲历的故事。"
+  },
+  "hero_cta": {
+    "en": "Explore Cities",
+    "zh": "探索城市"
+  },
+  "sec_featured": {
+    "en": "Seasonal Picks",
+    "zh": "时令推荐"
+  },
+  "sec_featured_sub": {
+    "en": "Handpicked destinations for this season",
+    "zh": "当季最值得去的城市精选"
+  },
+  "sec_latest": {
+    "en": "Recently Added",
+    "zh": "最新上线"
+  },
+  "sec_latest_sub": {
+    "en": "Fresh destinations ready for your next journey",
+    "zh": "全新目的地，等您启程"
+  },
+  "sec_brand": {
+    "en": "Why Travel With Us",
+    "zh": "品牌意境"
+  },
+  "sec_brand_sub": {
+    "en": "We don't just show you China. We help you feel it.",
+    "zh": "我们不只展示中国，我们帮您感受中国。"
+  },
+  "brand_1_title": {
+    "en": "Deep Local Insight",
+    "zh": "深耕本土视角"
+  },
+  "brand_1_desc": {
+    "en": "Every city guide is written by locals who live and breathe the place.",
+    "zh": "每份城市指南都由生活于此的本地人撰写。"
+  },
+  "brand_2_title": {
+    "en": "Practical & Honest",
+    "zh": "实用且诚实"
+  },
+  "brand_2_desc": {
+    "en": "No inflated reviews. Real prices, real tips, real experiences.",
+    "zh": "不夸大评价。真实价格、真实建议、真实体验。"
+  },
+  "brand_3_title": {
+    "en": "Culture First",
+    "zh": "文化先行"
+  },
+  "brand_3_desc": {
+    "en": "Beyond the landmarks — food, crafts, festivals, and the rhythm of daily life.",
+    "zh": "超越地标——美食、手艺、节庆、日常生活的韵律。"
+  },
+  "city_count_label": {
+    "en": "cities and growing",
+    "zh": "座城市，持续更新中"
+  },
+  "view_detail": {
+    "en": "View Details",
+    "zh": "查看详情"
+  },
+  "back_cities": {
+    "en": "All Cities",
+    "zh": "返回城市列表"
+  },
+  "sec_landmarks": {
+    "en": "Must-See Landmarks",
+    "zh": "核心景区"
+  },
+  "sec_cuisine": {
+    "en": "Local Flavors",
+    "zh": "特色美食"
+  },
+  "sec_culture": {
+    "en": "Culture & Heritage",
+    "zh": "民俗文化"
+  },
+  "sec_guide": {
+    "en": "Traveler's Guide",
+    "zh": "境外出行攻略"
+  },
+  "guide_climate": {
+    "en": "Best Season",
+    "zh": "最佳季节"
+  },
+  "guide_days": {
+    "en": "Recommended Stay",
+    "zh": "建议天数"
+  },
+  "guide_transit": {
+    "en": "Getting Around",
+    "zh": "市内交通"
+  },
+  "guide_intercity": {
+    "en": "Getting There",
+    "zh": "城际交通"
+  },
+  "guide_tips": {
+    "en": "Essential Tips",
+    "zh": "实用贴士"
+  },
+  "coming_soon": {
+    "en": "More Cities Coming",
+    "zh": "更多城市即将上线"
+  },
+  "coming_soon_sub": {
+    "en": "We're adding new destinations regularly. Stay tuned.",
+    "zh": "我们定期更新城市内容，敬请期待。"
+  },
+  "coming_tba": {
+    "en": "To Be Announced",
+    "zh": "待定"
+  },
+  "footer_text": {
+    "en": "Oriental Urban Humanistic Space · Travel | Showcasing the beauty of China to the world",
+    "zh": "东方城市人文空间 · 文旅 | 向世界展示大美中国"
+  },
+  "footer_contact": {
+    "en": "Contact: 178577324@qq.com",
+    "zh": "联系：178577324@qq.com"
+  },
+  "footer_copyright": {
+    "en": "© 2026 Oriental Cities. All content verified and updated regularly.",
+    "zh": "© 2026 东方城市人文空间。所有内容定期核对更新。"
+  },
+  "footer_privacy": {
+    "en": "Privacy Policy",
+    "zh": "隐私政策"
+  },
+  "footer_food": {
+    "en": "Chinese Food Guide",
+    "zh": "中华美食指南"
+  },
+  "page": {
+    "en": "Page",
+    "zh": "第"
+  },
+  "page_of": {
+    "en": "of",
+    "zh": "/"
+  },
+  "prev": {
+    "en": "Previous",
+    "zh": "上一页"
+  },
+  "next": {
+    "en": "Next",
+    "zh": "下一页"
+  },
+  "ad_label": {
+    "en": "Advertisement",
+    "zh": "广告"
+  },
+  "sec_practical": {
+    "en": "🛠 Practical Survival Guide",
+    "zh": "🛠 实操通关手册"
+  },
+  "sec_honest": {
+    "en": "⚠️ Honest Truth",
+    "zh": "⚠️ 避坑实话"
+  },
+  "sec_secret": {
+    "en": "🗺 Local Secrets",
+    "zh": "🗺 本地人才知道"
+  }
+}

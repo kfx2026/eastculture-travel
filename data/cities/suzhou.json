@@ -1,0 +1,129 @@
+{
+  "id": "suzhou",
+  "name": {
+    "en": "Suzhou",
+    "zh": "苏州"
+  },
+  "province": {
+    "en": "Jiangsu Province",
+    "zh": "江苏省"
+  },
+  "intro": {
+    "en": "Venice of the East — Classical Gardens, Grand Canal & Silk Culture. 2,500 years of refined Jiangnan craftsmanship and scholar aesthetics.",
+    "zh": "东方威尼斯 — 古典园林、大运河与丝绸文化。2500 年江南匠心与文人美学。"
+  },
+  "hero_fb": "linear-gradient(135deg, #1b5e20 0%, #388e3c 40%, #a5d6a7 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "suzhou-lm-0",
+      "name": {
+        "en": "Humble Administrator's Garden",
+        "zh": "拙政园"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Suzhou.",
+        "zh": "苏州最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "suzhou-lm-1",
+      "name": {
+        "en": "Tiger Hill",
+        "zh": "虎丘"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Suzhou.",
+        "zh": "苏州最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "suzhou-lm-2",
+      "name": {
+        "en": "Pingjiang Road",
+        "zh": "平江路"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Suzhou.",
+        "zh": "苏州最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Squirrel Mandarin Fish",
+        "zh": "松鼠鳜鱼"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Suzhou.",
+        "zh": "苏州必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Wuxi Ribs",
+        "zh": "无锡排骨"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Suzhou.",
+        "zh": "苏州必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "Venice of the East — Classical Gardens, Grand Canal & Silk Culture. 2,500 years of refined Jiangnan craftsmanship and scholar aesthetics.",
+    "zh": "东方威尼斯 — 古典园林、大运河与丝绸文化。2500 年江南匠心与文人美学。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Humid subtropical (15-30°C). Best Mar-May and Sep-Nov for gardens.",
+      "zh": "亚热带湿润（15-30°C）。3-5月、9-11月游园最佳。"
+    },
+    "days": {
+      "en": "1-2 days",
+      "zh": "1-2 天"
+    },
+    "transit": {
+      "en": "Metro lines 1-5 plus buses; 30min from Shanghai by rail.",
+      "zh": "地铁1-5号线加公交；上海高铁30分钟。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Shanghai (~30min), Hangzhou (~1.5h).",
+      "zh": "上海高铁约30分钟、杭州约1.5小时。"
+    },
+    "tips": {
+      "en": "Arrive at gardens early to beat crowds; combine with Tongli water town.",
+      "zh": "园林早点去避人潮；可顺游同里水乡。"
+    }
+  }
+}

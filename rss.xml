@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eastern Travel Guide — China City Travel Updates</title>
+    <link>https://travel.eastculture.top/</link>
+    <description>Latest travel guides for Chinese cities. Visa updates, new city routes, travel tips, and cultural experiences.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2026 09:33:59 +0000</lastBuildDate>
+    <ns0:link href="https://travel.eastculture.top/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ Added — China Travel Guide</title>
+      <link>https://travel.eastculture.top/faq.html</link>
+      <description>Complete travel FAQ: visa policies, best seasons to visit, safety, internet access, transportation, language barriers, budget tips, and packing recommendations.</description>
+      <pubDate>Wed, 10 Jun 2026 09:33:59 +0000</pubDate>
+      <guid>https://travel.eastculture.top/faq.html</guid>
+    </item>
+    <item>
+      <title>City Guides — Now 12 Chinese Cities Covered</title>
+      <link>https://travel.eastculture.top/cities.html</link>
+      <description>Detailed guides for Beijing, Shanghai, Chengdu, Xi'an, Hangzhou, Guilin, Guangzhou, Chongqing, Shenzhen, Lijiang, Qingdao, and Leshan.</description>
+      <pubDate>Wed, 10 Jun 2026 09:33:59 +0000</pubDate>
+      <guid>https://travel.eastculture.top/cities.html</guid>
+    </item>
+  </channel>
+</rss>

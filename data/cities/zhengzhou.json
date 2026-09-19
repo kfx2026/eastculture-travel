@@ -1,0 +1,146 @@
+{
+  "id": "zhengzhou",
+  "name": { "en": "Zhengzhou", "zh": "郑州" },
+  "province": { "en": "Henan Province", "zh": "河南省" },
+  "intro": {
+    "en": "Zhengzhou is not China's most famous city, and it doesn't try to be. But beneath its sprawling modern skyline lies an unbroken 3,600-year thread connecting Shang Dynasty oracle bones to steaming bowls of spicy Hu La Tang. The capital of Henan guards the Yellow River's southern bank — where civilization itself began.",
+    "zh": "郑州不是中国最有名的城市，但它的底蕴深不见底。在这座1200万人口现代都市下面，埋藏着一根三千六百年的丝线——从商代甲骨文到清晨街角一碗胡辣汤。河南的省会守护着黄河之南——华夏文明的起点。"
+  },
+  "hero_img": "images/zhengzhou/cbd-ruyi-lake.jpg",
+  "hero_fb": "linear-gradient(135deg, #8B4513 0%, #DAA520 40%, #CD853F 100%)",
+  "meta_title": "Zhengzhou Travel Guide — Shaolin Temple, Yellow River & Henan Cuisine",
+  "meta_description": "Discover Zhengzhou: ancient Shang capital, legendary Shaolin Temple, Yellow River scenic area, CBD skyline. Complete guide to Henan cuisine: Hu La Tang, Hui Mian, Daokou Chicken.",
+  "landmarks": [
+    {
+      "name": { "en": "Zhengdong CBD — The 'Big Corn' (大玉米)", "zh": "郑东新区CBD · 大玉米" },
+      "img": "images/zhengzhou/cbd-ruyi-lake.jpg",
+      "desc": { "en": "Zhengzhou's futuristic heart, centered on the 280-meter Qianxi Building — locally known as the 'Big Corn' for its distinctive tiered shape. The golden dome of the Convention Center mirrors in glass-still Ruyi Lake. Best photographed during evening blue hour.", "zh": "郑州的未来之城——以280米千禧广场'大玉米'楼为中心，金色穹顶的国际会展中心倒映如意湖。傍晚蓝调时刻最美。" },
+      "rating": "★★★★★",
+      "highlight": { "en": "The evening blue hour (around 7 PM in summer) is the magic moment — golden domes reflected in the lake.", "zh": "傍晚蓝调时刻（夏季约19:00）是拍照的魔术时间——金顶倒映湖中。" },
+      "hours": { "en": "Open 24h (outdoor area)", "zh": "全天开放（户外区域）" },
+      "ticket": { "en": "Free", "zh": "免费" },
+      "location": { "en": "Jinshui East Road, CBD", "zh": "金水东路 CBD" },
+      "tags": { "en": "Iconic · Modern · Skyline", "zh": "地标 · 现代 · 天际线" },
+      "tips": { "en": "Walk around Ruyi Lake at sunset for the best reflection photos.", "zh": "日落时分沿如意湖散步，拍倒影最佳。" }
+    },
+    {
+      "name": { "en": "Shaolin Temple (少林寺)", "zh": "少林寺" },
+      "img": "images/zhengzhou/shaolin-temple.jpg",
+      "desc": { "en": "The birthplace of Zen Buddhism and Shaolin kung fu, founded in 495 AD among the pine forests of Mount Song. UNESCO World Heritage site with the Pagoda Forest, Dharma Cave, and daily kung fu demonstrations by warrior monks. 90 minutes from Zhengzhou.", "zh": "禅宗祖庭、武术圣地——坐落于嵩山松林之间，始建于公元495年。联合国教科文组织世界遗产，塔林肃穆、达摩洞幽深，武僧每日功夫表演。距郑州90分钟车程。" },
+      "rating": "★★★★★",
+      "highlight": { "en": "Catch the first kung fu show at 9:30 AM to beat the tour groups.", "zh": "赶第一场9:30的武术表演，避开旅行团高峰。" },
+      "hours": { "en": "7:30–17:30", "zh": "7:30–17:30" },
+      "ticket": { "en": "RMB 100", "zh": "100元" },
+      "location": { "en": "Dengfeng, Mount Song", "zh": "登封市嵩山" },
+      "tags": { "en": "UNESCO · Kung Fu · Zen", "zh": "世界遗产 · 武术 · 禅宗" },
+      "tips": { "en": "Eat in Dengfeng town, not at the tourist restaurants near the temple.", "zh": "去登封市区吃饭，别在少林寺门口的餐馆。" }
+    },
+    {
+      "name": { "en": "Yellow River Scenic Area (黄河风景名胜区)", "zh": "黄河风景名胜区" },
+      "img": "images/zhengzhou/yellow-river.jpg",
+      "desc": { "en": "Where the Yellow River emerges from its final mountain gorge onto the North China Plain. 106-meter statues of Emperors Yan and Huang stand guard. Xiaolangdi Dam demonstrates masterful hydraulic engineering.", "zh": "黄河冲出最后一道峡谷奔向华北平原之地。炎黄二帝106米巨型雕像守护河岸，小浪底大坝展现水利工程壮举。" },
+      "rating": "★★★★☆",
+      "highlight": { "en": "Sunset is spectacular — the river turns molten gold against the mountains.", "zh": "日落时分黄河如熔金般映照群山，无比震撼。" },
+      "hours": { "en": "8:00–18:00", "zh": "8:00–18:00" },
+      "ticket": { "en": "RMB 60", "zh": "60元" },
+      "location": { "en": "30km north of Zhengzhou", "zh": "郑州市北30公里" },
+      "tags": { "en": "Nature · Engineering · River", "zh": "自然 · 工程奇观 · 黄河" },
+      "tips": { "en": "Bring water and sunscreen — the area is expansive and exposed.", "zh": "带好水和防晒——景区面积大且空旷。" }
+    },
+    {
+      "name": { "en": "Erqi Memorial Tower (二七纪念塔)", "zh": "二七纪念塔" },
+      "img": "images/zhengzhou/erqi-tower.jpg",
+      "desc": { "en": "Zhengzhou's iconic twin-tower landmark commemorating the 1923 Erqi Strike. Climb to the top for panoramic city views. The surrounding Erqi District is central China's busiest shopping hub.", "zh": "郑州标志性双塔建筑，纪念1923年二七大罢工。登顶俯瞰城市全景，周边二七商圈是中部最繁华的商业中心。" },
+      "rating": "★★★★☆",
+      "highlight": { "en": "The area buzzes from morning until late night — great for people-watching.", "zh": "从早到晚人流不息——观察郑州人间烟火的最佳地点。" },
+      "hours": { "en": "9:00–17:00", "zh": "9:00–17:00" },
+      "ticket": { "en": "Free", "zh": "免费" },
+      "location": { "en": "Erqi District, city center", "zh": "二七区市中心" },
+      "tags": { "en": "Historical · Urban · Landmark", "zh": "历史 · 都市 · 地标" },
+      "tips": { "en": "Combine with a shopping trip — Erqi Wanda and department stores are right there.", "zh": "顺便逛街——二七万达和各大百货就在旁边。" }
+    },
+    {
+      "name": { "en": "Henan Museum (河南博物院)", "zh": "河南博物院" },
+      "img": "images/zhengzhou/henan-museum.jpg",
+      "desc": { "en": "One of China's premier national museums, housing 130,000+ artifacts spanning 5,000 years. Shang oracle bones, Spring and Autumn bronzes, and Han Dynasty jade burial suits are world-class.", "zh": "中国顶级博物馆之一，馆藏13万余件文物跨越五千年。商代甲骨文、春秋青铜器、汉代金缕玉衣均为世界级藏品。" },
+      "rating": "★★★★★",
+      "highlight": { "en": "Plan at least three hours — the bronze collection alone justifies the visit. Closed Mondays.", "zh": "至少预留三小时——青铜器收藏堪称世界级。周一闭馆。" },
+      "hours": { "en": "9:00–17:30 (closed Mon)", "zh": "9:00–17:30（周一闭馆）" },
+      "ticket": { "en": "Free (ID required)", "zh": "免费（需身份证）" },
+      "location": { "en": "8 Nongye Road", "zh": "农业路8号" },
+      "tags": { "en": "Museum · History · Bronze Age", "zh": "博物馆 · 历史 · 青铜时代" },
+      "tips": { "en": "Audio guides available in English. The gift shop has excellent bronze replica souvenirs.", "zh": "有英文语音导览。礼品店的青铜复刻品很不错。" }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": { "en": "Hu La Tang (胡辣汤) — Breakfast King", "zh": "胡辣汤 · 早餐之王" },
+      "img": "images/zhengzhou/hulatang.jpg",
+      "desc": { "en": "Henan's legendary spicy breakfast soup — thick, peppery, loaded with beef, tofu skin, gluten, and glass noodles. Kicks you awake. Fang Zhongshan on Shunhe Road has been the gold standard since 1980.", "zh": "河南传奇早餐——浓稠胡椒辣汤配牛肉、豆皮、面筋、粉条。一脚把你踹醒。顺河路方中山自1980年起就是金字招牌。" },
+      "where": { "en": "Fang Zhongshan, Shunhe Road", "zh": "顺河路方中山胡辣汤" },
+      "price": { "en": "RMB 8–15", "zh": "8–15元" },
+      "must_try": { "en": "Go before 7 AM — serious locals eat here before work.", "zh": "早上七点前去——老郑州都是上班前来吃。" }
+    },
+    {
+      "name": { "en": "Zhengzhou Hui Mian (烩面) — Comfort Bowl", "zh": "郑州烩面 · 一碗暖胃" },
+      "img": "images/zhengzhou/huimian.jpg",
+      "desc": { "en": "Henan's signature hand-pulled braised noodles in milky lamb bone broth, topped with sliced lamb, quail eggs, and wood ear mushrooms. Xiao Ji San Xian has been serving since the 1940s.", "zh": "河南最具代表性的手抻烩面，浓郁羊骨汤配羊肉片、鹌鹑蛋和木耳。萧记三鲜烩面上世纪40年代开业至今。" },
+      "where": { "en": "Xiao Ji San Xian Hui Mian", "zh": "萧记三鲜烩面" },
+      "price": { "en": "RMB 25–45", "zh": "25–45元" },
+      "must_try": { "en": "One bowl is a complete meal — no sides needed.", "zh": "一碗就是完整一餐——无需配菜。" }
+    },
+    {
+      "name": { "en": "Daokou Roast Chicken (道口烧鸡) — Imperial Dish", "zh": "道口烧鸡 · 三百年御膳" },
+      "img": "images/zhengzhou/daokou-chicken.jpg",
+      "desc": { "en": "Three centuries of history as an imperial tribute dish. Eight-spice marinade, steamed then roasted — meat falls off the bone, skin glistens amber. Look for the original brand: Yixingzhang (义兴张).", "zh": "三百年宫廷贡品历史。八味秘制香料腌制、先蒸后烤——骨肉分离、鸡皮琥珀色。认准义兴张品牌。" },
+      "where": { "en": "Any traditional deli in old city", "zh": "老城区传统熟食店" },
+      "price": { "en": "RMB 60–90 per chicken", "zh": "60–90元/只" },
+      "must_try": { "en": "Eat cold — it's traditionally served at room temperature for maximum flavor.", "zh": "冷吃——传统吃法是常温食用，风味最佳。" }
+    },
+    {
+      "name": { "en": "Kaifeng Soup Dumplings (灌汤包) — Day Trip Treasure", "zh": "开封灌汤包 · 一日游珍馐" },
+      "img": "images/zhengzhou/soup-dumplings.jpg",
+      "desc": { "en": "An hour east of Zhengzhou, Kaifeng's xiaolongbao rival Shanghai's — thinner skins, richer broth. Poke a hole, sip the soup, then devour. The pilgrimage to Kaifeng is worth it, but you'll find them in Zhengzhou too.", "zh": "郑州东行一小时即达开封，灌汤包皮更薄、汤更浓。戳洞、喝汤、吃包。去开封值得，郑州也能找到。" },
+      "where": { "en": "Kaifeng old city / Henan restaurants in Zhengzhou", "zh": "开封老城 / 郑州河南菜馆" },
+      "price": { "en": "RMB 15–30", "zh": "15–30元" },
+      "must_try": { "en": "The day trip to Kaifeng adds the whole Song Dynasty experience.", "zh": "开封一日游顺便体验千年宋都，一箭双雕。" }
+    }
+  ],
+  "culture": [
+    {
+      "name": { "en": "Shaolin Kung Fu (少林功夫)", "zh": "少林功夫" },
+      "img": "images/zhengzhou/shaolin-temple.jpg",
+      "desc": { "en": "More than martial arts — Shaolin kung fu is a living philosophy combining Buddhist meditation with physical discipline. The daily demonstrations showcase forms passed down for 1,500 years. The Tagou Martial Arts School nearby trains 30,000 students — the world's largest kung fu academy.", "zh": "不只是武术——少林功夫是一种将佛教禅修与身体修行结合的活哲学。每日表演展示传承了1500年的拳法。附近塔沟武校有3万学员——世界最大的武术学校。" },
+      "significance": { "en": "UNESCO Intangible Cultural Heritage", "zh": "联合国教科文非物质文化遗产" },
+      "best_time": { "en": "Morning shows (9:30 AM)", "zh": "上午场（9:30）" },
+      "experience": { "en": "Watch live demonstrations", "zh": "现场观摩武术表演" }
+    },
+    {
+      "name": { "en": "Shang Dynasty Oracle Bones (甲骨文)", "zh": "商代甲骨文" },
+      "img": "",
+      "desc": { "en": "The earliest known Chinese writing system, inscribed on turtle shells and animal bones for divination 3,600 years ago. The Henan Museum holds some of the finest examples — seeing them in person connects you directly to the dawn of Chinese civilization.", "zh": "已知最早的中国文字系统，刻在龟甲和兽骨上用于占卜，距今3600年。河南博物院藏有最精美的实物——亲眼所见便是直接触碰华夏文明的黎明。" },
+      "significance": { "en": "Earliest Chinese writing", "zh": "中国最早文字" },
+      "best_time": { "en": "Weekday mornings (less crowded)", "zh": "工作日上午（人少）" },
+      "experience": { "en": "Henan Museum permanent exhibition", "zh": "河南博物院常设展" }
+    }
+  ],
+  "guide": {
+    "climate": { "en": "Continental monsoon — hot summers (35°C+), cold dry winters. Best: April-May and Sept-Oct.", "zh": "大陆性季风气候——夏季炎热（35°C+），冬季干冷。最佳：4-5月和9-10月。" },
+    "days": { "en": "2-3 days: Day 1 — CBD + Erqi Tower + Henan Museum; Day 2 — Shaolin Temple day trip; Day 3 — Yellow River Scenic Area.", "zh": "2-3天：第1天CBD+二七塔+河南博物院；第2天少林寺一日游；第3天黄河风景区。" },
+    "transit": { "en": "Metro covers all districts. Bus to Shaolin from Railway Station (RMB 25). Didi affordable citywide.", "zh": "地铁覆盖所有城区。火车站有少林寺专线巴士（25元）。滴滴打车全城方便。" },
+    "intercity": { "en": "High-speed rail: Beijing 2h, Shanghai 4h, Xi'an 2h, Wuhan 1.5h. Zhengzhou East is one of Asia's largest hubs.", "zh": "高铁：北京2h、上海4h、西安2h、武汉1.5h。郑州东站是亚洲最大枢纽之一。" },
+    "tips": { "en": "Hu La Tang shops open at 5 AM. Shaolin kung fu shows: 9:30, 11:30, 14:00. Skip temple tourist restaurants — eat in Dengfeng town.", "zh": "胡辣汤店早五点开门。少林功夫表演：9:30、11:30、14:00。别在少林寺门口吃饭——去登封市区。" }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Best photo spots:</strong> Ruyi Lake at sunset for CBD reflections; Songshan mountain pass on the Dengfeng road for dramatic Shaolin approach shots.</p><p><strong>Budget:</strong> Mid-range: RMB 400-600/day including hotel, meals, and transport. Shaolin Temple entry is the biggest single expense at RMB 100.</p><p><strong>Language:</strong> Henan dialect is famously distinctive. Most young people and service staff speak Mandarin. English is rare outside hotels and the museum.</p>",
+    "zh": "<p><strong>最佳拍照点：</strong>如意湖日落拍CBD倒影；登封公路嵩山段拍少林寺山口。</p><p><strong>预算：</strong>中档：含住宿、餐饮、交通约400-600元/天。少林寺门票100元是最大单项支出。</p><p><strong>语言：</strong>河南方言独具特色。年轻人和服务人员大多讲普通话。酒店和博物馆以外英文较少。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>Not a touristy city — and that's the point.</strong> Zhengzhou won't charm you instantly like Shanghai or amaze you like Beijing. It rewards the traveler who values authenticity over Instagram. The real magic is in the morning soup stalls, the bronze gallery at Henan Museum, and the moment you first see Shaolin monks in action.</p><p><strong>The spice is real.</strong> Hu La Tang is genuinely hot — not Sichuan numbing, just pure peppery heat. If you can't handle it, there's no 'mild' version. Embrace it.</p>",
+    "zh": "<p><strong>不是旅游城市——这正是它的魅力。</strong>郑州不会像上海那样瞬间征服你，也不会像北京那样震撼你。它奖励那些在乎真实胜过打卡的旅行者。真正的魔力在清晨的胡辣汤摊、河南博物院的青铜展厅、以及你第一次看见少林武僧的那一刻。</p><p><strong>辣是真的辣。</strong>胡辣汤是真辣——不是四川的麻，是纯粹的胡椒辣。受不了就没有'微辣'版本。接受它。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Secret noodle spot:</strong> The best Hui Mian isn't at Xiao Ji's flagship — the smaller branch on Weiwu Road (纬五路) near the old residential area serves a richer broth that locals prefer.</p><p><strong>Night market:</strong> Erqi District transforms after 9 PM. Skip the shopping malls and head to the alleys behind Wanda Plaza for street food that rivals any night market in China.</p><p><strong>Free Shaolin alternative:</strong> The Tagou Martial Arts School (塔沟武校) in Dengfeng is open to visitors on weekends — you'll see 30,000 students training simultaneously, a spectacle arguably more impressive than the temple itself.</p>",
+    "zh": "<p><strong>秘密面馆：</strong>最好的烩面不在萧记总店——纬五路老居民区附近的小分店汤头更浓，本地人偏爱。</p><p><strong>夜市：</strong>二七区晚上九点后大变身。别逛商场，去万达广场背后的巷子里——街头小吃不输全国任何夜市。</p><p><strong>免费少林替代：</strong>登封塔沟武校周末对外开放——你能看到三万名学员同时训练，场面比少林寺本身还壮观。</p>"
+  }
+}

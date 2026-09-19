@@ -1,0 +1,375 @@
+{
+  "id": "chengdu",
+  "name": {
+    "en": "成都",
+    "zh": "成都"
+  },
+  "province": {
+    "en": "Sichuan Province",
+    "zh": "四川省"
+  },
+  "intro": {
+    "en": "Where ancient tea houses meet spicy street food, and giant pandas roam in misty bamboo forests. Chengdu is the ultimate escape into China's most laid-back yet vibrant soul.",
+    "zh": "盖碗茶香交织着市井烟火，滚滚国宝隐于翠竹迷雾。成都，是逃离喧嚣、沉浸于中国最安逸灵魂的终极归处。"
+  },
+  "hero_img": "img/chengdu.jpg",
+  "hero_fb": "linear-gradient(135deg, #2C5F2D 0%, #97BC62 40%, #D4E157 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Chengdu Research Base of Giant Panda Breeding",
+        "zh": "成都大熊猫繁育研究基地"
+      },
+      "img": "img/chengdu-1.jpg",
+      "desc": {
+        "en": "Home to over 200 giant pandas and red pandas, this sprawling sanctuary nestled in the lush greenery of the northern suburbs offers an intimate glimpse into the lives of China's most beloved national treasures. Watch clumsy cubs tumble in the nurseries and adults lazily munch on bamboo.",
+        "zh": "这座占地广阔的保护区隐于北郊的苍翠之中，栖息着两百余只大熊猫与小熊猫。在这里，您可以近距离观察这些国宝的憨态可掬：幼崽在育幼室蹒跚学步，成年熊猫则悠然自得地咀嚼着翠竹。"
+      },
+      "highlight": {
+        "en": "The only place in the world to see giant panda cubs tumbling in the nursery.",
+        "zh": "全球唯一能近距离观赏大熊猫幼崽在育幼室嬉戏的圣地。"
+      },
+      "hours": {
+        "en": "07:30 - 18:00 (Last entry 17:00)",
+        "zh": "07:30 - 18:00 (17:00 停止入园)"
+      },
+      "ticket": {
+        "en": "55 CNY (Peak season), 54 CNY (Off-season)",
+        "zh": "55元 (旺季), 54元 (淡季)"
+      },
+      "tips": {
+        "en": "1. Arrive by 7:30 AM to beat the crowds and see pandas eating breakfast. 2. Take the shuttle car directly to the furthest point (Moon Lake) and walk back down.",
+        "zh": "1. 务必在7:30开园时抵达，避开人潮并观看熊猫进食早餐。2. 乘坐观光车直达最远的月亮湖，然后一路步行下山游览。"
+      },
+      "location": {
+        "en": "1375 Xiongmao Ave, Chenghua District",
+        "zh": "成华区熊猫大道1375号"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Nature · Wildlife · Family",
+        "zh": "自然生态 · 野生动物 · 亲子"
+      }
+    },
+    {
+      "name": {
+        "en": "Wuhou Shrine",
+        "zh": "武侯祠"
+      },
+      "img": "img/chengdu-2.jpg",
+      "desc": {
+        "en": "A serene temple dedicated to Zhuge Liang and Liu Bei, the legendary heroes of the Three Kingdoms period. The shrine is a masterpiece of classical Chinese architecture, surrounded by ancient cypress trees, red-wall corridors, and the famous Red Cliff Stele Pavilion.",
+        "zh": "这座静谧的祠堂是为纪念三国时期传奇英雄诸葛亮与刘备而建。红墙竹影、古柏参天，经典的中式建筑与著名的“红墙夹道”交相辉映，诉说着那段波澜壮阔的历史。"
+      },
+      "highlight": {
+        "en": "Walk through the iconic crimson red-wall alleyway lined with swaying bamboo.",
+        "zh": "漫步于经典的红墙夹道，感受翠竹摇曳与朱红高墙的光影交错。"
+      },
+      "hours": {
+        "en": "08:00 - 18:00 (May-Oct), 08:00 - 18:30 (Nov-Apr)",
+        "zh": "08:00 - 18:00 (5-10月), 08:00 - 18:30 (11-4月)"
+      },
+      "ticket": {
+        "en": "50 CNY",
+        "zh": "50元"
+      },
+      "tips": {
+        "en": "1. Visit the adjacent Jinli Street right after for a quick stroll, but don't eat the overpriced snacks there. 2. Rent an audio guide to understand the complex Three Kingdoms history.",
+        "zh": "1. 参观后可顺道游览相邻的锦里古街，但建议不要在锦里购买昂贵的特色小吃。2. 建议租用语音导览，以便深入了解三国历史文化。"
+      },
+      "location": {
+        "en": "231 Wuhouci Main St, Wuhou District",
+        "zh": "武侯区武侯祠大街231号"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "History · Architecture · Culture",
+        "zh": "历史古迹 · 传统建筑 · 三国文化"
+      }
+    },
+    {
+      "name": {
+        "en": "Du Fu Thatched Cottage",
+        "zh": "杜甫草堂"
+      },
+      "img": "img/chengdu-3.jpg",
+      "desc": {
+        "en": "The former residence of China's greatest realist poet, Du Fu, from the Tang Dynasty. This tranquil garden estate features classical pavilions, lotus ponds, and ancient plum trees, offering a poetic retreat from the bustling city.",
+        "zh": "这里是中国唐代伟大现实主义诗人杜甫的故居。园内茅屋错落、水榭亭台、梅花古木，清幽雅致，是喧嚣都市中一处充满诗情画意的文化净土。"
+      },
+      "highlight": {
+        "en": "Experience the profound poetic atmosphere of a Tang Dynasty scholar's garden.",
+        "zh": "沉浸于唐代文人园林的清幽意境，感受跨越千年的诗意与风骨。"
+      },
+      "hours": {
+        "en": "08:00 - 18:00",
+        "zh": "08:00 - 18:00"
+      },
+      "ticket": {
+        "en": "50 CNY",
+        "zh": "50元"
+      },
+      "tips": {
+        "en": "1. Visit the Bonsai Garden and the Plum Garden if you are there in early spring. 2. Grab a cup of tea at the traditional teahouse inside the park.",
+        "zh": "1. 若逢早春，千万别错过盆景园与梅园的梅花盛景。2. 游览途中，不妨在园内的传统茶馆点一杯盖碗茶歇息。"
+      },
+      "location": {
+        "en": "37 Qinghua Rd, Qingyang District",
+        "zh": "青羊区青华路37号"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Poetry · Garden · Heritage",
+        "zh": "诗歌文化 · 古典园林 · 历史遗产"
+      }
+    },
+    {
+      "name": {
+        "en": "Dujiangyan Irrigation System",
+        "zh": "都江堰"
+      },
+      "img": "img/chengdu-4.jpg",
+      "desc": {
+        "en": "An ancient engineering marvel built in 256 BC that is still in use today, controlling the Minjiang River without a dam. Surrounded by lush mountains and the sacred Mount Qingcheng, it stands as a testament to ancient Chinese wisdom.",
+        "zh": "始建于公元前256年的古代水利奇迹，历经两千余年仍在使用，无坝引水，造福天府之国。背靠道教名山青城山，它是古人顺应自然、道法合一的智慧结晶。"
+      },
+      "highlight": {
+        "en": "Witness a 2,200-year-old engineering marvel that still feeds the fertile Chengdu Plain.",
+        "zh": "见证一项历经2200年岁月沧桑、至今仍滋养着成都平原的古代水利奇迹。"
+      },
+      "hours": {
+        "en": "08:00 - 17:30",
+        "zh": "08:00 - 17:30"
+      },
+      "ticket": {
+        "en": "80 CNY",
+        "zh": "80元"
+      },
+      "tips": {
+        "en": "1. Take the high-speed train from Xipu Station in Chengdu (30 mins). 2. Enter from the Qin Yan Lou gate to walk across the Anlan Suspension Bridge.",
+        "zh": "1. 从成都犀浦站乘坐城际高铁直达，仅需30分钟。2. 建议从秦堰楼入口进园，可俯瞰全景并走过安澜索桥。"
+      },
+      "location": {
+        "en": "Dujiangyan City, Chengdu (60km NW of downtown)",
+        "zh": "成都市都江堰市公园路 (距市中心西北60公里)"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "Engineering · UNESCO · Nature",
+        "zh": "古代工程 · 世界遗产 · 自然山水"
+      }
+    },
+    {
+      "name": {
+        "en": "People's Park",
+        "zh": "人民公园"
+      },
+      "img": "img/chengdu-5.jpg",
+      "desc": {
+        "en": "The beating heart of Chengdu's laid-back lifestyle. Here, locals gather to drink tea, get their ears cleaned, play Mahjong, and dance. The Heming Teahouse is the epicenter of this vibrant, unpretentious slice of local life.",
+        "zh": "成都慢生活的灵魂所在。本地人在这里喝盖碗茶、体验采耳、搓麻将、跳广场舞。鹤鸣茶社更是这充满市井烟火气与安逸生活哲学的核心地标。"
+      },
+      "highlight": {
+        "en": "Sip jasmine tea in a bamboo chair while watching locals master the art of 'doing nothing'.",
+        "zh": "坐在竹椅上品一口茉莉花茶，看本地人将“无所事事”的安逸哲学发挥到极致。"
+      },
+      "hours": {
+        "en": "Open 24 hours (Teahouse 06:00 - 21:00)",
+        "zh": "全天开放 (鹤鸣茶社 06:00 - 21:00)"
+      },
+      "ticket": {
+        "en": "Free (Tea 20-50 CNY)",
+        "zh": "免费入园 (茶水 20-50元)"
+      },
+      "tips": {
+        "en": "1. Try the unique 'ear cleaning' service (Cai Er) for about 50 CNY. 2. Go on a Sunday morning to witness the local matchmaking corner.",
+        "zh": "1. 体验成都特色的“采耳”服务，价格约50元。2. 周日早晨前往，可围观热闹的“相亲角”。"
+      },
+      "location": {
+        "en": "129 Shaocheng Ave, Qingyang District",
+        "zh": "青羊区少城路129号"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Local Life · Teahouse · Relaxing",
+        "zh": "市井生活 · 传统茶社 · 休闲放松"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Sichuan Hotpot",
+        "zh": "四川火锅"
+      },
+      "img": "img/chengdu-food-1.jpg",
+      "desc": {
+        "en": "A bubbling cauldron of spicy, numbing beef tallow broth infused with Sichuan peppercorns. Ingredients like tripe, duck blood, and lotus root are swished and cooked at the table, creating a fiery, communal feast.",
+        "zh": "翻滚的红油锅底交织着牛油的醇厚与花椒的麻香。毛肚、鸭血、藕片在席间涮煮，这是一场热烈、酣畅的市井社交盛宴。"
+      },
+      "where": {
+        "en": "Xiaolongkan Hotpot (for authentic local vibes) or Shoo Loong Kan (for premium service).",
+        "zh": "小龙坎火锅 (地道市井气息) 或 蜀大侠火锅 (环境与服务俱佳)。"
+      },
+      "price": {
+        "en": "100 - 150 CNY per person",
+        "zh": "人均 100 - 150 元"
+      },
+      "must_try": {
+        "en": "Order 'Wei La' (mild spicy) if you can't handle heat. Must-dip: crispy tripe (Mao Du) for exactly 15 seconds.",
+        "zh": "不能吃辣请务必点“微辣”。必点“屠场鲜毛肚”，遵循“七上八下”涮15秒，口感最脆嫩。"
+      }
+    },
+    {
+      "name": {
+        "en": "Chuanchuan Xiang",
+        "zh": "串串香"
+      },
+      "img": "img/chengdu-food-1.jpg",
+      "desc": {
+        "en": "The street-food sibling of hotpot. Skewers of meat, vegetables, and tofu are cooked in a spicy broth. You grab a handful of sticks from the fridge, boil them, and pay by the weight of the bamboo sticks.",
+        "zh": "火锅的市井“平替”版。将肉串、蔬菜、豆制品在红油锅底中涮煮，食客从冰柜自选大把竹签，吃完按签子重量计费，随性又过瘾。"
+      },
+      "where": {
+        "en": "Yulin Chuanchuan or Ganggang Hushi.",
+        "zh": "玉林串串香 或 钢管厂五区小郡肝串串香。"
+      },
+      "price": {
+        "en": "60 - 90 CNY per person",
+        "zh": "人均 60 - 90 元"
+      },
+      "must_try": {
+        "en": "Look for the small quail egg skewers and marinated beef. Pair it with a cold 'Ice Powder' (Bing Fen) to cool your palate.",
+        "zh": "必拿小郡肝和麻辣牛肉。吃完务必配一碗冰凉解辣的红糖冰粉。"
+      }
+    },
+    {
+      "name": {
+        "en": "Dan Dan Noodles",
+        "zh": "担担面"
+      },
+      "img": "img/chengdu-food-1.jpg",
+      "desc": {
+        "en": "A legendary street snack carried by shoulder poles in the past. Thin noodles are smothered in a rich, spicy sauce made with preserved mustard greens, chili oil, and crushed peanuts.",
+        "zh": "昔日挑夫肩挑扁担走街串巷的经典小吃。细面裹满由芽菜、红油、芝麻酱与碎花生调制的浓郁酱汁，咸鲜微辣，回味悠长。"
+      },
+      "where": {
+        "en": "Chen Mapo Tofu (surprisingly good noodles) or any local hole-in-the-wall in Yulin.",
+        "zh": "陈麻婆豆腐 (面食同样出色) 或 玉林路周边的任何一家苍蝇馆子。"
+      },
+      "price": {
+        "en": "15 - 25 CNY per bowl",
+        "zh": "15 - 25 元 / 碗"
+      },
+      "must_try": {
+        "en": "Mix it vigorously before eating to coat every strand. Add a dash of black vinegar for an extra kick.",
+        "zh": "吃前务必充分拌匀，让每一根面条裹满酱汁。滴入少许保宁醋，风味更佳。"
+      }
+    },
+    {
+      "name": {
+        "en": "Mapo Tofu",
+        "zh": "麻婆豆腐"
+      },
+      "img": "img/chengdu-food-1.jpg",
+      "desc": {
+        "en": "The ultimate test of Sichuan cuisine's 'Ma' (numbing) and 'La' (spicy). Silky tofu cubes simmered in a fiery broad bean paste sauce with minced beef, topped with a tingle-inducing dust of Sichuan peppercorn.",
+        "zh": "川菜“麻”与“辣”的终极考验。嫩滑的豆腐在郫县豆瓣与牛肉末熬制的红油中翻滚，出锅撒上灵魂花椒面，麻、辣、烫、香、酥、嫩、鲜、活，八字箴言尽显。"
+      },
+      "where": {
+        "en": "Chen Mapo Tofu Restaurant (the original birthplace since 1862).",
+        "zh": "陈麻婆豆腐总店 (始于1862年的百年老字号发源地)。"
+      },
+      "price": {
+        "en": "30 - 50 CNY per dish",
+        "zh": "30 - 50 元 / 份"
+      },
+      "must_try": {
+        "en": "Order it with a bowl of plain white rice. The sauce is meant to be spooned over the rice.",
+        "zh": "必须配上一大碗白米饭。将浓郁的红油豆腐连同汤汁浇在米饭上，是唯一的正确吃法。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Chengdu Teahouse Culture",
+        "zh": "成都茶馆文化"
+      },
+      "img": "img/chengdu-culture-1.jpg",
+      "desc": {
+        "en": "More than just drinking tea, it's a social institution. The 'Gaiwan' (lidded bowl) represents heaven, earth, and man. Locals spend hours here gossiping, playing cards, and embracing the philosophy of 'Bashi' (comfortable).",
+        "zh": "茶馆不仅是饮茶之所，更是成都人的社交殿堂。一套“盖碗”暗含天、地、人三才之理。人们在此摆龙门阵、打牌，将“巴适”的生活哲学演绎得淋漓尽致。"
+      },
+      "significance": {
+        "en": "It embodies the Chengdu ethos of slowing down and finding joy in the mundane.",
+        "zh": "它完美诠释了成都人“慢下来”、在平凡市井中寻找生活意趣的城市精神。"
+      },
+      "best_time": {
+        "en": "Any afternoon, especially on a sunny weekend.",
+        "zh": "任何晴朗的午后，尤其是周末。"
+      },
+      "experience": {
+        "en": "Book a bamboo chair at Heming Teahouse, order a jasmine tea, and watch the tea masters perform the traditional water-pouring art.",
+        "zh": "在鹤鸣茶社占一把竹椅，点一盏茉莉花茶，欣赏茶艺师行云流水的“长嘴壶”掺茶绝技。"
+      }
+    },
+    {
+      "name": {
+        "en": "Sichuan Opera Face-Changing",
+        "zh": "川剧变脸"
+      },
+      "img": "img/chengdu-culture-1.jpg",
+      "desc": {
+        "en": "A mesmerizing theatrical art where performers magically swap colorful, painted masks in the blink of an eye, representing different emotions and characters. It's often accompanied by fire-breathing and shadow puppetry.",
+        "zh": "一门令人叹为观止的戏曲绝活。演员在瞬息之间变换色彩斑斓的脸谱，隐喻角色内心情绪的剧烈起伏，常伴随吐火、滚灯等绝技，极具视觉冲击力。"
+      },
+      "significance": {
+        "en": "A unique intangible cultural heritage that reveals the dramatic flair of Sichuan's local culture.",
+        "zh": "独特的非物质文化遗产，彰显了蜀地文化中极具浪漫色彩与戏剧张力的艺术基因。"
+      },
+      "best_time": {
+        "en": "Evening performances at Shufeng Yayun or Jinli Theater.",
+        "zh": "晚间前往蜀风雅韵或锦里剧场观看专场演出。"
+      },
+      "experience": {
+        "en": "Buy a front-row ticket at Shufeng Yayun, enjoy the complimentary tea, and watch the masters perform just inches from your face.",
+        "zh": "在蜀风雅韵购买前排座席，品着免费盖碗茶，近距离感受变脸大师在咫尺间拂袖换脸的震撼。"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Subtropical monsoon climate. Summers are hot, humid, and muggy (often over 30°C/86°F). Winters are damp, chilly, and lack central heating. Spring and Autumn are the most pleasant, though rain is frequent year-round.",
+      "zh": "亚热带季风气候。夏季闷热潮湿，气温常超30℃；冬季阴冷潮湿，无集中供暖。春秋两季最为舒适，但全年多云雾，降水频繁。"
+    },
+    "days": {
+      "en": "4-5 Days. (2 days for city highlights, 1 day for Dujiangyan/Qingchengshan, 1 day for food exploration).",
+      "zh": "4-5天。(2天市区精华，1天都江堰/青城山，1天深度寻味市井)。"
+    },
+    "transit": {
+      "en": "Excellent Metro system covers most attractions. Use Alipay/WeChat to scan QR codes for entry. DiDi (ride-hailing) is cheap and convenient.",
+      "zh": "地铁网络发达，覆盖绝大多数景点。可使用支付宝/微信乘车码扫码进站。滴滴打车价格亲民，出行极为便利。"
+    },
+    "intercity": {
+      "en": "Tianfu (TFU) and Shuangliu (CTU) airports serve global/domestic flights. Chengdu East Station is a major high-speed rail hub (e.g., 4 hrs to Xi'an, 8 hrs to Beijing).",
+      "zh": "拥有天府 (TFU) 与双流 (CTU) 双国际机场。成都东站为高铁枢纽，至西安仅需4小时，至北京约8小时。"
+    },
+    "tips": {
+      "en": "Download offline maps. Bring an umbrella regardless of the season. Learn to say 'Bu Yao La' (No spice) if your stomach can't handle Sichuan heat.",
+      "zh": "建议下载离线地图。无论什么季节出门都请备好雨伞。若肠胃无法承受川菜的刺激，请学会说“不要辣”。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Visa:</strong> Chengdu offers a 144-hour visa-free transit for citizens of 53 countries. <strong>Payment:</strong> Cash is rarely used; link your foreign credit card to Alipay or WeChat Pay before arrival. <strong>SIM Card:</strong> Buy a tourist SIM at the airport or use an eSIM like Airalo for data. <strong>Language:</strong> English is limited outside major hotels; download a translation app.</p>",
+    "zh": "<p><strong>签证：</strong>成都对53国公民实行144小时过境免签政策。<strong>支付：</strong>现金使用率极低，请务必在抵达前将境外信用卡绑定至支付宝或微信支付。<strong>网络：</strong>建议提前购买eSIM或在机场办理旅游SIM卡。<strong>语言：</strong>离开星级酒店后英语普及率不高，建议备好翻译软件。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>The Panda Base Reality:</strong> If you arrive after 9:00 AM, you will see pandas sleeping in hidden enclosures and fight through shoulder-to-shoulder crowds. You must arrive at 7:30 AM sharp to see them eating. It is a zoo, not a wilderness sanctuary.</p><p><strong>Tourist Traps:</strong> Kuanzhai Alley (Wide and Narrow Alleys) and Jinli Street are beautifully lit at night but are essentially overpriced food courts selling identical, mediocre snacks to tourists. Skip the snacks there; eat in the residential alleys instead.</p><p><strong>The Spice Warning:</strong> 'Mild' (Wei La) in Chengdu is 'Extremely Hot' everywhere else. Do not trust the spice levels. If you have a sensitive stomach, buy medicine at a local pharmacy beforehand, because the chili oil will find you.</p>",
+    "zh": "<p><strong>熊猫基地的真相：</strong>如果您在上午9点后到达，只能看到躲在隐蔽处睡觉的熊猫，并与人山人海搏斗。请务必在7:30准时入园看它们吃早餐。这里本质上是动物园，而非野生自然保护区。</p><p><strong>避坑指南：</strong>宽窄巷子和锦里夜景虽美，但本质上是向游客兜售千篇一律且昂贵小吃的“美食街”。千万别在那儿吃正餐，去居民区的小巷子里找“苍蝇馆子”。</p><p><strong>关于吃辣的警告：</strong>成都的“微辣”等于外地的“重辣”。绝对不要相信这里的辣度分级。如果您的肠胃敏感，请提前在药店备好肠胃药，因为红油迟早会给您教训。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Yulin Neighborhood:</strong> Skip the commercialized bars of Jiuyanqiao. Head to the Yulin neighborhood (made famous by a local folk song) for authentic hole-in-the-wall BBQ, local craft beer, and genuine Chengdu indie music vibes.</p><p><strong>The South Gate Secret:</strong> For the Panda Base, most tourists enter the South Gate. If you want a quieter experience with the red pandas, try the newer expansion areas or visit the Dujiangyan Panda Base, which is less crowded and equally fascinating.</p><p><strong>Hidden Teahouse:</strong> Instead of the crowded People's Park, take a taxi to Wenshu Monastery. The teahouse in the courtyard is surrounded by ancient trees and incense smoke, offering a profoundly spiritual and quiet tea experience for just 15 CNY.</p>",
+    "zh": "<p><strong>玉林路社区：</strong>避开九眼桥商业化的酒吧街。前往玉林小区（因赵雷的民谣闻名），那里隐藏着最地道的烧烤摊、精酿啤酒馆和成都独立音乐的灵魂。</p><p><strong>小熊猫秘境：</strong>大熊猫基地通常人满为患。若想避开人潮近距离看小熊猫，可前往都江堰熊猫谷，或者在市区基地直奔最偏远的“亚成年大熊猫别墅”区域。</p><p><strong>隐秘茶馆：</strong>与其在人民公园人挤人，不如打车去文殊院。寺院庭院里的茶馆被古树与香火环绕，仅需15元，就能在禅意中享受一份难得的清幽与市井交融。</p>"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "xian",
+  "name": {
+    "en": "Xi'an",
+    "zh": "西安"
+  },
+  "province": {
+    "en": "Shaanxi Province",
+    "zh": "陕西省"
+  },
+  "intro": {
+    "en": "The ancient starting point of the Silk Road, home to the Terracotta Warriors and a Muslim Quarter that has been sizzling for over 1,000 years.",
+    "zh": "丝绸之路的东方起点，兵马俑的故乡。回民街的烟火气已经飘了上千年。"
+  },
+  "hero_img": "img/xian.jpg",
+  "hero_fb": "linear-gradient(135deg, #6D4C41 0%, #A1887F 40%, #D7CCC8 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Terracotta Warriors",
+        "zh": "秦始皇兵马俑"
+      },
+      "img": "img/xian.jpg",
+      "desc": {
+        "en": "8,000 life-sized soldiers, each with a unique face, guarding China's first emperor for 2,200 years. The scale is staggering.",
+        "zh": "8000尊真人大小陶俑，千人千面，守护秦始皇2200年。规模震撼到失语。"
+      },
+      "highlight": {
+        "en": "Pit 1 — the main excavation hall",
+        "zh": "一号坑——主展厅"
+      },
+      "hours": {
+        "en": "8:30 AM – 5:00 PM",
+        "zh": "8:30 – 17:00"
+      },
+      "ticket": {
+        "en": "¥120",
+        "zh": "¥120"
+      },
+      "tips": {
+        "en": "Go to Pit 3 first, then Pit 2, then Pit 1. The reverse order avoids the tour group crush.",
+        "zh": "先看三号坑→二号坑→一号坑，反向走避开旅行团。"
+      },
+      "location": {
+        "en": "Lintong District, 35km east of Xi'an",
+        "zh": "临潼区，西安以东35公里"
+      },
+      "rating": "4.9",
+      "tags": {
+        "en": "UNESCO · Iconic · Day Trip",
+        "zh": "世界遗产 · 地标 · 一日游"
+      }
+    },
+    {
+      "name": {
+        "en": "Ancient City Wall",
+        "zh": "西安古城墙"
+      },
+      "img": "img/xian.jpg",
+      "desc": {
+        "en": "China's best-preserved city wall — 14km of Ming Dynasty fortifications. Rent a bike and cycle the entire perimeter at sunset.",
+        "zh": "中国保存最完好的古城墙——明代14公里防御工事。租辆自行车，日落时分骑行一整圈。"
+      },
+      "highlight": {
+        "en": "Sunset bike ride along the wall",
+        "zh": "日落城墙骑行"
+      },
+      "hours": {
+        "en": "8:00 AM – 10:00 PM",
+        "zh": "8:00 – 22:00"
+      },
+      "ticket": {
+        "en": "¥54, bike rental ¥45",
+        "zh": "¥54，自行车租赁¥45"
+      },
+      "tips": {
+        "en": "South Gate (Yongning) has the best bike rental and the most dramatic entrance.",
+        "zh": "南门（永宁门）租车最佳，入口也最壮观。"
+      },
+      "location": {
+        "en": "City center, surrounding the old town",
+        "zh": "市中心，环绕老城"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Cycling · Sunset · Architecture",
+        "zh": "骑行 · 日落 · 建筑"
+      }
+    },
+    {
+      "name": {
+        "en": "Muslim Quarter",
+        "zh": "回民街"
+      },
+      "img": "img/xian.jpg",
+      "desc": {
+        "en": "A maze of food stalls, spice markets, and the Great Mosque — a serene oasis hidden in the chaos. Come hungry.",
+        "zh": "美食摊、香料铺、大清真寺组成的美食迷宫——混乱中藏着宁静。空腹来。"
+      },
+      "highlight": {
+        "en": "Yangrou Paomo (lamb soup with bread)",
+        "zh": "羊肉泡馍"
+      },
+      "hours": {
+        "en": "All day, best from 5 PM",
+        "zh": "全天，下午5点后最佳"
+      },
+      "ticket": {
+        "en": "Free (street), ¥25 (Great Mosque)",
+        "zh": "免费（街区），清真寺¥25"
+      },
+      "tips": {
+        "en": "The Great Mosque is one of China's oldest — built in 742 AD. Don't miss the inner courtyards.",
+        "zh": "大清真寺始建于742年——别错过内院。"
+      },
+      "location": {
+        "en": "Lianhu District, behind the Drum Tower",
+        "zh": "莲湖区，鼓楼背后"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "Food · Market · Evening",
+        "zh": "美食 · 市场 · 夜晚"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Yangrou Paomo",
+        "zh": "羊肉泡馍"
+      },
+      "img": "img/xian.jpg",
+      "desc": {
+        "en": "Tear flatbread into tiny pieces, then the chef ladles rich lamb broth over it. Hearty, warming, and deeply satisfying.",
+        "zh": "手工把饼掰成小块，厨师浇上滚烫羊肉汤。扎实、暖胃、满足感爆棚。"
+      },
+      "where": {
+        "en": "Muslim Quarter eateries and local lamb restaurants",
+        "zh": "回民街及本地羊肉馆均有"
+      },
+      "price": {
+        "en": "¥30–60 per person",
+        "zh": "人均¥30–60"
+      },
+      "must_try": {
+        "en": "The smaller you tear the bread, the better the texture.",
+        "zh": "饼掰得越小，口感越好。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Tang Dynasty Music & Dance",
+        "zh": "唐乐舞"
+      },
+      "img": "img/xian.jpg",
+      "desc": {
+        "en": "A spectacular dinner show recreating Tang Dynasty court music and dance — silk robes, ancient instruments, and a lavish dumpling banquet.",
+        "zh": "复原唐代宫廷乐舞的华丽晚宴秀——丝绸长袍、古乐器、配上饺子盛宴。"
+      },
+      "significance": {
+        "en": "Xi'an was the capital of 13 dynasties, including the Tang (618–907) — China's golden age.",
+        "zh": "西安是十三朝古都，盛唐（618-907）是中国历史上的黄金时代。"
+      },
+      "best_time": {
+        "en": "Evening shows, daily",
+        "zh": "每晚演出"
+      },
+      "experience": {
+        "en": "Tang Dynasty Palace or Shaanxi Grand Opera House",
+        "zh": "唐乐宫或陕西歌舞大剧院"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Apr–May) & Autumn (Sep–Oct). Summers are hot; winters are cold but less crowded.",
+      "zh": "春秋最佳（4-5月、9-10月）。夏季炎热，冬季寒冷但游客少。"
+    },
+    "days": {
+      "en": "3–4 days",
+      "zh": "3–4天"
+    },
+    "transit": {
+      "en": "Metro lines 1–4 cover main sites. Bus 306 (Tourist 5) goes directly to Terracotta Warriors from the train station.",
+      "zh": "地铁1-4号线覆盖主要景点。游5路（306路）从火车站直达兵马俑。"
+    },
+    "intercity": {
+      "en": "Xi'an Xianyang Airport (XIY). High-speed rail: 2.5h to Beijing, 3h to Chengdu.",
+      "zh": "西安咸阳机场(XIY)。高铁：2.5小时到北京，3小时到成都。"
+    },
+    "tips": {
+      "en": "The Terracotta Warriors are 35km from the city — plan a half day. The Muslim Quarter is best explored on foot with an empty stomach. Try the persimmon cakes (shizi bing).",
+      "zh": "兵马俑距市区35公里——留半天时间。回民街最适合空腹步行探索。尝尝柿子饼。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting to the Warriors:</strong> Take bus 306 (游5) from Xi'an Railway Station — it goes directly to the Terracotta Warriors. ¥7, 1 hour. Taxis cost ¥120–150. Don't buy \"jade\" or \"tea\" along the way — classic scam. Official guides inside the museum cost ¥200 for a 2-hour tour (worth it).</p><p><strong>Muslim Quarter navigation:</strong> The main street (Beiyuanmen) is overwhelmingly crowded at night. Duck into the side alleys — the real food is there. Everything is halal (no pork). Learn \"不要辣\" (bú yào là) if you can't handle spice.</p><p><strong>City Wall biking:</strong> Rent a bike at the South Gate (Yongning). The full loop is 14km and takes 1.5-2 hours at a relaxed pace. Go 2 hours before sunset — you'll see the city transition from day to night from the wall. The bike rental costs ¥45, with a ¥200 deposit.</p><p><strong>Language:</strong> Xi'an is less international than Beijing/Shanghai. English is limited. Pointing and smiling works. Download Pleco before you arrive.</p>",
+    "zh": "<p><strong>去兵马俑：</strong>西安火车站坐306路（游5）直达兵马俑，¥7，1小时。打车¥120–150。沿途不要买\"玉石\"或\"茶叶\"——经典骗局。博物馆内官方导游¥200/2小时（值得请）。</p><p><strong>回民街逛法：</strong>主街（北院门）晚上人挤人。钻到小巷子里——真正好吃的都在那里。所有食物都是清真（没有猪肉）。吃不了辣就说\"不要辣\"。</p><p><strong>城墙骑行：</strong>南门（永宁门）租自行车。完整一圈14公里，放松骑1.5-2小时。日落前两小时上去——在城墙上看着城市从白天过渡到夜晚。租车¥45，押金¥200。</p><p><strong>语言：</strong>西安没有北京上海那么国际化，英语不普及。指指点点加微笑就行。出发前下载Pleco。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>The Warriors are far from the city.</strong> It takes 1.5 hours each way minimum. The museum itself is 3 pits and a gift shop — don't expect a full-day experience. Many tourists are disappointed by the \"you've seen it in 45 minutes\" factor. Go anyway — it's still one of the world's greatest archaeological sites.</p><p><strong>You cannot take photos WITH the warriors.</strong> Selfies are allowed, but no touching, no getting close, no flash photography. Security guards will whistle at you. Do not walk off the designated walkways — the floor contains actual archaeology.</p><p><strong>Muslim Quarter is a tourist trap.</strong> The food is overpriced on the main strip. Go to the side alleys — specifically Dapiyuan (大皮院) and Xiyangshi (西羊市) — where locals eat. Lamb skewers should cost ¥3-5, not ¥10. Yangrou paomo (bread in lamb soup) is worth the hype — find a busy shop, not a pretty one.</p>",
+    "zh": "<p><strong>兵马俑离市区很远。</strong>单程至少1.5小时。博物馆就是三个坑和一个纪念品店——别指望能逛一天。很多游客觉得\"45分钟就看完了\"有点失望。但还是值得去——世界最伟大的考古遗址之一。</p><p><strong>不能和兵马俑合影。</strong>可以自拍，但不能触摸、不能靠近、不能用闪光灯。保安会吹哨。不要走出指定步道——地下有真正的考古层。</p><p><strong>回民街是游客一条街。</strong>主街上东西贵。去侧巷——大皮院和西羊市——本地人在那里吃。羊肉串应该¥3-5，不是¥10。羊肉泡馍值得一试——找人多的小店，不是漂亮的店。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>City Wall at sunset, by bike.</strong> This is Xi'an's single best experience. Rent a bike at 5 PM, start from the South Gate, and ride counterclockwise. As the sun sets behind the wall's watchtowers, the city lights begin to flicker on below you. You can't do this in most Chinese cities — Xi'an's wall is uniquely open for night cycling.</p><p><strong>The Forest of Steles (Beilin).</strong> A museum housing 3,000 stone tablets from the Han through Qing Dynasties. It's Xi'an's most underrated attraction — silent, contemplative, and tells China's story in stone. The calligraphy on display spans 2,000 years. Most tourists skip it. Don't.</p><p><strong>Muslim Quarter back alleys after midnight.</strong> The main street closes down around 11 PM, but the side alleys come alive with a different crowd — locals, night-shift workers, and the best lamb soup of your life. Try the lamb offal soup (羊杂汤) at a stall that's been operating for 30 years.</p>",
+    "zh": "<p><strong>日落城墙骑行。</strong>这是西安最棒的体验。下午5点租车，从南门出发，逆时针骑。夕阳在城楼背后落下，城市灯光在你脚下亮起。中国大多数城市的城墙不能骑车——西安的城墙是唯一开放夜骑的。</p><p><strong>碑林。</strong>收藏了3000块从汉到清的石碑。西安最被低估的景点——安静、引人深思、用石头讲述中国故事。展出的书法跨越2000年。多数游客跳过这里。别跳。</p><p><strong>午夜回民街侧巷。</strong>主街11点收摊，但侧巷换了一群人——本地人、夜班工人、还有你吃过最好吃的羊肉汤。找一家开了30年的摊子，试试羊杂汤。</p>"
+  }
+}

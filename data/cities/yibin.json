@@ -1,0 +1,329 @@
+{
+  "id": "yibin",
+  "name": {
+    "en": "Yibin",
+    "zh": "宜宾"
+  },
+  "province": {
+    "en": "Sichuan Province",
+    "zh": "四川省"
+  },
+  "intro": {
+    "en": "Where the Jinsha and Min rivers embrace to birth the Yangtze — this is China's 'First City on the Yangtze.' Yibin is a 2,200-year-old treasure hiding in plain sight: a thousand-year wine culture, a vast bamboo sea, and some of Sichuan's most legendary street food.",
+    "zh": "金沙江与岷江在此相拥，长江从此诞生——这就是'万里长江第一城'宜宾。一座2200多年的宝藏城市，藏着千年酒香、万亩竹海和川南最地道的美食江湖。"
+  },
+  "hero_img": "img/yibin-1.jpg",
+  "hero_fb": "linear-gradient(135deg, #33691E 0%, #558B2F 40%, #AED581 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Hejiang Gate — Where Three Rivers Become the Yangtze",
+        "zh": "合江门 — 三江汇流·长江起点"
+      },
+      "img": "img/yibin-2.jpg",
+      "desc": {
+        "en": "Stand at Hejiang Gate and witness the birth of the Yangtze River: the murky golden Jinsha River meets the clear green Min River, flowing side by side in a striking yin-yang before merging into the mighty Yangtze. This is where the longest river in Asia truly begins. Watch boats drift by, listen to the river's roar, and imagine 2,200 years of history — from ancient Bo people to Tang Dynasty poets — all passing through this very confluence.",
+        "zh": "站在合江门，亲眼见证长江的诞生——金沙江的金黄与岷江的碧绿在此相拥，泾渭分明如太极图，从此才有了真正的'长江'。看船只往来，听江水滔滔，仿佛能听见2000多年前僰人劳作的号子，看见杜甫、黄庭坚在此饮酒赋诗的身影。亚洲最长河流的起点，就在这里。"
+      },
+      "highlight": {
+        "en": "Watch the two-tone rivers merge — nature's most dramatic confluence",
+        "zh": "看两江交汇一清一浊的奇观——大自然的太极图"
+      },
+      "hours": {
+        "en": "Open all day; best at sunrise or sunset",
+        "zh": "全天开放；日出和日落时最佳"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Go at sunset for the most dramatic light on the water. The riverfront promenade is free and gives the best view of the confluence.",
+        "zh": "日落时去，光线打在江面上最震撼。江边步道完全免费，是看两江交汇的最佳位置。"
+      },
+      "location": {
+        "en": "Downtown Yibin, at the confluence of Jinsha and Min rivers",
+        "zh": "宜宾市区，金沙江与岷江交汇处"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "Landmark · Free · Sunset",
+        "zh": "地标 · 免费 · 日落"
+      }
+    },
+    {
+      "name": {
+        "en": "Shunan Bamboo Sea (Shunan Zhuhai)",
+        "zh": "蜀南竹海"
+      },
+      "img": "img/yibin-5.jpg",
+      "desc": {
+        "en": "A real-life Emerald City — 120 square kilometers of rolling bamboo forest with over 70,000 mu of green as far as the eye can see. This is where scenes from 'Crouching Tiger, Hidden Dragon' were filmed. Walk the Emerald Corridor where sunlight filters through bamboo leaves like golden rain, ride a bamboo raft on the 'Sea Within the Sea,' and climb the Sea-View Tower for a panoramic ocean of green. The air here is so pure you'll want to bottle it. In winter, mist wraps the bamboo in an ethereal haze — perfect for Hanfu photography.",
+        "zh": "现实版的绿野仙踪——120平方公里、7万余亩竹林连绵起伏，一眼望不到边的翠绿。这里是《卧虎藏龙》取景地。走在翡翠长廊，阳光透过竹叶洒下金色光斑；乘竹筏漂在海中海，两岸竹林倒映水中；登观海楼俯瞰万亩竹海。空气清新得想打包带回家。冬天云雾缭绕，穿上汉服拍照氛围感拉满。"
+      },
+      "highlight": {
+        "en": "Emerald Corridor & Bamboo Raft — 'Crouching Tiger' filming location",
+        "zh": "翡翠长廊+竹筏漂流——《卧虎藏龙》取景地"
+      },
+      "hours": {
+        "en": "8:00 AM – 6:00 PM (summer); 8:30 AM – 5:30 PM (winter)",
+        "zh": "8:00–18:00（夏）；8:30–17:30（冬）"
+      },
+      "ticket": {
+        "en": "¥100 (high season), ¥80 (low season)",
+        "zh": "¥100（旺季）/ ¥80（淡季）"
+      },
+      "tips": {
+        "en": "Stay overnight in a bamboo-forest guesthouse for the full experience — falling asleep to wind through bamboo leaves is pure magic. Summer is peak season but also the greenest; winter mist adds mystery. Bring mosquito repellent in summer.",
+        "zh": "住一晚竹林民宿，听着风吹竹叶入睡太舒服了。夏天最绿但也是旺季；冬天云雾缭绕别有韵味。夏天带驱蚊液。"
+      },
+      "location": {
+        "en": "Changning County, ~70km southeast of Yibin downtown",
+        "zh": "长宁县，宜宾市区东南约70公里"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "Nature · AAAA · Photography",
+        "zh": "自然 · 4A · 摄影"
+      }
+    },
+    {
+      "name": {
+        "en": "Lizhuang Ancient Town",
+        "zh": "李庄古镇"
+      },
+      "img": "img/yibin-6.jpg",
+      "desc": {
+        "en": "Perched on the Yangtze riverbank with over 1,470 years of history, Lizhuang is known as the 'First Ancient Town on the Yangtze.' Its Ming-Qing architecture — nine palaces and eighteen temples — earned praise from architect Liang Sicheng for the 'exquisite beam-and-column structure.' During WWII, Lizhuang sent a legendary 16-character telegram welcoming Tongji University and the Academia Sinica, becoming a 'Noah's Ark' of Chinese culture. Liang Sicheng and Lin Huiyin completed key sections of 'A History of Chinese Architecture' here. Today, cobblestone lanes lead to teahouses, wine shops, and the stunning Moon Field scenic area illuminated at night.",
+        "zh": "坐落在长江边，1470多年建置史，'万里长江第一古镇'。明清建筑保存完好，'九宫十八庙'错落有致，旋螺殿被梁思成盛赞'梁柱结构之优，颇足傲于当世之作'。抗战时期，李庄以16字电文接纳同济大学和中央研究院，成为中国文化的'诺亚方舟'。梁思成、林徽因在此完成《中国建筑史》重要部分。如今，青石板路通向茶馆酒馆，晚上的月亮田景区灯光璀璨，摇橹船划过水面，美如画。"
+      },
+      "highlight": {
+        "en": "Moon Field night lights + WWII cultural 'Noah's Ark' history",
+        "zh": "月亮田夜景+抗战文化'诺亚方舟'"
+      },
+      "hours": {
+        "en": "Open all day (scenic spots close around 6 PM); night area until 10 PM",
+        "zh": "全天开放（景点约18:00关闭）；夜景区域至22:00"
+      },
+      "ticket": {
+        "en": "Free entry to the old town (some historic buildings ¥10-30)",
+        "zh": "古镇免费（部分历史建筑¥10-30）"
+      },
+      "tips": {
+        "en": "The old town is free — some interior historic buildings charge a small fee. The Moon Field area transforms after dark with lights reflecting on the canals. Visit Liang Sicheng's former residence for a moving slice of history. Try the famous Lizhuang white pork (白肉) at any riverside restaurant.",
+        "zh": "古镇本身免费——部分历史建筑内部收小额门票。月亮田入夜后灯光亮起超美。梁思成旧居值得一看。在江边随便找家饭店吃李庄白肉都好吃。"
+      },
+      "location": {
+        "en": "Cuiping District, ~20km east of Yibin downtown",
+        "zh": "翠屏区，宜宾市区以东约20公里"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Ancient Town · WWII History · Night View",
+        "zh": "古镇 · 历史 · 夜景"
+      }
+    },
+    {
+      "name": {
+        "en": "Xingwen Stone Sea (Xingwen Shihai)",
+        "zh": "兴文石海"
+      },
+      "img": "img/yibin-7.jpg",
+      "desc": {
+        "en": "A UNESCO Global Geopark that's a masterclass in karst geology — sinkholes, limestone caves, and stone forests all in one place. Tianquan Cave's 'Cascading Jade' waterfall pours from the cave ceiling in a shimmering curtain of light. The Great Funnel sinkhole measures 650 meters across and 208 meters deep — standing at its edge, you feel the raw power of the earth. The park also features Miao ethnic performances with lusheng dance and bamboo pole dancing.",
+        "zh": "世界地质公园，集喀斯特地貌之大成——天坑、溶洞、石林一网打尽。天泉洞的'泻玉流光'太震撼了，水流从洞顶倾泻而下，在灯光照射下像一串串珍珠。'大漏斗'天坑直径650米、深208米，站在坑边感叹大自然的鬼斧神工。景区还有苗族风情表演，芦笙舞、竹竿舞充满民族特色。"
+      },
+      "highlight": {
+        "en": "Giant sinkhole (650m wide!) + 'Cascading Jade' cave waterfall",
+        "zh": "650米巨型天坑+'泻玉流光'溶洞奇观"
+      },
+      "hours": {
+        "en": "8:30 AM – 5:30 PM",
+        "zh": "8:30–17:30"
+      },
+      "ticket": {
+        "en": "¥140 (includes main scenic area + cave tour)",
+        "zh": "¥140（含主景区+溶洞游览）"
+      },
+      "tips": {
+        "en": "It's a UNESCO Geopark — give yourself at least 4-5 hours. The cave interior is cooler — bring a light jacket. The Miao performances are scheduled at set times; check when you arrive. About 1.5 hours by bus from Yibin.",
+        "zh": "世界地质公园级别——至少留4-5小时。溶洞内温度低——带薄外套。苗族表演有固定时段，到了先问。宜宾坐大巴约1.5小时。"
+      },
+      "location": {
+        "en": "Xingwen County, ~120km south of Yibin downtown",
+        "zh": "兴文县，宜宾市区以南约120公里"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "UNESCO Geopark · Karst · Cave",
+        "zh": "世界地质公园 · 喀斯特 · 溶洞"
+      }
+    },
+    {
+      "name": {
+        "en": "Wuliangye Scenic Area",
+        "zh": "五粮液景区"
+      },
+      "img": "img/yibin-9.jpg",
+      "desc": {
+        "en": "As China's 'Liquor Capital,' Yibin has a 4,000-year winemaking history. Wuliangye — one of China's most famous baijiu brands — traces its origins to the Song Dynasty 'Yaozi Snow Song' (姚子雪曲). The scenic area is free to visit: walk through the Ten-Mile Wine Corridor where the air is thick with the aroma of fermenting grains, see the giant bottle-shaped building, climb Wine Saint Mountain, and visit the Baijiu Culture Museum. The highlight: tasting freshly distilled baijiu — smooth, complex, and unforgettable.",
+        "zh": "作为'中国酒都'，宜宾酿酒史长达4000多年。五粮液的前身可追溯到宋代的'姚子雪曲'。景区免费开放——走进十里酒廊，空气中弥漫着浓郁的酒香让人微醺；看巨型酒瓶建筑、爬酒圣山、参观酒文化博物馆。重头戏：品尝一杯刚酿好的原浆酒，醇厚绵长，回味无穷。"
+      },
+      "highlight": {
+        "en": "Free baijiu tasting + the world's largest liquor bottle building",
+        "zh": "免费品原浆酒+世界最大酒瓶建筑"
+      },
+      "hours": {
+        "en": "9:00 AM – 5:00 PM (advance reservation required)",
+        "zh": "9:00–17:00（需提前预约）"
+      },
+      "ticket": {
+        "en": "Free (reservation required)",
+        "zh": "免费（需预约）"
+      },
+      "tips": {
+        "en": "Booking is required — reserve at least one day ahead via the official mini-program. The fermentation aroma is intense — some love it, some find it overwhelming. The baijiu tasting at the end is genuinely great, not a tourist gimmick. Don't drive afterward.",
+        "zh": "需要预约——通过官方小程序至少提前一天。发酵气味很重——有人喜欢有人受不了。最后品酒环节是真材实料，不是景区糊弄游客的。喝完别开车。"
+      },
+      "location": {
+        "en": "Cuiping District, Yibin city center",
+        "zh": "翠屏区，宜宾市区"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Baijiu Culture · Industrial Tourism · Free",
+        "zh": "酒文化 · 工业旅游 · 免费"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Yibin Burning Noodles (Ran Mian)",
+        "zh": "宜宾燃面"
+      },
+      "img": "img/yibin-3.jpg",
+      "desc": {
+        "en": "Yibin locals start their day with this legendary dry-tossed noodle dish. Alkaline noodles are boiled, drained, then dressed with a secret chili oil, aged vinegar, soy sauce, preserved Yibin ya cai (碎米芽菜), crunchy crushed peanuts, and scallions. The name 'burning noodles' comes from how the oil-drenched strands glisten like fire — and how the chili heat builds with each bite. Tossed dry (never soupy), each strand is coated in a spicy, numbing, umami-packed coating. Paired with a bowl of seaweed soup, it's the perfect Sichuan breakfast.",
+        "zh": "宜宾人的一天从一碗燃面开始。碱水面煮熟沥干，淋上秘制红油、酱油、醋，撒上宜宾碎米芽菜、花生碎、葱花。'燃面'之名来自油润红亮的面条如火焰般诱人——麻辣干香，一口上头。干拌才是灵魂，根根分明，芽菜脆得掉渣。配一碗海带汤，神仙组合。能吃辣的直接喊'加麻加辣'，那才够劲。"
+      },
+      "where": {
+        "en": "Old Town noodle shops — Qiu Chang Li's Ran Mian (邱场李氏燃面) is a local legend",
+        "zh": "老城区的燃面店——邱场李氏燃面是本地人的宝藏"
+      },
+      "price": {
+        "en": "¥8–15 per bowl",
+        "zh": "¥8–15/碗"
+      },
+      "must_try": {
+        "en": "Order it extra spicy (加麻加辣) and dry-tossed — never with soup. The ya cai (preserved vegetable) is the soul of this dish.",
+        "zh": "要干拌不要汤面，直接喊'加麻加辣'。碎米芽菜是这碗面的灵魂。"
+      }
+    },
+    {
+      "name": {
+        "en": "Lizhuang White Pork & Three Whites",
+        "zh": "李庄白肉（李庄三白）"
+      },
+      "img": "img/yibin-8.jpg",
+      "desc": {
+        "en": "Lizhuang's signature 'Three Whites' — white pork (白肉), white cake (白糕), and white liquor (白酒) — are the holy trinity of local dining. The white pork is a knife-skill masterpiece: slices so impossibly thin you can read a newspaper through them, each piece covering an entire plate. Dipped in a secret garlic-soy sauce, it melts on the tongue — rich but never greasy. The white cake is a sweet, fluffy rice pastry perfect as a souvenir. Pair it all with a shot of locally distilled baijiu.",
+        "zh": "李庄的'三白'——白肉、白糕、白酒——是本地美食的三大金刚。李庄白肉是刀工艺术：薄如蝉翼，能透过肉片看见下面的花纹，一片能盖满整个盘子。蘸上秘制蒜泥酱油，入口即化，肥而不腻。白糕松软香甜，适合当伴手礼。再来一杯本地白酒，齐活。"
+      },
+      "where": {
+        "en": "Riverside restaurants throughout Lizhuang — Liufen Restaurant (留芬饭店) is the classic choice",
+        "zh": "李庄沿江餐厅——留芬饭店是经典之选"
+      },
+      "price": {
+        "en": "White pork ¥30–60 per plate; white cake ¥5–10 per piece",
+        "zh": "白肉¥30–60/盘；白糕¥5–10/个"
+      },
+      "must_try": {
+        "en": "Watch the chef slice the pork — it's a performance. Dip generously in the garlic-soy sauce. Get the white cake fresh, still warm from the steamer.",
+        "zh": "看师傅切肉就是一种享受。蘸足蒜泥酱油，大口吃。白糕趁热吃，刚出笼的最香。"
+      }
+    },
+    {
+      "name": {
+        "en": "Full Bamboo Banquet (Quan Zhu Yan)",
+        "zh": "全竹宴"
+      },
+      "img": "img/yibin-4.jpg",
+      "desc": {
+        "en": "In the Bamboo Sea region, every part of the bamboo plant becomes food — a feast that pandas would envy. Bamboo shoots freshly dug from the forest floor, bamboo fungus (竹荪) with its delicate lace-like texture, bamboo eggs, bamboo shoot eggs, and bamboo fungi — each prepared in its own distinct style. The star dish is bamboo shoot stewed with free-range chicken: light, sweet, and so fresh it tastes like the forest itself. Stir-fried bamboo fungus with smoked pork is another highlight — the earthy smokiness of the bacon pairs perfectly with the subtle fragrance of bamboo fungus.",
+        "zh": "在竹海地区，竹子的每一部分都能入菜——熊猫同款快乐。现挖的竹笋、竹荪、竹蛋、竹荪蛋、竹菌……每样都有独特做法。招牌是竹笋炖跑山鸡：汤清味甜，鲜掉眉毛。竹荪炒腊肉也是必点——腊肉的咸香和竹荪的清香完美融合，一口就爱上。"
+      },
+      "where": {
+        "en": "Farmhouse restaurants inside the Bamboo Sea scenic area — Zhuhai Impression (竹海印象) farmhouse is excellent",
+        "zh": "竹海景区内的农家乐——竹海印象农家乐口碑很好"
+      },
+      "price": {
+        "en": "¥60–120 per person for a set meal",
+        "zh": "人均¥60–120（套餐）"
+      },
+      "must_try": {
+        "en": "Go to a farm-to-table place (农家乐) inside the scenic area, not a fancy restaurant outside. The bamboo shoots are dug that morning — you can taste the difference.",
+        "zh": "一定要去景区内的农家乐，别在外面的大饭店吃。竹笋是当天早上现挖的——鲜度完全不一样。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Nezha Culture & Bo Heritage — 2,200 Years of Living History",
+        "zh": "哪吒文化与僰道文脉——2200年活着的传奇"
+      },
+      "img": "img/yibin-2.jpg",
+      "desc": {
+        "en": "Yibin is the only city in the world recognized by both sides of the Taiwan Strait as the ancestral home of Nezha — the rebellious child deity of Chinese mythology. Over 20 Nezha-related sites dot the city, with Nezha Palace on Cuiping Mountain designated the world's sole 'Nezha Ancestral Temple.' Even earlier, Yibin was called 'Bo Dao' (僰道) — home to the enigmatic Bo people, an ancient ethnic group that carved hanging coffins into cliff faces over 2,000 years ago. During WWII, nearby Lizhuang became a sanctuary for China's greatest minds: Liang Sicheng, Lin Huiyin, and entire academic institutions relocated here, preserving Chinese civilization through the war. This layered history — mythic, ancient, and modern — gives Yibin a character all its own.",
+        "zh": "宜宾是海峡两岸共同认定的全球唯一'哪吒祖庙'所在地，市内有20多处哪吒相关遗迹，翠屏山上的哪吒行宫让这座城市多了几分神话色彩。更早之前，宜宾古称'僰道'——神秘的僰人在这里留下了2000多年前的悬棺。抗战时期，李庄以16字电文接纳同济大学和中央研究院，梁思成、林徽因在此完成《中国建筑史》重要部分。神话、古老与现代层层叠加，让宜宾有了一种独特的江湖气与烟火味。"
+      },
+      "significance": {
+        "en": "World's only Nezha ancestral temple; ancient Bo hanging coffins; WWII cultural 'Noah's Ark'",
+        "zh": "全球唯一哪吒祖庙；僰人悬棺遗迹；抗战文化'诺亚方舟'"
+      },
+      "best_time": {
+        "en": "Nezha's birthday celebrations (lunar March 13); any season for the rest",
+        "zh": "哪吒诞辰庆典（农历三月十三）；其他全年皆宜"
+      },
+      "experience": {
+        "en": "Visit Nezha Palace on Cuiping Mountain, explore the Bo People Hanging Coffins, and walk through Liang Sicheng's former residence in Lizhuang",
+        "zh": "登翠屏山看哪吒行宫、探僰人悬棺、逛李庄梁思成旧居"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Apr–May) — bamboo sea at its greenest, mild and pleasant. Autumn (Sep–Oct) — cool, clear skies, perfect for hiking. Summer is hot and humid (the bamboo sea offers natural air conditioning). Winter is cool and damp but mysteriously beautiful with bamboo sea mist.",
+      "zh": "4-5月竹海最翠绿，气候宜人；9-10月天气凉爽，适合徒步。夏季湿热（竹海自带天然空调），冬季阴冷但云雾缭绕别有韵味。"
+    },
+    "days": {
+      "en": "2–3 days (add 1 day for Xingwen Stone Sea)",
+      "zh": "2–3天（去兴文石海再加1天）"
+    },
+    "transit": {
+      "en": "Buses and taxis within the city. Yibin is compact — Hejiang Gate and the old town are walkable. Bus 4/5/7 to Cuiping Mountain. For Bamboo Sea, take a bus from Yibin South Station to Changning (1 hour, ¥15). For Lizhuang, bus 39 from downtown (40 min, ¥3).",
+      "zh": "市内公交和出租车。宜宾不大——合江门和老城区步行可达。去翠屏山坐4/5/7路公交。去蜀南竹海从宜宾南站坐大巴到长宁（1小时，¥15）。去李庄坐39路（40分钟，¥3）。"
+    },
+    "intercity": {
+      "en": "Yibin Wuliangye Airport has direct flights to Beijing, Shanghai, Guangzhou. Chengdu to Yibin: high-speed rail (Chengdu-Guiyang line, ~1.5h, ¥110) or Chongqing-Kunming high-speed rail. Bus from Chengdu takes 3-4 hours.",
+      "zh": "宜宾五粮液机场有直飞北京、上海、广州等城市的航班。成贵高铁、渝昆高铁经过宜宾，成都到宜宾约1.5小时（¥110）。大巴3-4小时。"
+    },
+    "tips": {
+      "en": "Try burning noodles for EVERY breakfast — different shops have different chili oil recipes. Lizhuang is free to enter. Stay overnight in the Bamboo Sea for the full experience — guesthouses cost ¥150–300. Book Wuliangye Scenic Area 1 day ahead. Xingwen Stone Sea needs a full day — don't try to squeeze it into a half-day.",
+      "zh": "每天早餐都吃燃面——每家红油配方不一样。李庄古镇免费。竹海一定要住一晚——民宿¥150–300。五粮液景区提前一天预约。兴文石海需要整整一天——别想半天搞定。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Getting there from Chengdu:</strong> High-speed rail from Chengdu East to Yibin West station — about 1.5 hours, ¥110. Trains run frequently on the Chengdu-Guiyang line. Yibin Wuliangye Airport also has direct flights from Beijing, Shanghai, Guangzhou, and other major cities.</p><p><strong>Itinerary suggestion (3 days):</strong> Day 1 — morning at Hejiang Gate, afternoon Cuiping Mountain + Nezha Palace, evening burning noodles + old town BBQ. Day 2 — full day at Shunan Bamboo Sea (stay overnight in a bamboo guesthouse). Day 3 — morning at Lizhuang Ancient Town for white pork lunch, afternoon Wuliangye Scenic Area, evening departure.</p><p><strong>Bamboo Sea logistics:</strong> The scenic area is huge — you need a car or shuttle bus inside. The west gate is the main entrance. Key spots: Emerald Corridor, Sea Within the Lake (rafting), Sea-View Tower (panoramic view), and Xianyu Cave. Guesthouses inside the scenic area are basic but charming — book ahead on weekends.</p><p><strong>Lizhuang logistics:</strong> Bus 39 from Yibin downtown runs every 15-20 minutes, 40 minutes, only ¥3. The old town is walkable — no need for a tour guide. Moon Field area is the most photogenic spot at night. Most restaurants close by 8 PM — eat early.</p>",
+    "zh": "<p><strong>成都到宜宾：</strong>成都东站坐高铁到宜宾西站——约1.5小时，¥110。成贵高铁班次频繁。五粮液机场也有直飞北京、上海、广州等航班。</p><p><strong>推荐3天行程：</strong>Day1——上午合江门看三江汇流，下午翠屏山+哪吒行宫，晚上燃面+老城烧烤。Day2——全天蜀南竹海（住竹林民宿）。Day3——上午李庄古镇吃白肉，下午五粮液景区，傍晚离开。</p><p><strong>竹海怎么玩：</strong>景区非常大——内部需要坐车或自驾。西门是主入口。必去：翡翠长廊、海中海（竹筏）、观海楼（全景）、仙寓洞。景区内民宿条件简朴但有味道——周末提前订。</p><p><strong>李庄怎么去：</strong>宜宾市区坐39路，15-20分钟一班，40分钟到，只要¥3。古镇步行逛就行——不用导游。月亮田夜景最出片。大部分饭店晚上8点就关门了——早点吃。"
+  },
+  "honestTips": {
+    "en": "<p><strong>The Bamboo Sea is HUGE — plan your route.</strong> It's 120 square kilometers. Without a plan, you'll spend half the day on shuttle buses. Pick 3-4 key spots and commit — you can't see everything in one day. Skip the cable car unless you have mobility issues; it doesn't save much time and the view isn't better than the trails.</p><p><strong>Burning noodles are ALL about the ya cai.</strong> If the ya cai (preserved vegetable) isn't crispy, the shop isn't good — walk away. The best shops make their own ya cai in-house. Also: burning noodles are breakfast food. Most good shops close by 2 PM — don't show up for dinner expecting the real deal.</p><p><strong>Wuliangye area is an industrial site, not a theme park.</strong> It's a working distillery with a visitor center. The alcohol smell is overwhelming — asthmatics and pregnant women should skip it. The 'tasting' is generous but it's 50%+ ABV baijiu — pace yourself. One shot is plenty.</p><p><strong>Xingwen Stone Sea is far from Yibin.</strong> It's a 2+ hour bus ride each way. Combined with 4-5 hours inside the park, this is a FULL day trip. If you only have 2 days in Yibin, save Xingwen for another visit. The cave has lots of stairs — not suitable for anyone with knee problems.</p>",
+    "zh": "<p><strong>蜀南竹海巨大无比——先规划路线。</strong>120平方公里的景区，没计划的话半天都在等摆渡车。精选3-4个点就好——一天逛不完。别坐索道，省不了多少时间，视野还没徒步路线好。</p><p><strong>燃面的灵魂在芽菜。</strong>芽菜不脆，这家店就不行——换一家。最好的店芽菜是自己做的。另外：燃面是早餐，好的店下午两点前就关了——别晚餐去吃。</p><p><strong>五粮液景区是工厂不是游乐园。</strong>这是正在生产的酒厂加游客中心。酒味重到受不了——哮喘和孕妇别去。品酒很大方但是50多度的白酒——悠着点。一杯就够。</p><p><strong>兴文石海离宜宾市区很远。</strong>单程大巴2个多小时，加上景区4-5小时，是整整一天。如果只在宜宾待2天，兴文石海可以下次。溶洞里楼梯很多——膝盖不好的慎重。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Hejiang Gate at 6 AM.</strong> Tourist crowds arrive after 9 AM, but at dawn, the riverside belongs to locals — elderly tai chi practitioners, fishermen casting nets, and the golden morning light catching the two-tone river. Bring a thermos of tea and just sit. This is the real Yibin.</p><p><strong>Old Town night BBQ crawl.</strong> After 9 PM, the streets near the old town come alive with BBQ carts. Look for the cart with the longest queue of locals — not tourists. Grilled beef cubes (烤牛肉粒), pork belly (烤五花肉), and eggplant (烤茄子) are the trinity. Grab a local beer and eat standing up like everyone else. ¥30-50 per person will fill you up.</p><p><strong>Shuanghe Cold Cake (双河凉糕) — summer essential.</strong> Made with water from the ancient Grape Well (葡萄井), this chilled rice jelly is Yibin's ultimate summer dessert. Silky, ice-cold, drizzled with brown sugar syrup. Find it at any street stall in summer — but the best comes from a small shop near the old town. ¥5-8 per bowl. One bowl is never enough.</p><p><strong>Red Bridge Piglet Dumplings (红桥猪儿粑).</strong> These adorable glutinous rice dumplings shaped like piglets are filled with either savory pork or sweet sesame paste. They look too cute to eat but burst with flavor the moment you bite in. Found in Red Bridge (Hongqiao) area shops — follow the steam. ¥2-3 each. Buy 10, thank me later.</p>",
+    "zh": "<p><strong>合江门清晨6点。</strong>游客9点后才来，但清晨的江边属于本地人——打太极的老人、撒网的渔民、金色晨光照在两色江水上。带壶茶坐下来，这才是真正的宜宾。</p><p><strong>老城深夜烧烤路线。</strong>晚上9点后，老城区的烧烤摊才真正活起来。找本地人排队最多的那家——不是游客排的。烤牛肉粒、烤五花肉、烤茄子是标配。拿瓶本地啤酒，站着吃才有感觉。¥30-50/人吃到撑。</p><p><strong>双河凉糕——夏天续命神器。</strong>用葡萄井水做的凉糕，冰爽细腻，淋上红糖浆，一口下去暑气全消。夏天街头随处可见——但最好吃的是老城区一家小店。¥5-8/碗。一碗绝对不够。</p><p><strong>红桥猪儿粑。</strong>这些可爱到舍不得下口的糯米粑粑有肉馅和芝麻馅两种，咬开后汁水四溢。红桥一带的小店里都有——跟着蒸汽走就行。¥2-3/个。买10个，不后悔。</p>"
+  }
+}

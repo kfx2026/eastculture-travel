@@ -1,0 +1,398 @@
+{
+  "id": "chongqing",
+  "name": {
+    "en": "重庆",
+    "zh": "重庆"
+  },
+  "province": {
+    "en": "Chongqing Municipality",
+    "zh": "重庆市"
+  },
+  "intro": {
+    "en": "Discover Chongqing: a 3D cyberpunk metropolis of neon lights and fiery food.",
+    "zh": "探索重庆：一座融合了霓虹灯光与火辣美食的3D赛博朋克魔幻之都。"
+  },
+  "hero_img": "img/chongqing.jpg",
+  "hero_fb": "linear-gradient(135deg, #0f0c29 0%, #302b63 40%, #e94560 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "Hongya Cave",
+        "zh": "洪崖洞"
+      },
+      "img": "img/chongqing-1.jpg",
+      "desc": {
+        "en": "Built into a steep cliff, this 11-story stilt house complex transforms into a breathtaking cyberpunk wonderland at night. Inspired by Spirited Away, it offers winding alleys, local snacks, and panoramic views of the Jialing River.",
+        "zh": "依山就势的11层吊脚楼群，夜幕降临时化身令人惊叹的赛博朋克仙境。灵感源于《千与千寻》，内部街巷蜿蜒，汇聚特色小吃，可尽览嘉陵江绝美江景。"
+      },
+      "highlight": {
+        "en": "A real-life Spirited Away that glows brilliantly against the night sky.",
+        "zh": "现实版的《千与千寻》，在夜空中熠熠生辉的吊脚楼奇观。"
+      },
+      "hours": {
+        "en": "11:00 - 23:00",
+        "zh": "11:00 - 23:00"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Go after 8 PM for the best lighting; avoid the elevators and use the stairs to explore different levels; don't eat inside as it's overpriced.",
+        "zh": "晚上8点后去灯光最美；避开电梯，走楼梯探索不同楼层；千万别在里面吃饭，价格贵且味道一般。"
+      },
+      "location": {
+        "en": "Cangbai Road, Yuzhong District",
+        "zh": "渝中区沧白路"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "Night View · Architecture · Cyberpunk",
+        "zh": "夜景 · 建筑 · 赛博朋克"
+      }
+    },
+    {
+      "name": {
+        "en": "Yangtze River Cableway",
+        "zh": "长江索道"
+      },
+      "img": "img/chongqing-2.jpg",
+      "desc": {
+        "en": "Known as the 'Air Bus' of Chongqing, this historic cableway glides across the mighty Yangtze River. It offers a unique aerial perspective of the city's dramatic skyline, blending industrial heritage with modern urban vitality.",
+        "zh": "被誉为重庆“空中公共汽车”的历史索道，飞渡浩荡长江。它为游客提供独特的空中视角，将魔幻的天际线与工业遗产、现代都市活力完美交融。"
+      },
+      "highlight": {
+        "en": "Glide above the mighty Yangtze River for an unforgettable aerial cityscape.",
+        "zh": "飞渡浩荡长江，享受难忘的城市天际线空中视角。"
+      },
+      "hours": {
+        "en": "08:00 - 22:00",
+        "zh": "08:00 - 22:00"
+      },
+      "ticket": {
+        "en": "20 RMB one-way, 30 RMB round-trip",
+        "zh": "单程20元，往返30元"
+      },
+      "tips": {
+        "en": "Book tickets on WeChat in advance to skip massive queues; ride from the South Bank to the North Bank for shorter lines; go at sunset.",
+        "zh": "务必提前在微信上购票以跳过漫长排队；从南岸往北岸坐人更少；日落时分去最美。"
+      },
+      "location": {
+        "en": "Xinhua Road, Yuzhong District / Nanbin Road, Nan'an District",
+        "zh": "渝中区新华路 / 南岸区南滨路"
+      },
+      "rating": "4.6",
+      "tags": {
+        "en": "River View · Historic Transit · Skyline",
+        "zh": "江景 · 历史交通 · 天际线"
+      }
+    },
+    {
+      "name": {
+        "en": "Liziba Monorail Station",
+        "zh": "李子坝轻轨站"
+      },
+      "img": "img/chongqing-3.jpg",
+      "desc": {
+        "en": "Famous worldwide for the Line 2 monorail passing directly through a residential apartment building. This engineering marvel highlights Chongqing's unique 3D topography. The viewing platform below offers the perfect photo opportunity.",
+        "zh": "闻名全球的轻轨2号线穿楼而过的奇观。这一工程奇迹彰显了重庆独特的3D魔幻地形。楼下的观景平台是拍摄这一震撼画面的绝佳地点。"
+      },
+      "highlight": {
+        "en": "Watch a train disappear directly into the middle of a residential building.",
+        "zh": "亲眼目睹轻轨列车直接驶入居民楼中间的魔幻瞬间。"
+      },
+      "hours": {
+        "en": "06:30 - 23:00",
+        "zh": "06:30 - 23:00"
+      },
+      "ticket": {
+        "en": "Free to watch; 2 RMB to ride",
+        "zh": "观看免费；乘车2元"
+      },
+      "tips": {
+        "en": "Go to the ground-level viewing platform outside for the best photos; ride the train from the front or back car for the best tunnel view; visit early morning to avoid crowds.",
+        "zh": "去楼下的地面观景台拍照效果最好；坐轻轨时选择车头或车尾看隧道视角最佳；清晨去可避开人流。"
+      },
+      "location": {
+        "en": "Liziba, Yuzhong District",
+        "zh": "渝中区李子坝"
+      },
+      "rating": "4.4",
+      "tags": {
+        "en": "Transit Marvel · Photo Spot · 3D City",
+        "zh": "交通奇观 · 拍照打卡 · 3D城市"
+      }
+    },
+    {
+      "name": {
+        "en": "Eling Park & Testbed 2",
+        "zh": "鹅岭公园与二厂文创公园"
+      },
+      "img": "img/chongqing-4.jpg",
+      "desc": {
+        "en": "Eling Park offers the highest vantage point in the Yuzhong peninsula, perfect for panoramic views. Just downhill is Testbed 2, a former currency printing factory turned hipster arts district, featuring indie cafes, street art, and vintage shops.",
+        "zh": "鹅岭公园占据渝中半岛制高点，是俯瞰全城全景的绝佳之地。顺坡而下便是二厂文创公园，这座由老印钞厂改造的文艺街区汇聚了独立咖啡馆、街头艺术与复古小店。"
+      },
+      "highlight": {
+        "en": "Combine sweeping city panoramas with hipster indie culture in a revitalized factory.",
+        "zh": "在改造的老厂房中，将宏大的城市全景与独立的文艺文化完美结合。"
+      },
+      "hours": {
+        "en": "Park: 24/7; Testbed 2: 09:00 - 22:00",
+        "zh": "公园：全天；二厂：09:00 - 22:00"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Climb the pavilion in Eling Park at dusk for a stunning sunset; explore the rooftop of Testbed 2 for great photo ops; wear comfortable shoes as the area involves many stairs.",
+        "zh": "黄昏时分爬上鹅岭公园的亭子看绝美日落；探索二厂顶楼拍照很出片；该区域台阶多，务必穿舒适的鞋。"
+      },
+      "location": {
+        "en": "Eling Zheng Street, Yuzhong District",
+        "zh": "渝中区鹅岭正街"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "Panorama · Arts District · Hipster",
+        "zh": "全景俯瞰 · 文创街区 · 文艺青年"
+      }
+    },
+    {
+      "name": {
+        "en": "Jiefangbei Pedestrian Street",
+        "zh": "解放碑步行街"
+      },
+      "img": "img/chongqing-5.jpg",
+      "desc": {
+        "en": "The commercial and spiritual heart of Chongqing, anchored by the Monument to the People's Liberation. Surrounded by gleaming skyscrapers, this bustling square is the ultimate spot for shopping, people-watching, and experiencing the city's modern pulse.",
+        "zh": "重庆的商业与精神核心，以人民解放纪念碑为中心。四周摩天大楼林立，这座繁华的步行街是购物、感受城市现代脉搏与观察当地市井生活的终极之地。"
+      },
+      "highlight": {
+        "en": "The bustling spiritual and commercial epicenter of modern Chongqing.",
+        "zh": "现代重庆繁华的商业与精神核心地标。"
+      },
+      "hours": {
+        "en": "24/7 (Shops: 10:00 - 22:00)",
+        "zh": "全天（商铺：10:00 - 22:00）"
+      },
+      "ticket": {
+        "en": "Free",
+        "zh": "免费"
+      },
+      "tips": {
+        "en": "Visit at night when the skyscrapers are lit up; use it as a base to navigate to nearby Hongya Cave; try the street food in the surrounding alleys rather than the main square.",
+        "zh": "夜晚摩天大楼亮灯时去最美；可将其作为前往附近洪崖洞的导航基点；去周边小巷吃街头小吃，别在主广场吃。"
+      },
+      "location": {
+        "en": "Jiefangbei, Yuzhong District",
+        "zh": "渝中区解放碑"
+      },
+      "rating": "4.5",
+      "tags": {
+        "en": "City Center · Shopping · History",
+        "zh": "城市中心 · 购物 · 历史"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Chongqing Hotpot",
+        "zh": "重庆火锅"
+      },
+      "img": "img/chongqing-food-1.jpg",
+      "desc": {
+        "en": "The soul of the city. A bubbling cauldron of beef tallow, dried chilies, and Sichuan peppercorns. It's a fiery, numbing, and intensely aromatic communal experience that defines Chongqing's bold culinary identity.",
+        "zh": "这座城市的灵魂。翻滚的牛油锅底中满是干辣椒与花椒。这是一场火辣、麻辣且香气扑鼻的社交美食体验，定义了重庆张扬的饮食性格。"
+      },
+      "where": {
+        "en": "Look for 'fly restaurants' in old residential compounds like Dadong or Shapingba. Peijia is famous, but local neighborhood spots are best.",
+        "zh": "寻找藏在老旧小区里的“苍蝇馆子”，如大坪或沙坪坝的巷子。珮姐名气大，但家楼下的社区老火锅味道最正宗。"
+      },
+      "price": {
+        "en": "80 - 150 RMB per person",
+        "zh": "人均 80 - 150 元人民币"
+      },
+      "must_try": {
+        "en": "Order duck intestine, fresh tripe, and pork brain. Dip them for exactly 10-15 seconds in the boiling broth, then cool in sesame oil with garlic and cilantro.",
+        "zh": "必点毛肚、鲜鸭肠和猪脑。在滚汤中“七上八下”涮10-15秒，再蘸上蒜泥香菜的香油碟降温提香。"
+      }
+    },
+    {
+      "name": {
+        "en": "Chongqing Xiaomian",
+        "zh": "重庆小面"
+      },
+      "img": "img/chongqing-food-1.jpg",
+      "desc": {
+        "en": "The ultimate local breakfast. These spicy, savory wheat noodles are tossed in a complex sauce of chili oil, soy sauce, vinegar, crushed peanuts, and scallions. Simple, cheap, and explosively flavorful.",
+        "zh": "重庆人最地道的早餐。麻辣鲜香的碱水面拌上红油、酱油、陈醋、碎花生与葱花。做法简单，价格亲民，味道却在舌尖爆炸。"
+      },
+      "where": {
+        "en": "Any small street-side stall with a line of locals sitting on low plastic stools. Huashi Wanpo Noodles or Yu Ji Mian are legendary.",
+        "zh": "任何排满本地人、坐在矮塑料凳上吃面的街边小店。花市豌杂面或余姐面庄都是传奇名店。"
+      },
+      "price": {
+        "en": "8 - 15 RMB per bowl",
+        "zh": "每碗 8 - 15 元人民币"
+      },
+      "must_try": {
+        "en": "Try 'Wanpo Mian' (pea and minced meat noodles) for a rich, creamy texture. Ask for 'Wei La' (mild spicy) if you can't handle extreme heat.",
+        "zh": "强烈推荐“豌杂面”（豌豆与杂酱），口感软糯浓郁。如果不太能吃辣，记得喊“微辣”。"
+      }
+    },
+    {
+      "name": {
+        "en": "Geleshan Spicy Chicken",
+        "zh": "歌乐山辣子鸡"
+      },
+      "img": "img/chongqing-food-1.jpg",
+      "desc": {
+        "en": "A mountain of deep-fried chicken chunks buried in a sea of dried red chilies and Sichuan peppercorns. It’s a test of patience and chopstick skills to find the tender, spicy meat hidden among the peppers.",
+        "zh": "一大盘炸得酥脆的鸡块掩埋在堆积如山的干辣椒和花椒中。在红油辣椒里寻找鲜嫩麻辣的鸡块，是对耐心和筷子功的绝佳考验。"
+      },
+      "where": {
+        "en": "Originating from the Geleshan mountain area. Restaurants like 'Geleshan Lazi Ji' on the mountain or specialized Jianghu restaurants in the city.",
+        "zh": "发源于歌乐山地区。可以直接去山上的“歌乐山辣子鸡”总店，或市区的各类江湖菜馆。"
+      },
+      "price": {
+        "en": "60 - 100 RMB per plate",
+        "zh": "每盘 60 - 100 元人民币"
+      },
+      "must_try": {
+        "en": "Eat it with a cold beer to balance the intense heat. Don't be afraid to bite into the chilies; the roasted chili flavor is part of the dish!",
+        "zh": "一定要配上冰镇啤酒以解辣。不要害怕咬到辣椒，那焦香的糊辣味正是这道菜的灵魂所在。"
+      }
+    },
+    {
+      "name": {
+        "en": "Suanla Fen",
+        "zh": "酸辣粉"
+      },
+      "img": "img/chongqing-food-1.jpg",
+      "desc": {
+        "en": "Chewy, translucent sweet potato noodles served in a tangy, spicy, and slightly sweet broth. Topped with crushed peanuts, mustard tubers, and cilantro, it's the perfect street food snack to keep you energized.",
+        "zh": "软糯Q弹的透明红薯粉，浸泡在酸辣微甜的汤汁中。撒上酥脆的花生碎、榨菜末和香菜，是逛街时补充体力的完美街头小吃。"
+      },
+      "where": {
+        "en": "Haochi Suanla Fen in Jiefangbei, or small carts around Hongya Cave and Ciqikou.",
+        "zh": "解放碑的好又来酸辣粉，或洪崖洞、磁器口周边的流动小推车。"
+      },
+      "price": {
+        "en": "10 - 15 RMB per bowl",
+        "zh": "每碗 10 - 15 元人民币"
+      },
+      "must_try": {
+        "en": "Slurp it quickly while it's hot. Add extra vinegar if you prefer a sharper tang, and make sure to drink a little of the flavorful broth at the end.",
+        "zh": "趁热大口吸溜。喜欢酸味的可以多加点醋，吃到最后别忘了把碗底鲜美的汤汁也喝掉。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Traffic Tea House",
+        "zh": "交通茶馆"
+      },
+      "img": "img/chongqing-culture-1.jpg",
+      "desc": {
+        "en": "Hidden in the Huangjueping area, this is Chongqing's oldest and most authentic teahouse. With its wooden beams, darkened walls, and vintage thermoses, it's a time capsule where locals play cards, chat, and sip jasmine tea.",
+        "zh": "隐藏在黄桷坪地区的重庆最老、最地道的茶馆。木质的穿斗结构、熏黑的墙壁和老式暖水瓶，让它成为一个时光胶囊，本地人在这里打牌、聊天、品饮茉莉花茶。"
+      },
+      "significance": {
+        "en": "Represents the slow-paced, traditional 'Jianghu' culture of Chongqing, contrasting sharply with its hyper-modern skyline.",
+        "zh": "代表了重庆慢节奏的传统“江湖”文化，与城市极其现代化的摩天大楼天际线形成鲜明对比。"
+      },
+      "best_time": {
+        "en": "Early morning or late afternoon to see locals in their natural element.",
+        "zh": "清晨或傍晚时分，最能感受到本地人最自然的生活状态。"
+      },
+      "experience": {
+        "en": "Order a bowl of green tea (10 RMB), sit on a bamboo chair, and just observe. Don't use flash photography; respect the locals' privacy.",
+        "zh": "点一碗盖碗茶（10元），坐在竹椅上静静观察。切勿使用闪光灯拍照，请尊重本地人的隐私。"
+      }
+    },
+    {
+      "name": {
+        "en": "Jianghu Cuisine Culture",
+        "zh": "江湖菜文化"
+      },
+      "img": "img/chongqing-culture-1.jpg",
+      "desc": {
+        "en": "'Jianghu' refers to the traditional martial arts underworld, but in Chongqing, it means bold, unconventional, and fiercely spicy food born in roadside taverns. It's characterized by massive portions, heavy oil, and explosive flavors.",
+        "zh": "“江湖”原指武侠世界，在重庆则代表诞生于路边大排档的粗犷、不拘一格且极其辛辣的美食。其特点是分量巨大、重油重辣、味道爆烈。"
+      },
+      "significance": {
+        "en": "It reflects the straightforward, passionate, and unpretentious character of the Chongqing people, emphasizing camaraderie and hearty enjoyment over delicate refinement.",
+        "zh": "反映了重庆人直爽、热情、不拘小节的性格，强调兄弟义气与大口吃肉的酣畅淋漓，而非精致的雕琢。"
+      },
+      "best_time": {
+        "en": "Late night (after 9 PM) when the real Jianghu atmosphere comes alive with beer and banter.",
+        "zh": "深夜（晚上9点以后），当啤酒与喧哗交织，真正的江湖气息才刚刚苏醒。"
+      },
+      "experience": {
+        "en": "Find a bustling Jianghu restaurant in the Nan'an or Jiulongpo districts. Order signature dishes like spicy chicken or boiled fish, and share with friends over cold beers.",
+        "zh": "在南岸区或九龙坡区找一家热闹的江湖菜馆。点上辣子鸡或水煮鱼等招牌菜，和朋友们碰杯畅饮。"
+      }
+    },
+    {
+      "name": {
+        "en": "Bangbang Porter Heritage",
+        "zh": "棒棒军非遗文化"
+      },
+      "img": "img/chongqing-culture-1.jpg",
+      "desc": {
+        "en": "The 'Bangbang' are traditional porters who carry heavy goods up the city's steep hills using a bamboo pole and two ropes. Once numbering in the hundreds of thousands, they are a living symbol of Chongqing's rugged mountainous terrain and working-class resilience.",
+        "zh": "“棒棒军”是传统的挑夫，他们用一根竹棒和两根绳索，将沉重的货物挑上城市陡峭的山坡。鼎盛时期多达数十万人，他们是重庆崎岖地形与劳动阶级坚韧精神的活化石。"
+      },
+      "significance": {
+        "en": "They embody the hardworking, enduring spirit of the city. Though their numbers are dwindling due to modernization, they remain an iconic cultural symbol of old Chongqing.",
+        "zh": "他们体现了这座城市吃苦耐劳、坚韧不拔的精神。尽管现代化让他们的数量锐减，但他们仍是老重庆标志性的文化符号。"
+      },
+      "best_time": {
+        "en": "Early morning around wholesale markets like Chaotianmen or the lower streets of Yuzhong district.",
+        "zh": "清晨时分，在朝天门等批发市场或渝中区的下半城街巷最容易见到他们。"
+      },
+      "experience": {
+        "en": "Observe them respectfully from a distance. If you see them resting, a simple smile or offering a bottle of water is a kind gesture, but avoid intrusive photography.",
+        "zh": "请保持尊重，在远处静静观察。如果遇到他们休息，一个微笑或递上一瓶水是友善的举动，但请避免怼脸拍照。"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Humid subtropical. Summers (Jul-Aug) are brutally hot (the 'Furnace City'). Winters are damp and chilly. Spring and autumn are the best times to visit.",
+      "zh": "亚热带季风性湿润气候。夏季（7-8月）酷热难耐（“火炉”城市）。冬季阴冷潮湿。春秋两季是最佳旅游时间。"
+    },
+    "days": {
+      "en": "3 to 4 days is ideal to cover the main urban highlights, enjoy the food, and take one day trip (like Dazu or Wulong).",
+      "zh": "建议游玩3-4天，足以覆盖主要市区景点、品尝美食，并安排一次周边一日游（如大足或武隆）。"
+    },
+    "transit": {
+      "en": "The CRT (Chongqing Rail Transit) is excellent, including unique monorails. Taxis are cheap but traffic is heavy. Warning: GPS often fails here due to the complex 3D terrain.",
+      "zh": "重庆轨道交通（CRT）非常发达，包含独特的单轨列车。出租车便宜但易堵车。警告：由于复杂的3D地形，手机GPS导航经常失效。"
+    },
+    "intercity": {
+      "en": "Chongqing Jiangbei International Airport (CKG) has global and domestic flights. High-speed trains connect to Chengdu (1.5 hrs), Xi'an (5 hrs), and Beijing (7 hrs) from Chongqing North or West stations.",
+      "zh": "重庆江北国际机场（CKG）有众多国内外航班。高铁从重庆北站或西站出发，1.5小时到成都，5小时到西安，7小时到北京。"
+    },
+    "tips": {
+      "en": "Wear extremely comfortable shoes; you will climb hundreds of stairs daily. Learn to say 'Wei la' (mild spicy) because even 'mild' in Chongqing is very hot for outsiders.",
+      "zh": "务必穿极其舒适的鞋子，每天会爬几百级台阶。学会说“微辣”，因为在重庆，对外地人来说“微辣”也已经非常辣了。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Visa:</strong> Chongqing offers a 144-hour visa-free transit for citizens of 54 countries. <strong>Payment:</strong> Cash is rarely used. Link your international credit card to Alipay or WeChat Pay before arriving. <strong>SIM & VPN:</strong> Buy a local SIM at the airport. Note that foreign mobile data often works without a VPN, but local SIMs will require one for Western apps. <strong>Language:</strong> The local Chongqing dialect is notoriously difficult, but standard Mandarin (Putonghua) is widely understood by the younger generation and in tourist areas.</p>",
+    "zh": "<p><strong>签证：</strong>重庆对54国公民实行144小时过境免签政策。<strong>支付：</strong>现金极少使用，请务必在抵达前将国际信用卡绑定至支付宝或微信支付。<strong>电话卡与网络：</strong>可在机场购买本地电话卡。注意，境外手机漫游数据通常无需VPN即可使用，但本地电话卡访问外网需自备网络工具。<strong>语言：</strong>重庆方言极难懂，但年轻一代和旅游景区均通用普通话。</p>"
+  },
+  "honestTips": {
+    "en": "<p>Let's be brutally honest: Chongqing's navigation is a nightmare. Do not trust your phone's GPS blindly; if it says your destination is 10 meters away, it might be 10 meters directly below you on another street level. Ask locals for directions.</p><p>Secondly, Hongya Cave is spectacular from the outside (Qiansimen Bridge or the opposite riverbank), but inside, it's a crowded tourist trap with overpriced, mediocre food. Don't eat inside. Thirdly, avoid visiting in July and August. Chongqing is literally one of China's 'Four Furnaces,' and the summer heat and humidity are physically exhausting.</p><p>Finally, Ciqikou Ancient Town is incredibly commercialized. If you go, skip the main street and get lost in the quieter, steep back alleys to find the real charm.</p>",
+    "zh": "<p>必须坦白说：重庆的导航简直是噩梦。千万别盲信手机GPS，当它显示目的地在10米外时，它可能在你正下方10米的另一层街上，迷路了请直接问路。</p><p>其次，洪崖洞从外面看（如千厮门大桥或对岸）极其震撼，但内部其实是个拥挤的游客陷阱，食物又贵又难吃，千万别在里面就餐。第三，尽量避开7月和8月。重庆是名副其实的“四大火炉”之一，夏季的高温高湿会让人生理上感到极度不适。</p><p>最后，磁器口古镇商业化极其严重，如果非要去，请避开主街，钻进那些安静陡峭的后巷去寻找真正的韵味。</p>"
+  },
+  "localSecrets": {
+    "en": "<p>Skip the expensive Yangtze River Cableway and take the public ferry (the cheap 10 RMB wooden boat) from Chaotianmen to Nanbin Road; you get the same views for a fraction of the price and time.</p><p>For the best hotpot, avoid the flashy neon-lit chains. Look for 'fly restaurants' (cangying guanzi) hidden in old residential compounds, like those in the Dadong or Shapingba areas. The best time to experience the city's cyberpunk vibe is actually during a light fog in winter or right after a rain shower, when the neon lights reflect off the wet streets.</p><p>Lastly, explore the Huangjueping area for incredible street art and the Sichuan Fine Arts Institute's old campus—it's the true bohemian heart of the city, far away from the tourist crowds.</p>",
+    "zh": "<p>别去排昂贵的长江索道，去朝天门坐公共过江轮渡（10元钱的木船）到南滨路，花最少的钱和时间看同样的江景。</p><p>想吃最地道的火锅，避开那些霓虹闪烁的网红连锁店，去大坪或沙坪坝的老旧小区里找“苍蝇馆子”。体验城市赛博朋克感的最佳时机其实是冬季的轻雾天或雨后，霓虹灯倒映在湿润的街道上最为迷人。</p><p>最后，去黄桷坪地区看看震撼的涂鸦街和四川美术学院老校区，那里是这座城市真正的波西米亚内核，远离喧嚣的游客人群。</p>"
+  }
+}

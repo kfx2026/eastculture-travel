@@ -1,0 +1,234 @@
+{
+  "id": "beijing",
+  "name": {
+    "en": "Beijing",
+    "zh": "北京"
+  },
+  "province": {
+    "en": "Beijing Municipality",
+    "zh": "北京市"
+  },
+  "intro": {
+    "en": "The timeless capital where imperial grandeur meets cutting-edge modernity. Walk the Great Wall at sunrise, get lost in hutong alleyways, and taste Peking duck carved tableside.",
+    "zh": "千年帝都，气象万千。长城日出、胡同深处、桌前现片的烤鸭——北京在古老与先锋之间自如呼吸。"
+  },
+  "hero_img": "img/beijing.jpg",
+  "hero_fb": "linear-gradient(135deg, #8B1E1E 0%, #C44536 40%, #E8A87C 100%)",
+  "landmarks": [
+    {
+      "name": {
+        "en": "The Great Wall (Mutianyu)",
+        "zh": "慕田峪长城"
+      },
+      "img": "img/beijing.jpg",
+      "desc": {
+        "en": "The most breathtaking section near Beijing — fewer crowds, restored yet authentic, with a thrilling toboggan ride down.",
+        "zh": "北京近郊最壮美的一段——游客较少，修缮得当又不失古意，下山还能坐滑道。"
+      },
+      "highlight": {
+        "en": "Toboggan slide down the mountain",
+        "zh": "滑道下山超刺激"
+      },
+      "hours": {
+        "en": "7:30 AM – 5:30 PM",
+        "zh": "7:30 – 17:30"
+      },
+      "ticket": {
+        "en": "¥45 (Apr–Oct), ¥40 (Nov–Mar)",
+        "zh": "¥45（旺季）/ ¥40（淡季）"
+      },
+      "tips": {
+        "en": "Go early — arrive by 8 AM to have the wall almost to yourself.",
+        "zh": "早点去——8点前到，长城几乎是你的私人领地。"
+      },
+      "location": {
+        "en": "Huairou District, 70km from city center",
+        "zh": "怀柔区，距市中心70公里"
+      },
+      "rating": "4.8",
+      "tags": {
+        "en": "UNESCO · Iconic · Day Trip",
+        "zh": "世界遗产 · 地标 · 一日游"
+      }
+    },
+    {
+      "name": {
+        "en": "The Forbidden City",
+        "zh": "故宫博物院"
+      },
+      "img": "img/beijing.jpg",
+      "desc": {
+        "en": "The world's largest palace complex — 980 buildings, 600 years of history. Every courtyard whispers tales of emperors and dynasties.",
+        "zh": "世界最大宫殿群——980座建筑，600年风云。每一进院落都是帝王将相的无声史书。"
+      },
+      "highlight": {
+        "en": "Hall of Supreme Harmony rooftop beasts",
+        "zh": "太和殿脊兽"
+      },
+      "hours": {
+        "en": "8:30 AM – 5:00 PM (closed Mon)",
+        "zh": "8:30 – 17:00（周一闭馆）"
+      },
+      "ticket": {
+        "en": "¥60 (Apr–Oct), ¥40 (Nov–Mar)",
+        "zh": "¥60（旺季）/ ¥40（淡季）"
+      },
+      "tips": {
+        "en": "Book online 7 days ahead — tickets sell out fast.",
+        "zh": "提前7天网上预约——票抢得很快。"
+      },
+      "location": {
+        "en": "Dongcheng District, central Beijing",
+        "zh": "东城区，北京市中心"
+      },
+      "rating": "4.9",
+      "tags": {
+        "en": "UNESCO · Must-See · Half-Day",
+        "zh": "世界遗产 · 必去 · 半日游"
+      }
+    },
+    {
+      "name": {
+        "en": "Temple of Heaven",
+        "zh": "天坛公园"
+      },
+      "img": "img/beijing.jpg",
+      "desc": {
+        "en": "Where emperors prayed for harvest — the Hall of Prayer for Good Harvests is China's most perfect wooden structure. Come early morning for locals practicing tai chi.",
+        "zh": "帝王祭天之所——祈年殿是中国最完美的木构建筑。清晨来，看北京大爷大妈打太极。"
+      },
+      "highlight": {
+        "en": "Morning tai chi with locals",
+        "zh": "晨间太极，市井生活"
+      },
+      "hours": {
+        "en": "6:00 AM – 9:00 PM",
+        "zh": "6:00 – 21:00"
+      },
+      "ticket": {
+        "en": "¥15 (park), ¥35 (combo)",
+        "zh": "¥15（公园）/ ¥35（联票）"
+      },
+      "tips": {
+        "en": "The Echo Wall really works — stand at one end and whisper.",
+        "zh": "回音壁真的能回音——站一端轻声说话试试。"
+      },
+      "location": {
+        "en": "Dongcheng District, south of Forbidden City",
+        "zh": "东城区，故宫以南"
+      },
+      "rating": "4.7",
+      "tags": {
+        "en": "UNESCO · Morning · Architecture",
+        "zh": "世界遗产 · 清晨 · 建筑"
+      }
+    }
+  ],
+  "cuisine": [
+    {
+      "name": {
+        "en": "Peking Duck",
+        "zh": "北京烤鸭"
+      },
+      "img": "img/beijing.jpg",
+      "desc": {
+        "en": "Crispy skin, tender meat, carved tableside. Wrap in paper-thin pancakes with hoisin, cucumber, and scallions.",
+        "zh": "皮脆肉嫩，桌边现片。薄饼一抹甜面酱，配上黄瓜条、葱丝，一卷入口。"
+      },
+      "where": {
+        "en": "Available at traditional roast duck restaurants citywide",
+        "zh": "各大传统烤鸭店均有供应"
+      },
+      "price": {
+        "en": "¥200–400 per person",
+        "zh": "人均¥200–400"
+      },
+      "must_try": {
+        "en": "Ask for the 'crispy skin dipped in sugar' — a Beijing secret.",
+        "zh": "记得要'皮蘸白糖'——北京人的隐藏吃法。"
+      }
+    },
+    {
+      "name": {
+        "en": "Zhajiang Noodles",
+        "zh": "老北京炸酱面"
+      },
+      "img": "img/beijing.jpg",
+      "desc": {
+        "en": "Hand-pulled noodles with fermented soybean paste, julienned cucumber, radish, and soybeans. Beijing's ultimate comfort food.",
+        "zh": "手擀面配黄酱肉丁，黄瓜丝、萝卜丝、黄豆码得齐齐整整。北京人的灵魂碳水。"
+      },
+      "where": {
+        "en": "Found in neighborhood noodle shops — look for the red lanterns",
+        "zh": "胡同面馆随处可见——认准红灯笼招牌"
+      },
+      "price": {
+        "en": "¥25–50 per bowl",
+        "zh": "¥25–50/碗"
+      },
+      "must_try": {
+        "en": "Mix thoroughly before eating — every strand should be coated.",
+        "zh": "上桌赶紧拌——每根面都要裹满酱。"
+      }
+    }
+  ],
+  "culture": [
+    {
+      "name": {
+        "en": "Hutong Wandering",
+        "zh": "胡同漫游"
+      },
+      "img": "img/beijing.jpg",
+      "desc": {
+        "en": "The real Beijing lives in its alleyways. Nanluoguxiang for the buzz, Wudaoying for the calm. Rent a bicycle — it's the only way.",
+        "zh": "胡同里才是真正的北京。南锣鼓巷热闹，五道营清静。租辆自行车——这是唯一的正确打开方式。"
+      },
+      "significance": {
+        "en": "Living history — some hutongs date back to the Yuan Dynasty (13th century)",
+        "zh": "活着的历史——有些胡同可追溯至元朝（13世纪）"
+      },
+      "best_time": {
+        "en": "Late afternoon, golden hour light",
+        "zh": "傍晚时分，金色光线最美"
+      },
+      "experience": {
+        "en": "Bicycle rental + hutong breakfast tour",
+        "zh": "租车骑行+胡同早点巡游"
+      }
+    }
+  ],
+  "guide": {
+    "climate": {
+      "en": "Spring (Apr–May) & Autumn (Sep–Oct) — mild, blue skies, perfect for walking.",
+      "zh": "春秋两季最佳（4-5月、9-10月）——温和舒适，蓝天白云，最适合步行探索。"
+    },
+    "days": {
+      "en": "4–5 days",
+      "zh": "4–5天"
+    },
+    "transit": {
+      "en": "Subway covers all major sites (¥3–9/ride). Didi (Chinese Uber) is cheap and reliable. Avoid taxis during rush hour.",
+      "zh": "地铁覆盖主要景区（¥3–9/次）。滴滴打车便宜可靠。高峰期避开出租车。"
+    },
+    "intercity": {
+      "en": "Beijing Capital (PEK) & Daxing (PKX) airports. High-speed rail: 4.5h to Shanghai, 2.5h to Xi'an.",
+      "zh": "首都机场(PEK)+大兴机场(PKX)。高铁：4.5小时到上海，2.5小时到西安。"
+    },
+    "tips": {
+      "en": "Carry your passport at all times. Download Alipay before arrival. VPN is essential — Google and Instagram are blocked. Tap water is NOT drinkable.",
+      "zh": "随身带护照。提前下载支付宝。VPN必备——Google和Instagram被墙。自来水不可直饮。"
+    }
+  },
+  "practicalGuide": {
+    "en": "<p><strong>Visa:</strong> Beijing has 144-hour transit visa-free for citizens of 54 countries. You must arrive via PEK or Daxing airport and depart to a third country (not your origin). Apply at the visa counter before immigration — have your next flight confirmation ready.</p><p><strong>Payment:</strong> Download <strong>Alipay</strong> or <strong>WeChat Pay</strong> before arriving. Link your international credit card. Taxis, most restaurants, and even street vendors accept digital payment. Still carry ¥300–500 cash as backup — some small hutongs shops are cash-only.</p><p><strong>SIM Card:</strong> Buy at the airport upon arrival. China Unicom and China Mobile both offer tourist SIMs (7/15/30 days, ¥100–300). You need your passport. Alternatively, get an eSIM before arriving (e.g., Holafly, Airalo).</p><p><strong>VPN:</strong> Install a VPN on your phone AND laptop before arriving in China. Google, Instagram, Twitter, WhatsApp, and YouTube are all blocked. The VPN that works at home may NOT work in China — test it before you leave.</p><p><strong>Language survival:</strong> Almost no one speaks English outside tourist areas. Download <strong>Google Translate</strong> (offline Chinese pack) or <strong>Pleco</strong> before arrival. Learn these: \"谢谢\" (xièxiè, thank you), \"多少钱\" (duōshao qián, how much), \"不要辣\" (bú yào là, no spice).</p>",
+    "zh": "<p><strong>签证：</strong>北京对54个国家公民实施144小时过境免签。必须从首都机场或大兴机场入境，前往第三国（不能回出发国）。在边检前到签证柜台办理——准备好下一程机票。</p><p><strong>支付：</strong>出发前下载<strong>支付宝</strong>或<strong>微信支付</strong>，绑定国际信用卡。出租车、大部分餐厅、甚至街边摊都支持扫码支付。随身带¥300–500现金备用——有些胡同小店只收现金。</p><p><strong>手机卡：</strong>下飞机后在机场买。中国联通和中国移动都有旅行卡（7/15/30天，¥100–300）。需要护照。或者出发前买eSIM（如Holafly、Airalo）。</p><p><strong>VPN：</strong>在中国入境前就在手机和笔记本电脑上都装好VPN。Google、Instagram、Twitter、WhatsApp、YouTube全部被墙。你在家能用的VPN在中国可能不行——出发前一定要测试。</p><p><strong>语言救命：</strong>景区以外几乎没人说英语。出发前下载<strong>Google翻译</strong>（离线中文包）或<strong>Pleco</strong>。记住这几句：谢谢、多少钱、不要辣。</p>"
+  },
+  "honestTips": {
+    "en": "<p><strong>The Great Wall is crowded.</strong> Everyone goes to Badaling — it's a human river. Go to <strong>Mutianyu</strong> instead (fewer crowds, toboggan ride). Even better: <strong>Jinshanling</strong> or <strong>Simatai</strong> (wild, unrestored, you'll be nearly alone). Arrive by 8 AM whatever you choose.</p><p><strong>The Forbidden City sells out.</strong> Tickets are released 7 days in advance on the official WeChat mini-program. They sell out in hours during peak season. Book the exact moment they become available. If you miss it, try again at midnight — sometimes they release returned tickets.</p><p><strong>Avoid public holidays.</strong> National Day (Oct 1-7), Chinese New Year (Jan/Feb), and May Day (May 1-5) transform Beijing into a wall-to-wall crowd. Everything is more expensive and twice as crowded. If you must come, book everything 2 months ahead.</p><p><strong>Peking Duck for tourists vs locals.</strong> Quanjude is historic but touristy. Dadong is modern and refined. The local secret: small restaurants near Qianmen serve just-as-good duck for one-third the price.</p>",
+    "zh": "<p><strong>长城人很多。</strong>所有人都去八达岭——跟下饺子一样。去<strong>慕田峪</strong>（人少，有滑道下山）。更好的是<strong>金山岭</strong>或<strong>司马台</strong>（野长城，几乎没有游客）。不管去哪段，早上8点前到。</p><p><strong>故宫门票靠抢。</strong>提前7天在官方微信小程序放票。旺季几小时就抢光。放票那一刻就去抢。没抢到的话凌晨再看看——有时候会有退票放出来。</p><p><strong>避开公共假期。</strong>国庆（10月1-7日）、春节（1/2月）、五一（5月1-5日）期间北京人山人海。什么都贵，哪都挤。如果非来不可，提前两个月订好一切。</p><p><strong>烤鸭去游客店还是本地店？</strong>全聚德有名但游客多。大董现代精致。本地秘密：前门附近的小店做的烤鸭不差，价格只有三分之一。</p>"
+  },
+  "localSecrets": {
+    "en": "<p><strong>Jingshan Park at sunset.</strong> Climb the hill behind the Forbidden City for the single best view of Beijing — the entire Forbidden City sprawled at your feet, golden rooftops catching the last light. Entrance is ¥2. Go 30 minutes before sunset.</p><p><strong>Wudaoying Hutong.</strong> Skip Nanluoguxiang (too many tourists and mediocre overpriced snacks). Walk 10 minutes east to Wudaoying — quiet hutong with excellent independent cafes, bookstores, and restaurants that locals actually go to.</p><p><strong>Temple of Heaven mornings.</strong> Locals gather at 6 AM for tai chi, dancing, kite flying, and an impromptu concert of traditional instruments. It's more entertaining than the temple itself. You don't need a ticket for the park; just the inner temple area costs ¥15.</p><p><strong>Chinese breakfast on the street.</strong> Look for the breakfast carts between 6-9 AM. Try jianbing (savory crepe, ¥5-8), youtiao (fried dough), and doujiang (soy milk). Point at what you want, hand over small change — the best ¥5 you'll spend in Beijing.</p>",
+    "zh": "<p><strong>景山公园看日落。</strong>故宫后门的小山包，是看北京最好的地方——整个故宫在脚下展开，金色屋顶被夕阳照亮。门票¥2。日落前半小时到。</p><p><strong>五道营胡同。</strong>别去南锣鼓巷（太多游客，小吃贵还不好吃）。往东走10分钟到五道营——安静的胡同，有很好的独立咖啡馆、书店和本地人真的会去的餐馆。</p><p><strong>天坛清晨。</strong>早上6点本地人就来打太极、跳舞、放风筝、还有即兴民乐演奏。比天坛本身还有看头。公园门票¥15，不进祈年殿不需要额外买票。</p><p><strong>街头早点。</strong>早上6-9点找早摊车。尝尝煎饼果子（¥5-8）、油条、豆浆。指一下你要什么，给零钱——这是你在北京花得最值的¥5。</p>"
+  }
+}

@@ -1,0 +1,427 @@
+[
+  {
+    "id": "shenyang",
+    "name": {
+      "en": "Shenyang",
+      "zh": "沈阳"
+    },
+    "province": {
+      "en": "Liaoning",
+      "zh": "辽宁省"
+    },
+    "intro": {
+      "en": "A Storied Imperial Capital of the North",
+      "zh": "一朝发祥地，两代帝王都"
+    },
+    "hero_img": "",
+    "hero_fb": "linear-gradient(135deg, #2c3e50 0%, #4CA1AF 100%)"
+  },
+  {
+    "id": "guangzhou",
+    "name": {
+      "en": "Guangzhou",
+      "zh": "广州"
+    },
+    "province": {
+      "en": "Guangdong Province",
+      "zh": "广东省"
+    },
+    "intro": {
+      "en": "China's southern gateway and the heart of Cantonese culture.",
+      "zh": "中国的南大门，广府文化之心。"
+    },
+    "hero_img": "https://picsum.photos/seed/guangzhoucity/800/400",
+    "hero_fb": "linear-gradient(135deg, #C62828 0%, #E53935 40%, #FF8A65 100%)"
+  },
+  {
+    "id": "taiyuan",
+    "name": {
+      "en": "Taiyuan",
+      "zh": "太原"
+    },
+    "province": {
+      "en": "Shanxi",
+      "zh": "山西省"
+    },
+    "intro": {
+      "en": "A thousand years of history, one majestic city",
+      "zh": "千年晋阳，表里山河的龙城"
+    },
+    "hero_img": "https://picsum.photos/seed/taiyuancity/800/400",
+    "hero_fb": "linear-gradient(135deg, #2c3e50 0%, #4CA1AF 100%)"
+  },
+  {
+    "id": "beijing",
+    "name": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "province": {
+      "en": "Beijing Municipality",
+      "zh": "北京市"
+    },
+    "intro": {
+      "en": "The timeless capital where imperial grandeur meets cutting-edge modernity. Walk the Great Wall at sunrise, get lost in hutong alleyways, and taste Peking duck carved tableside.",
+      "zh": "千年帝都，气象万千。长城日出、胡同深处、桌前现片的烤鸭——北京在古老与先锋之间自如呼吸。"
+    },
+    "hero_img": "img/beijing.jpg",
+    "hero_fb": "linear-gradient(135deg, #8B1E1E 0%, #C44536 40%, #E8A87C 100%)"
+  },
+  {
+    "id": "shanghai",
+    "name": {
+      "en": "Shanghai",
+      "zh": "上海"
+    },
+    "province": {
+      "en": "Shanghai Municipality",
+      "zh": "上海市"
+    },
+    "intro": {
+      "en": "Where East truly meets West. The Bund's colonial grandeur faces Pudong's sci-fi skyline across the Huangpu River — Shanghai is China's most cosmopolitan, photogenic, and accessible city for international travelers.",
+      "zh": "真正的东方遇见西方。外滩万国建筑与陆家嘴摩天楼隔江对望——上海是中国最国际化、最出片、最适合外国游客自由行的都市。"
+    },
+    "hero_img": "img/shanghai-1.jpg",
+    "hero_fb": "linear-gradient(135deg, #B71C1C 0%, #E53935 40%, #FF8A80 100%)"
+  },
+  {
+    "id": "chengdu",
+    "name": {
+      "en": "Chengdu",
+      "zh": "成都"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "The land of pandas, fiery hotpot, and a pace of life that redefines 'relaxed'. Sip tea in a bamboo grove while locals play mahjong — this is Chengdu.",
+      "zh": "熊猫之乡，火锅之城，一座重新定义'安逸'的城市。竹林里喝茶，听隔壁桌搓麻将——这就是成都。"
+    },
+    "hero_img": "img/chengdu.jpg",
+    "hero_fb": "linear-gradient(135deg, #1B5E20 0%, #388E3C 40%, #81C784 100%)"
+  },
+  {
+    "id": "xian",
+    "name": {
+      "en": "Xi'an",
+      "zh": "西安"
+    },
+    "province": {
+      "en": "Shaanxi Province",
+      "zh": "陕西省"
+    },
+    "intro": {
+      "en": "The ancient starting point of the Silk Road, home to the Terracotta Warriors and a Muslim Quarter that has been sizzling for over 1,000 years.",
+      "zh": "丝绸之路的东方起点，兵马俑的故乡。回民街的烟火气已经飘了上千年。"
+    },
+    "hero_img": "img/xian.jpg",
+    "hero_fb": "linear-gradient(135deg, #6D4C41 0%, #A1887F 40%, #D7CCC8 100%)"
+  },
+  {
+    "id": "hangzhou",
+    "name": {
+      "en": "Hangzhou",
+      "zh": "杭州"
+    },
+    "province": {
+      "en": "Zhejiang Province",
+      "zh": "浙江省"
+    },
+    "intro": {
+      "en": "Marco Polo called it 'the city of heaven'. West Lake's misty waters, Dragon Well tea terraces, and ancient temples make Hangzhou China's most poetic city.",
+      "zh": "马可·波罗称之为'天城'。西湖烟波、龙井茶园、千年古刹——杭州是中国最富诗意的城市。"
+    },
+    "hero_img": "img/hangzhou.jpg",
+    "hero_fb": "linear-gradient(135deg, #00695C 0%, #00897B 40%, #80CBC4 100%)"
+  },
+  {
+    "id": "guilin",
+    "name": {
+      "en": "Guilin",
+      "zh": "桂林"
+    },
+    "province": {
+      "en": "Guangxi Zhuang Autonomous Region",
+      "zh": "广西壮族自治区"
+    },
+    "intro": {
+      "en": "Karst peaks rise from misty rivers like dragon's teeth. Guilin's landscapes have inspired Chinese scroll paintings for a thousand years — and they're even more surreal in person.",
+      "zh": "喀斯特峰林从雾江中拔起，如龙齿般嶙峋。桂林山水入画千年——亲眼所见比画更超现实。"
+    },
+    "hero_img": "img/guilin.jpg",
+    "hero_fb": "linear-gradient(135deg, #1A4A5A 0%, #2E7D6F 40%, #80CBC4 100%)"
+  },
+  {
+    "id": "leshan",
+    "name": {
+      "en": "Leshan",
+      "zh": "乐山"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "Where three rivers converge beneath the world's largest stone Buddha. Leshan (ancient Jiazhou) blends misty mountains, thousand-year temples, and a food scene that rivals Chengdu itself. Slow down — this city lives at its own pace.",
+      "zh": "三江汇流处，端坐着世界最大石刻佛像。乐山（古称嘉州）将山水仙境、千年古刹和不输成都的美食融为一体。慢下来——这座城有自己的节奏。"
+    },
+    "hero_img": "img/leshan-1.jpg",
+    "hero_fb": "linear-gradient(135deg, #2E7D32 0%, #558B2F 40%, #8BC34A 100%)"
+  },
+  {
+    "id": "yaan",
+    "name": {
+      "en": "Ya'an",
+      "zh": "雅安"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "Known as the 'Throat of Western Sichuan' and 'Rain City,' Ya'an is where the Sichuan Basin meets the Tibetan Plateau — a mist-shrouded land of giant pandas, ancient tea culture, and breathtaking mountain scenery.",
+      "zh": "川西咽喉，雨城雅韵。雅安是盆地与高原的交汇处，大熊猫的故乡、世界茶文化的发源地。一座被山水浸润的千年古城。"
+    },
+    "hero_img": "img/yaan-city.jpg",
+    "hero_fb": "linear-gradient(135deg, #2E7D32 0%, #66BB6A 40%, #A5D6A7 100%)"
+  },
+  {
+    "id": "yibin",
+    "name": {
+      "en": "Yibin",
+      "zh": "宜宾"
+    },
+    "province": {
+      "en": "Sichuan Province",
+      "zh": "四川省"
+    },
+    "intro": {
+      "en": "Where two rivers embrace to birth the Yangtze — China's 'First City on the Yangtze.' A 2,200-year-old treasure of bamboo seas, thousand-year baijiu, and legendary street food hiding in plain sight.",
+      "zh": "两江相拥，长江始于此——'万里长江第一城'。2200年宝藏城市，藏万亩竹海、千年酒香和最地道的川南美食。"
+    },
+    "hero_img": "img/yibin-1.jpg",
+    "hero_fb": "linear-gradient(135deg, #33691E 0%, #558B2F 40%, #AED581 100%)"
+  },
+  {
+    "id": "chongqing",
+    "name": {
+      "en": "Chongqing",
+      "zh": "重庆"
+    },
+    "province": {
+      "en": "Chongqing Municipality",
+      "zh": "重庆市"
+    },
+    "intro": {
+      "en": "An 8D mountain megacity where trains pass through buildings and 3,000 bridges span two rivers. Fiery hot pot, cyberpunk nightscapes, and 3,000 years of Ba-Yu culture make Chongqing China's most mind-bending destination.",
+      "zh": "8D魔幻山城，轻轨穿楼、三千桥梁横跨两江。热辣火锅、赛博夜景、三千年巴渝文化，重庆是中国最颠覆想象的旅行目的地。"
+    },
+    "hero_img": "img/chongqing-hero.jpg",
+    "hero_fb": "linear-gradient(135deg, #1A1A2E 0%, #E94560 50%, #FF6B6B 100%)"
+  },
+  {
+    "id": "nanjing",
+    "name": {
+      "en": "Nanjing",
+      "zh": "南京"
+    },
+    "province": {
+      "en": "Jiangsu Province",
+      "zh": "江苏省"
+    },
+    "intro": {
+      "en": "The ancient capital of six dynasties — where solemn mausoleums meet lantern-lit rivers, and Tang Dynasty poetry still echoes in old alleyways. Walk the Sacred Way, cruise the Qinhuai at night, taste the legendary salted duck.",
+      "zh": "六朝古都，金陵如梦。中山陵肃穆，秦淮河婉约，乌衣巷的唐诗余韵犹在。漫步千年神道，夜泊桨声灯影，品金陵第一味盐水鸭。"
+    },
+    "hero_img": "img/nanjing.jpg",
+    "hero_fb": "linear-gradient(135deg, #8B1A2B 0%, #6B3A5B 40%, #D4A574 100%)"
+  },
+  {
+    "id": "changsha",
+    "name": {
+      "en": "Changsha",
+      "zh": "长沙"
+    },
+    "province": {
+      "en": "Hunan Province",
+      "zh": "湖南省"
+    },
+    "intro": {
+      "en": "The Star City with 3,000 years of Hunan culture along the Xiang River. From Yuelu Academy to fiery street food nights — half ancient scholarly grace, half vibrant nightlife.",
+      "zh": "星城长沙｜三千年湘韵，烟火满湘江。岳麓书院文脉千年，橘子洲头江风浩荡。一半千年文脉，一半市井烟火。"
+    },
+    "hero_img": "img/changsha-hero.png",
+    "hero_fb": "linear-gradient(135deg, #C0392B 0%, #E74C3C 40%, #F39C12 100%)"
+  },
+  {
+    "id": "zhengzhou",
+    "name": {
+      "en": "Zhengzhou",
+      "zh": "郑州"
+    },
+    "province": {
+      "en": "Henan Province",
+      "zh": "河南省"
+    },
+    "intro": {
+      "en": "Ancient Shang capital — Shaolin Temple, Yellow River, and Henan's legendary breakfast culture. Where 3,600 years of civilization meets a modern megacity.",
+      "zh": "商代古都——少林寺、黄河、河南传奇早餐文化。三千六百年文明与现代都市的交汇。"
+    },
+    "hero_img": "images/zhengzhou/cbd-ruyi-lake.jpg",
+    "hero_fb": "linear-gradient(135deg, #8B4513 0%, #DAA520 40%, #CD853F 100%)"
+  },
+  {
+    "id": "harbin",
+    "name": {
+      "en": "Harbin",
+      "zh": "哈尔滨"
+    },
+    "province": {
+      "en": "Heilongjiang Province",
+      "zh": "黑龙江省"
+    },
+    "intro": {
+      "en": "China's Ice City — Where Russian Romance Meets Winter Wonder",
+      "zh": "中国冰城 — 俄式浪漫与冰雪奇缘的相遇"
+    },
+    "hero_img": "https://picsum.photos/seed/harbincity/800/400",
+    "hero_fb": "linear-gradient(135deg, #0d47a1 0%, #1565c0 30%, #1e88e5 60%, #64b5f6 100%)"
+  },
+  {
+    "id": "kunming",
+    "name": {
+      "en": "Kunming",
+      "zh": "昆明"
+    },
+    "province": {
+      "en": "Yunnan Province",
+      "zh": "云南省"
+    },
+    "intro": {
+      "en": "The City of Eternal Spring — Stone Forest, Dian Lake & Minority Cultures",
+      "zh": "春城昆明 — 石林、滇池与多彩民族文化"
+    },
+    "hero_img": "https://picsum.photos/seed/kunmingcity/800/400",
+    "hero_fb": "linear-gradient(135deg, #1b5e20 0%, #43a047 40%, #aed581 100%)"
+  },
+  {
+    "id": "lhasa",
+    "name": {
+      "en": "Lhasa",
+      "zh": "拉萨"
+    },
+    "province": {
+      "en": "Tibet Autonomous Region",
+      "zh": "西藏自治区"
+    },
+    "intro": {
+      "en": "The Roof of the World — Potala Palace, Jokhang Temple & Tibetan Buddhism",
+      "zh": "世界屋脊 — 布达拉宫、大昭寺与藏传佛教"
+    },
+    "hero_img": "https://picsum.photos/seed/lhasacity/800/400",
+    "hero_fb": "linear-gradient(135deg, #6d1b1b 0%, #c62828 40%, #ef9a9a 100%)"
+  },
+  {
+    "id": "wuhan",
+    "name": {
+      "en": "Wuhan",
+      "zh": "武汉"
+    },
+    "province": {
+      "en": "Hubei Province",
+      "zh": "湖北省"
+    },
+    "intro": {
+      "en": "Thoroughfare of Nine Provinces — Yellow Crane Tower, East Lake & Hot Dry Noodles",
+      "zh": "九省通衢 — 黄鹤楼、东湖与热干面"
+    },
+    "hero_img": "https://picsum.photos/seed/wuhancity/800/400",
+    "hero_fb": "linear-gradient(135deg, #4a148c 0%, #7b1fa2 40%, #ce93d8 100%)"
+  },
+  {
+    "id": "xiamen",
+    "name": {
+      "en": "Xiamen",
+      "zh": "厦门"
+    },
+    "province": {
+      "en": "Fujian Province",
+      "zh": "福建省"
+    },
+    "intro": {
+      "en": "Garden on the Sea — Gulangyu Island, Nanputuo Temple & Southern Fujian Culture",
+      "zh": "海上花园 — 鼓浪屿、南普陀寺与闽南文化"
+    },
+    "hero_img": "https://picsum.photos/seed/xiamencity/800/400",
+    "hero_fb": "linear-gradient(135deg, #004d40 0%, #00897b 40%, #80cbc4 100%)"
+  },
+  {
+    "id": "lijiang",
+    "name": {
+      "en": "Lijiang",
+      "zh": "丽江"
+    },
+    "province": {
+      "en": "Yunnan Province",
+      "zh": "云南省"
+    },
+    "intro": {
+      "en": "Ancient Naxi Kingdom — Jade Dragon Snow Mountain, Lijiang Old Town & Dongba Culture. A thousand-year-old water city at 2,400m altitude.",
+      "zh": "纳西古王国 — 玉龙雪山、丽江古城与东巴文化。2400 米高原千年水城。"
+    },
+    "hero_img": "https://picsum.photos/seed/lijiangcity/800/400",
+    "hero_fb": "linear-gradient(135deg, #bf360c 0%, #e64a19 40%, #ffab91 100%)"
+  },
+  {
+    "id": "suzhou",
+    "name": {
+      "en": "Suzhou",
+      "zh": "苏州"
+    },
+    "province": {
+      "en": "Jiangsu Province",
+      "zh": "江苏省"
+    },
+    "intro": {
+      "en": "Venice of the East — Classical Gardens, Grand Canal & Silk Culture. 2,500 years of refined Jiangnan craftsmanship and scholar aesthetics.",
+      "zh": "东方威尼斯 — 古典园林、大运河与丝绸文化。2500 年江南匠心与文人美学。"
+    },
+    "hero_img": "https://picsum.photos/seed/suzhoucity/800/400",
+    "hero_fb": "linear-gradient(135deg, #1b5e20 0%, #388e3c 40%, #a5d6a7 100%)"
+  },
+  {
+    "id": "shenzhen",
+    "name": {
+      "en": "Shenzhen",
+      "zh": "深圳"
+    },
+    "province": {
+      "en": "Guangdong Province",
+      "zh": "广东省"
+    },
+    "intro": {
+      "en": "China's youngest megacity — a fishing village that became the world's tech capital in four decades. But beneath the glass towers lies Hakka heritage, oyster farms, and a coastline that locals guard jealously.",
+      "zh": "中国最年轻的超大城市——四十年从渔村跃升为全球科技之都。但玻璃幕墙之下，藏着客家文化、千年蚝田和本地人私藏的海岸线。"
+    },
+    "hero_img": "https://picsum.photos/seed/shenzhencity/800/400",
+    "hero_fb": "linear-gradient(135deg, #0d47a1 0%, #1976d2 40%, #64b5f6 100%)"
+  },
+  {
+    "id": "qingdao",
+    "name": {
+      "en": "Qingdao",
+      "zh": "青岛"
+    },
+    "province": {
+      "en": "Shandong Province",
+      "zh": "山东省"
+    },
+    "intro": {
+      "en": "Beer, Bays & German Heritage — Tsingtao Brewery, Zhanqiao Pier & Badaguan. Coastal elegance meets European colonial history.",
+      "zh": "啤酒、海湾与德式遗风 — 青岛啤酒、栈桥与八大关。中西合璧的海滨名城。"
+    },
+    "hero_img": "https://picsum.photos/seed/qingdaocity/800/400",
+    "hero_fb": "linear-gradient(135deg, #006064 0%, #00838f 40%, #4dd0e1 100%)"
+  }
+]

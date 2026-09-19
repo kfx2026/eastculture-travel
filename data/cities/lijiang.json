@@ -1,0 +1,129 @@
+{
+  "id": "lijiang",
+  "name": {
+    "en": "Lijiang",
+    "zh": "丽江"
+  },
+  "province": {
+    "en": "Yunnan Province",
+    "zh": "云南省"
+  },
+  "intro": {
+    "en": "Ancient Naxi Kingdom — Jade Dragon Snow Mountain, Lijiang Old Town & Dongba Culture. A thousand-year-old water city at 2,400m altitude.",
+    "zh": "纳西古王国 — 玉龙雪山、丽江古城与东巴文化。2400 米高原千年水城。"
+  },
+  "hero_fb": "linear-gradient(135deg, #bf360c 0%, #e64a19 40%, #ffab91 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "lijiang-lm-0",
+      "name": {
+        "en": "Lijiang Old Town",
+        "zh": "丽江古城"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Lijiang.",
+        "zh": "丽江最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "lijiang-lm-1",
+      "name": {
+        "en": "Jade Dragon Snow Mountain",
+        "zh": "玉龙雪山"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Lijiang.",
+        "zh": "丽江最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "lijiang-lm-2",
+      "name": {
+        "en": "Lugu Lake",
+        "zh": "泸沽湖"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Lijiang.",
+        "zh": "丽江最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Yak Meat",
+        "zh": "牦牛肉"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Lijiang.",
+        "zh": "丽江必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Yunnan Ham",
+        "zh": "云南火腿"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Lijiang.",
+        "zh": "丽江必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "Ancient Naxi Kingdom — Jade Dragon Snow Mountain, Lijiang Old Town & Dongba Culture. A thousand-year-old water city at 2,400m altitude.",
+    "zh": "纳西古王国 — 玉龙雪山、丽江古城与东巴文化。2400 米高原千年水城。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Mild plateau climate (10-20°C). Best Apr-Jun and Sep-Oct; avoid July-Aug rains.",
+      "zh": "高原温和气候（10-20°C）。4-6月、9-10月最佳；避开7-8月雨季。"
+    },
+    "days": {
+      "en": "2-3 days",
+      "zh": "2-3 天"
+    },
+    "transit": {
+      "en": "Buses within old town; Lijiang Airport 30km. Walkable ancient town.",
+      "zh": "古城内步行/公交；丽江机场30公里。古城可步行。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Kunming (~3h), Dali (~2h).",
+      "zh": "昆明高铁约3小时、大理约2小时。"
+    },
+    "tips": {
+      "en": "Stay in Shuhe for quieter vibe; Jade Dragon Snow Mountain needs warm layers.",
+      "zh": "想安静住束河；玉龙雪山需保暖衣物。"
+    }
+  }
+}

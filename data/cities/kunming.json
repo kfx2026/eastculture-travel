@@ -1,0 +1,129 @@
+{
+  "id": "kunming",
+  "name": {
+    "en": "Kunming",
+    "zh": "昆明"
+  },
+  "province": {
+    "en": "Yunnan Province",
+    "zh": "云南省"
+  },
+  "intro": {
+    "en": "The City of Eternal Spring — Stone Forest, Dian Lake & Minority Cultures. Year-round mild climate and rich Yunnan ethnic diversity.",
+    "zh": "春城昆明 — 石林、滇池与多彩民族文化。全年温和气候与丰富云南少数民族文化。"
+  },
+  "hero_fb": "linear-gradient(135deg, #1b5e20 0%, #43a047 40%, #aed581 100%)",
+  "hero_img": "",
+  "landmarks": [
+    {
+      "id": "kunming-lm-0",
+      "name": {
+        "en": "Stone Forest",
+        "zh": "石林"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Kunming.",
+        "zh": "昆明最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "kunming-lm-1",
+      "name": {
+        "en": "Dian Lake",
+        "zh": "滇池"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Kunming.",
+        "zh": "昆明最具代表性的景点之一。"
+      }
+    },
+    {
+      "id": "kunming-lm-2",
+      "name": {
+        "en": "Green Lake Park",
+        "zh": "翠湖公园"
+      },
+      "img": "",
+      "desc": {
+        "en": "One of the most iconic attractions in Kunming.",
+        "zh": "昆明最具代表性的景点之一。"
+      }
+    }
+  ],
+  "food": [
+    {
+      "name": {
+        "en": "Crossing Bridge Noodles",
+        "zh": "过桥米线"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Kunming.",
+        "zh": "昆明必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    },
+    {
+      "name": {
+        "en": "Yunnan Steam Pot Chicken",
+        "zh": "云南汽锅鸡"
+      },
+      "img": "",
+      "desc": {
+        "en": "A must-try local specialty in Kunming.",
+        "zh": "昆明必尝的本地特色。"
+      },
+      "where": {
+        "en": "Local restaurants & night markets",
+        "zh": "本地餐馆与夜市"
+      },
+      "price": {
+        "en": "¥30-60/person",
+        "zh": "人均¥30-60"
+      },
+      "must_try": {
+        "en": "A signature local flavor not to miss.",
+        "zh": "不可错过的本地招牌味。"
+      }
+    }
+  ],
+  "culture": {
+    "en": "The City of Eternal Spring — Stone Forest, Dian Lake & Minority Cultures. Year-round mild climate and rich Yunnan ethnic diversity.",
+    "zh": "春城昆明 — 石林、滇池与多彩民族文化。全年温和气候与丰富云南少数民族文化。"
+  },
+  "guide": {
+    "climate": {
+      "en": "Mild \"Spring City\" climate year-round (15-25°C). Best in Mar-May for flowers, Sep-Nov for clear skies.",
+      "zh": "四季如春（15-25°C）。3-5月赏花、9-11月天晴最佳。"
+    },
+    "days": {
+      "en": "2-3 days",
+      "zh": "2-3 天"
+    },
+    "transit": {
+      "en": "Metro lines 1-6 plus buses; Changshui Airport 25km from center.",
+      "zh": "地铁1-6号线加公交；长水机场距市中心25公里。"
+    },
+    "intercity": {
+      "en": "High-speed rail from Dali (~2h), Lijiang (~3h), Guilin.",
+      "zh": "大理高铁约2小时、丽江约3小时、桂林可达。"
+    },
+    "tips": {
+      "en": "Base yourself here for Yunnan trips; sunscreen is a must at altitude.",
+      "zh": "作为云南旅行中转站；高原紫外线强需防晒。"
+    }
+  }
+}
